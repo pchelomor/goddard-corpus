@@ -1,0 +1,57 @@
+name: Normalize L0011 L0012 registry metadata
+
+on:
+  push:
+    paths:
+      - '.github/workflows/normalize-l0011-l0012.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Patch corpus registry
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+
+          path = Path('corpus_registry.json')
+          data = json.loads(path.read_text(encoding='utf-8'))
+          by_id = {item['corpus_id']: item for item in data}
+
+          l11 = by_id['L0011']
+          l11['full_date'] = '1967-11-03'
+          l11['date'] = '1967-11-03'
+          l11['primary_source_url'] = 'https://realneville.com/txt/all_things_are_possible.htm'
+          l11['alternate_sources'] = [
+              'https://mynevillegoddard.com/lectures/all-things-are-possible-1'
+          ]
+
+          l12 = by_id['L0012']
+          l12['full_date'] = '1969-05-12'
+          l12['date'] = '1969-05-12'
+          l12['primary_source_url'] = 'https://thenevillegoddard.com/lectures/all-things-are-possible-2/'
+          l12['alternate_sources'] = [
+              'https://realneville.com/txt/all_things_are_possible2.htm'
+          ]
+
+          assert l11['normalized_title'] == 'allthingsarepossible1967'
+          assert l12['normalized_title'] == 'allthingsarepossible1969'
+          assert l11['full_date'] != l12['full_date']
+
+          path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+      - name: Commit normalization and remove transient workflow
+        run: |
+          rm .github/workflows/normalize-l0011-l0012.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add corpus_registry.json .github/workflows/normalize-l0011-l0012.yml
+          git diff --cached --check
+          git commit -m "Normalize L0011 and L0012 registry metadata"
+          git push origin HEAD:main
