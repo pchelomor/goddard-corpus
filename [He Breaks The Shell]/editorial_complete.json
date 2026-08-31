@@ -1,0 +1,19 @@
+{
+  "book": "He Breaks The Shell",
+  "corpus_id": "B012",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "raw_worker_candidates": 188,
+  "canonical_source_paragraphs": 98,
+  "source_paragraphs_reviewed": 98,
+  "select_fragments": 0,
+  "hold_scope": "section-level",
+  "drop_scope": "section-level",
+  "raw_duplicate_groups": 34,
+  "complete": true,
+  "main_pool_empty_by_policy": true,
+  "recommended_future_layer": "SPIRITUAL_PROMISE_OPT_IN",
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[He Breaks The Shell]/curated_he_breaks_the_shell.jsonl",
+  "decisions_file": "[He Breaks The Shell]/editorial_decisions_he_breaks_the_shell.jsonl",
+  "review_file": "[He Breaks The Shell]/editorial_review_he_breaks_the_shell.md"
+}
