@@ -1,0 +1,15 @@
+{
+  "work":"A Lesson In Scripture",
+  "corpus_id":"L0002",
+  "review_mode":"SOURCE_FIRST_CANONICAL",
+  "raw_worker_candidates":399,
+  "canonical_source_paragraphs":27,
+  "source_paragraphs_reviewed":27,
+  "select_fragments":2,
+  "raw_duplicate_groups":32,
+  "complete":true,
+  "review_policy":"EDITORIAL_POLICY.md",
+  "curated_file":"[A Lesson In Scripture]/curated_a_lesson_in_scripture.jsonl",
+  "decisions_file":"[A Lesson In Scripture]/editorial_decisions_a_lesson_in_scripture.jsonl",
+  "review_file":"[A Lesson In Scripture]/editorial_review_a_lesson_in_scripture.md"
+}
