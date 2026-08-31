@@ -1,0 +1,21 @@
+{
+  "work": "By Water And Blood – June 24 1956",
+  "corpus_id": "L0031",
+  "canonical_date": "1956-06-24",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_by_water_and_blood_june_24_1956.txt",
+  "canonical_source_paragraphs": 1,
+  "source_paragraphs_reviewed": 1,
+  "full_master_read": true,
+  "raw_worker_windows_generated": 560,
+  "retained_worker_windows": 549,
+  "worker_rejected": 11,
+  "raw_duplicate_groups": 1,
+  "select_fragments": 2,
+  "complete": true,
+  "source_manifest_date_note": "raw manifest/date field retains 1956-01-01 placeholder; registry full_date and title specify 1956-06-24",
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[By Water And Blood – June 24 1956]/curated_by_water_and_blood_june_24_1956.jsonl",
+  "decisions_file": "[By Water And Blood – June 24 1956]/editorial_decisions_by_water_and_blood_june_24_1956.jsonl",
+  "review_file": "[By Water And Blood – June 24 1956]/editorial_review_by_water_and_blood_june_24_1956.md"
+}
