@@ -8,8 +8,7 @@ This file records textual variations, misattributions, dating conflicts, and edi
 
 ### Issue ISS-001: Web Mirror Script Corruption (Neve Theme Artifacts)
 - **Affected Works:** *Feeling Is The Secret*, *At Your Command*, and various lecture mirrors.
-- **Description:** Several WordPress mirrors running the 'Neve' theme executed an automated global string replacement replacing the substring 
-eve with copyright badges (e.g. turning Never into Copyright... r).
+- **Description:** Several WordPress mirrors running the 'Neve' theme executed an automated global string replacement replacing the substring \neve with copyright badges (e.g. turning Never into Copyright... r).
 - **Resolution:** Normalized against original 1939/1944 print editions.
 
 ### Issue ISS-002: Lecture vs. Book Title Overlap (Reprint Detection)
@@ -31,3 +30,10 @@ eve with copyright badges (e.g. turning Never into Copyright... r).
 - **Affected Scope:** Modern social media, YouTube, Pinterest, quote aggregation websites.
 - **Description:** Proliferation of synthetic Neville voice clones, fabricated quotes, and AI summaries.
 - **Resolution:** Strict prohibition of secondary quote aggregators. Every quote candidate must be verbatim verified against Tier A/B primary texts.
+
+### Issue ISS-006: Same-Title Collision — *All Things Are Possible* (1967 vs. 1969)
+- **Affected Entries:** `L0011` (*All Things Are Possible*, 1967-11-03) and `L0012` (*All Things Are Possible*, 1969-05-12).
+- **Description:** The registry contains two distinct lectures with the same base title, but the physical repository originally contained only one undated `[All Things Are Possible]` folder. Its manifest identifies that folder as `L0012`. In the registry, `L0011.date` is correctly `1967-11-03`, while `L0011.full_date` and its source URLs incorrectly point to the 1969 lecture. This combination likely caused the 1967 canonical item to be overwritten or skipped during title/slug-based ingestion.
+- **Verification:** RealNeville's archive independently lists both `All Things are Possible 11-3-1967` and `All Things are Possible 5-12-1969`; the texts are distinct.
+- **Resolution:** Restored `L0011` as a separate dated folder `[All Things Are Possible – 11-03-1967]` with its own canonical master, manifest, source-variation record, and editorial layer. Future ingestion must use `corpus_id` or a date-qualified slug as the physical identity key rather than the bare title.
+- **Registry follow-up:** Correct `L0011.full_date` to `1967-11-03`, point its primary/alternate sources to the 1967 transcript, and populate `L0012.full_date` with `1969-05-12` during the next registry normalization pass.
