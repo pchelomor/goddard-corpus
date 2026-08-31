@@ -1,0 +1,18 @@
+{
+  "work": "All That You Behold",
+  "corpus_id": "L0010",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_all_that_you_behold.txt",
+  "raw_worker_windows_generated": 456,
+  "raw_worker_candidates": 449,
+  "worker_rejected": 7,
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "select_fragments": 4,
+  "raw_duplicate_groups": 35,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[All That You Behold]/curated_all_that_you_behold.jsonl",
+  "decisions_file": "[All That You Behold]/editorial_decisions_all_that_you_behold.jsonl",
+  "review_file": "[All That You Behold]/editorial_review_all_that_you_behold.md"
+}
