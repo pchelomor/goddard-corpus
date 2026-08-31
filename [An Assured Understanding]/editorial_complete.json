@@ -1,0 +1,18 @@
+{
+  "work": "An Assured Understanding",
+  "corpus_id": "L0014",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_an_assured_understanding.txt",
+  "raw_worker_windows_generated": 379,
+  "raw_worker_candidates": 375,
+  "worker_rejected": 4,
+  "canonical_source_paragraphs": 35,
+  "source_paragraphs_reviewed": 35,
+  "select_fragments": 0,
+  "raw_duplicate_groups": 32,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[An Assured Understanding]/curated_an_assured_understanding.jsonl",
+  "decisions_file": "[An Assured Understanding]/editorial_decisions_an_assured_understanding.jsonl",
+  "review_file": "[An Assured Understanding]/editorial_review_an_assured_understanding.md"
+}
