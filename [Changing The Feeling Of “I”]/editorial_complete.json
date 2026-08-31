@@ -1,0 +1,20 @@
+{
+  "work": "Changing The Feeling Of “I”",
+  "corpus_id": "L0033",
+  "canonical_date": "1953-01-01",
+  "date_precision": "YEAR_PLACEHOLDER",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_changing_the_feeling_of_i.txt",
+  "canonical_source_paragraphs": 22,
+  "source_paragraphs_reviewed": 22,
+  "raw_worker_windows_generated": 465,
+  "retained_worker_windows": 452,
+  "worker_rejected": 13,
+  "raw_duplicate_groups": 22,
+  "select_fragments": 4,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Changing The Feeling Of “I”]/curated_changing_the_feeling_of_i.jsonl",
+  "decisions_file": "[Changing The Feeling Of “I”]/editorial_decisions_changing_the_feeling_of_i.jsonl",
+  "review_file": "[Changing The Feeling Of “I”]/editorial_review_changing_the_feeling_of_i.md"
+}
