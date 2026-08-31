@@ -1,0 +1,38 @@
+name: Normalize L0020 registry date
+
+on:
+  push:
+    paths:
+      - '.github/workflows/normalize-l0020-date.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Normalize L0020 date
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+          p = Path('corpus_registry.json')
+          data = json.loads(p.read_text(encoding='utf-8'))
+          item = next(x for x in data if x['corpus_id'] == 'L0020')
+          assert item['full_date'] == '1963-04-05'
+          item['date'] = '1963-04-05'
+          p.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+      - name: Commit normalization and remove transient workflow
+        shell: bash
+        run: |
+          rm .github/workflows/normalize-l0020-date.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add corpus_registry.json .github/workflows/normalize-l0020-date.yml
+          git diff --cached --check
+          git commit -m 'Normalize L0020 lecture date metadata'
+          git push origin HEAD:main
