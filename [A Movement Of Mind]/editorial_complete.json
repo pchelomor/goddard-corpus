@@ -1,0 +1,15 @@
+{
+  "work":"A Movement Of Mind",
+  "corpus_id":"L0003",
+  "review_mode":"SOURCE_FIRST_CANONICAL",
+  "raw_worker_candidates":266,
+  "canonical_source_paragraphs":26,
+  "source_paragraphs_reviewed":26,
+  "select_fragments":2,
+  "raw_duplicate_groups":23,
+  "complete":true,
+  "review_policy":"EDITORIAL_POLICY.md",
+  "curated_file":"[A Movement Of Mind]/curated_a_movement_of_mind.jsonl",
+  "decisions_file":"[A Movement Of Mind]/editorial_decisions_a_movement_of_mind.jsonl",
+  "review_file":"[A Movement Of Mind]/editorial_review_a_movement_of_mind.md"
+}
