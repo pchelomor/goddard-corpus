@@ -1,0 +1,19 @@
+{
+  "work": "Believe It In",
+  "corpus_id": "L0026",
+  "canonical_date": "1969-10-06",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_believe_it_in.txt",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 422,
+  "retained_worker_windows": 417,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 28,
+  "select_fragments": 3,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Believe It In]/curated_believe_it_in.jsonl",
+  "decisions_file": "[Believe It In]/editorial_decisions_believe_it_in.jsonl",
+  "review_file": "[Believe It In]/editorial_review_believe_it_in.md"
+}
