@@ -397,3 +397,50 @@ Files written in the work folder:
 - `editorial_complete.json`
 
 Raw candidate and source files were not changed.
+
+## 2026-08-31 — Dynamic lecture batch L0001–L0005
+Completed a five-lecture `SOURCE_FIRST_CANONICAL` editorial batch across the first five pending lecture items in `corpus_registry.json`.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0001 | A Divine Event | 33 / 33 | 398 | 1 |
+| L0002 | A Lesson In Scripture | 27 / 27 | 399 | 2 |
+| L0003 | A Movement Of Mind | 26 / 26 | 266 | 2 |
+| L0004 | A Movement Within God | 31 / 31 | 398 | 2 |
+| L0005 | A Parabolic Revelation | 35 / 35 | 403 | 1 |
+
+Batch result:
+- canonical paragraphs reviewed: **152 / 152**;
+- retained worker windows reviewed through canonical collapse: **1,864**;
+- final main-pool SELECT fragments: **8**;
+- all five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and `editorial_complete.json`;
+- raw candidates, rejected files, master texts, manifests, variations, and worker reports were not changed.
+
+Notable filtering across the batch:
+- Promise, Davidic fatherhood, resurrection, birth-from-above, mystical identity, afterlife, and scripture-heavy material was retained mainly as contextual `HOLD` rather than automatic daily content;
+- pure scripture and external literary quotations were excluded from Neville attribution;
+- categorical health, mental-health, financial, political/war, direct-control-of-others, and universal-causation claims were excluded or held;
+- formulations that could become victim-blaming when detached from context were kept out of the main pool;
+- clean assumption, feeling, self-persuasion, imaginal-scene, state-transition, and self-concept wording was retained where it remained standalone and exact.
+
+Files written:
+- `[A Divine Event]/curated_a_divine_event.jsonl`
+- `[A Divine Event]/editorial_decisions_a_divine_event.jsonl`
+- `[A Divine Event]/editorial_review_a_divine_event.md`
+- `[A Divine Event]/editorial_complete.json`
+- `[A Lesson In Scripture]/curated_a_lesson_in_scripture.jsonl`
+- `[A Lesson In Scripture]/editorial_decisions_a_lesson_in_scripture.jsonl`
+- `[A Lesson In Scripture]/editorial_review_a_lesson_in_scripture.md`
+- `[A Lesson In Scripture]/editorial_complete.json`
+- `[A Movement Of Mind]/curated_a_movement_of_mind.jsonl`
+- `[A Movement Of Mind]/editorial_decisions_a_movement_of_mind.jsonl`
+- `[A Movement Of Mind]/editorial_review_a_movement_of_mind.md`
+- `[A Movement Of Mind]/editorial_complete.json`
+- `[A Movement Within God]/curated_a_movement_within_god.jsonl`
+- `[A Movement Within God]/editorial_decisions_a_movement_within_god.jsonl`
+- `[A Movement Within God]/editorial_review_a_movement_within_god.md`
+- `[A Movement Within God]/editorial_complete.json`
+- `[A Parabolic Revelation]/curated_a_parabolic_revelation.jsonl`
+- `[A Parabolic Revelation]/editorial_decisions_a_parabolic_revelation.jsonl`
+- `[A Parabolic Revelation]/editorial_review_a_parabolic_revelation.md`
+- `[A Parabolic Revelation]/editorial_complete.json`
