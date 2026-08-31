@@ -1,0 +1,19 @@
+{
+  "work": "Before Abraham, Was I Am",
+  "corpus_id": "L0023",
+  "canonical_date": "1968-10-11",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_before_abraham_was_i_am.txt",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": 298,
+  "retained_worker_windows": 296,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 28,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Before Abraham, Was I Am]/curated_before_abraham_was_i_am.jsonl",
+  "decisions_file": "[Before Abraham, Was I Am]/editorial_decisions_before_abraham_was_i_am.jsonl",
+  "review_file": "[Before Abraham, Was I Am]/editorial_review_before_abraham_was_i_am.md"
+}
