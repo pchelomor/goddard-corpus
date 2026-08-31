@@ -1,0 +1,19 @@
+{
+  "work": "Christ In Man",
+  "corpus_id": "L0035",
+  "canonical_date": "1966-10-17",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_christ_in_man.txt",
+  "canonical_source_paragraphs": 30,
+  "source_paragraphs_reviewed": 30,
+  "raw_worker_windows_generated": 331,
+  "retained_worker_windows": 326,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Christ In Man]/curated_christ_in_man.jsonl",
+  "decisions_file": "[Christ In Man]/editorial_decisions_christ_in_man.jsonl",
+  "review_file": "[Christ In Man]/editorial_review_christ_in_man.md"
+}
