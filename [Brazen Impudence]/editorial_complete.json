@@ -1,0 +1,19 @@
+{
+  "work": "Brazen Impudence",
+  "corpus_id": "L0029",
+  "canonical_date": "1968-09-27",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_brazen_impudence.txt",
+  "canonical_source_paragraphs": 29,
+  "source_paragraphs_reviewed": 29,
+  "raw_worker_windows_generated": 393,
+  "retained_worker_windows": 384,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 27,
+  "select_fragments": 3,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Brazen Impudence]/curated_brazen_impudence.jsonl",
+  "decisions_file": "[Brazen Impudence]/editorial_decisions_brazen_impudence.jsonl",
+  "review_file": "[Brazen Impudence]/editorial_review_brazen_impudence.md"
+}
