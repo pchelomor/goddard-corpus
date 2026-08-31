@@ -1,0 +1,15 @@
+{
+  "work":"A Parabolic Revelation",
+  "corpus_id":"L0005",
+  "review_mode":"SOURCE_FIRST_CANONICAL",
+  "raw_worker_candidates":403,
+  "canonical_source_paragraphs":35,
+  "source_paragraphs_reviewed":35,
+  "select_fragments":1,
+  "raw_duplicate_groups":28,
+  "complete":true,
+  "review_policy":"EDITORIAL_POLICY.md",
+  "curated_file":"[A Parabolic Revelation]/curated_a_parabolic_revelation.jsonl",
+  "decisions_file":"[A Parabolic Revelation]/editorial_decisions_a_parabolic_revelation.jsonl",
+  "review_file":"[A Parabolic Revelation]/editorial_review_a_parabolic_revelation.md"
+}
