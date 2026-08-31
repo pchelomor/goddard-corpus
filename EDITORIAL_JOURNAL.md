@@ -250,3 +250,71 @@ Files written and verified:
 - `[All That You Behold]/editorial_complete.json`
 
 Raw candidate, rejected, master-text, manifest, variation, worker-report, and processing files were not changed.
+## 2026-08-31 — Lecture batch L0011–L0015
+
+Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`, including recovery of the missing same-title `L0011` object.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0011 | All Things Are Possible (1967-11-03) | 32 / 32 | n/a — recovered canonical item | 0 |
+| L0012 | All Things Are Possible (1969-05-12) | 35 / 35 | 462 | 4 |
+| L0013 | All Things Exist | 38 / 38 | 259 | 3 |
+| L0014 | An Assured Understanding | 35 / 35 | 375 | 0 |
+| L0015 | An Inner Conviction | 29 / 29 | 329 | 3 |
+
+Batch result:
+- canonical paragraphs reviewed: **169 / 169**;
+- known worker windows generated for L0012-L0015: **1,451**;
+- retained worker windows for L0012-L0015: **1,425**;
+- worker rejected windows for L0012-L0015: **26**;
+- raw duplicate groups for L0012-L0015: **118**;
+- final main-pool SELECT fragments: **10**;
+- `L0011` intentionally produced **0 SELECT** because the recovered 1967 lecture is overwhelmingly Promise/Christology and its law-oriented ending depends on strong guaranteed-outcome language.
+
+Identity/source repair:
+- `L0011` and `L0012` are distinct same-title lectures, not duplicates;
+- the repository had lost the separate L0011 physical object through a title/metadata collision;
+- L0011 was restored under `[All Things Are Possible – 11-03-1967]` with a dated canonical master and editorial package;
+- `corpus_registry.json` was normalized so L0011 now uses `1967-11-03` and the 1967 source, while L0012 uses `1969-05-12` and the separate 1969 source;
+- `corpus_issues.md` ISS-006 records the collision and resolution.
+
+Notable filtering:
+- Promise/Christology, Davidic fatherhood, mystical vision material, and strong spiritual identity claims were generally held for contextual delivery;
+- scripture/external quotations were not attributed to Neville;
+- medical/healing causation, financial guarantees, direct influence/control of others, universal-causation/victim-blaming, and guaranteed physical outcomes were excluded from the automatic pool;
+- `L0014` intentionally produced **0 SELECT** because its value is almost entirely context-dependent Promise/Christology.
+
+All five corpus IDs have a corpus-ID-matching editorial completion marker. L0011's restored source files are a corpus-repair exception; pre-existing extraction files for L0012-L0015 were not modified by editorial review.
+
+## 2026-08-31 — Lecture batch L0016–L0020
+
+Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`, with explicit handling of two bare-title raw/editorial overlays.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0016 | Arise | 23 / 23 | 140 | 3 |
+| L0017 | At Your Command (`BOOK_REPRINT`, parent B001) | 118 / 118 | 717 | 0 |
+| L0018 | Awake O Sleeper | 52 / 52 | 323 | 1 |
+| L0019 | Awakened Imagination (1954 lecture) | 33 / 33 | 285 | 1 |
+| L0020 | Barabbas Or Jesus | 45 / 45 | 663 | 2 |
+
+Batch result:
+- canonical paragraphs reviewed: **271 / 271**;
+- worker windows generated: **2,175**;
+- retained worker windows: **2,128**;
+- worker rejected windows: **47**;
+- raw duplicate groups: **222**;
+- final main-pool SELECT fragments: **7**.
+
+Identity handling:
+- `[At Your Command]` raw metadata identifies `L0017`, while the editorial layer already occupying that folder identifies `B001`; registry independently marks L0017 as `BOOK_REPRINT` with `canonical_parent_id=B001`. The full 118-paragraph reprint was read and contributes **0 new SELECT**. Its derivative completion layer is stored in `[At Your Command – L0017 Reprint]` so B001 is not overwritten.
+- `[Awakened Imagination]` raw metadata identifies `L0019`, a distinct 33-paragraph 1954 lecture, while the editorial layer already occupying that folder identifies `B009`, the 504-paragraph book. L0019 was reviewed independently and its derivative completion layer is stored in `[Awakened Imagination – L0019 Lecture]`.
+- `corpus_issues.md` ISS-007 records these raw/editorial corpus-ID overlays and establishes that queue completion must match `editorial_complete.json.corpus_id`, not merely filename/folder presence.
+
+Notable filtering:
+- `L0017` is wholly suppressed as a cross-work reprint duplicate of B001 rather than inflating the final corpus;
+- `L0018` is predominantly Promise/postmortem cosmology and Davidic theology; its categorical heart-transplant/medical passage and mental-health guarantee were excluded;
+- `L0019` revision material asserting control over relatives/employers, guaranteed results, rejection of external facts, or self-causation of interpersonal harm was excluded or held; the final strict shortlist was reduced to one clean active-imagination formulation;
+- `L0020` financial/inheritance/job guarantees, hospital/health revision, sensory-evidence denial, and theological absolutes were held or dropped; two clean Neville-only fragments survived, including an explicitly loving/ethical use-of-imagination formulation.
+
+All five corpus IDs now have corpus-ID-matching editorial completion markers, including separate derivative folders for L0017 and L0019 where the bare-title folders are occupied by different book editorial identities.
