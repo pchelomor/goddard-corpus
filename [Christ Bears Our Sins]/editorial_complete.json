@@ -1,0 +1,21 @@
+{
+  "work": "Christ Bears Our Sins",
+  "corpus_id": "L0034",
+  "canonical_date": "1969-02-24",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_christ_bears_our_sins.txt",
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "raw_worker_windows_generated": 309,
+  "retained_worker_windows": 305,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 36,
+  "select_fragments": 0,
+  "complete": true,
+  "intentional_empty_curated": true,
+  "source_manifest_date_note": "raw manifest/date field retains 1969-01-01 placeholder; registry full_date is 1969-02-24",
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Christ Bears Our Sins]/curated_christ_bears_our_sins.jsonl",
+  "decisions_file": "[Christ Bears Our Sins]/editorial_decisions_christ_bears_our_sins.jsonl",
+  "review_file": "[Christ Bears Our Sins]/editorial_review_christ_bears_our_sins.md"
+}
