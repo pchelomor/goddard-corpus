@@ -1,0 +1,18 @@
+{
+  "work": "A Prophecy",
+  "corpus_id": "L0006",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_a_prophecy.txt",
+  "raw_worker_windows_generated": 392,
+  "raw_worker_candidates": 383,
+  "worker_rejected": 9,
+  "canonical_source_paragraphs": 49,
+  "source_paragraphs_reviewed": 49,
+  "select_fragments": 2,
+  "raw_duplicate_groups": 43,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[A Prophecy]/curated_a_prophecy.jsonl",
+  "decisions_file": "[A Prophecy]/editorial_decisions_a_prophecy.jsonl",
+  "review_file": "[A Prophecy]/editorial_review_a_prophecy.md"
+}
