@@ -1,0 +1,18 @@
+{
+  "work": "All That Is Divine",
+  "corpus_id": "L0009",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_all_that_is_divine.txt",
+  "raw_worker_windows_generated": 451,
+  "raw_worker_candidates": 445,
+  "worker_rejected": 6,
+  "canonical_source_paragraphs": 38,
+  "source_paragraphs_reviewed": 38,
+  "select_fragments": 1,
+  "raw_duplicate_groups": 35,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[All That Is Divine]/curated_all_that_is_divine.jsonl",
+  "decisions_file": "[All That Is Divine]/editorial_decisions_all_that_is_divine.jsonl",
+  "review_file": "[All That Is Divine]/editorial_review_all_that_is_divine.md"
+}
