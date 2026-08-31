@@ -17,7 +17,7 @@ This journal tracks the strict book-by-book and work-by-work review defined in `
 | Freedom For All | COMPLETE | Intro + 9 chapters / 323 paragraphs / 841 raw windows | 32 | section-level | section-level | `[Freedom For All]/curated_freedom_for_all.jsonl` |
 | He Breaks The Shell | COMPLETE | 98 paragraphs / 188 raw windows | 0 | section-level | section-level | `[He Breaks The Shell]/curated_he_breaks_the_shell.jsonl` |
 | I Know My Father | COMPLETE | 10 chapters / 177 paragraphs / 892 raw windows | 17 | section-level | section-level | `[I Know My Father]/curated_i_know_my_father.jsonl` |
-| Out Of This World | TODO | — | — | — | — | — |
+| Out Of This World | COMPLETE | 4 chapters / 189 paragraphs / 493 raw windows | 20 | section-level | section-level | `[Out Of This World]/curated_out_of_this_world.jsonl` |
 | Prayer, The Art Of Believing | TODO | — | — | — | — | — |
 | Resurrection, A Confession Of Faith | TODO | — | — | — | — | — |
 | Seedtime And Harvest | TODO | — | — | — | — | — |
@@ -203,6 +203,37 @@ Files written in the work folder:
 - `curated_i_know_my_father.jsonl`
 - `editorial_decisions_i_know_my_father.jsonl`
 - `editorial_review_i_know_my_father.md`
+- `editorial_complete.json`
+
+Raw candidate and source files were not changed.
+
+## 2026-08-31 — Out Of This World
+Completed a source-first hard editorial pass across the complete 1949 four-chapter book.
+
+Why source-first remained appropriate:
+- the worker retained 493 candidate windows from 189 canonical paragraphs;
+- 73 duplicate groups showed substantial sliding-window overlap;
+- the complete canonical master text was reviewed directly so duplicate worker windows did not consume separate editorial passes.
+
+Result:
+- canonical chapters reviewed: 4 / 4;
+- canonical paragraphs covered: 189 / 189;
+- SELECT exact fragments: 20;
+- strict SELECT density vs 493 retained worker candidates: 4.1%;
+- strict SELECT density vs 189 canonical paragraphs: 10.6%.
+
+Notable filtering:
+- pure scripture was excluded from Neville attribution;
+- repeated assumption, SATS, wish-fulfilled, attention, and imaginal-action windows were collapsed to the strongest local wording;
+- literal fourth-dimensional physics, serial-universe, precognition, and out-of-body claims were held rather than presented as context-free scientific facts;
+- medical/healing/sanity claims, absolute external-causation language, and material that could imply blame for painful circumstances were kept out of the automatic pool;
+- direct-control-of-others formulations were held for context;
+- the long self-quotation from `The Search` was not duplicated into this local curated shortlist.
+
+Files written in the work folder:
+- `curated_out_of_this_world.jsonl`
+- `editorial_decisions_out_of_this_world.jsonl`
+- `editorial_review_out_of_this_world.md`
 - `editorial_complete.json`
 
 Raw candidate and source files were not changed.
