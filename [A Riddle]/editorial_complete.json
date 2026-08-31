@@ -1,0 +1,18 @@
+{
+  "work": "A Riddle",
+  "corpus_id": "L0007",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_a_riddle.txt",
+  "raw_worker_windows_generated": 419,
+  "raw_worker_candidates": 411,
+  "worker_rejected": 8,
+  "canonical_source_paragraphs": 33,
+  "source_paragraphs_reviewed": 33,
+  "select_fragments": 0,
+  "raw_duplicate_groups": 30,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[A Riddle]/curated_a_riddle.jsonl",
+  "decisions_file": "[A Riddle]/editorial_decisions_a_riddle.jsonl",
+  "review_file": "[A Riddle]/editorial_review_a_riddle.md"
+}
