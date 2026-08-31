@@ -26,18 +26,35 @@ Editorial work is added as new files beside them.
 For every book/work create:
 
 - `curated_<slug>.jsonl` — strict accepted shortlist only.
-- `editorial_decisions_<slug>.jsonl` — compact decision record for every reviewed candidate.
+- `editorial_decisions_<slug>.jsonl` — compact decision record for the reviewed editorial units.
 - `editorial_review_<slug>.md` — human-readable review summary.
+
+## Review modes
+
+### CANDIDATE_FIRST
+Use when the worker candidate set is already reasonably bounded and each candidate is a meaningful editorial unit. Record a decision for every candidate.
+
+### SOURCE_FIRST_CANONICAL
+Use when the worker has generated large numbers of overlapping sliding windows or nested variants from the same source paragraphs. In this mode, **do not waste the editorial pass treating every artificial window as an independent quotation**. Instead:
+
+1. read the canonical `master_text_*` from beginning to end;
+2. review every source paragraph/section;
+3. identify the cleanest exact Neville-only semantic units directly in the source;
+4. create the strict `curated_*` shortlist from those exact fragments;
+5. record paragraph/section decisions in `editorial_decisions_*` so full source coverage is auditable;
+6. use raw candidate IDs only as discovery/provenance where helpful.
+
+For source-first reviews, the authoritative coverage metric is the number of canonical source paragraphs/sections reviewed, while the raw worker-candidate count is reported separately as an overgeneration/discovery metric.
 
 ## Decisions
 
-Each source candidate receives one of three decisions:
+Each reviewed editorial unit receives one of three decisions:
 
-- `SELECT` — strong enough for the main corpus and potentially eligible for daily delivery.
+- `SELECT` / `SELECT_FRAGMENT` — strong enough for the main corpus and potentially eligible for daily delivery.
 - `HOLD` — valuable archival/contextual material, but not strong or safe enough for the main automatic pool.
 - `DROP` — redundant, weak, context-dependent, misbounded, mostly scripture/external quotation, or otherwise not worth retaining in the curated layer.
 
-`curated_<slug>.jsonl` contains only `SELECT` records.
+`curated_<slug>.jsonl` contains only selected exact Neville wording.
 
 ## Hard-selection criteria
 
@@ -92,7 +109,7 @@ For every cluster:
 
 1. identify the cleanest semantic unit;
 2. keep at most one `SELECT` wording unless two variants genuinely express different ideas;
-3. mark the others `DROP` or `HOLD` with a duplicate reason.
+3. mark the others `DROP` or `HOLD` with a duplicate reason, or collapse them implicitly through a source-first paragraph decision when the raw windows are purely mechanical overlaps.
 
 ## Cross-work duplication
 
