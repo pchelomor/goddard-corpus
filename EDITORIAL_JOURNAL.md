@@ -22,7 +22,8 @@ This journal tracks the strict book-by-book and work-by-work review defined in `
 | Resurrection, A Confession Of Faith | COMPLETE | 3 chapters / 168 paragraphs / 457 raw windows | 0 | section-level | section-level | `[Resurrection, A Confession Of Faith]/curated_resurrection_a_confession_of_faith.jsonl` |
 | Seedtime And Harvest | COMPLETE | 9 chapters / 360 paragraphs / 1,145 raw windows | 23 | section-level | section-level | `[Seedtime And Harvest]/curated_seedtime_and_harvest.jsonl` |
 | The Law And The Promise | COMPLETE | Intro + 15 chapters / 798 paragraphs / 3,036 raw windows | 34 | section-level | section-level | `[The Law And The Promise]/curated_the_law_and_the_promise.jsonl` |
-| The Power Of Awareness | TODO | — | — | — | — | — |
+| The Power Of Awareness (book) | TODO | — | — | — | — | — |
+| The Power Of Awareness (1953 lecture, L0185) | COMPLETE | 32 paragraphs / 375 raw windows | 12 | section-level | section-level | `[The Power Of Awareness]/curated_the_power_of_awareness.jsonl` |
 | The Search | TODO | — | — | — | — | — |
 | Your Faith Is Your Fortune | TODO | — | — | — | — | — |
 
@@ -359,6 +360,40 @@ Files written in the work folder:
 - `curated_the_law_and_the_promise.jsonl`
 - `editorial_decisions_the_law_and_the_promise.jsonl`
 - `editorial_review_the_law_and_the_promise.md`
+- `editorial_complete.json`
+
+Raw candidate and source files were not changed.
+
+## 2026-08-31 — The Power Of Awareness (1953 lecture, L0185)
+Completed a source-first hard editorial pass across the full 1953-01-01 spoken lecture transcript.
+
+Identity note:
+- the folder `[The Power Of Awareness]` is corpus item `L0185`, work class `LECTURE`, not the legacy book of the same title;
+- the legacy book remains a separate TODO item until a distinct canonical book source is present in the repository.
+
+Why source-first remained appropriate:
+- the worker retained 375 candidate windows from only 32 canonical paragraphs;
+- 28 duplicate groups showed heavy overlap among sliding-window variants;
+- the complete transcript was reviewed end-to-end and final quote boundaries were taken directly from Neville's own prose.
+
+Result:
+- canonical paragraphs covered: 32 / 32;
+- SELECT exact Neville fragments: 12;
+- strict SELECT density vs 375 retained worker candidates: 3.2%;
+- strict SELECT density vs 32 canonical paragraphs: 37.5%.
+
+Notable filtering:
+- pure scripture and scripture-dominant paraphrase were excluded from Neville attribution;
+- clean state, identity, viewpoint, thinking-from, self-observation, and fulfilled-state formulations were retained;
+- Christological and `Second Man` symbolism was held for a spiritual/contextual layer;
+- categorical formulations assigning painful circumstances wholly to a person's own choice were excluded from the automatic pool;
+- strong sensory-evidence-denial, dimensional-world, direct-influence-of-others, and absolute outer-causation passages were held or dropped where decontextualization could become misleading;
+- repeated state/imagination/fulfilled-desire windows were collapsed to preferred exact formulations.
+
+Files written in the work folder:
+- `curated_the_power_of_awareness.jsonl`
+- `editorial_decisions_the_power_of_awareness.jsonl`
+- `editorial_review_the_power_of_awareness.md`
 - `editorial_complete.json`
 
 Raw candidate and source files were not changed.
