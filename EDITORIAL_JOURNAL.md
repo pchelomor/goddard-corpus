@@ -14,7 +14,7 @@ This journal tracks the strict book-by-book review defined in `EDITORIAL_POLICY.
 | Feeling Is the Secret | COMPLETE | 88 candidates | 29 | 46 | 13 | `Feeling Is the Secret/curated_feeling_is_the_secret.jsonl` |
 | At Your Command | COMPLETE | 110 paragraphs / 711 raw windows | 20 | 67 | 23 | `[At Your Command]/curated_at_your_command.jsonl` |
 | Awakened Imagination | COMPLETE | 8 chapters / 504 paragraphs / 1,232 raw windows | 36 | section-level | section-level | `[Awakened Imagination]/curated_awakened_imagination.jsonl` |
-| Freedom For All | TODO | — | — | — | — | — |
+| Freedom For All | COMPLETE | Intro + 9 chapters / 323 paragraphs / 841 raw windows | 32 | section-level | section-level | `[Freedom For All]/curated_freedom_for_all.jsonl` |
 | He Breaks The Shell | TODO | — | — | — | — | — |
 | I Know My Father | TODO | — | — | — | — | — |
 | Out Of This World | TODO | — | — | — | — | — |
@@ -100,6 +100,35 @@ Files written in the work folder:
 - `curated_awakened_imagination.jsonl`
 - `editorial_decisions_awakened_imagination.jsonl`
 - `editorial_review_awakened_imagination.md`
+- `editorial_complete.json`
+
+Raw candidate and source files were not changed.
+
+## 2026-08-31 — Freedom For All
+Completed a source-first hard editorial pass across the complete canonical Introduction + 9 chapters.
+
+Why source-first remained appropriate:
+- the worker retained 841 candidate windows from 323 canonical paragraphs;
+- 115 duplicate groups showed meaningful sliding-window overlap;
+- section-level audit records preserve complete source coverage without treating mechanical overlaps as separate editorial objects.
+
+Result:
+- canonical paragraphs covered: 323 / 323;
+- SELECT exact fragments: 32;
+- strict SELECT density vs 841 retained worker candidates: 3.8%;
+- strict SELECT density vs canonical paragraphs: 9.9%.
+
+Notable filtering:
+- pure scripture and scripture-dominant allegorical retellings were excluded from Neville attribution;
+- core I AM, feeling, assumption, Sabbath, desire, and imaginal-listening formulations were retained;
+- categorical healing, remote-healing, financial-guarantee, and universal-blame material was excluded from the automatic pool;
+- long Noah, Jacob/Esau, crucifixion, leprosy, mustard-seed, and Immaculate Conception explanations were held where context is more important than standalone delivery;
+- repeated formulations were collapsed to preferred local variants.
+
+Files written in the work folder:
+- `curated_freedom_for_all.jsonl`
+- `editorial_decisions_freedom_for_all.jsonl`
+- `editorial_review_freedom_for_all.md`
 - `editorial_complete.json`
 
 Raw candidate and source files were not changed.
