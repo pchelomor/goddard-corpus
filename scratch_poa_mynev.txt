@@ -1,0 +1,885 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Google Analytics (GA4) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-Q75ZYH1C38"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-Q75ZYH1C38');</script><!-- End Google Analytics -->
+<title>Neville Goddard: The Power Of Awareness (2) — Summary, Teachings &amp; AI…</title>
+<meta name="description" content="An expert summary of Neville Goddard&#39;s &#39;The Power of Awareness&#39;. Learn the core teachings on consciousness, assumption, and how to change your world from withi…">
+<link rel="canonical" href="https://mynevillegoddard.com/books/the-power-of-awareness">
+<meta name="robots" content="index,follow">
+<meta property="og:title" content="Neville Goddard: The Power Of Awareness (2) — Summary, Teachings &amp; AI…">
+<meta property="og:description" content="An expert summary of Neville Goddard&#39;s &#39;The Power of Awareness&#39;. Learn the core teachings on consciousness, assumption, and how to change your world from withi…">
+<meta property="og:type" content="book">
+<meta property="og:url" content="https://mynevillegoddard.com/books/the-power-of-awareness">
+<meta property="og:site_name" content="My Neville Goddard">
+<meta property="og:image" content="https://mynevillegoddard.com/neville-goddard-icon.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Neville Goddard: The Power Of Awareness (2) — Summary, Teachings &amp; AI…">
+<meta name="twitter:description" content="An expert summary of Neville Goddard&#39;s &#39;The Power of Awareness&#39;. Learn the core teachings on consciousness, assumption, and how to change your world from withi…">
+<meta name="twitter:image" content="https://mynevillegoddard.com/neville-goddard-icon.png">
+<link rel="icon" type="image/png" href="/neville-goddard-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a0a0c;--bg-card:#111114;--bg-card-2:#18181c;--border:#222228;--border-hi:#2e2e38;
+  --gold:#c9a227;--gold-lt:#e8bc45;--gold-dim:rgba(201,162,39,.14);--gold-glow:rgba(201,162,39,.10);
+  --blue:#0a84ff;--blue-dim:rgba(10,132,255,.12);
+  --t1:#f5f5f7;--t2:#9898a4;--t3:#52525a;
+  --grad-hero:linear-gradient(135deg,#f5f5f7 0%,#c9a227 55%,#0a84ff 100%);
+  --grad-gold:linear-gradient(90deg,#c9a227,#e8bc45);
+  --r-sm:6px;--r-md:12px;--r-lg:16px;--r-xl:24px;--r-full:9999px;
+  --font:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--t2);font-family:var(--font);font-size:17px;line-height:1.7;-webkit-font-smoothing:antialiased}
+a{color:var(--gold-lt);text-decoration:none}
+a:hover{text-decoration:underline}
+h1,h2,h3,h4{color:var(--t1);letter-spacing:-0.01em}
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+/* header — mirrors .lp-nav */
+header.site{border-bottom:1px solid var(--border);background:rgba(10,10,12,.88);backdrop-filter:blur(12px);position:sticky;top:0;z-index:10}
+header.site .wrap{display:flex;align-items:center;height:64px;gap:16px}
+.brand{display:flex;align-items:center;gap:10px;flex:none;font-weight:600;font-size:1.05rem;color:var(--t1);letter-spacing:-0.01em;white-space:nowrap}
+.brand img{width:28px;height:28px;border-radius:6px}
+nav.primary{display:flex;align-items:center;justify-content:center;gap:3px;min-width:0;margin:0 auto;font-size:.9rem}
+nav.primary a{color:var(--t2);padding:6px 12px;border-radius:var(--r-full)}
+nav.primary a:hover{color:var(--t1);background:rgba(255,255,255,.05);text-decoration:none}
+nav.primary a[aria-current=page]{color:var(--t1);background:rgba(201,162,39,.14)}
+.nav-more{position:relative}
+.nav-more summary{list-style:none;color:var(--t2);padding:6px 12px;border-radius:var(--r-full);cursor:pointer;white-space:nowrap}
+.nav-more summary::-webkit-details-marker{display:none}
+.nav-more summary:hover,.nav-more[open] summary,.nav-more[data-current=true] summary{color:var(--t1);background:rgba(255,255,255,.05)}
+.nav-more-menu{position:absolute;top:calc(100% + 9px);right:0;display:grid;grid-template-columns:repeat(2,minmax(132px,1fr));gap:3px;width:300px;padding:9px;background:#111114;border:1px solid var(--border-hi);border-radius:14px;box-shadow:0 18px 50px rgba(0,0,0,.55)}
+.nav-more-menu a{border-radius:9px!important;padding:9px 11px!important}
+.cta-top{flex:none;background:var(--grad-gold);color:#0a0a0c;padding:9px 18px;border-radius:var(--r-full);font-weight:600;white-space:nowrap}
+.cta-short{display:none}
+.cta-top:hover{opacity:.92;text-decoration:none;box-shadow:0 0 40px rgba(201,162,39,.32)}
+/* hamburger — hidden on desktop, shown on mobile via the media query below */
+.nav-burger{display:none;flex-direction:column;justify-content:center;gap:5px;width:42px;height:42px;border-radius:10px;cursor:pointer;flex:0 0 auto}
+.nav-burger span{display:block;width:22px;height:2px;background:var(--t1);border-radius:2px;transition:transform .22s ease,opacity .22s ease}
+.nav-burger:hover{background:rgba(255,255,255,.05)}
+/* mobile header: brand + burger on the top row; tapping the burger drops the nav
+   links down as a stacked menu (CSS-only checkbox disclosure, no JS). */
+@media(max-width:960px){
+  header.site .wrap{flex-wrap:wrap;height:auto;min-height:64px;padding-top:9px;padding-bottom:9px;gap:8px}
+  .brand{order:1;font-size:1rem}
+  .cta-top{order:2;margin-left:auto;padding:7px 13px}
+  .cta-full{display:none}.cta-short{display:inline}
+  .nav-burger{order:3;display:flex}
+  nav.primary{order:4;flex-basis:100%;flex-direction:column;gap:2px;font-size:.98rem;display:none;padding-top:6px;border-top:1px solid var(--border)}
+  .nav-toggle:checked ~ nav.primary{display:flex}
+  nav.primary>a{width:100%;padding:10px 12px;border-radius:10px}
+  .nav-more{width:100%}
+  .nav-more summary{padding:10px 12px;border-radius:10px}
+  .nav-more-menu{position:static;width:100%;grid-template-columns:repeat(2,minmax(0,1fr));margin-top:3px;padding:5px;background:rgba(255,255,255,.025);border-color:var(--border);box-shadow:none}
+  .nav-toggle:checked ~ .nav-burger span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+  .nav-toggle:checked ~ .nav-burger span:nth-child(2){opacity:0}
+  .nav-toggle:checked ~ .nav-burger span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+}
+@media(max-width:420px){header.site .wrap{padding-left:14px;padding-right:14px}.brand{font-size:.9rem}.brand img{width:25px;height:25px}.nav-burger{width:38px}.cta-top{padding:6px 11px}}
+/* hub filter (progressive enhancement — revealed by JS) */
+.hub-filter{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin:6px 0 20px}
+.hub-search{display:flex;align-items:center;gap:10px;flex:1 1 320px;max-width:520px;background:var(--surface,rgba(255,255,255,.03));border:1px solid var(--border);border-radius:var(--r-full);padding:10px 16px;color:var(--t3)}
+.hub-search:focus-within{border-color:var(--gold,#c9a227);color:var(--t2)}
+.hub-search input{flex:1;background:transparent;border:0;outline:none;color:var(--t1);font-size:.98rem;min-width:0}
+.hub-search input::placeholder{color:var(--t3)}
+.hub-filter-count{color:var(--t3);font-size:.9rem;white-space:nowrap}
+.hub-empty{color:var(--t2);margin:24px 0}
+.hub-clear{background:none;border:0;color:var(--gold,#c9a227);font:inherit;cursor:pointer;padding:0;text-decoration:underline}
+/* audio hub access note */
+.access-note{border:1px solid var(--border);border-radius:14px;padding:16px 18px;margin:6px 0 18px;background:linear-gradient(180deg,rgba(201,162,39,.09),rgba(201,162,39,.02));color:var(--t2);line-height:1.55}
+.access-note strong{color:var(--t1)}
+.access-note-cta{display:inline-block;margin-top:6px;color:var(--gold,#c9a227);font-weight:600}
+main{padding:30px 0 64px}
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 330px;gap:44px}
+@media(max-width:900px){.layout{grid-template-columns:1fr}aside.rail{order:2}}
+nav.crumbs{font-size:.85rem;color:var(--t3);margin-bottom:16px}
+nav.crumbs a{color:var(--t2)}
+h1{font-weight:700;font-size:2.6rem;line-height:1.12;margin:.1em 0 .3em}
+h2{font-weight:650;font-size:1.6rem;margin:1.9em 0 .5em;color:var(--t1);border-bottom:1px solid var(--border);padding-bottom:.25em}
+h3{font-weight:600;font-size:1.2rem;margin:1.3em 0 .4em;color:var(--t1)}
+article p,article li{color:#c9c9d2}
+.meta-row{color:var(--t3);font-size:.9rem;margin-bottom:18px;display:flex;gap:10px;flex-wrap:wrap}
+.meta-row .tag{background:var(--bg-card-2);border:1px solid var(--border);border-radius:var(--r-full);padding:3px 13px;color:var(--t2)}
+.answer-box{background:var(--bg-card);border:1px solid var(--border);border-left:3px solid var(--gold);border-radius:var(--r-md);padding:18px 22px;margin:18px 0;font-size:1.08rem;color:var(--t1)}
+.companion-box{background:var(--bg-card);border:1px solid var(--gold);border-radius:var(--r-lg);padding:24px;margin:32px 0}.companion-box h2{margin-top:0}.companion-box p{color:var(--t2)}.companion-box li{margin:.55rem 0}
+article blockquote{border-left:3px solid var(--gold);margin:1em 0;padding:.5em 1.2em;color:var(--t1);background:var(--bg-card);border-radius:0 var(--r-md) var(--r-md) 0;font-style:italic}
+article blockquote em{color:var(--gold-lt);font-style:normal;font-size:.9rem}
+article ul,article ol{padding-left:1.3em}
+article li{margin:.3em 0}
+/* cards */
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:18px;margin:22px 0}
+.card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--r-lg);padding:18px 20px;transition:border-color .15s,transform .15s;box-shadow:var(--lp-shadow-card)}
+.card:hover{border-color:var(--gold);transform:translateY(-2px)}
+.card h3{margin:.1em 0 .3em;font-size:1.18rem}
+.card .date{color:var(--t3);font-size:.82rem}
+.card p{color:var(--t2);font-size:.95rem;margin:.4em 0 0}
+.card .chips{margin-top:.6em;display:flex;gap:6px;flex-wrap:wrap}
+.chip{font-size:.72rem;background:var(--bg-card-2);border:1px solid var(--border);border-radius:var(--r-full);padding:2px 10px;color:var(--t3)}
+/* sidebar */
+aside.rail .box{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--r-lg);padding:20px;margin-bottom:18px}
+aside.rail h4{font-size:1.05rem;margin:0 0 .6em;color:var(--t1)}
+aside.rail ul{list-style:none;padding:0;margin:0}
+aside.rail li{margin:.4em 0;font-size:.94rem}
+.related-block{margin-top:16px}.related-block:first-child{margin-top:0}
+/* chat module */
+.chat-module{background:linear-gradient(160deg,var(--bg-card),var(--bg-card-2));border:1px solid var(--gold);border-radius:var(--r-lg);padding:22px;box-shadow:0 0 50px rgba(201,162,39,.08)}
+.chat-module h4{margin-top:0;font-size:1.15rem}
+.chat-module .q{display:block;width:100%;text-align:left;background:var(--bg);border:1px solid var(--border);color:var(--t2);border-radius:var(--r-md);padding:10px 13px;margin:7px 0;font-family:inherit;font-size:.92rem;cursor:pointer}
+.chat-module .q:hover{border-color:var(--gold);color:var(--gold-lt);text-decoration:none}
+.chat-module form{display:flex;gap:8px;margin-top:12px}
+.chat-module input{flex:1;background:var(--bg);border:1px solid var(--border);color:var(--t1);border-radius:var(--r-full);padding:11px 16px;font-family:inherit}
+.chat-module button{background:var(--grad-gold);color:#0a0a0c;border:none;border-radius:var(--r-full);padding:11px 20px;font-weight:600;cursor:pointer}
+.chat-module .note{font-size:.82rem;color:var(--t3);margin-top:12px}
+/* buttons */
+.cta-btn{display:inline-block;background:var(--grad-gold);color:#0a0a0c;font-weight:600;padding:12px 24px;border-radius:var(--r-full);transition:opacity .2s,box-shadow .2s,transform .2s}
+.cta-btn:hover{opacity:.92;text-decoration:none;transform:translateY(-1px);box-shadow:0 0 50px rgba(201,162,39,.35)}
+.cta-btn-lg{font-size:1.05rem;padding:15px 32px}
+.cta-band{display:flex;align-items:center;gap:16px;flex-wrap:wrap;background:var(--gold-glow);border:1px solid var(--gold);border-radius:var(--r-lg);padding:16px 20px;margin:20px 0}
+.cta-band-note{color:var(--t2);font-size:.88rem}
+/* toc */
+.toc{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--r-lg);padding:18px 22px;margin:22px 0}
+.toc .toc-title{display:block;font-weight:600;font-size:1.02rem;color:var(--gold-lt);margin-bottom:10px}
+.toc ol{margin:0;padding-left:1.2em;columns:2;column-gap:32px}
+@media(max-width:640px){.toc ol{columns:1}}
+.toc li{margin:.25em 0;font-size:.93rem}
+.toc a{color:var(--t2)}.toc a:hover{color:var(--gold-lt)}
+.section-intro{color:var(--t2);margin:.2em 0 .8em}
+.source-meta{color:var(--t3);font-size:.82rem;margin-bottom:12px}
+article section{scroll-margin-top:84px}
+/* transcript */
+.transcript-body{background:var(--bg-card);border:1px solid var(--border);border-left:3px solid var(--gold);border-radius:var(--r-md);padding:26px 30px;font-size:1.04rem;line-height:1.85}
+.transcript-body p{margin:0 0 1.1em;color:#d2d2da}.transcript-body p:last-child{margin-bottom:0}
+/* final cta */
+.final-cta{background:radial-gradient(120% 140% at 50% 0%,var(--gold-glow),transparent 70%),var(--bg-card);border:1px solid var(--gold);border-radius:var(--r-lg);padding:32px 28px;margin:36px 0 0;text-align:center}
+.final-cta h2{border:none;margin:.1em 0 .35em;font-size:1.7rem}
+.final-cta p{color:var(--t2);margin:.2em auto 1.1em;max-width:580px}
+/* audio + misc */
+.audio-player{margin:18px 0}.audio-player audio{width:100%}
+.spotify-link{font-size:.85rem;color:var(--t3)}
+.lastmod{color:var(--t3);font-size:.8rem;margin-top:24px;padding-top:14px;border-top:1px solid var(--border)}
+footer.site{border-top:1px solid var(--border);color:var(--t3);font-size:.85rem;padding:30px 0;margin-top:44px}
+footer.site .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:18px 24px;align-items:center}
+footer.site a{color:var(--t2)}
+.foot-app{display:flex;flex-direction:column;gap:9px}
+.foot-app-label{font-size:.72rem;text-transform:uppercase;letter-spacing:.1em;color:var(--t3)}
+.foot-meta{display:flex;flex-direction:column;gap:6px;text-align:right;margin-left:auto}
+@media (max-width:640px){footer.site .wrap{justify-content:center}.foot-meta{text-align:center;margin-left:0}.foot-app{align-items:center}}
+/* ── App Store badge ───────────────────────────────────── */
+.app-badge{display:inline-block;line-height:0}
+.app-badge img{height:46px;width:auto;display:block;transition:transform .15s ease,filter .15s ease}
+.app-badge-play img{height:54px;margin:-4px -8px}
+.app-badge:hover img{transform:translateY(-2px);filter:drop-shadow(0 10px 24px rgba(0,0,0,.45))}
+.app-badge.badge-lg img{height:54px}
+.app-badge-play.badge-lg img{height:64px;margin:-5px -9px}
+.store-badge-row{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:10px}
+.store-badges{display:flex;flex-direction:column;align-items:center;gap:10px;margin-top:22px}
+.store-badges-note{font-size:.78rem;text-transform:uppercase;letter-spacing:.12em;color:var(--t3)}
+@media (max-width:560px){.app-badge img{height:44px}.app-badge-play img{height:52px}.app-badge.badge-lg img{height:48px}.app-badge-play.badge-lg img{height:57px}.store-badge-row{gap:6px}}
+/* prominent "get the app" band (content + hub pages) */
+.app-promo{display:flex;align-items:center;gap:22px;flex-wrap:wrap;margin:44px 0 8px;padding:24px 28px;background:linear-gradient(135deg,var(--bg-card),var(--bg-card-2));border:1px solid var(--border-hi);border-top:2px solid var(--gold);border-radius:var(--r-lg);box-shadow:var(--lp-shadow-card)}
+.app-promo-icon{border-radius:14px;flex:none;box-shadow:0 6px 20px rgba(0,0,0,.4)}
+.app-promo-copy{flex:1 1 280px;min-width:220px}
+.app-promo-copy h2{margin:0 0 6px;font-size:1.28rem;color:var(--t1);border:0;padding:0}
+.app-promo-copy p{margin:0;color:var(--t2);font-size:.95rem;line-height:1.5}
+.app-promo-cta{flex:none;margin-left:auto}
+@media (max-width:600px){.app-promo{flex-direction:column;text-align:center;align-items:center}.app-promo-cta{margin-left:0}}
+.hub-intro{font-size:1.18rem;color:var(--t2);max-width:780px;margin:0 0 8px}
+.count{color:var(--t3);font-size:.9rem;margin-bottom:8px}
+/* ── home page ─────────────────────────────────────────── */
+.home-hero{text-align:center;padding:56px 0 36px;position:relative}
+.hero-logo{display:block;margin:0 auto 22px;width:84px;height:84px;border-radius:50%;background:#f5f5f7;padding:6px;box-shadow:0 0 0 1px var(--gold),0 0 60px rgba(201,162,39,.25)}
+header.site .brand img{background:#f5f5f7;padding:2px}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:.82rem;letter-spacing:.08em;text-transform:uppercase;color:var(--gold-lt);border:1px solid var(--gold-dim);background:var(--gold-glow);padding:6px 14px;border-radius:var(--r-full);margin-bottom:22px}
+.home-hero h1{font-size:3.3rem;line-height:1.08;max-width:16ch;margin:0 auto .28em}
+.grad-text{background:var(--grad-hero);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.home-sub{font-size:1.25rem;color:var(--t2);max-width:60ch;margin:0 auto 30px}
+.home-ctas{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+.btn-outline{display:inline-block;border:1px solid var(--border-hi);color:var(--t1);padding:12px 24px;border-radius:var(--r-full);font-weight:600}
+.btn-outline:hover{border-color:var(--gold);text-decoration:none}
+.home-stats{display:flex;gap:40px;justify-content:center;flex-wrap:wrap;margin:40px 0 8px;color:var(--t2)}
+.home-stats .n{display:block;font-size:2rem;font-weight:700;color:var(--t1)}
+.home-section{margin:56px 0}
+.home-section h2{border:none;text-align:center;font-size:2rem;margin-bottom:6px}
+.home-section .lead{text-align:center;color:var(--t2);max-width:64ch;margin:0 auto 24px}
+.explore-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:18px;align-items:stretch}
+.explore-card{display:flex;flex-direction:column;background:var(--bg-card);border:1px solid var(--border);border-radius:var(--r-lg);padding:22px;transition:border-color .15s,transform .15s}
+.explore-card:hover{border-color:var(--gold);transform:translateY(-2px)}
+.ec-main{display:block;color:inherit;text-decoration:none}
+.ec-main:hover{text-decoration:none}
+.ec-head{display:flex;align-items:center;gap:13px;margin-bottom:12px}
+.ec-icon{width:46px;height:46px;flex:0 0 auto;object-fit:contain;filter:drop-shadow(0 2px 10px rgba(201,162,39,.18))}
+.ec-titles{display:flex;flex-direction:column;gap:2px;min-width:0}
+.explore-card h3{margin:0;font-size:1.18rem}
+.explore-card p{color:var(--t2);font-size:.93rem;margin:0}
+.explore-card .count-badge{color:var(--gold-lt);font-size:.8rem;font-weight:600}
+/* itemized detail chips */
+.ec-tags{display:flex;flex-wrap:wrap;gap:7px;margin-top:auto;padding-top:16px}
+.ec-tag{display:inline-flex;align-items:center;gap:5px;font-size:.78rem;font-weight:500;color:var(--t2);background:var(--bg-card-2);border:1px solid var(--border);border-radius:var(--r-full);padding:4px 11px;white-space:nowrap}
+.ec-tag-glyph{color:var(--gold);flex:0 0 auto;opacity:.8}
+a.ec-tag{transition:color .15s,border-color .15s,background .15s}
+a.ec-tag:hover{color:var(--t1);border-color:var(--gold);background:var(--gold-glow);text-decoration:none}
+/* chat preview "example window" — ported from landing.css (.lp-preview*) */
+.lp-preview{position:relative;z-index:1;background:var(--bg-card);border:1px solid rgba(255,255,255,.08);border-radius:var(--r-xl);overflow:hidden;box-shadow:0 0 0 1px rgba(255,255,255,.05),0 40px 80px rgba(0,0,0,.6),0 0 60px rgba(201,162,39,.07)}
+.lp-preview-chrome{display:flex;align-items:center;gap:.625rem;padding:.875rem 1rem;border-bottom:1px solid var(--border);background:var(--bg-card-2)}
+.lp-preview-dots{display:flex;gap:5px}
+.lp-preview-dots span{width:10px;height:10px;border-radius:50%;background:var(--border-hi)}
+.lp-preview-dots span:nth-child(1){background:#ff5f57}
+.lp-preview-dots span:nth-child(2){background:#febc2e}
+.lp-preview-dots span:nth-child(3){background:#28c840}
+.lp-preview-title{font-size:.78rem;color:var(--t3);flex:1;text-align:center;margin-right:52px}
+.lp-preview-body{padding:1.25rem;display:flex;flex-direction:column;gap:.875rem;max-height:420px;overflow:hidden}
+.lp-preview-user{align-self:flex-end;background:var(--blue-dim);border:1px solid rgba(10,132,255,.2);border-radius:14px 14px 4px 14px;padding:.625rem .875rem;font-size:.875rem;color:var(--t1);max-width:80%}
+.lp-preview-ai{background:var(--bg-card-2);border:1px solid var(--border);border-radius:4px 14px 14px 14px;padding:.75rem .875rem;font-size:.84rem;line-height:1.6;color:var(--t2);max-width:90%}
+.lp-preview-ai strong{color:var(--t1)}
+.lp-preview-ai p{margin:0}
+.lp-preview-ai p + p{margin-top:.5rem}
+.lp-preview-ai-label{display:flex;align-items:center;gap:.375rem;font-size:.72rem;font-weight:600;color:var(--gold);margin-bottom:.5rem}
+.lp-preview-quote{color:var(--gold-lt);font-style:italic}
+.lp-preview-src{margin-top:.625rem;padding:.3rem .6rem;background:rgba(201,162,39,.07);border:1px solid rgba(201,162,39,.15);border-radius:var(--r-sm);font-size:.72rem;color:var(--gold);width:fit-content}
+.lp-preview-input{display:flex;align-items:center;justify-content:space-between;padding:.75rem 1rem;border-top:1px solid var(--border);background:var(--bg-card-2)}
+.lp-preview-input span{font-size:.84rem;color:var(--t3)}
+.lp-preview-send{width:30px;height:30px;border-radius:50%;background:var(--blue);display:flex;align-items:center;justify-content:center;color:#fff}
+/* app tile in the explore grid — same icon-header layout as the others, accented
+   gold, with a single chat bubble + CTA in the footer so heights stay balanced. */
+.explore-card--app{background:linear-gradient(165deg,rgba(201,162,39,.12),var(--bg-card) 60%);border-color:rgba(201,162,39,.45)}
+.explore-card--app:hover{border-color:var(--gold)}
+.mini-chat{display:flex;flex-direction:column;gap:7px;margin:16px 0 0}
+.explore-card--app .mini-chat{margin-top:auto}
+.mini-chat-bubble{font-size:.82rem;line-height:1.45;padding:8px 11px;border-radius:12px;max-width:95%}
+.mini-chat-bubble.q{align-self:flex-end;background:var(--blue-dim);border:1px solid rgba(10,132,255,.25);color:var(--t1);border-bottom-right-radius:4px}
+.explore-card-cta{display:inline-block;padding-top:12px;color:var(--gold-lt);font-weight:600;font-size:.9rem}
+.explore-card-cta:hover{text-decoration:none;color:var(--gold)}
+/* app showcase section on the home page */
+.app-showcase-grid{display:grid;grid-template-columns:1fr .9fr;gap:40px;align-items:center;margin-top:8px}
+.app-showcase-visual{display:flex;justify-content:center}
+.app-showcase-visual .lp-preview{max-width:440px;width:100%}
+.app-showcase-modes{display:flex;flex-direction:column;gap:14px}
+.app-showcase-modes .card{margin:0}
+.app-showcase-modes .mode-tag{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.04em;color:var(--gold);text-transform:uppercase;margin-bottom:6px}
+@media(max-width:760px){.app-showcase-grid{grid-template-columns:1fr;gap:24px}}
+.feature-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px;margin:22px 0}
+.feature-card{display:flex;flex-direction:column;align-items:center;text-align:center;background:linear-gradient(170deg,rgba(201,162,39,.07),var(--bg-card) 62%);border:1px solid var(--border);border-radius:var(--r-lg);padding:26px 22px;transition:border-color .15s,transform .15s,box-shadow .15s}
+.feature-card:hover{border-color:var(--gold);transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.35)}
+.feature-icon{width:72px;height:72px;object-fit:contain;margin-bottom:12px;filter:drop-shadow(0 2px 10px rgba(201,162,39,.35))}
+.feature-card h3{margin:.1em 0 .4em;font-size:1.12rem;letter-spacing:.01em}
+.feature-card p{color:var(--t2);font-size:.92rem;margin:0;line-height:1.55}
+.desire-tools-showcase{padding:38px 24px;background:radial-gradient(circle at 50% 0%,rgba(201,162,39,.12),transparent 58%);border:1px solid rgba(201,162,39,.28);border-radius:var(--r-lg)}
+.desire-tools-showcase>.eyebrow{display:flex;width:max-content;margin:0 auto 12px}
+.desire-tools-grid{grid-template-columns:repeat(2,minmax(0,1fr));max-width:920px;margin-left:auto;margin-right:auto}
+.desire-tools-grid .feature-card{align-items:flex-start;text-align:left}
+.desire-tools-grid .feature-card strong{color:var(--t1);font-size:1.02rem;line-height:1.45;margin-bottom:10px}
+.desire-tool-mark{color:var(--gold-lt);font-size:2rem;line-height:1;margin-bottom:10px}
+.ask-anywhere{background:linear-gradient(165deg,rgba(201,162,39,.1),transparent 70%);border:1px solid rgba(201,162,39,.28);border-radius:var(--r-lg);padding:38px 24px}
+.ask-anywhere h2{margin-top:0}
+@media(max-width:760px){.feature-grid,.desire-tools-grid{grid-template-columns:1fr}}
+
+/* ── about + history editorial pages ───────────────────── */
+.explore-card--history{background:linear-gradient(150deg,rgba(232,188,69,.09),var(--bg-card) 64%)}
+.ec-icon--type{display:grid;place-items:center;border:1px solid rgba(232,188,69,.45);border-radius:50%;font-family:Georgia,'Times New Roman',serif;font-size:.82rem;letter-spacing:.08em;color:var(--gold-lt);background:radial-gradient(circle,rgba(232,188,69,.18),transparent 70%)}
+.editorial-main{padding:0 0 72px;overflow:hidden;background:radial-gradient(900px 540px at 78% 0%,rgba(201,162,39,.08),transparent 66%),radial-gradient(720px 500px at 0% 32%,rgba(10,132,255,.05),transparent 70%),var(--bg)}
+.editorial-nav{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:22px 0 18px;border-bottom:1px solid var(--border);font-size:.82rem}
+.editorial-nav-home{color:var(--gold-lt);font-weight:700;text-transform:uppercase;letter-spacing:.1em;white-space:nowrap}
+.editorial-nav>div{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.editorial-nav>div a{color:var(--t3);padding:5px 9px;border-radius:var(--r-full)}
+.editorial-nav>div a:hover,.editorial-nav>div a[aria-current=page]{color:var(--t1);background:rgba(255,255,255,.05);text-decoration:none}
+.editorial-main .crumbs{max-width:820px;margin-top:30px}
+.editorial-hero{max-width:950px;padding:46px 0 58px;border-bottom:1px solid var(--border);position:relative}
+.editorial-hero:after{content:'';position:absolute;bottom:-1px;left:0;width:140px;height:2px;background:var(--grad-gold)}
+.editorial-eyebrow{display:block;color:var(--gold-lt);font-size:.76rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;margin-bottom:18px}
+.editorial-hero h1,.editorial-index-hero h1{font-family:Georgia,'Times New Roman',serif;font-weight:400;letter-spacing:-.045em;font-size:clamp(3rem,7vw,6.2rem);line-height:.95;max-width:14ch;margin:0 0 25px;color:var(--t1)}
+.editorial-hero>p{max-width:760px;font-size:1.28rem;line-height:1.6;color:#b7b7c1;margin:0}
+.editorial-meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:28px}
+.editorial-meta span{border:1px solid var(--border);border-radius:var(--r-full);padding:5px 12px;color:var(--t3);font-size:.76rem}
+.editorial-article{max-width:920px;margin:0 auto;padding:48px 0 12px}
+.editorial-article>section{margin:0 0 86px;scroll-margin-top:90px}
+.editorial-article h2{font-family:Georgia,'Times New Roman',serif;font-size:clamp(2rem,4vw,3.25rem);font-weight:400;line-height:1.08;letter-spacing:-.035em;border:0;margin:.15em 0 .65em;padding:0;max-width:20ch}
+.editorial-article h3{letter-spacing:-.02em}
+.editorial-article p,.editorial-article li{font-size:1.06rem;line-height:1.85;color:#c8c8d0}
+.editorial-article p{max-width:760px}
+.editorial-lede{border-left:1px solid var(--gold);padding-left:34px}
+.editorial-lede p{font-size:1.16rem;line-height:1.8}
+.dropcap:first-letter{float:left;color:var(--gold-lt);font-family:Georgia,'Times New Roman',serif;font-size:4.8rem;line-height:.76;padding:.14em .1em 0 0}
+.section-label{color:var(--gold);font-size:.7rem;font-weight:700;letter-spacing:.17em;text-transform:uppercase;margin-bottom:12px}
+.life-strip{display:grid;grid-template-columns:repeat(6,1fr);position:relative;margin:38px 0 0}
+.life-strip:before{content:'';position:absolute;left:0;right:0;top:10px;height:1px;background:linear-gradient(90deg,var(--gold),var(--border-hi))}
+.life-stop{position:relative;padding:30px 18px 0 0}.life-stop:before{content:'';position:absolute;top:5px;left:0;width:11px;height:11px;border-radius:50%;background:var(--bg);border:2px solid var(--gold)}
+.life-stop span{display:block;color:var(--gold-lt);font-family:Georgia,serif;font-size:1.25rem;margin-bottom:5px}.life-stop strong{display:block;color:var(--t1);font-size:.86rem;line-height:1.35}.life-stop p{font-size:.76rem;line-height:1.45;color:var(--t3);margin:.4em 0}
+.principle-grid,.lens-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--border);border:1px solid var(--border);border-radius:var(--r-lg);overflow:hidden;margin:30px 0}
+.principle-grid>div,.lens-grid article{background:var(--bg-card);padding:26px}.principle-grid span,.lens-grid span{color:var(--gold);font-size:.72rem;letter-spacing:.15em}.principle-grid h3,.lens-grid h3{margin:.45em 0 .25em}.principle-grid p,.lens-grid p{font-size:.92rem;line-height:1.65;margin:0;color:var(--t2)}.lens-grid{grid-template-columns:repeat(3,1fr)}
+.editorial-callout{margin:34px 0;padding:25px 28px;border:1px solid rgba(201,162,39,.36);border-radius:var(--r-lg);background:linear-gradient(135deg,rgba(201,162,39,.11),rgba(201,162,39,.025));max-width:790px}
+.editorial-callout--quiet{border-color:var(--border-hi);background:var(--bg-card)}.editorial-callout p{margin:.35em 0 0;color:var(--t1);font-size:1.04rem;line-height:1.7}.callout-label{display:block;color:var(--gold);font-size:.68rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase}
+.next-reading{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin:34px 0}.next-reading a{display:flex;flex-direction:column;gap:8px;background:var(--bg-card);border:1px solid var(--border);border-radius:var(--r-lg);padding:22px;color:var(--t1)}.next-reading a:hover{border-color:var(--gold);text-decoration:none;transform:translateY(-2px)}.next-reading span{color:var(--gold);font-size:.7rem;text-transform:uppercase;letter-spacing:.12em}
+.source-trail,.methodology-note{border-top:1px solid var(--border);padding-top:42px}.source-trail ul{padding:0;list-style:none;max-width:800px}.source-trail li{padding:13px 0;border-bottom:1px solid var(--border);font-size:.95rem}
+.evidence-ledger{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin:30px 0}.evidence-ledger article{border:1px solid var(--border);background:var(--bg-card);border-radius:var(--r-lg);padding:24px}.evidence-ledger h3{margin:.75em 0 .35em}.evidence-ledger p{font-size:.9rem;line-height:1.65;margin:0;color:var(--t2)}
+.evidence-tag{display:inline-block;border-radius:var(--r-full);padding:4px 9px;font-size:.62rem;text-transform:uppercase;letter-spacing:.09em}.evidence-tag--strong{color:#75d6a0;background:rgba(65,190,115,.1);border:1px solid rgba(65,190,115,.24)}.evidence-tag--qualified{color:var(--gold-lt);background:var(--gold-glow);border:1px solid var(--gold-dim)}
+.barbados-sequence{display:grid;grid-template-columns:repeat(4,1fr);margin:34px 0;border:1px solid var(--border);border-radius:var(--r-lg);overflow:hidden}.barbados-sequence div{padding:24px 18px;background:var(--bg-card);border-right:1px solid var(--border)}.barbados-sequence div:last-child{border:0}.barbados-sequence b{display:block;color:var(--gold-lt);font-size:.86rem;margin-bottom:6px}.barbados-sequence span{display:block;color:var(--t2);font-size:.8rem;line-height:1.45}
+.history-thesis{max-width:920px;margin:0 auto 78px;padding:40px 46px;border:1px solid var(--border-hi);border-radius:var(--r-xl);background:radial-gradient(120% 180% at 0 0,rgba(201,162,39,.14),transparent 55%),var(--bg-card);position:relative;overflow:hidden}.history-thesis:after{content:'1959';position:absolute;right:-12px;bottom:-42px;color:rgba(255,255,255,.025);font-family:Georgia,serif;font-size:10rem;line-height:1}.history-thesis>span{display:block;color:var(--gold);font-size:.7rem;letter-spacing:.16em;text-transform:uppercase}.history-thesis strong{display:block;font-family:Georgia,serif;font-size:clamp(2rem,5vw,3.8rem);font-weight:400;line-height:1.08;color:var(--t1);margin:12px 0 18px;position:relative;z-index:1}.history-thesis p{margin:0;font-size:.95rem;position:relative;z-index:1}
+.history-timeline{margin:38px 0;position:relative}.history-timeline:before{content:'';position:absolute;top:10px;bottom:10px;left:118px;width:1px;background:linear-gradient(var(--gold),var(--border-hi) 35%,var(--border-hi))}.history-timeline article{display:grid;grid-template-columns:120px 1fr;gap:36px;padding:0 0 54px;position:relative}.era-date{color:var(--gold-lt);font-family:Georgia,serif;font-size:1.05rem;padding-top:8px;position:relative}.era-date:after{content:'';position:absolute;right:-6px;top:12px;width:11px;height:11px;border-radius:50%;border:2px solid var(--gold);background:var(--bg)}.era-copy{padding:0 0 0 8px}.era-name{font-size:.67rem;text-transform:uppercase;letter-spacing:.14em;color:var(--t3)}.era-copy h3{font-family:Georgia,serif;font-size:1.65rem;font-weight:400;margin:.25em 0 .45em}.era-copy p{margin:0;font-size:.96rem;line-height:1.75}.era-tags{display:flex;gap:7px;flex-wrap:wrap;margin-top:16px}.era-tags span{font-size:.66rem;padding:3px 9px;border:1px solid var(--border);border-radius:var(--r-full);color:var(--t3)}.era-turn .era-copy{background:linear-gradient(120deg,var(--gold-glow),transparent);border:1px solid var(--gold-dim);border-radius:var(--r-lg);padding:24px}
+.shift-table{border:1px solid var(--border);border-radius:var(--r-lg);overflow:hidden;margin:32px 0;background:var(--border)}.shift-table>div{display:grid;grid-template-columns:1fr 1fr 1.18fr;gap:1px;background:var(--border)}.shift-table>div>span{background:var(--bg-card);padding:20px;color:var(--t2);font-size:.87rem;line-height:1.55}.shift-table .shift-head span{background:var(--bg-card-2);color:var(--gold);font-size:.66rem;text-transform:uppercase;letter-spacing:.11em;font-weight:700}.shift-table b{display:block;color:var(--t1);margin-bottom:4px}.shift-table small{display:block;color:var(--t3);font-size:.72rem;line-height:1.5}
+.semantic-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin:34px 0}.semantic-grid article{display:flex;flex-direction:column;padding:28px;border:1px solid var(--border);border-radius:var(--r-lg);background:linear-gradient(155deg,rgba(201,162,39,.055),var(--bg-card) 38%)}.semantic-kicker{color:var(--gold);font-size:.66rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase}.semantic-grid h3{font-family:Georgia,serif;font-size:1.55rem;font-weight:400;line-height:1.2;margin:.55em 0 .45em;color:var(--t1)}.semantic-grid p{font-size:.88rem;line-height:1.7;margin:.4em 0;color:var(--t2)}.semantic-grid aside{margin-top:auto;padding:16px 0 0;border-top:1px solid var(--border);font-size:.82rem;line-height:1.65;color:var(--t2)}.semantic-grid aside b{color:var(--gold-lt)}
+.quote-pair{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin:30px 0}.quote-pair blockquote{margin:0;border-left:2px solid var(--gold);border-radius:0 var(--r-lg) var(--r-lg) 0;padding:25px;background:var(--bg-card);font-family:Georgia,serif;font-size:1.25rem;font-style:normal;line-height:1.5}
+.source-button{display:inline-block;margin-top:12px;background:var(--grad-gold);color:#0a0a0c;border-radius:var(--r-full);padding:11px 20px;font-size:.88rem;font-weight:700}.source-button:hover{text-decoration:none;box-shadow:0 10px 36px rgba(201,162,39,.2)}
+.editorial-steps{padding:0;list-style:none;counter-reset:step;max-width:800px}.editorial-steps li{display:grid;grid-template-columns:240px 1fr;gap:24px;padding:18px 0;border-bottom:1px solid var(--border);font-size:.94rem}.editorial-steps b{color:var(--t1)}.editorial-steps span{color:var(--t2)}.editorial-steps--numbered li{grid-template-columns:42px 210px 1fr;counter-increment:step}.editorial-steps--numbered li:before{content:counter(step,decimal-leading-zero);color:var(--gold);font-family:Georgia,serif}
+.two-message{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin:34px 0}.two-message article{padding:28px;border:1px solid var(--border);border-radius:var(--r-lg);background:var(--bg-card)}.two-message article:last-child{border-color:rgba(201,162,39,.42);background:linear-gradient(145deg,var(--gold-glow),var(--bg-card))}.two-message>article>span{color:var(--gold);font-size:.66rem;letter-spacing:.16em}.two-message h3{font-family:Georgia,serif;font-size:1.55rem;font-weight:400}.two-message p{font-size:.9rem;line-height:1.65}.two-message small{color:var(--t3)}
+.worked-reading{display:grid;grid-template-columns:repeat(2,1fr);border:1px solid var(--border);border-radius:var(--r-lg);overflow:hidden;background:var(--border);gap:1px;margin:30px 0}.worked-reading>div{background:var(--bg-card);padding:24px}.worked-reading span{color:var(--gold);font-size:.67rem;text-transform:uppercase;letter-spacing:.12em}.worked-reading p{font-size:.9rem;line-height:1.65;margin:.6em 0 0}
+.myth-list{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-top:28px}.myth-list article{padding:21px;border-top:1px solid var(--border);background:linear-gradient(180deg,rgba(255,255,255,.018),transparent)}.myth-list b{color:var(--t1)}.myth-list p{font-size:.86rem;line-height:1.6;margin:.35em 0 0;color:var(--t2)}
+.yhwsa-bridge{display:grid;grid-template-columns:220px 1fr;gap:38px;padding:38px;border:1px solid rgba(10,132,255,.3);border-radius:var(--r-xl);background:radial-gradient(circle at 0 0,rgba(10,132,255,.14),transparent 56%),var(--bg-card)}.yhwsa-mark{display:grid;place-items:center;aspect-ratio:1;border-radius:50%;border:1px solid rgba(10,132,255,.4);font-family:Georgia,serif;font-size:2rem;letter-spacing:.14em;color:#79baff;background:rgba(10,132,255,.06)}.yhwsa-bridge h2{margin-top:0}.yhwsa-bridge p{font-size:.95rem;line-height:1.75}.bridge-actions{display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin-top:20px}.bridge-actions .source-button{margin:0}
+.editorial-index-hero{padding:86px 0 68px;max-width:960px}.editorial-index-hero h1{max-width:12ch}.editorial-index-hero>p{max-width:720px;font-size:1.2rem;line-height:1.7}.editorial-index-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}.editorial-index-card{position:relative;min-height:390px;display:flex;flex-direction:column;align-items:flex-start;padding:34px;border:1px solid var(--border);border-radius:var(--r-xl);background:var(--bg-card);overflow:hidden;color:var(--t2);transition:transform .2s,border-color .2s}.editorial-index-card:hover{transform:translateY(-3px);border-color:var(--gold);text-decoration:none}.editorial-index-card:after{content:'';position:absolute;inset:auto -30% -45% 30%;height:80%;background:radial-gradient(ellipse,rgba(201,162,39,.1),transparent 68%);pointer-events:none}.editorial-index-no{position:absolute;right:25px;top:14px;font-family:Georgia,serif;font-size:5.5rem;color:rgba(255,255,255,.035);line-height:1}.editorial-index-kicker{font-size:.67rem;text-transform:uppercase;letter-spacing:.15em;color:var(--gold)}.editorial-index-card h2{border:0;padding:0;margin:1.2em 0 .55em;font-family:Georgia,serif;font-weight:400;font-size:2rem;line-height:1.1;max-width:15ch;position:relative}.editorial-index-card p{font-size:.9rem;line-height:1.7;margin:0 0 24px;position:relative}.editorial-index-card strong{margin-top:auto;color:var(--gold-lt);font-size:.84rem;position:relative}.editorial-index-card--3{grid-column:span 2;min-height:350px;background:radial-gradient(circle at 80% 30%,rgba(201,162,39,.13),transparent 34%),var(--bg-card)}.editorial-index-card--3 h2{font-size:2.5rem;max-width:22ch}.editorial-index-note{display:flex;gap:24px;align-items:flex-start;margin:28px 0 70px;padding:22px 26px;border-left:2px solid var(--gold);background:var(--gold-glow)}.editorial-index-note>span{white-space:nowrap;color:var(--gold);font-size:.68rem;text-transform:uppercase;letter-spacing:.12em;margin-top:5px}.editorial-index-note p{margin:0;color:var(--t2);font-size:.92rem;line-height:1.65}
+@media(max-width:900px){.life-strip{grid-template-columns:repeat(3,1fr);row-gap:28px}.life-strip:before{display:none}.life-stop{border-top:1px solid var(--border)}.barbados-sequence{grid-template-columns:repeat(2,1fr)}.barbados-sequence div:nth-child(2){border-right:0}.barbados-sequence div:nth-child(-n+2){border-bottom:1px solid var(--border)}.yhwsa-bridge{grid-template-columns:140px 1fr}.editorial-nav{align-items:flex-start;flex-direction:column}.editorial-nav>div{justify-content:flex-start}}
+@media(max-width:680px){.editorial-hero{padding:38px 0 44px}.editorial-hero h1,.editorial-index-hero h1{font-size:2.85rem}.editorial-hero>p{font-size:1.05rem}.editorial-article{padding-top:36px}.editorial-article>section{margin-bottom:64px}.editorial-lede{padding-left:20px}.principle-grid,.lens-grid,.evidence-ledger,.quote-pair,.two-message,.worked-reading,.myth-list,.editorial-index-grid,.semantic-grid{grid-template-columns:1fr}.next-reading{grid-template-columns:1fr}.history-timeline:before{left:88px}.history-timeline article{grid-template-columns:90px 1fr;gap:20px}.era-date{font-size:.86rem}.shift-table>div{grid-template-columns:1fr}.shift-table .shift-head{display:none}.shift-table>div>span{border-bottom:1px solid var(--border)}.editorial-steps li{grid-template-columns:1fr;gap:4px}.editorial-steps--numbered li{grid-template-columns:32px 1fr}.editorial-steps--numbered li span{grid-column:2}.yhwsa-bridge{grid-template-columns:1fr;padding:28px}.yhwsa-mark{width:100px}.editorial-index-card--3{grid-column:span 1}.editorial-index-card--3 h2{font-size:2rem}.editorial-index-hero{padding:62px 0 48px}.editorial-index-note{flex-direction:column;gap:8px}.life-strip{grid-template-columns:repeat(2,1fr)}}
+
+/* ── scheduled journal ─────────────────────────────────── */
+.journal-main{padding:0 0 72px;background:radial-gradient(850px 520px at 72% 0,rgba(201,162,39,.09),transparent 68%),var(--bg);min-height:80vh}
+.journal-local-nav{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:20px 0;border-bottom:1px solid var(--border);font-size:.8rem}.journal-local-nav a{color:var(--t3);padding:5px 10px;border-radius:var(--r-full)}.journal-local-nav a:hover{color:var(--t1);background:rgba(255,255,255,.05);text-decoration:none}.journal-local-nav .journal-rss{margin-left:auto;color:var(--gold)}
+.journal-index-hero{padding:76px 0 62px;max-width:940px}.journal-index-hero h1{font-family:Georgia,'Times New Roman',serif;font-weight:400;letter-spacing:-.05em;font-size:clamp(3.4rem,8vw,7rem);line-height:.92;margin:.05em 0 .3em;color:var(--t1)}.journal-index-hero>p{max-width:720px;font-size:1.17rem;line-height:1.7}
+.journal-feature{margin-bottom:18px}.journal-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.journal-card{display:flex;flex-direction:column;border:1px solid var(--border);border-radius:var(--r-xl);overflow:hidden;background:var(--bg-card);min-width:0}.journal-card-image{display:block;aspect-ratio:16/9;overflow:hidden;background:var(--bg-card-2)}.journal-card-image img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .45s ease}.journal-card:hover .journal-card-image img{transform:scale(1.025)}.journal-card-copy{padding:27px;display:flex;flex-direction:column;flex:1}.journal-card-kicker{color:var(--gold);font-size:.68rem;letter-spacing:.1em;text-transform:uppercase}.journal-card-kicker a{color:inherit}.journal-card h2{font-family:Georgia,serif;font-size:1.75rem;line-height:1.15;font-weight:400;letter-spacing:-.025em;border:0;padding:0;margin:.6em 0 .4em}.journal-card h2 a{color:var(--t1)}.journal-card p{font-size:.91rem;line-height:1.7;margin:0 0 24px}.journal-card-foot{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-top:auto;padding-top:16px;border-top:1px solid var(--border);font-size:.78rem;color:var(--t3)}.journal-card--featured{display:grid;grid-template-columns:1.15fr 1fr;min-height:430px}.journal-card--featured .journal-card-image{height:100%;aspect-ratio:auto}.journal-card--featured .journal-card-copy{justify-content:center;padding:44px}.journal-card--featured h2{font-size:clamp(2rem,4vw,3.35rem)}.journal-card--featured p{font-size:1rem}
+.journal-empty{padding:70px 30px;text-align:center;border:1px dashed var(--border-hi);border-radius:var(--r-xl)}
+.journal-main .crumbs{margin:28px 0}.journal-article{max-width:960px;margin:0 auto}.journal-article-header{padding:35px 0 44px}.journal-series{display:inline-block;color:var(--gold);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;margin-bottom:18px}.journal-article-header h1{font-family:Georgia,'Times New Roman',serif;font-size:clamp(3rem,7vw,6rem);font-weight:400;line-height:.96;letter-spacing:-.05em;max-width:15ch}.journal-dek{max-width:760px;font-size:1.2rem;line-height:1.7;color:#b7b7c1}.journal-preview-banner{border:1px solid var(--blue);background:var(--blue-dim);color:#9dccff;padding:10px 14px;border-radius:var(--r-md);margin-bottom:24px;font-size:.86rem}.journal-hero-image{margin:0 0 46px;border-radius:var(--r-xl);overflow:hidden;border:1px solid var(--border)}.journal-hero-image img{display:block;width:100%;height:auto;max-height:700px;object-fit:cover}.journal-prose{max-width:760px;margin:0 auto;font-family:Georgia,'Times New Roman',serif;font-size:1.12rem;line-height:1.9;color:#d1d1d8}.journal-prose h2,.journal-prose h3{font-family:var(--font);letter-spacing:-.025em}.journal-prose h2{font-size:2rem;border:0;padding:0;margin:2.2em 0 .6em}.journal-prose h3{font-size:1.3rem;margin-top:1.8em}.journal-prose p,.journal-prose li{color:#d1d1d8}.journal-prose a{text-decoration:underline;text-decoration-color:rgba(201,162,39,.4);text-underline-offset:3px}.journal-prose blockquote{font-size:1.25rem;line-height:1.7;margin:1.6em 0}.journal-prose hr{border:0;border-top:1px solid var(--border);margin:3em 0}
+.journal-sources{max-width:760px;margin:48px auto 0;padding:24px;border:1px solid var(--border);border-radius:var(--r-lg);background:var(--bg-card)}.journal-sources>span{display:block;color:var(--gold);font-size:.68rem;letter-spacing:.13em;text-transform:uppercase;margin-bottom:12px}.journal-sources>div{display:flex;flex-wrap:wrap;gap:8px}.journal-sources a{font-size:.77rem;border:1px solid var(--border-hi);padding:4px 10px;border-radius:var(--r-full);text-transform:capitalize;color:var(--t2)}
+.journal-discussion{display:flex;align-items:center;gap:30px;justify-content:space-between;margin:48px auto 0;max-width:840px;padding:30px;border:1px solid rgba(201,162,39,.42);border-radius:var(--r-xl);background:linear-gradient(135deg,var(--gold-glow),var(--bg-card))}.journal-discussion span{font-size:.67rem;color:var(--gold);text-transform:uppercase;letter-spacing:.13em}.journal-discussion h2{border:0;margin:.25em 0;font-family:Georgia,serif;font-weight:400}.journal-discussion p{font-size:.88rem;margin:0;max-width:550px}.journal-discussion .cta-btn{white-space:nowrap}.journal-related{margin:86px 0 20px;padding-top:46px;border-top:1px solid var(--border)}
+@media(max-width:800px){.journal-card--featured{grid-template-columns:1fr}.journal-card--featured .journal-card-image{aspect-ratio:16/9}.journal-card--featured .journal-card-copy{padding:28px}.journal-grid{grid-template-columns:1fr}.journal-discussion{align-items:flex-start;flex-direction:column}.journal-local-nav .journal-rss{margin-left:0}.journal-index-hero{padding:56px 0 46px}}
+@media(max-width:520px){.journal-card-copy{padding:22px}.journal-article-header h1{font-size:2.85rem}.journal-dek{font-size:1.02rem}.journal-prose{font-size:1.03rem;line-height:1.8}.journal-hero-image{border-radius:var(--r-lg)}}
+
+/* ── cached success-story proof blocks ─────────────────────── */
+.success-proof-section{padding:44px 24px;border:1px solid rgba(201,162,39,.28);border-radius:var(--r-lg);background:radial-gradient(circle at 50% 0,rgba(201,162,39,.1),transparent 58%),var(--bg-card)}
+.success-proof-section h2{text-align:center}.success-proof-section>.lp-container>.eyebrow,.success-proof-section>.eyebrow{display:flex;width:max-content;margin:0 auto 12px}.success-proof-layout{display:grid;grid-template-columns:minmax(230px,.65fr) 1.35fr;gap:24px;align-items:stretch;margin-top:24px}.success-proof-hist{min-height:190px;display:flex;align-items:end;justify-content:center;gap:10px;padding:18px;border:1px solid var(--border);border-radius:var(--r-lg);background:rgba(0,0,0,.16)}.success-proof-bar{height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;gap:6px;color:var(--t3);font-size:.68rem}.success-proof-bar i{display:block;width:22px;min-height:3px;background:linear-gradient(var(--gold-lt),var(--gold));border-radius:5px 5px 1px 1px}.success-proof-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.success-proof-card{display:flex;flex-direction:column;gap:9px;padding:18px;border:1px solid var(--border);border-radius:var(--r-lg);background:var(--bg);color:var(--t2)}.success-proof-card:hover{text-decoration:none;border-color:var(--gold)}.success-proof-card strong{color:var(--t1)}.success-proof-card p{font-size:.82rem;line-height:1.55;margin:0;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}.success-proof-card small{color:var(--gold);font-size:.68rem}.success-proof-card span{margin-top:auto;color:var(--t3);font-size:.72rem}
+.technique-success-block{margin:48px 0;padding:28px;border:1px solid rgba(201,162,39,.32);border-radius:var(--r-lg);background:var(--gold-glow)}.technique-success-block>div{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:18px 0}.technique-success-block article{padding:14px;background:var(--bg-card);border:1px solid var(--border);border-radius:var(--r-md)}.technique-success-block article p{font-size:.82rem;line-height:1.5}.technique-success-block article small{color:var(--gold)}
+@media(max-width:850px){.success-proof-layout{grid-template-columns:1fr}.success-proof-cards{grid-template-columns:1fr}.success-proof-hist{min-height:130px}}
+@media(max-width:680px){.technique-success-block>div{grid-template-columns:1fr}}
+
+/* ── public Help Center ─────────────────────────────────── */
+.public-help{min-height:80vh;padding:0 0 72px;background:radial-gradient(900px 520px at 50% 0,rgba(201,162,39,.1),transparent 68%),var(--bg)}
+.public-help .crumbs{padding-top:26px}.public-help-hero{max-width:900px;margin:0 auto;padding:58px 0 42px;text-align:center}.public-help-hero h1{font-family:Georgia,'Times New Roman',serif;font-size:clamp(3rem,8vw,6rem);font-weight:400;letter-spacing:-.055em;line-height:.96;margin:.18em 0}.public-help-hero>p{font-size:1.08rem;margin:0 auto;max-width:650px}
+.public-help-search{max-width:680px;margin:28px auto 0;text-align:left}.public-help-search>label{display:block;color:var(--t2);font-size:.72rem;font-weight:700;margin:0 0 7px}.public-help-search>div{display:flex;padding:5px;background:var(--bg-card);border:1px solid var(--border-hi);border-radius:var(--r-full)}.public-help-search input{flex:1;min-width:0;padding:11px 15px;color:var(--t1);background:transparent;border:0;font:inherit}.public-help-search input:focus{outline:0}.public-help-search button{border:0;border-radius:var(--r-full);padding:10px 20px;color:#09090b;background:var(--grad-gold);font:inherit;font-weight:800;cursor:pointer}
+.public-help-start{display:flex;align-items:center;justify-content:space-between;gap:28px;margin:8px 0 54px;padding:30px 34px;border:1px solid rgba(201,162,39,.38);border-radius:var(--r-xl);background:linear-gradient(135deg,rgba(201,162,39,.15),rgba(201,162,39,.025))}.public-help-start h2{border:0;padding:0;margin:.4em 0 .2em;font-family:Georgia,serif;font-size:2rem;font-weight:400}.public-help-start p{margin:0}.public-help-start .cta-btn{white-space:nowrap}
+.public-help-category,.public-help-section{margin:52px 0}.public-help-section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:18px}.public-help-section-head h2{border:0;padding:0;margin:.45em 0 0;font-size:1.55rem}.public-help-section-head>strong{color:var(--t3);font-size:.76rem;white-space:nowrap}
+.public-help-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}.public-help-card{display:flex;flex-direction:column;min-width:0;padding:22px;border:1px solid var(--border);border-radius:var(--r-lg);background:var(--bg-card);color:var(--t2);transition:transform .18s,border-color .18s}.public-help-card:hover{transform:translateY(-2px);border-color:var(--gold);text-decoration:none}.public-help-card>span{color:var(--gold);font-size:.65rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase}.public-help-card>strong{margin:.65em 0 .35em;color:var(--t1);font-family:Georgia,serif;font-size:1.25rem;font-weight:400;line-height:1.2}.public-help-card>p{margin:0 0 18px;font-size:.84rem;line-height:1.55}.public-help-card>em{margin-top:auto;color:var(--gold-lt);font-size:.75rem;font-style:normal;font-weight:700}.public-help-card--technique>strong{font-family:var(--font);font-weight:700;font-size:1.05rem}
+.public-help-empty{text-align:center;padding:48px;border:1px dashed var(--border-hi);border-radius:var(--r-xl)}.public-help-empty h3{margin:0 0 8px}.public-help-empty p{margin:0}.public-help-article{max-width:920px;margin:0 auto}.public-help-article>header{padding:42px 0 34px;border-bottom:1px solid var(--border)}.public-help-article>header h1{font-family:Georgia,serif;font-size:clamp(2.7rem,7vw,5.3rem);font-weight:400;line-height:1;letter-spacing:-.05em;margin:.25em 0}.public-help-article>header>p{max-width:720px;font-size:1.08rem;line-height:1.65}.public-help-location{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:22px;font-size:.82rem}.public-help-location strong{color:var(--gold)}.public-help-location span{padding:5px 11px;border:1px solid var(--border);border-radius:var(--r-full);color:var(--t2);background:var(--bg-card)}
+.public-help-section>h2,.public-help-note h2{border:0;padding:0;margin:0 0 18px;font-size:1.55rem}.public-help-hint{margin:-10px 0 18px;color:var(--t3);font-size:.8rem}.public-help-steps{display:grid;gap:10px;list-style:none;padding:0;margin:0}.public-help-steps li{display:grid;grid-template-columns:36px 1fr;gap:12px}.public-help-steps li>span{display:grid;place-items:center;width:36px;height:36px;border-radius:50%;color:#09090b;background:var(--grad-gold);font-size:.78rem;font-weight:900}.public-help-steps p{margin:0;padding:7px 0 16px;border-bottom:1px solid var(--border);color:var(--t1);line-height:1.65}.public-help-note{margin:36px 0;padding:24px 27px;border:1px solid rgba(201,162,39,.3);border-radius:var(--r-lg);background:var(--gold-glow)}.public-help-note ul{margin:0;padding-left:20px}.public-help-note li+li{margin-top:8px}.public-help-note p{margin:0}
+.public-help-shots{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.public-help-shot{margin:0;overflow:hidden;border:1px solid var(--border);border-radius:var(--r-lg);background:var(--bg-card)}.public-help-shot>button{display:block;position:relative;width:100%;padding:0;border:0;background:#09090b;cursor:zoom-in}.public-help-shot picture,.public-help-shot img{display:block;width:100%}.public-help-shot img{height:auto}.public-help-shot button>span{position:absolute;right:10px;bottom:10px;padding:5px 9px;border-radius:var(--r-full);color:var(--t1);background:rgba(0,0,0,.78);font-size:.68rem;font-weight:800}.public-help-shot figcaption{padding:11px 14px;color:var(--t2);font-size:.78rem;font-weight:700}
+.public-help-lightbox{width:min(96vw,1400px);max-width:none;padding:0;border:1px solid var(--border-hi);border-radius:var(--r-xl);background:#09090b;color:var(--t1);box-shadow:0 28px 90px rgba(0,0,0,.7)}.public-help-lightbox::backdrop{background:rgba(0,0,0,.84);backdrop-filter:blur(5px)}.public-help-lightbox>div{display:flex;flex-direction:column;align-items:center;max-height:92vh;padding:22px}.public-help-lightbox img{display:block;max-width:100%;max-height:82vh;object-fit:contain}.public-help-lightbox p{margin:12px 0 0;color:var(--t2);font-size:.82rem}.public-help-lightbox-close{position:absolute;right:12px;top:12px;z-index:2;width:42px;height:42px;border:1px solid rgba(255,255,255,.22);border-radius:50%;color:#fff;background:rgba(0,0,0,.78);font-size:1.5rem;cursor:pointer}
+@media(max-width:900px){.public-help-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:640px){.public-help-hero{padding:40px 0 30px}.public-help-start{align-items:stretch;flex-direction:column;padding:24px}.public-help-start .cta-btn{text-align:center}.public-help-grid,.public-help-shots{grid-template-columns:1fr}.public-help-section-head{align-items:flex-start;flex-direction:column;gap:8px}.public-help-search>div{border-radius:var(--r-lg)}.public-help-search button{padding-inline:15px}.public-help-article>header{padding-top:30px}.public-help-lightbox{width:100vw;height:100vh;max-height:none;border:0;border-radius:0}.public-help-lightbox>div{height:100%;justify-content:center;padding:16px}}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mynevillegoddard.com/#website","name":"My Neville Goddard","url":"https://mynevillegoddard.com/","publisher":{"@id":"https://mynevillegoddard.com/#organization"}},{"@type":"Organization","@id":"https://mynevillegoddard.com/#organization","name":"My Neville Goddard","url":"https://mynevillegoddard.com/"},{"@type":"Person","@id":"https://mynevillegoddard.com/#neville-goddard","name":"Neville Goddard","description":"Lecturer and author on imagination, the Law of Assumption, and the psychological interpretation of scripture."},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://mynevillegoddard.com/"},{"@type":"ListItem","position":2,"name":"Books","item":"https://mynevillegoddard.com/books"},{"@type":"ListItem","position":3,"name":"The Power Of Awareness","item":"https://mynevillegoddard.com/books/the-power-of-awareness"}]},{"@type":"Book","@id":"https://mynevillegoddard.com/books/the-power-of-awareness#main","name":"The Power Of Awareness (2)","headline":"Neville Goddard: The Power Of Awareness (2) — Summary, Teachings & AI…","description":"An expert summary of Neville Goddard's 'The Power of Awareness'. Learn the core teachings on consciousness, assumption, and how to change your world from withi…","url":"https://mynevillegoddard.com/books/the-power-of-awareness","inLanguage":"en","isPartOf":{"@id":"https://mynevillegoddard.com/#website"},"author":{"@id":"https://mynevillegoddard.com/#neville-goddard"},"about":{"@id":"https://mynevillegoddard.com/#neville-goddard"},"publisher":{"@id":"https://mynevillegoddard.com/#organization"},"datePublished":"1952-01-01","bookFormat":"https://schema.org/EBook","abstract":"Neville Goddard teaches that consciousness is the only reality and that by assuming the feeling of your wish fulfilled, you can change your concept of yourself and your world."},{"@type":"FAQPage","@id":"https://mynevillegoddard.com/books/the-power-of-awareness#faq","mainEntity":[{"@type":"Question","name":"What is the first cause of everything in my life?","acceptedAnswer":{"@type":"Answer","text":"The first and only cause is your own consciousness. Your concept of yourself, which is your collection of assumptions, determines the world in which you live."}},{"@type":"Question","name":"How do I change my circumstances?","acceptedAnswer":{"@type":"Answer","text":"You must change your state of consciousness. This is done by assuming the feeling that you are already the person you want to be and that your wish is already fulfilled."}},{"@type":"Question","name":"Is imagination just daydreaming?","acceptedAnswer":{"@type":"Answer","text":"No. Daydreaming is picturing a future state without the consciousness of already being it. The effective use of imagination requires you to assume the feeling of the wish fulfilled, making the future dream a present fact."}},{"@type":"Question","name":"How do my assumptions affect other people?","acceptedAnswer":{"@type":"Answer","text":"Others only echo that which you whisper to them in secret. Your persistent assumption about another person influences their behavior and determines their attitude toward you."}}]}]}</script></head><body><header class="site"><div class="wrap">
+<a class="brand" href="/"><img src="/neville-goddard-icon.png" alt="" width="28" height="28">My Neville Goddard</a>
+<input type="checkbox" id="nav-toggle" class="nav-toggle" hidden>
+<label for="nav-toggle" class="nav-burger" aria-label="Menu" role="button" tabindex="0"><span></span><span></span><span></span></label>
+<nav class="primary" aria-label="Sections"><a href="/lectures">Lectures</a><a href="/books">Books</a><a href="/teachings">Teachings</a><a href="/techniques">Techniques</a><a href="/community">Community</a><a href="/success-stories">Success Stories</a><a href="/journal">Journal</a><a href="/help">Help</a><details class="nav-more">
+<summary>Explore <span aria-hidden="true">⌄</span></summary>
+<div class="nav-more-menu"><a href="/characters">Characters</a><a href="/parables">Parables</a><a href="/word-studies">Word Studies</a><a href="/bible">Bible</a><a href="/study-paths">Study Paths</a><a href="/audio">Audio</a><a href="/about">About</a></div>
+</details></nav>
+<a class="cta-top" href="/app"><span class="cta-full">Open the App</span><span class="cta-short">App</span></a>
+</div></header><main><div class="wrap"><div class="layout"><article>
+<nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/books">Books</a> › <span>The Power Of Awareness</span></nav>
+<h1>The Power Of Awareness (2)</h1>
+<div class="meta-row"><span class="tag">1952-01-01</span><span class="tag">Book</span><span class="tag">Full transcript</span></div>
+
+<div class="answer-box">&#39;The Power of Awareness&#39; teaches that consciousness is the sole cause of life&#39;s phenomena. To change your circumstances, you must change your concept of yourself by assuming the feeling that your desire is already a fact. This controlled use of imagination is the key to realizing your ideals.</div>
+<div class="cta-band">
+<a class="cta-btn" rel="nofollow" href="/app/?doc=1952_the_power_of_awareness&ask=What%20is%20the%20difference%20between%20thinking%20'of'%20my%20desire%20and%20thinking%20'from'%20it%2C%20according%20to%20The%20Power%20of%20Awareness%3F">💬 Chat with this book →</a>
+<span class="cta-band-note">Free to start · answers grounded in Neville's own words</span>
+</div>
+<nav class="toc" aria-label="On this page"><span class="toc-title">On this page</span><ol><li><a href="#executive-summary">Executive Summary</a></li><li><a href="#key-concepts">Key Concepts</a></li><li><a href="#detailed-explanation">Detailed Explanation</a></li><li><a href="#important-quotes">Important Quotes</a></li><li><a href="#related-concepts">Related Concepts</a></li><li><a href="#common-misunderstandings">Common Misunderstandings</a></li><li><a href="#practical-applications">Practical Applications</a></li><li><a href="#faq">Frequently Asked Questions</a></li><li><a href="#full-transcript">Full Book Text</a></li></ol></nav>
+<section id="executive-summary"><h2>Executive Summary</h2><p>This book explains that consciousness is the one and only reality. All circumstances, conditions, and events in your life are the result of your own state of consciousness, specifically your concept of yourself. To change your outer world, you must first change your inner world by using your imagination to assume the feeling of your wish already being fulfilled. Persisting in that assumption until it becomes your dominant feeling causes it to harden into fact.</p>
+</section>
+<section id="key-concepts"><h2>Key Concepts</h2><ul>
+<li><strong>I AM</strong>: The center of consciousness, the first cause-substance, and your true identity. Your concept of yourself is an arrangement of this one substance.</li>
+<li><strong>Consciousness</strong>: The only reality and the only substance. Your world is a manifestation of your state of consciousness.</li>
+<li><strong>The Power of Assumption</strong>: The primary method for change. An assumption, even if false, will harden into fact if persisted in.</li>
+<li><strong>Imagination</strong>: The redemptive power in the universe and the instrument by which you create your world.</li>
+<li><strong>Attention</strong>: The measure of your inner force. It must be controlled and deliberately focused on the feeling of the wish fulfilled.</li>
+<li><strong>Creation is Finished</strong>: All things exist now. You do not create, but rather become aware of portions of creation that already exist; your concept of yourself determines which portion you experience.</li>
+</ul>
+</section>
+<section id="detailed-explanation"><h2>Detailed Explanation</h2><p>The foundational principle of this work is that consciousness is the first and only cause-substance. Everything you experience—circumstances, conditions, material objects—is a product of your own consciousness. Your world and your self are not separate; they are one. The center of this reality is the feeling of I AM, the permanent awareness of being that is the self-definition of God. While there is only one I AM, you define and display a limited aspect of it through your concept of yourself, such as &quot;I am strong&quot; or &quot;I am unwell.&quot;</p>
+<p>To change any aspect of your life, you must change your concept of yourself. This is achieved through the power of assumption. The process begins with a desire to be different. You then use your imagination to construct an ideal of the person you wish to be and assume that you are already that person. This is not merely thinking <em>of</em> the state but thinking <em>from</em> it. You must feel yourself into the state of the wish fulfilled with such sensory vividness that it has the tone of reality. This requires a controlled imagination and a well-sustained attention, firmly focused on this feeling until it crowds all other ideas out of consciousness.</p>
+<p>This psychological change is the only cause of physical change. An assumption, faithfully maintained, builds a bridge of incidents that leads inevitably to its own fulfillment in your outer world. The book explains that creation is already finished; all potential states and events coexist in an eternal now. Your assumption does not create something new but rather calls into view a portion of creation that already exists. By assuming the feeling of your wish fulfilled, you psychologically move to that state in the future and then return, setting in motion an irresistible forward movement across a series of events that leads to the physical realization of your desire.</p>
+</section>
+<section id="important-quotes"><h2>Important Quotes</h2><blockquote>
+<p>Leave the mirror and change your face. Leave the world alone and change your conceptions of yourself.</p>
+<p>— <em>The Power Of Awareness</em></p>
+</blockquote>
+</section>
+<section id="related-concepts"><h2>Related Concepts</h2><p>The teachings in this book are built upon several core concepts:</p>
+<ul>
+<li><strong>I AM</strong>: This is the foundation, the unchangeable reality of your being. All change is merely a rearrangement of this one cause-substance.</li>
+<li><strong>Consciousness</strong>: This is the ultimate substance of all things. The entire drama of life is a psychological one taking place within your consciousness.</li>
+<li><strong>Desire</strong>: This is the starting point for all transformation. You must first have an intense, burning desire to be other than what you are.</li>
+<li><strong>Imagination</strong>: This is the sole redemptive power and the instrument you use to assume a new concept of yourself. It is referred to as &#39;Christ in you&#39;.</li>
+<li><strong>Law of Assumption</strong>: This is the central mechanism explained in the book. It is the law that governs all creation, stating that what you assume to be true, and persist in, will be realized in your world.</li>
+</ul>
+</section>
+<section id="common-misunderstandings"><h2>Common Misunderstandings</h2><ul>
+<li><strong>Believing in external causes</strong>: The book corrects the chief delusion that there are causes outside of your own state of consciousness. Your assumptions, not external conditions or other people, determine your life.</li>
+<li><strong>Confusing assumption with daydreaming</strong>: Perpetual construction of future states without the consciousness of <em>already being</em> them is futile daydreaming. The method requires you to assume the <em>feeling</em> of the wish fulfilled, making the future dream a present fact.</li>
+<li><strong>Resisting evil</strong>: Resisting an undesirable state gives it your attention and continues to make it real. The correct method is renunciation: withdrawing your attention from the problem and placing it upon the feeling of your wish fulfilled.</li>
+</ul>
+</section>
+<section id="practical-applications"><h2>Practical Applications</h2><p>To apply these teachings, you must deliberately use your imagination to change your concept of yourself.</p>
+<ul>
+<li><p><strong>Assume the Feeling</strong>: The primary application is to determine what you desire, and then assume the feeling that you already have it or are it. You must persist in this feeling until it becomes your dominant state. For example, to change another&#39;s attitude, you must first change your own mental conversations and assumptions about them, as illustrated by the costume designer who imagined her producer praising her work.</p>
+</li>
+<li><p><strong>Control Your Attention</strong>: Since attention is the measure of your inner force, it must be controlled. The book suggests a specific exercise to develop this control: every night before sleep, strive to hold your attention on the activities of the day in reverse order, from getting into bed back to the first event of the morning.</p>
+</li>
+</ul>
+</section>
+<section id="faq"><h2>Frequently Asked Questions</h2><p><strong>What is the first cause of everything in my life?</strong></p>
+<p>The first and only cause is your own consciousness. Your concept of yourself, which is your collection of assumptions, determines the world in which you live.</p>
+<p><strong>How do I change my circumstances?</strong></p>
+<p>You must change your state of consciousness. This is done by assuming the feeling that you are already the person you want to be and that your wish is already fulfilled.</p>
+<p><strong>Is imagination just daydreaming?</strong></p>
+<p>No. Daydreaming is picturing a future state without the consciousness of already being it. The effective use of imagination requires you to assume the feeling of the wish fulfilled, making the future dream a present fact.</p>
+<p><strong>How do my assumptions affect other people?</strong></p>
+<p>Others only echo that which you whisper to them in secret. Your persistent assumption about another person influences their behavior and determines their attitude toward you.</p>
+</section>
+
+
+<section id="full-transcript"><h2>Full Book Text</h2>
+<p class="section-intro">Read the complete text of The Power Of Awareness below — the actual source this study guide draws from.</p>
+<div class="source-meta">≈ 54 min read · 10,836 words</div>
+<div class="transcript-body"><p>Other Books by Neville AWAKENED IMAGINATION I nclud es Th e S e ar ch</p>
+<p>IMMORTAL MAN THE LAW AND THE PROMISE</p>
+<p>The Power of Awareness</p>
+<p>THE NEVILLE RE ADER In clud e s : Th e L a w a n d Th e P r o m i s e , P r a ye r -- T h e Ar t of B eli e ving , F e elin g i s t he S e cr e t , R e surr e c ti o n , F r e ed om f o r A ll, Ou t of Th i s Wo rl d , S e e d tim e a n d Har ve st</p>
+<p>THE POWER OF AWARENESS</p>
+<p>NEVILLE</p>
+<p>YOUR FAITH IS YOUR FORTUNE</p>
+<p>IDJI DeVorss Publications ~ Ca m ari llo , Cali f orni a</p>
+<p>The Power of Awareness Copyright © 1952 by Neville Revised Edition Copyright © 1992 by Victoria Goddard All rights reserved. No part of this book may be reproduced or transmitted in any form without permission in writing from the publisher, except by a reviewer who may quote brief passages for review purposes.</p>
+<p>ISBN: 087516-655-5 Sixth Printing , 2005</p>
+<p>DeVorss &amp; Company, Publisher P.O. Box 1389 Camarillo CA 93011-1389 www.devorss .com Printed in the United States of America</p>
+<p>To Arthur and his beloved Verne whose awareness brought this book into being</p>
+<p>CONTENTS</p>
+<p>A Word from the Publisher</p>
+<p>IX</p>
+<p>I. lAM</p>
+<p>1</p>
+<p>2. CONSCIOUSNESS</p>
+<p>5</p>
+<p>3. POWER OF ASSUMPTION</p>
+<p>9</p>
+<p>4. DESIRE</p>
+<p>15</p>
+<p>5. THE TRUTH THAT SETS YOU FREE</p>
+<p>19</p>
+<p>6. ATTENTION</p>
+<p>23</p>
+<p>7. ATTITUDE</p>
+<p>27</p>
+<p>8. RENUNCIATION</p>
+<p>33</p>
+<p>9. PREPARING YOUR PLACE</p>
+<p>37</p>
+<p>10. CREATION</p>
+<p>41</p>
+<p>II. INTERFERENCE</p>
+<p>45</p>
+<p>12. SUBJECTIVE CONTROL</p>
+<p>49</p>
+<p>VlIl</p>
+<p>Contents</p>
+<p>13. ACCEPTANCE</p>
+<p>51</p>
+<p>14. THE EFFORTLESS WAY</p>
+<p>55</p>
+<p>15. THE CROWN OF THE MYSTERIES</p>
+<p>59</p>
+<p>16. PERSONAL IMPOTENCE</p>
+<p>61</p>
+<p>17. ALL THINGS ARE POSSIBLE</p>
+<p>63</p>
+<p>18. BE YE DOERS</p>
+<p>67</p>
+<p>19. ESSENTIALS</p>
+<p>71</p>
+<p>20. RIGHTEOUSNESS</p>
+<p>75</p>
+<p>21. FREE WILL</p>
+<p>79</p>
+<p>22. PERSISTENCE</p>
+<p>85</p>
+<p>23. CASE HISTORIES 24 . FAILURE 25. FAITH 26. DESTINY 27. RE VERENCE</p>
+<p>89</p>
+<p>III Il5 Il9 121</p>
+<p>A WORD FROM THE PUBLISHER</p>
+<p>F</p>
+<p>O RT Y YEARS ago Neville added notes in his own</p>
+<p>hand to his personal copy of the newly published Power ofAwareness. In conveying this copy to DeVorss &amp; Company for the purpose of a new printing, Neville &#39;s daughter, Victoria Goddard, has both authenticated the handwriting as her father&#39;s and authorized the publication of a new edition incorporating his notes. Of these additions there are no fewer than twenty, ranging in length from several lines to the substitution of a single word for another. This latter, however , brief as it is, confers a significant change on the meaning of the text. Indeed, Neville&#39;s notes everywhere cla rify his meaning and in places convey important insights and guidance -so much so that in his very next work, Awaken ed Imagination , he would incorporate some of them. Thumbing through Neville&#39;s copy of this book , I came upon a snapshot of him in Army uniform,</p>
+<p>x</p>
+<p>The Power of Awareness</p>
+<p>inserted as a bookmark. It was dated 1943 and, on the back, it bore his own inscription to the effect that this was the soldier mentioned in Case History 1 (p. 89). And Vicki Goddard has confirmed my surmise that Case History 2 (p . 92) is also autobiographical, although more loosely so. Notice that Neville&#39;s family name, Goddard, is here given as Lordard. Such are the pleasures of playing literary detective , although it has to be conceded that they are greatly enhanced by having the author&#39;s own working copy of his book to hand. Certainly he is very much alive in his printed work, but curiously more so in the handwritten additions one encounters with excitement here and there. The reader will find these printed in the body of the text, surrounded by brackets, since in every case it was clear precisely where they fell. It is with the thought that Neville&#39;s brilliant metaphysics might be , for its students, more vital still that DeVorss &amp; Company has brought out this unique edition of The Power ofAwareness. A word of appreciation and gratitude is due to Vicki Goddard for her generous assistance. ARTHUR VERGARA</p>
+<p>Editor</p>
+<p>THE</p>
+<p>POWER OF AWARENESS</p>
+<p>I I</p>
+<p>Leave the mirror and change your face. Leave the world alone and change your conceptions of yourself. NEVILLE</p>
+<p>Chapter One lAM</p>
+<p>All things when they are admitted are made manifest by the light: for everything that is made manifest is light. Eph.5 :13 is consciousness. Consciousness is one , manifesting in legions of forms or levels of consciousness. There is no one that is not all that is, for consciousness, though expressed in an infinite series of levels , is not divisional. There is no real separation or gap in consciousness . I AM cannot be divided. I may conceive myself to be a rich man, a poor man , a beggar man or a thief, but the center of my being remains the same regardless of the concept I hold of myself. At the center of manifestation there is only one I AM manifesting in legions of forms or concepts of itself and &quot;I am that I am .&quot;</p>
+<p>T</p>
+<p>&#39;I</p>
+<p>H E &quot; LIGH T &quot;</p>
+<p>I ,</p>
+<p>2</p>
+<p>Th e Power of Awareness</p>
+<p>I AM is the self-definition of the absolute , the foundation on which everything rests . I AM is the first cause-substance. I AM is the self-definition of God. I AM hath sent me unto you. I AM THAT I AM. Be still and know that I AM God . I AM is a feeling of permanent awareness . The very center of consciousness is the feeling of I AM. I may forget who I am , where I am , what I am, but I cannot forget that I AM. The awareness of being remains , regardless of the degree of forgetfulness of who, where , and what I am. I AM is that which, amid unnumbered forms , is ever the same. This great discovery of cause reveals that, good or bad, man is actually the arbiter of his own fate, and that it is his concept of himself that determines the world in which he lives [and his concept of himself is hts reactions to life J.* In other words , if you are experiencing ill health , knowing the truth about cause, you cannot attribute *Bracke te d material is exp la ined in the publisher&#39;s note , p. x. -Ed.</p>
+<p>lAm</p>
+<p>3</p>
+<p>the illness to anything other than to the particular arrangement of the basic cause-substance , an. arrangement which [was produced by your reactions to life , and] is defined by your concept &quot;I am unwell.&quot; This is why you are told &quot;Let the weak man say , &#39;I am strong&#39; &quot; (joel 3:10) , for .by his assumption, the cause-substance - I AM -IS. re~r­ ranged and must , therefore, manifest that which ItS rearrangement affirms. This principle gove.rns every aspect of your life, be it social, financial, intellectual, or spiritual. I AM is that reality to which , whatever happens, we must turn for an explanation of the phenomena of life. It is I AM &#39;s concept of itself that determines the form and scenery of its existence. Everything depends upon its attitude towards itself; that whi~h it will not affirm as true of itself cannot awaken III its world. That is, your concept of yourself, such as &quot;I am strong,&quot; &quot;I am secure,&quot; &quot;I am loved, &quot; determines the world in which you live. In other words, when you say, &quot; I am a man, I am a father, I am an American ,&quot; you are not defining different lAMs ; you are defining different concepts or arrangements of the one cause-substance-the one I AM. Even in the phenomena of nature , if the tree were articulate it would say , &quot;I am a tree, an apple tree, a fruitful tree. &quot; When you know that consciousness is the one</p>
+<p>.I I &#39;</p>
+<p>!I!</p>
+<p>I</p>
+<p>.\</p>
+<p>4</p>
+<p>The Power of Awareness</p>
+<p>and only reality - conceiving itself to be something</p>
+<p>~ood, ba.d, or indifferent, and becoming that which conceived itself to be - you are free from the tyranny of second causes, free from the belief that there are causes outside of your own mind that can affect your life. It</p>
+<p>In the state of consciousness of the individual is found the explanation of the phenomena of life. If ~a~&#39;s concept of himself were different, everything m hIS world would be different. His concept of himself being what it is, everything in his world must be as it is. Thus it is abundantly clear that there is only one I AM and you are that I AM. And while I AM is inJi~ite , you , by your concept of yourself, are displaymg only a limited aspect of the infinite I AM . Build thee more stately mansions, 0 my soul, As the swift seasons roll! Leave thy low-vaulted past! Let each new temple, nobler than the last, Shut thee from heaven with a dome more vast Till thou at length art free, Leaving thine outgrown shell by life&#39;s unresting sea!</p>
+<p>Chapter Two CONSCIOUSNESS</p>
+<p>I</p>
+<p>T IS only by a change of consciousness, by actu-</p>
+<p>ally changing your concept of yourself, that you can &quot;build more stately mansions&quot; - the manifestations of higher and higher concepts. (By manifesting is meant experiencing the results of these concepts in your world.) It is of vital importance to understand clearly just what consciousness IS. The reason lies in the fact that consciousness is the one and only reality, it is the first and only cause-substance oJthe phenomena oJlife. Nothing has existence for man save through the consciousness he has of it. Therefore, it is to consciousness you must turn, for it is the only foundation on which the phenomena of life can be explained . If we accept the idea of a first cause, it would follow that the evolution of that cause could never result in anything foreign to itself. That is, if the first cause-substance is light, all its evolutions,</p>
+<p>j&#39;I&#39;</p>
+<p>I</p>
+<p>,\,</p>
+<p>7</p>
+<p>The Power of Awareness</p>
+<p>Consciousness</p>
+<p>fruits, and manifestations would remain light. The first cause-substance being consciousness, all its evolutions, fruits, and phenomena must remain consciousness. All that could be observed would be a higher or lower form or variation of the same thing. In other words, if your consciousness is the only reality , it must also be the only substance. Consequently, what appears to you as circumstances, conditions, and even material objects are really only the products of your own consciousness. Nature, then, as a thing or a complex of things external to your mind, must be rejected. You and your environment cannot be regarded as existing separately. You and your world are one . Therefore, you must turn from the objective appearance of things to the subjective center of things, your consciousness, if you truly desire to know the cause of the phenomena of life, and how to use this knowledge to realize your fondest dreams. In the midst of the apparent contradictions, antagonisms, and contrasts of your life , there is only one principle at work, only your consciousness operating. Difference does not consist in variety of substance , but in variety of arrangement of the same cause-substance , your consciousness. .T ? e world moves with motiveless necessity. By this IS meant that it has no motive of its own , but is under the necessity of manifesting your concept,</p>
+<p>the arrangement of your mind, and your mind is always arranged in the image ofall you believe and consent to as true. The rich man , poor man, beggar man or thief are not different minds, but different arrangements of the same mind, in the same sense that a piece of steel when magnetized differs not in substance from its demagnetized state but in the arrangement and order of its molecules. A single electron revolving in a specified orbit constitutes the unit of magnetism. When a piece of steel or anything else is demagnetized, the revolving electrons have not stopped. Therefore , the magnetism has not gone out of existence. There is only a rearrangement of the particles, so that they produce no outside or perceptible effect. When particles are arranged at random, mixed up in all directions, the substance is said to be demagnetized; but when particles are marshalled in ranks so that a number of them face in one direction , the substance is a magnet . Magnetism is not generated; it is displayed. Health, wealth, beauty, and genius are not created; they are only manifested by the arrangement of your mind-that is, by your concept of yourself [and your concept of yourself is all that you accept and consent to as true. What you consent to can only be discovered by an uncritical observation ofyour reactions to life. Your reactions reveal where you live psychologically; and</p>
+<p>6</p>
+<p>8</p>
+<p>Th e Pow er of Awaren ess</p>
+<p>wher~ you Hue psychologically, determines how you liue here ~·n. the outer visible world). The importance of this in your daily life should be immediately apparent. .T h e basic nature of the primal cause is consCl.ousn:ss. Therefore, the ultimate substance of alI thmgs IS conscz&quot;ousness.</p>
+<p>Chapter Three POWER OF ASSUMPTION delusion is his conviction that there are causes other than his own state of consciousness . All that befalls a man -all that is done by him - all that comes from him - happens as a result of his state of consciousness . A man&#39;s consciousness is alI that he thinks and desires and loves, all that he believes is true and consents to . That is why a change of consciousness is necessary before you can change you r outer world . Rain faIls as a result of a change in the temperature in the higher regions of the atmosphere, so, in like manner , a change of circumstance happens as a result of a change in your state of consciousness.</p>
+<p>M</p>
+<p>A N &#39;S CHIEF</p>
+<p>Be ye transformed by the renewing of you r mind. To be transformed , the whole basis of you r thoughts must change. But your thoughts cannot 1/</p>
+<p>•</p>
+<p>10</p>
+<p>The Power of Awareness</p>
+<p>change unless you have new ideas, for you think from your ideas. All transformation begins with an intense, burning desire to be transformed. The first step in the &quot;ren ewing of the mind&quot; is desire. You must want to be different [and intend to be] before you can begin to change yourself. Then you must make yourfuture dream a present fact. You do this by assuming the feeling ofyour unsh. fulfilled. By desiring to be other than what you are, you can create an ideal of the person you want to be and assume that you are already that person. If this assumption is persisted in until it becomes your dominant feeling, the attainment of your ideal is inevitable. The ideal you hope to achieve is always ready for an incarnation, but unless you yourself&quot; offer it human parentage, it is incapable of birth. Therefore, your attitude should be one in which having desired to express a higher state - you alone accept the task of incarnating this new and greater value of yourself. . In giving birth to your ideal you must bear in mind that the methods of mental and spiritual knowledge are entirely different. This is a point that is truly understood by probably not more than one person in a million. You know a thing mentally by looking at it from the outside, by comparing it with other things , by analyzing it and defining it; [by thinking of it:] whereas you can know a thing</p>
+<p>Power of Assumption</p>
+<p>II</p>
+<p>spiritually only by becoming it,. [o~ly by thinkingfrom it]. You must be the thmg Itself and ~ot merely talk about it or look at it. You must be like the moth in search of his idol , the flame, who spurred with true desire, plunging at once into the sacred fire , folded his wings within, till he became one colour and one substance with the flame . He only knew the flame who in it burned, and only he could tell who ne&#39;er to tell returned. Just as the.moth in his desire to know t~e flame ~as willing to destroy himself, so must you m becommg ~a new person be willing to die to your pre.sent self. You must be conscious of being healthy If you are to know what health is. You must be conscious of being secure if you are to know what security is. Therefore, to incarnate a new and greater value of yourself, you must assume that you al~ea~y a~e what you want to be and then live by faith m this assumption - which is not yet incarnate in the body of your life-in confidence that this n~w value or state of consciousness will become mcarnated through your absolute fidelity to the assump~io~ that you are that which you desire to be. ThIS IS what wholeness means , what integrity means. They mean.submission of the whole self to the feeling of</p>
+<p>12</p>
+<p>,</p>
+<p>&#39;</p>
+<p>Th e Power of Awareness</p>
+<p>the wish fulfilled in certainty that that new state of consciousness is the renewing o&#39;f ~ind which transforms. There is no order in Nature corresponding to this willing submission of the self to the ideal beyond the self. Therefore, it is the height of folly to expect the incarnation of a new and greater concept of self to come about by natural evolutionary process. That which requires a state of consciousness to produce its effect obviously cannot be effected without such a state of consciousness, and in your ability to assume the feeling of a greater life , to assume a new concept of yourself, you possess what the rest of Nature does not possess-imagination-the instrum ent by which you creat e your world. Your imagination is the instrument, the means, whereby your redemption from slavery, sickness, and poverty is effected. If you refuse to assume the responsibility of the incarnation of a new and higher concept of yourself, then you reject the means, the only means, whereby your redemption -that is, the attainment of your ideal-can be effected. Imagination is the only redemptive power in the universe . However , your nature is such that it is optional to you whether you remain in your present concept of yourself (a hungry being longing for freedom, health, and security) or choose to become</p>
+<p>Power of Assumption</p>
+<p>13</p>
+<p>the instrument of your own redemption, imagining yourself as that which you want to be, and thereby satisfying your hunger and redeeming yourself.</p>
+<p>o be strong then , and brave , pure , patient and true; The work that is yours let no other hand do. For the strength for all need is faithfully given From the fountain within youthe Kingdom of Heaven .</p>
+<p>Chapter Four DESIRE</p>
+<p>T</p>
+<p>H E CHANGES which take place in your life as</p>
+<p>a result of your changed concept of yourself always appear to the unenlightened to be the result , not of a change of your consciousness, but of chance, outer cause , or coincidence. However , the only fate governing your life is the fate determined by your own concepts, your own assumptions; for an assumption , though false , if persisted in will harden into fact. The ideal you seek and hope to attain will not manifest itself, will not be realized by you, until you have imagined that you are already that ideal. There is no escape for you except by a radical psychological transformation of yourself, except by your assumption of the feeling of your wish fulfilled. Therefore , make results or accomplishments the crucial test of your ability to use your imagination. Everything depends on your attitude towards yourself. That which you will not affirm as true of</p>
+<p>II</p>
+<p>· I I</p>
+<p>I II I</p>
+<p>16</p>
+<p>The Power of Awareness</p>
+<p>yourself can never be realized by you , for that attitude alone is the necessary condition by which you realize your goal. All transformation is based upon suggestion, and this can work only where you lay yourself completely open to an influence. You must abandon yourself to your ideal as a woman abandons herself to love, for complete abandonment of self to it is the way to union with your ideal. You must assume the feeling of the wish fulfilled until your assumption has all the sensory vividness of reality. You must imagine that you are already experiencing what you desire. That is, you must assume the feeling of the fulfillment of your desire until you are possessed by it and this feeling crowds all other ideas out of your consciousness. The man who is not prepared for the conscious plunge into the assumption of the wish fulfilled in the faith that it is the only way to the realization of his dream is not yet ready to live consciously by the law of assumption, although there is no doubt that he does live by the law of assumption unconsciously. But for you who accept this principle and are ready to live by consciously assuming that your wish is already fulfilled , the adventure of life begins. To reach a higher level of being, you must assume a higher concept of yourself.</p>
+<p>Desire</p>
+<p>17</p>
+<p>If you will not imagine yourself as other than what you are, then you remain as you are, for if ye believe not that I am He, ye shall die in your sins. If you do not believe that you are He (the person you want to be), then you remain as you are. Through the faithful systematic cultivation of the feeling of the wish fulfilled, desire becomes the promise of its own fulfillment. The assumption of the feeling of the wish fulfilled makes the future dream a present fact.</p>
+<p>il l</p>
+<p>III</p>
+<p>1</p>
+<p>I</p>
+<p>I</p>
+<p>,, \</p>
+<p>,</p>
+<p>Chapter Five THE TRUTH THAT SETS YOU FREE</p>
+<p>of life is a psychological one III which all the conditions, circumstances, and events of your life are brought to pass by your assumptions. Since your life is determined by your assumptions, you are forced to recognize the fact that you are either a slave to your assumptions or their master. To become the master of your assumptions is the key to undreamed-of freedom and happiness. You can attain this mastery by deliberate conscious control of your imagination. You determine your assumptions in this way: Form a mental image, a picture of the state desired, of the person you want to be. Concentrate your attention upon the feeling that you are already that person. First, visualize the picture in your consciousness. Then feel yourself to be in that state as though it actually formed your</p>
+<p>T</p>
+<p>H E DRAMA</p>
+<p>20</p>
+<p>The Power of Awareness</p>
+<p>The Truth That Sets You Free</p>
+<p>surrounding world. By your imagination that which was a mere mental image is changed into a seemingly solid reality. The great secret is a controlled imagination and a well-sustained attention firmly and repeatedly focused on the object to be accomplished. It cannot be emphasized too much that , by creating an ideal within your mental sphere, by assuming that you are already that ideal , you identify yourself with it and thereby transform yourself into its image, [thinkingfrom the ideal instead of thinking of the ideal. Every state is already there as &quot;mere possibilities&quot; as long as we think Q[ them, but as overpoweringly real when we think from them]. This was called by the ancient teachers &quot;Subjection to the will of God&quot; or &quot;Resting in the Lord ,&quot; and the only true test of &quot;Resting in the Lord&quot; is that all who do rest are inevitably transformed into the image of that in which they rest [thinkingfrom the unsli fulfiUed] . You become according to your resigned will , and your resigned will is your concept of yourself and all that you consent to and accept as true . You , assuming the feeling of your . wish fulfilled and continuing therein , take upon yourself the results of that state; not assuming the feeling of your wish fulfilled, you are ever free of the results.</p>
+<p>When you understand the redemptive function of imagination , you hold in your hands the key to the solution of all your problems. Every phase of your life is made by the exercise of your imagination. Determined imagination alone is the means of your progress, of the fulfilling of your dreams . It is the beginning and end of all creating, The great secret is a controlled imagination and a wellsustained attention firmly and repeatedly focused on the feeling of the unsli fulfilled until it fills the mind and crowds all other ideas out of consciousness. What greater gifts could be given you than to . be told the Truth that will set you free? The Truth .that sets you free is that you can experience in imagination what you desire to experience in reality, and by maintaining this experience in imagination, your desire will become an actuality. You are limited only by your uncontrolled imagination and lack of attention to the feeling of your wish fulfilled . When the imagination is not controlled and the attention not steadied on the feeling of the wish fulfilled , then no amount of prayer or piety or invocation will produce the desired effect. When you can call up at will whatsoever image you please, when the forms &#39;of your imagination are as vivid to you as the forms of nature, you are masterof your fate. [You must stop spending</p>
+<p>21</p>
+<p>III</p>
+<p>1 &#39;</p>
+<p>!</p>
+<p>22</p>
+<p>The Power of Awareness</p>
+<p>your thoughts, your time and your money. Everything in life must be an investment.]</p>
+<p>,I</p>
+<p>I: &#39;</p>
+<p>Visions of beauty and splendor, Forms of a long-lost race, Sounds and faces and voices, From the fourth dimension of spaceAnd on through the universe boundless, Our thoughts go lightning shodSome call it imagination, And others call it God.</p>
+<p>ATTENTION IS forceful in proportion to the nar-</p>
+<p>*Neville follows this with the date April 12, [19]53 . In Awakened Imagination (1954) he would write , &quot;On the morning of April 12, 1953 , my wife was awakened by the sound of a great voice of authority speaking within her and saying, &#39;You must stop spending your thoughts, time, and money. Everything in life must be an investment. &#39; To spend is to waste, to squander, to layout without return. To invest is to layout for a purpose from which a profit is expected . This revelation of my wife is about the importance of the moment. It is about the transformation of the moment. ... It is only what is done now that counts.. . . Whenever we assume the feeling of being what we want to be , we are investing.&quot; (ch. 5) -Ed.</p>
+<p>1&quot;&quot;1.rowness of its focus. that is, when it is obsessed with a single idea or sensation. It is steadied and powerfully focused only by such an adjustment of the mind as permits you to see one thing only, for you steady the attention and increase its power by confining it. The desire which realizes itself is always a desire upon which attention is exclusively concentrated, for an idea is endowed with power only in proportion to the degree of attention fixed on it. Concentrated observation is the attentive attitude directed [from]* some specific end. The atten-</p>
+<p>Chapter Six ATTENTION</p>
+<p>A double-minded man IS unstable in all his ways. James 1:8</p>
+<p>*Neville substitutes from for towards, the reading in the original. - Ed.</p>
+<p>, I&quot; II I</p>
+<p>:1</p>
+<p>24</p>
+<p>25</p>
+<p>The Power of Awareness</p>
+<p>Attention</p>
+<p>tive attitude involves selection , for when you pay attention, it signifies that you have decided to focus your attention on one object or state rather than on another. Therefore, when you know what you want, you must deliberately focus your attention on the feeling of your wish fulfilled until that feeling fills the mind and crowds all other ideas out of consciousness. The power of attention is the measure of your inner force. Concentrated observation of one thing shuts out other things and causes them to disappear. The great secret of success is to focus the attention on the feeling of the wish fulfilled without permitting any distraction. All progress depends upon an increase of attention. The ideas which impel you to action are those which dominate the consciousness, those which possess the attention. [The idea which excludes all others from the field of attention discharges in action. ]</p>
+<p>toward the mark of filling your mind with the feeling of the wish fulfilled . To the unenlightened man this will seem to be all fantasy , yet all progress comesfrom those who do not take the accepted view, nor accept the world as it is. As was stated heretofore, if you can imagine what you please , and if the forms of your thought are as vivid as the forms of nature, you are by virtue of the power of your imagination master of your fate . Your imagination is you yourself, and the world as your imagination sees it is the real world. When you set out to master the movements of attention, which must be done if you would successfully alter the course of observed events, it is then you realize how little control you exercise over your im agin ation and how much it is dominated by sensory impressions and by a drifting on the tides of idle moods. To aid in mastering the control of your attention &#39; practice this exercise: Night after night , just before you drift off to sleep, strive to hold your attention on the activities of the day in reverse order. Focus your attention on the last thing you did , that is, getting in to bed , and then move it backward in time over the events until you reach the first event of the day, getting out of bed. This</p>
+<p>This one thing I do , forgetting those things that are behind, I press toward the mark. This means you , this one thing you can do, &quot;forgetting those things that are behind.&quot; You can press</p>
+<p>26</p>
+<p>I</p>
+<p>,</p>
+<p>I</p>
+<p>I&#39;</p>
+<p>,, &#39;</p>
+<p>The Power of Awareness</p>
+<p>is no easy exercise, but just as specific exercises greatly help in developing specific muscles, this will greatly help in developing the &quot;muscle&quot; of your attention. Your attention must be developed, controlled, and concentrated in order to change your concept of yourself successfully and thereby change your future. Imagination is able to do anything, but only according to the internal direction ofyour attention. If you persist night after night , sooner or later you will awaken in yourself a centre of power and become conscious of your greater self, the real you . Attention is developed by repeated exercise or habit. Through habit an action becomes easier, and so in course of time gives rise to a facility or faculty , which can then be put to higher uses . When you attain control of the internal direction of your attention: you will no longer stand in shallow water but will launch out into the deep of life. You will walk in the assumption-of the wish fulfilled as on a foundation more sOIld even than earth.</p>
+<p>Chapter Seven ATTITUDE conducted by Merle Lawrence (Princeton) and Adelbert Ames (Dartmouth) in the latter&#39;s psychology laboratory at Hanover, N.H. , prove that what you see when you look at something depends not so much on what is there as on the assumption you make when you look . Since what we believe to be the &quot;real&quot; physical world is actually only an &quot;assum p tive&quot; world, it is not surprising that these experiments prove that what appears to be solid reality is actually the result of &quot;expectations&quot; or &quot;assumptions.&quot; .Your assumptions determine not only what you see but also what you do , for they govern all your conscious and subconscious movements towards the fulfillment of themselves. Over a century ago this truth was stated by Emerson as follows:</p>
+<p>E</p>
+<p>X P E R I M E NT S RECENTLY</p>
+<p>As the world was plastic and fluid in the hands of God , so it is ever to so much of</p>
+<p>~8</p>
+<p>The Power of Awareness</p>
+<p>Attitude</p>
+<p>his attributes as we bring to it. To ignorance and sin , it is flint. They adapt themselves to it as they may, but in proportion as a man has anything in him divine, the firmament flows before him and takes his signet and form.</p>
+<p>Because there is nothing unclean ofitself (or clean of itself), you should assume the best and think only of that which is lovely and of good report. It is not superior insight but ignorance of this law of assumption if you read into the greatness of men some littleness with which you may be familiar - or into some situation or circumstance an unfavorable conviction. Your particular relationship to another influences your assumption with respect to that other and makes you see in him that which you do see. If you can change your opinion of another, then what you now believe of him cannot be absolutely true but is only relatively true. The following is an actual case history illustrating how the law of assumption works: One day a costume designer described to me her difficulties in working with a prominent theatrical producer. She was convinced that he unjustly criticized and rejected her best work and that often he was deliberately rude and unfair to her. Upon . hearing her story, I explained that if she found the other rude and unfair , it was a .sure sign that she , herself, was wanting and that it was not the producer, but herself that was in need of a new attitude. I told her that the power of this law of assumption and its practical application could be discovered only through experience , and that only by assuming that the situation was already what she</p>
+<p>Your assumption is the hand of God moulding the firmament into the image of that which you assume. The assumption of the wish fulfilled is the high tide which lifts you easily off the bar of the senses where you have so long lain stranded. It lifts the mind into prophecy in the full right sense of the word; and if you have that controlled imagination and absorbed attention which it is possible to attain, you may be sure that all your assumption implies will come to pass. When William Blake wrote, What seems to be , is, to those to whom it seems to be ..</p>
+<p>I</p>
+<p>I</p>
+<p>I</p>
+<p>i ·· ,</p>
+<p>I</p>
+<p>!</p>
+<p>I</p>
+<p>lJ</p>
+<p>he was only repeating the eternal truth , there is nothing unclean of itself: but to him that esteemeth anything to be unclean, to him it is unclean. Rom. 14:14</p>
+<p>29</p>
+<p>&#39;1 &#39;/ I</p>
+<p>,i , I</p>
+<p>Ii</p>
+<p>I</p>
+<p>31</p>
+<p>The Power of Awareness</p>
+<p>Attitude</p>
+<p>wanted it to be could she prove that she could bring about the change desired. Her employer was merely bearing witness, telling her by his behavior what her concept of him was. I suggested that it was quite probable that she was carrying on conversations with him in her mind which were filled with criticism and recriminations. There was no doubt but that she was mentally arguing with the producer, for others only echo that which we whisper to them in secret. I asked her if it was not true that she talked to him mentally, and, if so, what those conversations were like. She confessed that every morning on her way to the theatre she told him just what she thought of him in a way she would never have dared address him in person. The intensity and force of her mental arguments with him automatically established his behavior towards her. She began to realize that all of us carryon mental conversations, but , unfortunately, on most occasions these conversations are argumentative . . . that we have only to observe the passerby on the street to prove this assertion . . . that so many people are mentally engrossed in conversation and few appear to be happy about it, but the very intensity of their feeling must lead them quickly to the unpleasant incident they themselves have mentally created and therefore must now encounter. When she realized what she had been doing, she agreed to change her</p>
+<p>attitude and to live this law faithfully by assuming that her job was highly satisfactory and her relationship with the producer was a very happy one. To ao trus she agreed that before going to sleep at night, on her way to work , and at other intervals during the day she would imagine that he had congratulated her on her fine designs and that she , in turn , had thanked him for his praise and kindness. To her great delight she soon discovered for herself that her own attitude was the cause of all that befell her. The behavior of her employer miraculously reversed itself. His attitude, echoing, as it had always done, that which she had assumed , now reflected her changed concept of him . What she did was by the power of her imagination . Her persistent assumption influenced his behavior and determined his attitude toward her.</p>
+<p>30</p>
+<p>With the passport of desire on the wings of a controlled imagination she traveled into the future of her own predetermined expenence. Thus we see it is not facts , but that which we create in our imagination, which shapes our lives, for most of the conflicts of the day are due to the want of a little imagination to cast the beam out of our own</p>
+<p>I, lf &#39; 32</p>
+<p>&quot;</p>
+<p>The Power of Awareness</p>
+<p>eye. It is the exact and literal-minded who live in a fictitious world. As this designer, by her controlled imagination, started the subtle change in her employer&#39;s mind, so can we, by the control of our own imagination and wisely directed feeling, solve our problems. By the intensity of her imagination and feeling , the designer cast a kind of enchantment on her producer&#39;s mind and caused him to think that his generous praise originated with him. Often our most elaborate and original thoughts are determined by another. We should never be certain that it was not some woman treading in the winepress who began that subtle change in men&#39;s mind, or that the passion did not begin in the mind of some shepherd boy, lighting up his eyes for a moment before it ran upon its way. William Butler Yeats</p>
+<p>I &#39; I,</p>
+<p>&quot;</p>
+<p>Chapter Eight RENUNCIATION</p>
+<p>There is no coal of character so dead that it will not glow and flame if but slightly turned . Resist not evil. Whosoever shall smite thee on thy right cheek, turn to him the other also . H E R E IS a great difference between resisting evil and renouncing it. When you resist evil, you give it your attention, you continue to make it real . When you renounce evil, you take your attention from it and give your attention to what you want. Now is the time to control your imagination and</p>
+<p>T</p>
+<p>Give beauty for ashes , joy for mourning, praise for the spirit of heaviness, that they</p>
+<p>I</p>
+<p>liL&#39; &#39;I</p>
+<p>I</p>
+<p>34</p>
+<p>The Power of Awareness</p>
+<p>Renunciation</p>
+<p>might be called trees of righteousness, the planting of the Lord that He might be glorified.</p>
+<p>and it grew temperate in its vain expense of useless leaves, and knotted as you see into these clean full clusters to repay the hand that wisely wounded it.</p>
+<p>You give beauty for ashes when you concentrate your attention on things as you would like them to be rather than on things as they are. You give joy for mourning when you maintain a joyous attitude regardless of unfavorable circumstances. You give praise for the spirit of heaviness when you maintain a confident attitude instead of succumbing to despondency. In this quotation the Bible uses the word tree as a synonym for man. You become a tree of righteousness when the above mental states are a permanent part of your consciousness. You are a planting of the Lord when all your thoughts are true thoughts. He is I AM as described in Chapter One. I AM is glorified when your highest concept of yourself is manifested. When you have discovered your own controlled imagination to be your saviour, your attitude will be completely altered without any diminution of religious feeling, and you will say of your controlled imagination</p>
+<p>I</p>
+<p>&#39;I</p>
+<p>I&#39;</p>
+<p>Behold this vine. I found it a wild tree, whose wanton strength had swollen into irregular twigs. But I pruned the plant</p>
+<p>IIII</p>
+<p>35</p>
+<p>By vine is meant your imagination, which , in its uncontrolled state, expends its energy in useless or destructive thoughts and feelings. But you, just as the vine is pruned by cutting away its useless branches and roots, prune your imagination by withdrawing your attention from all unlovely and destructive ideas and concentrating on the ideal you wish to attain. The happier, more noble life you will experience will be the result of wisely pruning your own imagination. Yes, be pruned of all unlovely thoughts and feelings that you may Think truly, and thy thoughts shall the world&#39;s famine feed ; Speak truly, and each word of thine shall be a fruitful seed; Live truly, and thy life shall be a great and noble creed.</p>
+<p>I &#39;11&#39;1 . I</p>
+<p>Chapter Nine</p>
+<p>PREPARING YOUR PLACE</p>
+<p>And all mme are thine, and thine are mme . ]ohn17 :10 Thrust in thy sickle, and reap ; for the time is come for thee to reap ; for the harvest of the earth is ripe . Rev. 14 :15</p>
+<p>A LL IS yours. Do not go seeking for that which .rt.you are. Appropriate it , claim it , assume it. I</p>
+<p>II I</p>
+<p>Everything depends upon your concept of yourself.. That which you do not claim as true of yourself cannot be realized by you. The promise is</p>
+<p>&quot;</p>
+<p>Whosoever hath, to him it shall be given, and he shall have more abundance ; but</p>
+<p>WI I</p>
+<p>I ,.0</p>
+<p>38</p>
+<p>The Power of Awareness</p>
+<p>Preparing Your Place</p>
+<p>whosoever hath not, from him shall be taken away even that which he seemeth to have.</p>
+<p>physically ; then your senses pull you back from</p>
+<p>Hold fast, in your imagination , to all that is lovely and of good report , for the lovely and the good are essential in your life if it is to be worthwhile. Assume it. You do this by imagining that you already are what you want to be - and already have what you want to have. As a man thinketh in his heart so is he.</p>
+<p>II &quot;</p>
+<p>i 1</p>
+<p>I I</p>
+<p>I</p>
+<p>Ii·,I I</p>
+<p>i I</p>
+<p>I ;</p>
+<p>,I &quot;</p>
+<p>Be still and know that you are that which you desire to be, and you will never have to search for it. In spite of your appearance of freedom of action, you obey, as everything else does, the law of assumption. Whatever you may think of the question of free will , the truth is your experiences throughout your life are determined by your assum-ptions -whether conscious or unconscious. An assumption builds a bridge of incidents that lead inetntably to the fulfillment of itself. Man believes the future to be the natural development of the past. But the law of assumption clearly shows that this is not the case. Your assumption places you psych ologically where you are not</p>
+<p>39</p>
+<p>where you were psychologically to where you are</p>
+<p>physically. It is these psychologicalforward motions that produce your physical forward motions in time. Precognition permeates all the scriptures of the world. In my Father&#39;s house are many mansions; If it were not so , I would have told you. I go to prepare a place for you. And if I go and prepare a place for you, I will come again and receive you unto myself: that where I am, there ye may be also . . . . And now I have told you before it came to pass, that , when it is come to pass, ye might believe . John 14:2, 3, 29 The &quot; I&quot; in this quotation is your imagination which goes into the future, into one of the many mansions. Mansion is the state desired . .. telling of an event before it occurs physz&quot;cally is simply feel ing yourself into the state desired until it has the tone of reality. You go and prepare a place for yourself by imagining yourself into the [eeling of your unsli fulfilled. Then, you speed from this state of the wish fulfilled - where you have not</p>
+<p>&quot;&#39;11&#39; 1</p>
+<p>I</p>
+<p>&#39;</p>
+<p>,I</p>
+<p>r\ 40</p>
+<p>The Power of Awareness</p>
+<p>been physically - back to where you were physically a moment ago. Then , with an irresistible forward movement , you move forward across a series of events to the physical realization of your wish, that where you have been in imagination, there you will be in the flesh also.</p>
+<p>Chapter Ten</p>
+<p>Unto the place from whence the rivers come, thither they return again. Eccles. 1:7</p>
+<p>CREATION</p>
+<p>I am God, declaring the end from the beginning, and from ancient times things that are not yet done. Isaiah 46:9, 10</p>
+<p>I</p>
+<p>,&#39;</p>
+<p>finished. Creativeness is only a deeper receptiveness, for the entire contents of all time and all space, while experienced in a time sequence, actually coexist in an infinite and eternal now. In other words, all that you ever have been or ever wilLbe -in fact, all that mankind ever was or ever will be-exists now. This is what is meant by creation, and the statement that creation is finished means nothing is ever to be created, it is only to be manifested. What is called creativeness is only becoming aware of what already is. You simply become aware of increasing portions of that which already exists . The fact that you can never</p>
+<p>C</p>
+<p>&#39;</p>
+<p>: I</p>
+<p>I II</p>
+<p>II</p>
+<p>I:&#39;I&quot;</p>
+<p>I</p>
+<p>)</p>
+<p>II!: &quot;,I</p>
+<p>R E ATIO N IS</p>
+<p>42</p>
+<p>I</p>
+<p>I</p>
+<p>43</p>
+<p>The Power of Awareness</p>
+<p>Creation</p>
+<p>be anything that you are not already or experience anything not already existing explains the experience of having an acute feeling of having heard before what is being said, or having met before the person being met for the first time, or having seen before a place or thing being seen for the first time. The whole of creation exists in you, and it is your destiny to become increasingly aware of its infinite wonders and to experience ever greater and grander portions of it. If creation is finished, and all events are taking place now, the question that springs naturally to the mind is &quot;what determines your time track?&quot; That is, what determines the events which you encounter? And the answer is your concept ofyourself. Concepts determine the route that attention follows. Here is a good test to prove this fact. Assume the feeling of your wish fulfilled and observe the route that your attention follows. You will observe that as long as you remain faithful to your assumption, so long will your attention be confronted with images clearly related to that assumption. For example; if you assume that you have a wonderful business, you will notice how in your imagination yOUT attention is focused on incident after incident relating to that assumption. Friends congratulate you, tell you how lucky you are. Others are envious and critical. From there your</p>
+<p>attention goes to larger offices, bigger bank balances, and many other similarly related events. Persistence in this assumption will result in actually experiencing in fact that which you assumed. The same is true regarding any concept. If your concept of yourself is that you are a failure, you would encounter in your imagination a whole series of incidents in conformance to that concept. Thus it is clearly seen how you, by your concept of yourself, determine your present, that is, the particular portion of creation which you now experience, and your future, that is, the particular portion of creation which you will experience.</p>
+<p>Chapter Eleven INTERFERENCE free to choose the concept you will accept of yourself. Therefore , you possess the power of intervention , the power which enables you to alter the course of your future . The process of rising from your present concept to a higher concept of yourself is the means of all true progress. The higher concept is waiting for you to incarnate it in the world of experience.</p>
+<p>Y</p>
+<p>O U ARE</p>
+<p>l :1&#39;I , d</p>
+<p>I: I</p>
+<p>Iii</p>
+<p>IJ</p>
+<p>I,</p>
+<p>I&#39; ,</p>
+<p>I,&quot;, ,I</p>
+<p>I.</p>
+<p>Now unto Him that is able to do exceeding abundantly above all that we ask or think , according to the power that worketh in us , unto him be glory. Eph.3:20 Him , that is able to do more than you can ask or think , is your imagination, and the power that worketh in us is your attention . Understanding</p>
+<p>t I</p>
+<p>I</p>
+<p>,,</p>
+<p>47</p>
+<p>The Power of Awareness</p>
+<p>Int erferenc e</p>
+<p>imagination to be HIM that is able to do all that you ask, and attention to be the power by which you create your world, you can now build your ideal world. Imagine yourself to be the ideal you dream of and desire. Remain attentive to this imagined state , and as fast as you completely feel that you are already this ideal it will manifest itself as reality in your world.</p>
+<p>your world is molded . The hope of glory is your awareness of the ability to rise perpetually to higher levels. Christ is not to be found in history nor in external forms. You find Christ only when you become aware of the fact that your im agination is the only redemptive power. When this is discovered , the &quot;towers of dogma will have heard the trumpets of Truth , and , like the walls of Jericho , crumble to dust.&quot;</p>
+<p>46</p>
+<p>He was in the world, and the world was made by him and the world knew him not. The mystery hid from the ages; Christ in you, the-hope of glory. The &quot;He, &quot; in the first of these quotations , is your imagination. As previously explained, there is only one substance . This substance is consciousness . It is your imagination which forms this substance into concepts, which concepts are then manifested as conditions, circumstances, and physical objects. Thus imagination made your world. This supreme truth with but few exceptions man is not conscious of. The mystery , Christ in you, referred to in the second quotation, is your imagination , by which</p>
+<p>Chapter Twelve SUBJECTIVE CONTROL</p>
+<p>Y</p>
+<p>O U R IMAGINATION is able to do all that you ask</p>
+<p>in proportion to the degree ofyour attention. All progress, all fulfillment of desire, depend upon the control and concentration of your attention . Attention may be either attracted from without or directed from within. Attention is attracted from without when you are consciously occupied with the external impressions of the immediate present. The very lines of this page are attracting your attention from without. Your attention is directed from within when you deliberately choose what you will be preoccupied with mentally. It is obvious that in the objective world your attention is not only attracted by but is constantly directed to external impressions. But, your control in the subjective state is almost nonexistent, for in this state attention is usually the servant and not the master - the passenger and not the navigator-of your world.</p>
+<p>50</p>
+<p>The Power of Awareness</p>
+<p>There is an enormous difference between attention directed objectively and attention directed subjectively, and the capacity to change your future depends on the latter. When you are able to control the movements of your attention in the subjective world , you can modify or alter your life as you please . But this control cannot be achieved if you allow your attention to be attracted constantly from without. Each day, set yourself the task of deliberately withdrawing your attention from the objective world and of focusing it subjectively . In other words , concentrate on those thoughts or moods which you deliberately determine. Then those things that now restrict you will fade and drop away . The day you achieve control of the movements of your attention in the subjective world, you are master of your fate. You will no longer accept the dominance of outside conditions or circumstances. You will not accept life on the basis of the world without. Having achieved control of the movements of your attention , and having discovered the mystery hid from the ages , that Christ in. you is your imagination , you will assert the supremacy of imagination and put all things in subjection to it.</p>
+<p>,.</p>
+<p>I 11</p>
+<p>I I</p>
+<p>I</p>
+<p>Chapter Thirteen ACCEPTANCE</p>
+<p>Man&#39;s Perceptions are not bounded by organs of Perception: he perceives more than sense (though ever so acute) can discover. owEVER MUCH you seem to be living in a material world, you are actually lioing iti a world of imagination. The outer , physical events of life are the fruit of forgotten blossom-times -results of previous and usually forgotten states of consciousness. They are the ends running true to ofttimes forgotten imaginative origins . Whenever you become completely absorbed in an emotional state , you are at that moment assuming the feeling of the state fulfilled. If persisted in, whatsoever you are intensely emotional about you will experience in your world. These periods of absorption , of concentrated attention, are the</p>
+<p>H</p>
+<p>The Power of Awareness</p>
+<p>Acceptance</p>
+<p>beginnings of the things you harvest. It is in such moments that you are exercising your creative power - the only creative power there is. At the end of these periods, or moments of absorption , you speed from these imaginative states (where you have not been physically) to where you were physically an instant ago. In these periods the imagined state is so real that when you return to the objective world and find that it is not the same as the imagined state, it is an actual shock. You have seen something in imagination with such vividness that you now wonder whether the evidence of your senses can now be believed, and like Keats you ask,</p>
+<p>Kingdom of Heaven. The keys are desire, imagination, and a steadily focused attention on the feeling of the wish fulfilled. To such a man any undesirable objective fact is no longer a reality and the ardent wish no longer a dream.</p>
+<p>52</p>
+<p>was it a vision or a waking dream? Fled is that music . . . Do I wake or sleep?</p>
+<p>.\</p>
+<p>This shock reverses your time sense.&#39; By this is meant that instead of your experience resulting from your past, it now becomes the result of being in imagination where you have not yet been physically. In effect , this moves you across a bridge of incident to the physical realization of your imagined state. The man who at will can assume whatever state he pleases has found the keys to the</p>
+<p>Prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it. Malachi 3: 10 The windows of heaven may not be opened and the treasures seized by a strong will, but they open of themselves and present their treasures as a free gift - a gift that comes when absorption reaches such a degree that it results in a feeling of complete acceptance. The passage from your present state to the feeling of your wish fulfilled is not across a gap. There is continuity between the so-called real and unreal. To cross from one state to the other, you simply extend your feelers, trust your touch , and enter fully into the spirit of what you are doing. Not by might nor by power but by my spirit, saith the Lord of hosts.</p>
+<p>54</p>
+<p>The Power of Awareness</p>
+<p>Assume the spirit, the feeling of the wish ful filled , and you will have opened the windows to receive the blessing. To assume a state is to get into the spirit of it. Your triumphs will be a surprise only to those who did not know your hidden passage from the state of longing to the assumption of the wish fulfilled. The Lord of hosts will not respond to your wish until you have assumed the feeling of already being what you want to be , for acceptance is the channel of His action. Acceptance is the Lord of hosts in action.</p>
+<p>;1:</p>
+<p>Chapter Fourteen THE EFFORTLESS WAY</p>
+<p>T</p>
+<p>H E PRINCIPLE of &quot;Least Action&quot; governs every-</p>
+<p>thing in physics from the path of a planet to the path of a pulse of light. Least Action is the minimum of energy, multiplied by the minimum of time. Therefore, in moving from your present state to the state desired , you must use the minimum of energy and take the shortest possible time. Your journey from one state of consciousness to another is a psychological one, so, to make the journey , you must employ the psychological equivalent of &quot; Least Action ,&quot; and the psychological equivalent is mere assumption . The day you fully realize the power of assumption, you discover that it works in complete conformity with this principle. It works by means of attention , minus effort. Thus , with least action through an assumption you hurry without haste and reach your goal without effort.</p>
+<p>The Effortless Way</p>
+<p>Because creation is finished , what you desire already exists. It is excluded from view because you can see only the contents of your own consciousness. It is the function of an assumption to call back the excluded view and restore full vision. It is not the world but your assumptions that change. An assumption brings the invisible into sight. It is nothing more nor less than seeing with the eye of God , i.e ., imagination.</p>
+<p>the law of assumption. The future becomes the present when you imagine that you already are what you will be when your assumption is fulfilled. Be still (least action) and know that you are that which you desire to be. The end of longing should be Being. Translate your dream into Being. Perpetual construction of future states without the consciousness of already being them, that is, picturing your desire without actually assuming the feeling of the wish fulfilled , is the fallacy and mirage of .m an kin d . It is simply futile day-dreaming.</p>
+<p>For the Lord seeth not as a man seeth , for man looketh on the outward appearance, but the Lord looketh on the heart.</p>
+<p>I</p>
+<p>,</p>
+<p>I</p>
+<p>I&#39; II</p>
+<p>I</p>
+<p>57</p>
+<p>The Power of Awareness</p>
+<p>56</p>
+<p>The heart is the primary organ of sense, hence the first cause of experience. When you look &quot;on the heart&quot; you are looking at your assumptions: assumptions determine your experience . Watch your assumption with all diligence for out of it are the issues of life. Assumptions have the power of objective realization . Every event in the visible world is the result of an assumption or idea in the unseen world. The present moment is all-important , for it is only in the present moment that our assumptions can be controlled. The future must become the present in your mind if you would wisely operate</p>
+<p>Chapter Fifteen</p>
+<p>THE CROWN OF THE MYSTERIES</p>
+<p>T</p>
+<p>&#39;I&#39; :&#39;</p>
+<p>r</p>
+<p>H E ASSUMPTION of the wish fulfilled is the ship</p>
+<p>that carries you over the unknown seas to the fulfillment of your dream . The assumption is everything; realization is subconscious and effortless. Assume a virtue if you have it not. Act on the assumption that you already possess that which you sought. Blessed is she that believed; for there shall be a performance of those things which were told her from the Lord. As the Immaculate Conception* is the foundation of the Christian mysteries, so the Assumption&#39;[ is</p>
+<p>I</p>
+<p>~</p>
+<p>&quot;Mary&#39;s birth without Original Sin . However, Neville seems to have in mind the Virgin Birth of Jesus. - Ed. tThe taking up of the body (usually, the body of Mary) into heaven. - Ed .</p>
+<p>60</p>
+<p>I I~</p>
+<p>The Power of Awareness</p>
+<p>their crown. Psychologically the Immaculate Conception means the birth of an idea in your own consciousness unaided by another. For instance ~~en y?u have a specific wish or hunger or longing: It IS an Immaculate conception in the sense that no physical person or thing plants it in your mind. It IS self-conceived. Every man is the Mary of the Immaculate Conception and birth to his idea must give. * The Assumption is the crown of the mysteries because it is the highest use of consciousness. When in i~agination you assume the feeling of the wish fulfilled, you are mentally lifted up to a higher level. When, through your persistence, this ass~mption becomes actual fact, you automatically fm~ yourself on a higher level (that is, you have achieved your desire) in your objective world. Your as~umption guides all your conscious and subcon~Clo~S movements towards its suggested end so mevItably that it actually dictates the events. The drama of life is a psychological one and the who I.e of it is written and produced by your assumptzons. Learn the art of assumption, for only in this way can you create your own happiness. .:Stylistic in~ersio.n deriving from quotation not cited; and must give birth to his idea.&quot; - Ed.</p>
+<p>=</p>
+<p>Chapter Sixteen PERSONAL IMPOTENCE ELF-SURRENDER IS essential, and by that is meant the confession of personal impotence.</p>
+<p>S</p>
+<p>I can of mine own self do nothing. Since creation is finished, it is impossible to force anything into being. The example of magnetism previously given is a good illustration. You cannot make magnetism; it can only be displayed. You cannot make the law of magnetism. If you want to build a magnet, you can do so only by conforming to the law of magnetism. In ether words, you surrender yourself, or yield to the law. In like manner, when you use the faculty of assumption, you are conforming to a law just as real as the law governing magnetism. You can neither create nor change the law ofassumption. It is in this respect that you are impotent. You can only yield or conform, and</p>
+<p>&#39;I</p>
+<p>62</p>
+<p>&quot;</p>
+<p>The Power of Awareness</p>
+<p>since all.of your experiences are the result of your assumptions ~consciously or unconsciously) , the value of conscIOusly using the power of assumption surely must be obvious . Willingly identify yourself with that which &#39; . you most d esire, kn?wmg that it will find expression through you. YIeld to the feeling of the wish fulfilled and be consumed as its victim, then rise as the prophet of the law of assumption.</p>
+<p>Chapter Seventeen ALL THINGS ARE POSSIBLE IS of great significance that the truth of the principles outlined in this book have been proven time and again by the personal experiences of the Author. Throughout the past twenty-five years he has applied these principles and proved them successful in innumerable instances. He attributes to an unwavering assumption of his wish already being fulfilled every success that he has achieved. He was confident that by these fixed assumptions his desires were predestined to be fulfilled. Time and again he assumed the feeling of his wish fulfilled and continued in his assumption until that which he desired was completely realized. Live your life in a sublime spirit of confidence and determination ; disregard appearances, conditions, in fact all evidence of your senses that deny the fulfillment of your desire. Rest in the assumption that you are already what you want to be, for</p>
+<p>I</p>
+<p>T</p>
+<p>64</p>
+<p>The Power of Awareness</p>
+<p>in that determined assumption you and your Infinite Being are merged in creative unity, and with your Infinite Being (God) all things are possible . God never fails. For who can stay…</p></div>
+</section>
+<section class="final-cta">
+<h2>Chat with Neville about “The Power Of Awareness”</h2>
+<p>Ask questions and get answers grounded in Neville&#39;s actual text — chapter by chapter, idea by idea. Create a free account to begin.</p>
+<a class="cta-btn cta-btn-lg" rel="nofollow" href="/app/?doc=1952_the_power_of_awareness&ask=What%20is%20the%20difference%20between%20thinking%20'of'%20my%20desire%20and%20thinking%20'from'%20it%2C%20according%20to%20The%20Power%20of%20Awareness%3F">Start chatting →</a>
+</section>
+<section class="app-promo">
+<img class="app-promo-icon" src="/neville-goddard-icon.png" width="60" height="60" alt="" loading="lazy">
+<div class="app-promo-copy">
+<h2>Your Neville coach, in your pocket</h2>
+<p>Chat with the Neville Advisor, follow guided SATS &amp; the full technique library, get reminders &amp; daily check-ins that text you, and stream 100+ original recordings — free to start.</p>
+</div>
+<div class="app-promo-cta"><div class="store-badge-row"><a class="app-badge badge-lg" href="https://apps.apple.com/app/id6776458105" target="_blank" rel="noopener" aria-label="Download Neville AI on the App Store"><img src="/download-on-the-app-store.svg" alt="Download on the App Store" width="144" height="48" loading="lazy"></a><a class="app-badge app-badge-play badge-lg" href="https://play.google.com/store/apps/details?id=com.mynevillegoddard.app" target="_blank" rel="noopener" aria-label="Get Neville AI on Google Play"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="168" height="65" loading="lazy"></a></div></div>
+</section>
+<div class="lastmod">Source-checked against Neville Goddard's lectures &amp; books · 2026-06-01.</div>
+</article><aside class="rail">
+<div class="chat-module">
+<h4>Chat With This Book</h4>
+<p>Ask questions directly to &quot;The Power Of Awareness&quot; and receive answers grounded in Neville&#39;s actual text. Premium access may be required for full book chat.</p>
+<a class="q" rel="nofollow" href="/app/?doc=1952_the_power_of_awareness&ask=What%20is%20the%20difference%20between%20thinking%20'of'%20my%20desire%20and%20thinking%20'from'%20it%2C%20according%20to%20The%20Power%20of%20Awareness%3F">What is the difference between thinking &#39;of&#39; my desire and thinking &#39;from&#39; it, according to The Power of Awareness?</a><a class="q" rel="nofollow" href="/app/?doc=1952_the_power_of_awareness&ask=How%20does%20Neville%20Goddard%20explain%20the%20concept%20that%20'creation%20is%20finished'%20in%20The%20Power%20of%20Awareness%3F">How does Neville Goddard explain the concept that &#39;creation is finished&#39; in The Power of Awareness?</a><a class="q" rel="nofollow" href="/app/?doc=1952_the_power_of_awareness&ask=What%20is%20the%20role%20of%20attention%20in%20the%20process%20of%20assumption%20described%20in%20The%20Power%20of%20Awareness%3F">What is the role of attention in the process of assumption described in The Power of Awareness?</a><a class="q" rel="nofollow" href="/app/?doc=1952_the_power_of_awareness&ask=Explain%20the%20principle%20of%20'Least%20Action'%20as%20it%20applies%20to%20changing%20one's%20state%20of%20consciousness.">Explain the principle of &#39;Least Action&#39; as it applies to changing one&#39;s state of consciousness.</a>
+<form action="/app/" method="get">
+<input type="hidden" name="doc" value="1952_the_power_of_awareness">
+<input type="text" name="ask" placeholder="Ask a question…" aria-label="Ask a question">
+<button type="submit">Ask</button>
+</form>
+<div class="note">Create a free account to continue. Upgrade to study the full Neville archive with AI.</div>
+</div>
+<div class="box"><div class="related-block"><h4>Related Lectures</h4><ul><li><a href="/lectures/consciousness-is-the-only-reality">Consciousness Is The Only Reality</a></li><li><a href="/lectures/no-one-to-change-but-self">No One To Change But Self</a></li><li><a href="/lectures/remain-faithful-to-your-idea">Remain Faithful To Your Idea</a></li><li><a href="/lectures/q-a-1948-lessons">Questions And Answers</a></li><li><a href="/lectures/assumptions-harden-into-facts">Assumptions Harden Into Fact</a></li><li><a href="/lectures/thinking-fourth-dimensionally">Thinking Fourth-Dimensionally</a></li></ul></div><div class="related-block"><h4>Related Books</h4><ul><li><a href="/books/how-to-manifest-your-desires">How To Manifest Your Desires</a></li><li><a href="/books/out-of-this-world">Out Of This World</a></li><li><a href="/books/the-creative-use-of-imagination">The Creative Use Of Imagination</a></li><li><a href="/books/seedtime-and-harvest">Seedtime And Harvest</a></li></ul></div><div class="related-block"><h4>Related Teachings</h4><ul><li><a href="/teachings/law-of-assumption">Law of Assumption</a></li><li><a href="/teachings/consciousness">Consciousness</a></li><li><a href="/teachings/desire">Desire</a></li><li><a href="/teachings/i-am">I AM</a></li><li><a href="/teachings/imagination">Imagination</a></li><li><a href="/teachings/states">States</a></li></ul></div><div class="related-block"><h4>Related Word Studies</h4><ul><li><a href="/word-studies/assumption">Assumption</a></li><li><a href="/word-studies/consciousness">Consciousness</a></li><li><a href="/word-studies/imagination">Imagination</a></li><li><a href="/word-studies/feeling">Feeling</a></li><li><a href="/word-studies/state">State</a></li><li><a href="/word-studies/desire">Desire</a></li></ul></div><div class="related-block"><h4>Related Bible Interpretations</h4><ul><li><a href="/bible/john/14-2">John 14:2</a></li><li><a href="/bible/joel/3-10">Joel 3:10</a></li><li><a href="/bible/matthew/6-33">Matthew 6:33</a></li></ul></div><div class="related-block"><h4>Recommended Study Paths</h4><ul><li><a href="/study-paths/how-to-study-neville-goddard">How to Study Neville Goddard</a></li><li><a href="/study-paths/beginner-neville-goddard-lectures">Beginner Neville Goddard Lectures</a></li><li><a href="/study-paths/neville-goddard-on-law-of-assumption">Neville Goddard on the Law of Assumption</a></li></ul></div></div>
+</aside></div></div></main><footer class="site"><div class="wrap">
+<div class="foot-app"><span class="foot-app-label">Take the study with you</span><div class="store-badge-row"><a class="app-badge" href="https://apps.apple.com/app/id6776458105" target="_blank" rel="noopener" aria-label="Download Neville AI on the App Store"><img src="/download-on-the-app-store.svg" alt="Download on the App Store" width="144" height="48" loading="lazy"></a><a class="app-badge app-badge-play" href="https://play.google.com/store/apps/details?id=com.mynevillegoddard.app" target="_blank" rel="noopener" aria-label="Get Neville AI on Google Play"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="168" height="65" loading="lazy"></a></div></div>
+<div class="foot-meta">
+<div>© My Neville Goddard — a source archive of Neville Goddard's lectures &amp; books.</div>
+<div>Last updated 2026-06-01 · <a href="/help">Help</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a href="/support">Support</a> · <a href="/delete-account">Delete Account</a> · <a href="/sitemap.xml">Sitemap</a></div>
+</div>
+</div></footer></body></html>

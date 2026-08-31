@@ -1,0 +1,12 @@
+{
+  "core_books_total": 14,
+  "core_books_completed": 14,
+  "supplementary_total": 3,
+  "supplementary_completed": 0,
+  "lecture_records_discovered": 235,
+  "canonical_lectures_after_dedup": 234,
+  "lectures_completed": 0,
+  "last_completed_id": "B014",
+  "next_pending_id": "S001",
+  "updated_at": "2026-08-31T06:04:02.280471+00:00"
+}
