@@ -1,0 +1,19 @@
+{
+  "work": "Christ Unveiled",
+  "corpus_id": "L0038",
+  "canonical_date": "1963-03-15",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_christ_unveiled.txt",
+  "canonical_source_paragraphs": 34,
+  "source_paragraphs_reviewed": 34,
+  "raw_worker_windows_generated": 671,
+  "retained_worker_windows": 645,
+  "worker_rejected": 26,
+  "raw_duplicate_groups": 31,
+  "select_fragments": 0,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Christ Unveiled]/curated_christ_unveiled.jsonl",
+  "decisions_file": "[Christ Unveiled]/editorial_decisions_christ_unveiled.jsonl",
+  "review_file": "[Christ Unveiled]/editorial_review_christ_unveiled.md"
+}
