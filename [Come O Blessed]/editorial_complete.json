@@ -1,0 +1,19 @@
+{
+  "work": "Come O Blessed",
+  "corpus_id": "L0040",
+  "canonical_date": "1967-11-10",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_come_o_blessed.txt",
+  "canonical_source_paragraphs": 25,
+  "source_paragraphs_reviewed": 25,
+  "raw_worker_windows_generated": 307,
+  "retained_worker_windows": 303,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 22,
+  "select_fragments": 0,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Come O Blessed]/curated_come_o_blessed.jsonl",
+  "decisions_file": "[Come O Blessed]/editorial_decisions_come_o_blessed.jsonl",
+  "review_file": "[Come O Blessed]/editorial_review_come_o_blessed.md"
+}
