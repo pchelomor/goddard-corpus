@@ -1,0 +1,19 @@
+{
+  "work": "Biblical Language",
+  "corpus_id": "L0027",
+  "canonical_date": "1969-09-26",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_biblical_language.txt",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": 361,
+  "retained_worker_windows": 351,
+  "worker_rejected": 10,
+  "raw_duplicate_groups": 29,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Biblical Language]/curated_biblical_language.jsonl",
+  "decisions_file": "[Biblical Language]/editorial_decisions_biblical_language.jsonl",
+  "review_file": "[Biblical Language]/editorial_review_biblical_language.md"
+}
