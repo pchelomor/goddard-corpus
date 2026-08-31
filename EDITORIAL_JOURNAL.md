@@ -1,6 +1,6 @@
 # Editorial Journal — Neville Goddard Corpus
 
-This journal tracks the strict book-by-book review defined in `EDITORIAL_POLICY.md`.
+This journal tracks the strict book-by-book and work-by-work review defined in `EDITORIAL_POLICY.md`.
 
 ## Decision vocabulary
 - **SELECT** — main curated corpus / daily-pool candidate.
@@ -15,7 +15,7 @@ This journal tracks the strict book-by-book review defined in `EDITORIAL_POLICY.
 | At Your Command | COMPLETE | 110 paragraphs / 711 raw windows | 20 | 67 | 23 | `[At Your Command]/curated_at_your_command.jsonl` |
 | Awakened Imagination | COMPLETE | 8 chapters / 504 paragraphs / 1,232 raw windows | 36 | section-level | section-level | `[Awakened Imagination]/curated_awakened_imagination.jsonl` |
 | Freedom For All | COMPLETE | Intro + 9 chapters / 323 paragraphs / 841 raw windows | 32 | section-level | section-level | `[Freedom For All]/curated_freedom_for_all.jsonl` |
-| He Breaks The Shell | TODO | — | — | — | — | — |
+| He Breaks The Shell | COMPLETE | 98 paragraphs / 188 raw windows | 0 | section-level | section-level | `[He Breaks The Shell]/curated_he_breaks_the_shell.jsonl` |
 | I Know My Father | TODO | — | — | — | — | — |
 | Out Of This World | TODO | — | — | — | — | — |
 | Prayer, The Art Of Believing | TODO | — | — | — | — | — |
@@ -25,6 +25,20 @@ This journal tracks the strict book-by-book review defined in `EDITORIAL_POLICY.
 | The Power Of Awareness | TODO | — | — | — | — | — |
 | The Search | TODO | — | — | — | — | — |
 | Your Faith Is Your Fortune | TODO | — | — | — | — | — |
+
+## Repository-wide editorial queue
+
+The extraction corpus is now much larger than the original book-only journal. `corpus_progress.json` reports **252 extraction-complete corpus items**: 14 core books, 3 supplementary works, and 235 canonical lectures.
+
+To avoid manual journal maintenance and bureaucratic stops, the strict editorial queue is now **dynamic**:
+
+1. every top-level work folder represented in the completed corpus is considered queued when it has source/worker outputs and does not yet have a completed strict editorial layer;
+2. newly added work folders are therefore automatically eligible without requiring a hand-written row here first;
+3. the legacy book rows above remain as the current priority sequence;
+4. once those are exhausted, the queue continues through the remaining completed works/lectures from the repository tree/registry;
+5. a work is removed from the pending queue only after its strict editorial outputs are written and the review is marked complete.
+
+The current repository tree already contains many newly added works beyond the original book list, including `A Divine Event`, `A Lesson In Scripture`, `A Movement Of Mind`, `Mental Diets`, the five lesson transcripts, numerous later lectures, and many Promise-focused works. These are now covered by the dynamic queue rule rather than requiring individual manual insertion before processing.
 
 ## 2026-08-31 — Feeling Is the Secret
 Completed the first hard editorial pass.
@@ -129,6 +143,34 @@ Files written in the work folder:
 - `curated_freedom_for_all.jsonl`
 - `editorial_decisions_freedom_for_all.jsonl`
 - `editorial_review_freedom_for_all.md`
+- `editorial_complete.json`
+
+Raw candidate and source files were not changed.
+
+## 2026-08-31 — He Breaks The Shell
+Completed a source-first hard editorial pass across the complete 1964 monograph: Introduction + Acts 1–4 + Conclusion.
+
+Why source-first remained appropriate:
+- the worker retained 188 candidate windows from 98 canonical paragraphs;
+- 34 duplicate groups showed enough overlap that the canonical text remained the authoritative review unit;
+- the work is overwhelmingly Promise/spiritual material, so standalone product suitability had to be judged against the stricter automatic-pool policy rather than historical importance alone.
+
+Result:
+- canonical paragraphs covered: 98 / 98;
+- SELECT exact fragments for the main automatic pool: 0;
+- substantive Promise material: HOLD at section level for a future spiritual/Promise opt-in layer;
+- scripture/external-dominant or weak standalone units: DROP at section level.
+
+Notable filtering:
+- Blake and pure scripture were excluded from Neville attribution;
+- resurrection-in-the-skull, supernatural birth, Davidic fatherhood, split-body/serpent, dove, and related mystical descriptions were retained contextually as HOLD rather than converted into context-free maxims;
+- categorical identity formulations about God, Christ, and man were held for an opt-in spiritual layer;
+- the empty curated file is intentional: this monograph is historically central but no fragment cleared the current main automatic-pool threshold without losing needed theological context.
+
+Files written in the work folder:
+- `curated_he_breaks_the_shell.jsonl` (intentionally empty main-pool shortlist)
+- `editorial_decisions_he_breaks_the_shell.jsonl`
+- `editorial_review_he_breaks_the_shell.md`
 - `editorial_complete.json`
 
 Raw candidate and source files were not changed.
