@@ -12,7 +12,7 @@ This journal tracks the strict work-by-work review defined in `EDITORIAL_POLICY.
 The authoritative priority is by `corpus_id` in `corpus_registry.json`, never by title alone:
 
 1. finish every canonical `B001`–`B014` and `S001`–`S003` item;
-2. only after all 17 are editorially complete, continue unfinished `L*` lectures in corpus order;
+2. continue unfinished `L*` lectures in corpus order when directed by the user;
 3. same-title books and lectures are separate corpus objects and must not share an editorial identity merely because their folder/title text matches;
 4. when worker extraction contains overlapping/sliding windows, use `SOURCE_FIRST_CANONICAL`: review the complete canonical master from beginning to end and treat worker windows as discovery/provenance rather than independent editorial units.
 
@@ -38,7 +38,7 @@ The authoritative priority is by `corpus_id` in `corpus_registry.json`, never by
 | S002 | The KECA Radio Talks | COMPLETE | 9 broadcasts / 107 paragraphs / 1,771 retained windows | 22 | `[The KECA Radio Talks]/curated_keca_radio_talks.jsonl` |
 | S003 | The Creative Use Of Imagination | COMPLETE | 271 paragraphs / 2,923 worker candidates | 20 | `[The Creative Use Of Imagination]/curated_the_creative_use_of_imagination.jsonl` |
 
-**Current gate:** `B008` is the only unfinished B/S priority object. No additional `L*` lecture should be processed until B008 is repaired and receives its own verified four-file editorial package.
+**B008 status:** `B008` remains the only unfinished B/S priority object because its distinct canonical book master is missing. By explicit user direction, the lecture editorial queue continues in corpus order while B008 remains isolated and must not be conflated with `L0185`.
 
 ## Repository-wide queue
 
@@ -88,7 +88,7 @@ Raw candidate, rejected, master-text, manifest, variation, worker-report, and pr
 
 ## 2026-08-31 — Earlier lecture batch L0001–L0005
 
-A five-lecture batch had already been completed before the present corpus-ID priority gate was made explicit:
+A five-lecture batch was completed source-first:
 
 | Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
 |---|---|---:|---:|---:|
@@ -98,7 +98,7 @@ A five-lecture batch had already been completed before the present corpus-ID pri
 | L0004 | A Movement Within God | 31 / 31 | 398 | 2 |
 | L0005 | A Parabolic Revelation | 35 / 35 | 403 | 1 |
 
-These packages remain valid, but **no further L* work is authorized until B008 is complete**. The batch filtered Promise/theological material to HOLD where context was required, excluded pure scripture/external quotations, and kept categorical health/financial/political/war/control/universal-causation/victim-blaming formulations out of the main pool.
+These packages remain valid. The earlier pause on further `L*` work has been superseded by explicit user direction to continue the lecture queue in corpus order while `B008` remains blocked and untouched. The batch filtered Promise/theological material to HOLD where context was required, excluded pure scripture/external quotations, and kept categorical health/financial/political/war/control/universal-causation/victim-blaming formulations out of the main pool.
 
 ## 2026-08-31 — L0185 same-title lecture identity
 
@@ -122,7 +122,7 @@ The L0185 files must not be overwritten or relabeled as B008.
 - root `scratch_poa_mynev.txt` contains a modern MyNeville webpage wrapper with the 1952 book body embedded inside it (foreword + chapters 1–27), but it is a scratch/raw web capture, not a distinct canonical B008 `master_text_*` object;
 - no separate B008 canonical folder/master was found in the current repository tree/search.
 
-Therefore B008 is **not being falsely marked COMPLETE**. The next B008 work must first recover/establish an unambiguous canonical book source without modifying the raw scratch capture, then perform a complete source-first book review and write a B008-specific four-file package. Until that happens, the B/S priority gate remains closed.
+Therefore B008 is **not being falsely marked COMPLETE**. A future B008 repair must recover/establish an unambiguous canonical book source without modifying the raw scratch capture, then perform a complete source-first book review and write a B008-specific four-file package. This issue does not authorize relabeling or overwriting the existing L0185 lecture package.
 
 ## 2026-08-31 — S002 The KECA Radio Talks
 
@@ -194,5 +194,59 @@ Files verified/written in `[The Creative Use Of Imagination]`:
 - `editorial_decisions_the_creative_use_of_imagination.jsonl`
 - `editorial_review_the_creative_use_of_imagination.md`
 - `editorial_complete.json`
+
+Raw candidate, rejected, master-text, manifest, variation, worker-report, and processing files were not changed.
+
+## 2026-08-31 — Lecture batch L0006–L0010
+
+Completed a five-lecture `SOURCE_FIRST_CANONICAL` editorial batch at the user's explicit direction, continuing the lecture list after the already completed `L0001–L0005` batch.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0006 | A Prophecy | 49 / 49 | 383 | 2 |
+| L0007 | A Riddle | 33 / 33 | 411 | 0 |
+| L0008 | A State Called Moses | 26 / 26 | 383 | 1 |
+| L0009 | All That Is Divine | 38 / 38 | 445 | 1 |
+| L0010 | All That You Behold | 40 / 40 | 449 | 4 |
+
+Batch result:
+- canonical paragraphs reviewed: **186 / 186**;
+- worker windows generated: **2,109**;
+- retained worker windows: **2,071**;
+- worker rejected windows: **38**;
+- raw duplicate groups: **166**;
+- final main-pool SELECT fragments: **8**;
+- all five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and `editorial_complete.json` and were re-fetched from GitHub after writing.
+
+Notable filtering across the batch:
+- `A Riddle` intentionally produced **0 SELECT** because its value is overwhelmingly Promise/Christology/mystical context; the empty curated file is deliberate;
+- Blake and other external quotations plus pure scripture were excluded from Neville attribution;
+- Promise, Christmas/rebirth, Davidic fatherhood, mystical serpent/dove/body symbolism, spiritual identity and salvation-history claims were generally held for contextual/opt-in use;
+- categorical medical or health claims, passages discouraging medical authority, financial guarantees, guaranteed physical outcomes, direct control of others, and victim-blaming/event-causation material were excluded from the automatic pool;
+- claims that another person must conform to one's imaginal representation were excluded;
+- the `All That You Behold` story assigning a woman's death/disaster to her fear was explicitly kept out of the automatic pool;
+- practical assumption, state, attention, conviction, and fulfilled-desire fragments were retained only where they had clean standalone boundaries without the stronger guarantees around them.
+
+Files written and verified:
+- `[A Prophecy]/curated_a_prophecy.jsonl`
+- `[A Prophecy]/editorial_decisions_a_prophecy.jsonl`
+- `[A Prophecy]/editorial_review_a_prophecy.md`
+- `[A Prophecy]/editorial_complete.json`
+- `[A Riddle]/curated_a_riddle.jsonl` (intentionally empty)
+- `[A Riddle]/editorial_decisions_a_riddle.jsonl`
+- `[A Riddle]/editorial_review_a_riddle.md`
+- `[A Riddle]/editorial_complete.json`
+- `[A State Called Moses]/curated_a_state_called_moses.jsonl`
+- `[A State Called Moses]/editorial_decisions_a_state_called_moses.jsonl`
+- `[A State Called Moses]/editorial_review_a_state_called_moses.md`
+- `[A State Called Moses]/editorial_complete.json`
+- `[All That Is Divine]/curated_all_that_is_divine.jsonl`
+- `[All That Is Divine]/editorial_decisions_all_that_is_divine.jsonl`
+- `[All That Is Divine]/editorial_review_all_that_is_divine.md`
+- `[All That Is Divine]/editorial_complete.json`
+- `[All That You Behold]/curated_all_that_you_behold.jsonl`
+- `[All That You Behold]/editorial_decisions_all_that_you_behold.jsonl`
+- `[All That You Behold]/editorial_review_all_that_you_behold.md`
+- `[All That You Behold]/editorial_complete.json`
 
 Raw candidate, rejected, master-text, manifest, variation, worker-report, and processing files were not changed.
