@@ -20,11 +20,11 @@ The authoritative priority is by `corpus_id` in `corpus_registry.json`, never by
 
 | Corpus ID | Work | Status | Canonical coverage | SELECT | Output / note |
 |---|---|---:|---:|---:|---|
-| B004 | Feeling Is the Secret | COMPLETE | strict completed pass | 29 | `Feeling Is the Secret/curated_feeling_is_the_secret.jsonl` |
+| B001 | At Your Command | COMPLETE | 110 paragraphs / 711 worker candidates | 20 | `[At Your Command]/curated_at_your_command.jsonl` |
 | B002 | Your Faith Is Your Fortune | COMPLETE | 1,046 paragraphs / 2,279 worker candidates | 35 | `[Your Faith Is Your Fortune]/curated_your_faith_is_your_fortune.jsonl` |
 | B003 | Freedom For All | COMPLETE | 323 paragraphs / 841 worker candidates | 32 | `[Freedom For All]/curated_freedom_for_all.jsonl` |
+| B004 | Feeling Is the Secret | COMPLETE | strict completed pass | 29 | `Feeling Is the Secret/curated_feeling_is_the_secret.jsonl` |
 | B005 | Prayer, The Art Of Believing | COMPLETE | 192 paragraphs / 700 worker candidates | 21 | `[Prayer, The Art Of Believing]/curated_prayer_the_art_of_believing.jsonl` |
-| B001 | At Your Command | COMPLETE | 110 paragraphs / 711 worker candidates | 20 | `[At Your Command]/curated_at_your_command.jsonl` |
 | B006 | The Search | COMPLETE | 43 paragraphs / 150 worker candidates | 12 | `[The Search]/curated_the_search.jsonl` |
 | B007 | Out Of This World | COMPLETE | 189 paragraphs / 493 worker candidates | 20 | `[Out Of This World]/curated_out_of_this_world.jsonl` |
 | B008 | The Power Of Awareness (book) | **BLOCKED / UNFINISHED** | canonical book `master_text_*` not present as a distinct book object | — | same-title collision with `L0185`; see issue note below |
@@ -37,7 +37,6 @@ The authoritative priority is by `corpus_id` in `corpus_registry.json`, never by
 | S001 | Five Lessons (Master Class) | COMPLETE | 6 sections / 858 paragraphs / 4,516 retained windows | 19 | `[Five Lessons]/curated_five_lessons.jsonl` |
 | S002 | The KECA Radio Talks | COMPLETE | 9 broadcasts / 107 paragraphs / 1,771 retained windows | 22 | `[The KECA Radio Talks]/curated_keca_radio_talks.jsonl` |
 | S003 | The Creative Use Of Imagination | COMPLETE | 271 paragraphs / 2,923 worker candidates | 20 | `[The Creative Use Of Imagination]/curated_the_creative_use_of_imagination.jsonl` |
-
 **B008 status:** `B008` remains the only unfinished B/S priority object because its distinct canonical book master is missing. By explicit user direction, the lecture editorial queue continues in corpus order while B008 remains isolated and must not be conflated with `L0185`.
 
 ## Repository-wide queue
@@ -68,11 +67,11 @@ Across the corpus, strict review continues to enforce these rules:
 
 The following core/supplementary passes were completed under the strict policy before the current priority audit and retain their existing four-file editorial packages:
 
-- `B004` Feeling Is the Secret — 29 SELECT; mixed scripture and categorical medical material excluded from the automatic pool.
+- `B001` At Your Command — 20 SELECT from 110 canonical paragraphs; 711 overlapping worker windows collapsed source-first.
 - `B002` Your Faith Is Your Fortune — 35 SELECT from 1,046 canonical paragraphs; full `SOURCE_FIRST_CANONICAL` package verified.
 - `B003` Freedom For All — 32 SELECT from 323 canonical paragraphs; scripture-dominant allegory and categorical healing/financial/universal-blame material excluded or held.
+- `B004` Feeling Is the Secret — 29 SELECT; mixed scripture and categorical medical material excluded from the automatic pool.
 - `B005` Prayer, The Art Of Believing — 21 SELECT from 192 canonical paragraphs; telepathy/hypnosis/control, categorical cure claims, pseudo-scientific and victim-blaming material excluded or held.
-- `B001` At Your Command — 20 SELECT from 110 canonical paragraphs; 711 overlapping worker windows collapsed source-first.
 - `B006` The Search — 12 SELECT from 43 canonical paragraphs; completed package exists even though an older journal table previously still showed TODO.
 - `B007` Out Of This World — 20 SELECT from 189 canonical paragraphs; literal fourth-dimensional/precognition/bilocation claims and control-of-others material held or excluded.
 - `B009` Awakened Imagination — 36 SELECT from 504 canonical paragraphs; chapter 8 Promise/spiritual material reserved for contextual use.
@@ -83,7 +82,6 @@ The following core/supplementary passes were completed under the strict policy b
 - `B014` He Breaks The Shell — 0 SELECT intentionally; Promise material retained for an opt-in spiritual layer.
 - `S001` Five Lessons (Master Class) — 19 SELECT after a complete six-section / 858-paragraph source-first reread; a provisional larger shortlist was reduced and the embedded self-reprint from `The Search` was not duplicated.
 - `S002` The KECA Radio Talks — 22 SELECT after a complete nine-broadcast / 107-paragraph source-first reread; the provisional 27-fragment shortlist was tightened and the audit was upgraded to broadcast-level decisions.
-
 Raw candidate, rejected, master-text, manifest, variation, worker-report, and processing files for these completed works were not changed by editorial review.
 
 ## 2026-08-31 — Earlier lecture batch L0001–L0005
