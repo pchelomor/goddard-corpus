@@ -1,0 +1,6 @@
+{"source_scope":"INTRO","decision":"DROP","coverage_complete":true,"reason_codes":["EXTERNAL_BLAKE_OPENING","SCRIPTURE_DOMINANT","CONTEXT_DEPENDENT_THEOLOGY"],"selected_quote_ids":[]}
+{"source_scope":"ACT_1","decision":"HOLD","coverage_complete":true,"reason_codes":["PROMISE_SPIRITUAL_OPT_IN","SCRIPTURE_HEAVY","STRONG_LITERAL_METAPHYSICAL_CLAIMS","LONG_MYSTICAL_EXPERIENCE"],"selected_quote_ids":[]}
+{"source_scope":"ACT_2","decision":"HOLD","coverage_complete":true,"reason_codes":["PROMISE_SPIRITUAL_OPT_IN","SCRIPTURE_DEPENDENT_DAVID_FATHERHOOD","LOW_MAIN_POOL_STANDALONE_SUITABILITY"],"selected_quote_ids":[]}
+{"source_scope":"ACT_3","decision":"HOLD","coverage_complete":true,"reason_codes":["PROMISE_SPIRITUAL_OPT_IN","SUPERNATURAL_VISION_DESCRIPTION","SCRIPTURE_DEPENDENT_SYMBOLISM"],"selected_quote_ids":[]}
+{"source_scope":"ACT_4","decision":"HOLD","coverage_complete":true,"reason_codes":["PROMISE_SPIRITUAL_OPT_IN","SUPERNATURAL_VISION_DESCRIPTION","SCRIPTURE_DEPENDENT_SYMBOLISM"],"selected_quote_ids":[]}
+{"source_scope":"CONCLUSION","decision":"HOLD","coverage_complete":true,"reason_codes":["PROMISE_SPIRITUAL_OPT_IN","STRONG_METAPHYSICAL_IDENTITY_CLAIMS","SCRIPTURE_DEPENDENT","VALUABLE_ARCHIVAL_CORE_BUT_NOT_AUTOMATIC_POOL"],"selected_quote_ids":[]}
