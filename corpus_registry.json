@@ -629,10 +629,10 @@
     "title": "All Things are Possible (1967)",
     "normalized_title": "allthingsarepossible1967",
     "year": 1967,
-    "full_date": "1969-05-12",
-    "primary_source_url": "https://thenevillegoddard.com/lectures/all-things-are-possible/",
+    "full_date": "1967-11-03",
+    "primary_source_url": "https://realneville.com/txt/all_things_are_possible.htm",
     "alternate_sources": [
-      "http://realneville.com/txt/all_things_are_possible2.htm"
+      "https://mynevillegoddard.com/lectures/all-things-are-possible-1"
     ],
     "alternate_titles": [],
     "word_count": 1918,
@@ -652,9 +652,11 @@
     "title": "All Things are Possible (1969)",
     "normalized_title": "allthingsarepossible1969",
     "year": 1969,
-    "full_date": null,
+    "full_date": "1969-05-12",
     "primary_source_url": "https://thenevillegoddard.com/lectures/all-things-are-possible-2/",
-    "alternate_sources": [],
+    "alternate_sources": [
+      "https://realneville.com/txt/all_things_are_possible2.htm"
+    ],
     "alternate_titles": [],
     "word_count": 3820,
     "audio_available": false,
