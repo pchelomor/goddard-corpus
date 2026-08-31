@@ -1,0 +1,18 @@
+{
+  "work": "A State Called Moses",
+  "corpus_id": "L0008",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_a_state_called_moses.txt",
+  "raw_worker_windows_generated": 391,
+  "raw_worker_candidates": 383,
+  "worker_rejected": 8,
+  "canonical_source_paragraphs": 26,
+  "source_paragraphs_reviewed": 26,
+  "select_fragments": 1,
+  "raw_duplicate_groups": 23,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[A State Called Moses]/curated_a_state_called_moses.jsonl",
+  "decisions_file": "[A State Called Moses]/editorial_decisions_a_state_called_moses.jsonl",
+  "review_file": "[A State Called Moses]/editorial_review_a_state_called_moses.md"
+}
