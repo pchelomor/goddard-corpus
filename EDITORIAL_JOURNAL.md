@@ -417,3 +417,40 @@ Date/provenance notes:
 - `L0035` uses the exact date **1966-10-17**.
 
 All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
+
+## 2026-08-31 — Lecture batch L0036–L0040
+
+Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0036 | Christ In You | 32 / 32 | 439 | 2 |
+| L0037 | Christ Is Your Life | 42 / 42 | 374 | 0 |
+| L0038 | Christ Unveiled | 34 / 34 | 645 | 0 |
+| L0039 | Christmas-Man’s Birth as God | 53 / 53 | 350 | 0 |
+| L0040 | Come O Blessed | 25 / 25 | 303 | 0 |
+
+Batch result:
+- canonical paragraphs reviewed: **186 / 186**;
+- worker windows generated: **2,165**;
+- retained worker windows: **2,111**;
+- worker rejected windows: **54**;
+- raw duplicate groups: **162**;
+- final main-pool SELECT fragments: **2**.
+
+Notable filtering:
+- `L0036` contributes two clean Neville-only formulations: the habitual state to which thought returns as one’s dwelling place, and a fulfilled-desire self-inquiry framed through what one would hear, see, and experience. Promise/Christology, mystical David material, direct-other influence, categorical mental-health causation, guaranteed manifestation language, scripture/external wording, and weaker overlaps remain HOLD/DROP;
+- `L0037` intentionally produces **0 SELECT**. Its practical passages repeatedly depend on influencing other people, guaranteed outer correspondence, financial acquisition, or universal-causation framing; the remainder is predominantly Promise/Christology, prophetic vision, scripture interpretation, and supernatural identity material;
+- `L0038` intentionally produces **0 SELECT**. The lecture is overwhelmingly Promise/Christology and scriptural exegesis, while its concrete power demonstrations include literal immobilization/control of other people and a violent hypothetical, which are excluded rather than decontextualized;
+- `L0039` intentionally produces **0 SELECT**. It is primarily Christmas/Promise theology and mystical identity, and its later causal section makes categorical claims linking moods/reactions with influenza, cancer, pain, and other events, including victim-blaming/event-causation material;
+- `L0040` intentionally produces **0 SELECT**. Its main practical examples concern imagining financial or career outcomes for other people and treating inheritance, schooling, business ownership, or prosperity as causal confirmation; several material-help passages become misleading when isolated, and Blake/scripture wording is external;
+- no quota was imposed, and worker scores did not override source-first safety/authorship review.
+
+Date/provenance notes:
+- `L0036` uses the exact date **1969-05-06**;
+- `L0037` uses the exact date **1968-10-18**;
+- `L0038` editorial metadata uses registry `full_date` **1963-03-15**, while the pre-existing raw report/manifest retain `1963-01-01` as a year-level placeholder;
+- `L0039` has no registry `full_date`; repository `date: 1968-01-01` is retained only as a year-level placeholder, and the unusual physical folder spelling `[Christmas-Man’S Birth As God]` is preserved unchanged;
+- `L0040` uses the exact date **1967-11-10**.
+
+All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
