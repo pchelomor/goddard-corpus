@@ -1,0 +1,19 @@
+{
+  "work": "Christ Is Your Life",
+  "corpus_id": "L0037",
+  "canonical_date": "1968-10-18",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_christ_is_your_life.txt",
+  "canonical_source_paragraphs": 42,
+  "source_paragraphs_reviewed": 42,
+  "raw_worker_windows_generated": 380,
+  "retained_worker_windows": 374,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 41,
+  "select_fragments": 0,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Christ Is Your Life]/curated_christ_is_your_life.jsonl",
+  "decisions_file": "[Christ Is Your Life]/editorial_decisions_christ_is_your_life.jsonl",
+  "review_file": "[Christ Is Your Life]/editorial_review_christ_is_your_life.md"
+}
