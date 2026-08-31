@@ -18,7 +18,7 @@ This journal tracks the strict book-by-book and work-by-work review defined in `
 | He Breaks The Shell | COMPLETE | 98 paragraphs / 188 raw windows | 0 | section-level | section-level | `[He Breaks The Shell]/curated_he_breaks_the_shell.jsonl` |
 | I Know My Father | COMPLETE | 10 chapters / 177 paragraphs / 892 raw windows | 17 | section-level | section-level | `[I Know My Father]/curated_i_know_my_father.jsonl` |
 | Out Of This World | COMPLETE | 4 chapters / 189 paragraphs / 493 raw windows | 20 | section-level | section-level | `[Out Of This World]/curated_out_of_this_world.jsonl` |
-| Prayer, The Art Of Believing | TODO | — | — | — | — | — |
+| Prayer, The Art Of Believing | COMPLETE | 7 chapters / 192 paragraphs / 700 raw windows | 21 | section-level | section-level | `[Prayer, The Art Of Believing]/curated_prayer_the_art_of_believing.jsonl` |
 | Resurrection, A Confession Of Faith | TODO | — | — | — | — | — |
 | Seedtime And Harvest | TODO | — | — | — | — | — |
 | The Law And The Promise | TODO | — | — | — | — | — |
@@ -234,6 +234,38 @@ Files written in the work folder:
 - `curated_out_of_this_world.jsonl`
 - `editorial_decisions_out_of_this_world.jsonl`
 - `editorial_review_out_of_this_world.md`
+- `editorial_complete.json`
+
+Raw candidate and source files were not changed.
+
+## 2026-08-31 — Prayer, The Art Of Believing
+Completed a source-first hard editorial pass across the complete 1945 seven-chapter book.
+
+Why source-first remained appropriate:
+- the worker retained 700 candidate windows from 192 canonical paragraphs;
+- 89 duplicate groups showed substantial overlap and nested variants;
+- the complete canonical text was reviewed directly and final quote boundaries were taken from the source rather than worker sliding windows.
+
+Result:
+- canonical chapters reviewed: 7 / 7;
+- canonical paragraphs covered: 192 / 192;
+- SELECT exact fragments: 21;
+- strict SELECT density vs 700 retained worker candidates: 3.0%;
+- strict SELECT density vs 192 canonical paragraphs: 10.9%.
+
+Notable filtering:
+- the Tennyson epigraph, scripture, Augustine, and other external wording were excluded from Neville attribution;
+- repeated prayer, assumption, fulfilled-desire, imagination, attention, and inner-conversation windows were collapsed to preferred exact fragments;
+- pseudo-scientific reversibility, vibration, photophone, telepathy, and thought-transmission explanations were kept contextual rather than treated as scientific facts;
+- categorical cure claims, claims superior to medical treatment, remote healing, and passages that could discourage appropriate medical care were excluded from the automatic pool;
+- covert suggestion, hypnosis analogies, claims that another person cannot resist, deterministic free-will denial, and behavior-control passages were excluded or held;
+- sunburn-from-within, age/decay-as-sleeping-health, poverty-as-sleeping-wealth, victim-blaming, and malicious-thought-rebound claims were excluded;
+- `I AM Christ` and related mystical identity passages were held for a future spiritual opt-in layer.
+
+Files written in the work folder:
+- `curated_prayer_the_art_of_believing.jsonl`
+- `editorial_decisions_prayer_the_art_of_believing.jsonl`
+- `editorial_review_prayer_the_art_of_believing.md`
 - `editorial_complete.json`
 
 Raw candidate and source files were not changed.
