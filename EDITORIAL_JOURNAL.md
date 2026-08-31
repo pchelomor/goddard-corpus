@@ -21,7 +21,7 @@ This journal tracks the strict book-by-book and work-by-work review defined in `
 | Prayer, The Art Of Believing | COMPLETE | 7 chapters / 192 paragraphs / 700 raw windows | 21 | section-level | section-level | `[Prayer, The Art Of Believing]/curated_prayer_the_art_of_believing.jsonl` |
 | Resurrection, A Confession Of Faith | COMPLETE | 3 chapters / 168 paragraphs / 457 raw windows | 0 | section-level | section-level | `[Resurrection, A Confession Of Faith]/curated_resurrection_a_confession_of_faith.jsonl` |
 | Seedtime And Harvest | COMPLETE | 9 chapters / 360 paragraphs / 1,145 raw windows | 23 | section-level | section-level | `[Seedtime And Harvest]/curated_seedtime_and_harvest.jsonl` |
-| The Law And The Promise | TODO | — | — | — | — | — |
+| The Law And The Promise | COMPLETE | Intro + 15 chapters / 798 paragraphs / 3,036 raw windows | 34 | section-level | section-level | `[The Law And The Promise]/curated_the_law_and_the_promise.jsonl` |
 | The Power Of Awareness | TODO | — | — | — | — | — |
 | The Search | TODO | — | — | — | — | — |
 | Your Faith Is Your Fortune | TODO | — | — | — | — | — |
@@ -327,6 +327,38 @@ Files written in the work folder:
 - `curated_seedtime_and_harvest.jsonl`
 - `editorial_decisions_seedtime_and_harvest.jsonl`
 - `editorial_review_seedtime_and_harvest.md`
+- `editorial_complete.json`
+
+Raw candidate and source files were not changed.
+
+## 2026-08-31 — The Law And The Promise
+Completed a source-first hard editorial pass across the complete 1961 Introduction + 15 chapters.
+
+Why source-first remained appropriate:
+- the worker retained 3,036 candidate windows from 798 canonical paragraphs;
+- 357 duplicate groups showed very heavy sliding-window overlap;
+- the book contains extensive letters, testimonials, scripture, and external quotations, so canonical review was required to distinguish Neville's own prose from quoted or correspondent wording.
+
+Result:
+- canonical sections reviewed: Introduction + 15 chapters;
+- canonical paragraphs covered: 798 / 798;
+- SELECT exact Neville fragments: 34;
+- strict SELECT density vs 3,036 retained worker candidates: 1.1%;
+- strict SELECT density vs 798 canonical paragraphs: 4.3%.
+
+Notable filtering:
+- correspondent letters and testimonial wording were treated as context/evidence and were not attributed to Neville;
+- pure scripture and external wording from Blake, Shakespeare, Yeats, Herbert, Shelley, Rossetti, Fawcett, and other quoted authors were excluded from Neville attribution;
+- repeated `imagining creates reality`, `thinking of / thinking from`, wish-fulfilled, revision, mood, and attention windows were collapsed to preferred formulations;
+- gambling/race-track stories, categorical financial outcomes, medical cure stories, and material that could discourage appropriate real-world care were kept out of the automatic pool;
+- claims assigning imaginal causation to accidents, the Titanic disaster, war, death, legal verdicts, or other people's behavior were excluded or held where decontextualization could become harmful or misleading;
+- bilocation, remote-presence, direct mental influence, strong sensory-evidence-denial, and similar context-sensitive passages were held;
+- Chapter 15, `The Promise: Four Mystical Experiences`, was reserved for a future spiritual/Promise opt-in layer rather than the main automatic pool.
+
+Files written in the work folder:
+- `curated_the_law_and_the_promise.jsonl`
+- `editorial_decisions_the_law_and_the_promise.jsonl`
+- `editorial_review_the_law_and_the_promise.md`
 - `editorial_complete.json`
 
 Raw candidate and source files were not changed.
