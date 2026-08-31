@@ -1,0 +1,20 @@
+{
+  "work": "All Things Are Possible (1967)",
+  "corpus_id": "L0011",
+  "canonical_date": "1967-11-03",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_all_things_are_possible_1967.txt",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": null,
+  "raw_worker_candidates": null,
+  "worker_rejected": null,
+  "select_fragments": 0,
+  "raw_duplicate_groups": null,
+  "complete": true,
+  "recovered_after_slug_collision": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[All Things Are Possible – 11-03-1967]/curated_all_things_are_possible_1967.jsonl",
+  "decisions_file": "[All Things Are Possible – 11-03-1967]/editorial_decisions_all_things_are_possible_1967.jsonl",
+  "review_file": "[All Things Are Possible – 11-03-1967]/editorial_review_all_things_are_possible_1967.md"
+}
