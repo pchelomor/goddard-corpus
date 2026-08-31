@@ -1,0 +1,15 @@
+{
+  "work":"A Movement Within God",
+  "corpus_id":"L0004",
+  "review_mode":"SOURCE_FIRST_CANONICAL",
+  "raw_worker_candidates":398,
+  "canonical_source_paragraphs":31,
+  "source_paragraphs_reviewed":31,
+  "select_fragments":2,
+  "raw_duplicate_groups":28,
+  "complete":true,
+  "review_policy":"EDITORIAL_POLICY.md",
+  "curated_file":"[A Movement Within God]/curated_a_movement_within_god.jsonl",
+  "decisions_file":"[A Movement Within God]/editorial_decisions_a_movement_within_god.jsonl",
+  "review_file":"[A Movement Within God]/editorial_review_a_movement_within_god.md"
+}
