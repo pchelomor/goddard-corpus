@@ -1,0 +1,20 @@
+{
+  "work": "Believe In Him",
+  "corpus_id": "L0025",
+  "canonical_date": "1969-02-28",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_believe_in_him.txt",
+  "canonical_source_paragraphs": 47,
+  "source_paragraphs_reviewed": 47,
+  "raw_worker_windows_generated": 404,
+  "retained_worker_windows": 395,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 44,
+  "select_fragments": 2,
+  "complete": true,
+  "source_manifest_date_note": "raw manifest retains 1969-01-01 year-placeholder; registry full_date is 1969-02-28",
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Believe In Him]/curated_believe_in_him.jsonl",
+  "decisions_file": "[Believe In Him]/editorial_decisions_believe_in_him.jsonl",
+  "review_file": "[Believe In Him]/editorial_review_believe_in_him.md"
+}
