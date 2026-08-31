@@ -1,0 +1,18 @@
+{
+  "work": "The Creative Use Of Imagination",
+  "corpus_id": "S003",
+  "work_class": "EDITED_COLLECTION",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "raw_worker_candidates": 2923,
+  "canonical_source_paragraphs": 271,
+  "source_paragraphs_reviewed": 271,
+  "select_fragments": 20,
+  "raw_duplicate_groups": 245,
+  "attribution_status": "EDITORIALLY_MEDIATED",
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "master_file": "[The Creative Use Of Imagination]/master_text_the_creative_use_of_imagination.txt",
+  "curated_file": "[The Creative Use Of Imagination]/curated_the_creative_use_of_imagination.jsonl",
+  "decisions_file": "[The Creative Use Of Imagination]/editorial_decisions_the_creative_use_of_imagination.jsonl",
+  "review_file": "[The Creative Use Of Imagination]/editorial_review_the_creative_use_of_imagination.md"
+}
