@@ -20,7 +20,7 @@ This journal tracks the strict book-by-book and work-by-work review defined in `
 | Out Of This World | COMPLETE | 4 chapters / 189 paragraphs / 493 raw windows | 20 | section-level | section-level | `[Out Of This World]/curated_out_of_this_world.jsonl` |
 | Prayer, The Art Of Believing | COMPLETE | 7 chapters / 192 paragraphs / 700 raw windows | 21 | section-level | section-level | `[Prayer, The Art Of Believing]/curated_prayer_the_art_of_believing.jsonl` |
 | Resurrection, A Confession Of Faith | COMPLETE | 3 chapters / 168 paragraphs / 457 raw windows | 0 | section-level | section-level | `[Resurrection, A Confession Of Faith]/curated_resurrection_a_confession_of_faith.jsonl` |
-| Seedtime And Harvest | TODO | — | — | — | — | — |
+| Seedtime And Harvest | COMPLETE | 9 chapters / 360 paragraphs / 1,145 raw windows | 23 | section-level | section-level | `[Seedtime And Harvest]/curated_seedtime_and_harvest.jsonl` |
 | The Law And The Promise | TODO | — | — | — | — | — |
 | The Power Of Awareness | TODO | — | — | — | — | — |
 | The Search | TODO | — | — | — | — | — |
@@ -296,6 +296,37 @@ Files written in the work folder:
 - `curated_resurrection_a_confession_of_faith.jsonl` (intentionally empty main-pool shortlist)
 - `editorial_decisions_resurrection_a_confession_of_faith.jsonl`
 - `editorial_review_resurrection_a_confession_of_faith.md`
+- `editorial_complete.json`
+
+Raw candidate and source files were not changed.
+
+## 2026-08-31 — Seedtime And Harvest
+Completed a source-first hard editorial pass across the complete 1956 nine-chapter book.
+
+Why source-first remained appropriate:
+- the worker retained 1,145 candidate windows from 360 canonical paragraphs;
+- 149 duplicate groups showed substantial overlap and nested variants;
+- the complete canonical text was reviewed end-to-end, with final quote boundaries taken from Neville's source wording instead of worker sliding windows.
+
+Result:
+- canonical chapters reviewed: 9 / 9;
+- canonical paragraphs covered: 360 / 360;
+- SELECT exact fragments: 23;
+- strict SELECT density vs 1,145 retained worker candidates: 2.0%;
+- strict SELECT density vs 360 canonical paragraphs: 6.4%.
+
+Notable filtering:
+- scripture and wording from William Blake, Shakespeare, Thoreau, Angelus Silesius, Browning, and other external sources were excluded from Neville attribution;
+- repeated `Four Mighty Ones`, final-scene, directed-attention, inner-conversation, and fulfilled-state windows were collapsed to preferred exact formulations;
+- the birthmark and sick-cat healing stories, plus categorical healing implications, were excluded from the automatic pool;
+- passages attributing accidents, death, discriminatory burial events, poverty, theft recovery, or another person's behavior to an individual's consciousness were excluded or held where decontextualization could become misleading or victim-blaming;
+- direct-control-of-others material and testimonials in which another person's behavior is presented as compelled by imaginal action were held;
+- stronger claims that the entire physical world is solely a construction of mind were held while clean core metaphysical and practical Neville wording was retained.
+
+Files written in the work folder:
+- `curated_seedtime_and_harvest.jsonl`
+- `editorial_decisions_seedtime_and_harvest.jsonl`
+- `editorial_review_seedtime_and_harvest.md`
 - `editorial_complete.json`
 
 Raw candidate and source files were not changed.
