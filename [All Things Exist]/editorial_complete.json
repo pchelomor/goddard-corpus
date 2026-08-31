@@ -1,0 +1,18 @@
+{
+  "work": "All Things Exist",
+  "corpus_id": "L0013",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_all_things_exist.txt",
+  "raw_worker_windows_generated": 264,
+  "raw_worker_candidates": 259,
+  "worker_rejected": 5,
+  "canonical_source_paragraphs": 38,
+  "source_paragraphs_reviewed": 38,
+  "select_fragments": 3,
+  "raw_duplicate_groups": 28,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[All Things Exist]/curated_all_things_exist.jsonl",
+  "decisions_file": "[All Things Exist]/editorial_decisions_all_things_exist.jsonl",
+  "review_file": "[All Things Exist]/editorial_review_all_things_exist.md"
+}
