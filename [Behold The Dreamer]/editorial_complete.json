@@ -1,0 +1,20 @@
+{
+  "work": "Behold The Dreamer",
+  "corpus_id": "L0024",
+  "canonical_date": "1969-09-19",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_behold_the_dreamer.txt",
+  "canonical_source_paragraphs": 39,
+  "source_paragraphs_reviewed": 39,
+  "raw_worker_windows_generated": 398,
+  "retained_worker_windows": 393,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 32,
+  "select_fragments": 0,
+  "complete": true,
+  "intentional_empty_curated": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Behold The Dreamer]/curated_behold_the_dreamer.jsonl",
+  "decisions_file": "[Behold The Dreamer]/editorial_decisions_behold_the_dreamer.jsonl",
+  "review_file": "[Behold The Dreamer]/editorial_review_behold_the_dreamer.md"
+}
