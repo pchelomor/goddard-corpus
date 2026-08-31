@@ -22,6 +22,7 @@ This journal tracks the strict book-by-book and work-by-work review defined in `
 | Resurrection, A Confession Of Faith | COMPLETE | 3 chapters / 168 paragraphs / 457 raw windows | 0 | section-level | section-level | `[Resurrection, A Confession Of Faith]/curated_resurrection_a_confession_of_faith.jsonl` |
 | Seedtime And Harvest | COMPLETE | 9 chapters / 360 paragraphs / 1,145 raw windows | 23 | section-level | section-level | `[Seedtime And Harvest]/curated_seedtime_and_harvest.jsonl` |
 | The Law And The Promise | COMPLETE | Intro + 15 chapters / 798 paragraphs / 3,036 raw windows | 34 | section-level | section-level | `[The Law And The Promise]/curated_the_law_and_the_promise.jsonl` |
+| Five Lessons (Master Class), S001 | COMPLETE | 6 sections / 858 paragraphs / 4,516 retained windows | 19 | section-level | section-level | `[Five Lessons]/curated_five_lessons.jsonl` |
 | The Power Of Awareness (book) | TODO | — | — | — | — | — |
 | The Power Of Awareness (1953 lecture, L0185) | COMPLETE | 32 paragraphs / 375 raw windows | 12 | section-level | section-level | `[The Power Of Awareness]/curated_the_power_of_awareness.jsonl` |
 | The Search | TODO | — | — | — | — | — |
@@ -444,3 +445,38 @@ Files written:
 - `[A Parabolic Revelation]/editorial_decisions_a_parabolic_revelation.jsonl`
 - `[A Parabolic Revelation]/editorial_review_a_parabolic_revelation.md`
 - `[A Parabolic Revelation]/editorial_complete.json`
+
+## 2026-08-31 — Five Lessons (Master Class), S001
+Completed a strict `SOURCE_FIRST_CANONICAL` editorial pass across the complete supplementary master-class unit.
+
+Canonical identity:
+- `corpus_registry.json` defines `S001` as one corpus item, `Five Lessons (Master Class)`, with Lesson 1–5 and `Lessons Q & A` represented as alternate titles;
+- `[Five Lessons]/source_manifest.md` defines the authoritative S001 master as the complete five lessons plus Q&A, totaling **858 canonical paragraphs**;
+- the similarly named top-level lecture folders are separate corpus items (`L0098`–`L0104`) and were treated as cross-check/dedup references rather than as components that replace the S001 master.
+
+Result:
+- review mode: `SOURCE_FIRST_CANONICAL`;
+- canonical sections reviewed: **6 / 6**;
+- canonical paragraphs reviewed: **858 / 858**;
+- worker windows generated: **4,621**;
+- retained worker windows: **4,516** (`3,749` candidate + `767` review-recommended);
+- worker rejected windows: **105**;
+- raw duplicate groups: **612**;
+- final main-pool SELECT fragments: **19**;
+- the provisional 27-fragment shortlist that existed in the folder was not accepted at face value and was reduced after the full canonical reread.
+
+Notable filtering:
+- pure scripture and external quotations were excluded from Neville attribution;
+- strong literal metaphysical guarantees, dimensional/mystical claims, predetermination, and complex theology were held for contextual or opt-in use;
+- categorical medical/bodily claims, material discouraging medical or dietary reliance, financial guarantees, guaranteed physical outcomes, direct-control-of-others language, and victim-blaming/event-causation formulations were kept out of the automatic pool;
+- weak generic fragments and weaker duplicate formulations were dropped;
+- the substantial embedded self-reprint from `The Search` in Lesson 4 was not duplicated into the S001 daily shortlist;
+- the decisions file was upgraded from one coarse whole-work record to an audit summary plus six section-level records covering Lesson 1–5 and Q&A.
+
+Files written:
+- `[Five Lessons]/curated_five_lessons.jsonl`
+- `[Five Lessons]/editorial_decisions_five_lessons.jsonl`
+- `[Five Lessons]/editorial_review_five_lessons.md`
+- `[Five Lessons]/editorial_complete.json`
+
+Raw candidate, rejected, master-text, manifest, variation, worker-report, and processing files were not changed.
