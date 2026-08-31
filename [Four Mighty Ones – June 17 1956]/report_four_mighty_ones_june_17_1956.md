@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Four Mighty Ones – June 17 1956 (1956-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Four Mighty Ones – June 17 1956  
+**???? ??????:** 1956-01-01  
+**Corpus ID:** L0062  
+**Work Class:** LECTURE  
+**Slug:** `four_mighty_ones_june_17_1956`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 4833 ????, 1 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/four-mighty-ones-june-17-1956/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 318
+- **REVIEW_RECOMMENDED:** 130
+- **REJECTED:** 14
+- **FAILED:** 0
+- **????? ??????:** 1
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0062_p001_0257` | 0.86 | `SCRIPTURE` | I will assume  that I am that man. When I walk in the assumption, I am walking i... |
+| 2 | `l0062_p001_0092` | 0.85 | `SCRIPTURE` | The slightest change in my level of consciousness, the slightest change in the  ... |
+| 3 | `l0062_p001_0400` | 0.85 | `SCRIPTURE` | I will assume  that I am that man. When I walk in the assumption, I am walking i... |
+| 4 | `l0062_p001_0083` | 0.84 | `SCRIPTURE` | When I walk in the assumption, I am walking in his Name.... |
+| 5 | `l0062_p001_0112` | 0.84 | `SCRIPTURE` | So when a world  is described from observation, it is always, as described, reve... |
+| 6 | `l0062_p001_0117` | 0.84 | `SCRIPTURE` | When you  spell Jesus in Hebrew it begins JOD HE VAU.... |
+| 7 | `l0062_p001_0126` | 0.84 | `SCRIPTURE` | There is no accident – not one little thing  in the world is without significanc... |
+| 8 | `l0062_p001_0142` | 0.84 | `SCRIPTURE` | An Imagination has form but man does not  understand it and man doesn’t believe ... |
+| 9 | `l0062_p001_0144` | 0.84 | `SCRIPTURE` | When inwardly he feels natural in the part that in which he is  now se1f-rehears... |
+| 10 | `l0062_p001_0154` | 0.84 | `SCRIPTURE` | When you  see it here it is as much a screen as when you see a picture on this s... |

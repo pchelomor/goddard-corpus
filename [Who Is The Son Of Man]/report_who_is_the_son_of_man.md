@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Who Is The Son Of Man (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Who Is The Son Of Man  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0226  
+**Work Class:** LECTURE  
+**Slug:** `who_is_the_son_of_man`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 7648 ????, 62 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/who-is-the-son-of-man/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 632
+- **REVIEW_RECOMMENDED:** 202
+- **REJECTED:** 42
+- **FAILED:** 0
+- **????? ??????:** 53
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0226_p056_0789` | 0.86 | `PROMISE` | When you are born from above, no one is going to see you with the mortal eye, bu... |
+| 2 | `l0226_p005_0027` | 0.85 | `FEELING` | As I stood watching them, I felt within myself that I could stop an activity tha... |
+| 3 | `l0226_p021_0229` | 0.85 | `PROMISE` | From then on, all my lectures have been � I would say � geared toward the Promis... |
+| 4 | `l0226_p005_0038` | 0.84 | `FEELING` | As I stood watching them, I felt within myself that I could stop an activity tha... |
+| 5 | `l0226_p005_0050` | 0.84 | `FEELING` | As I stood watching them, I felt within myself that I could stop an activity tha... |
+| 6 | `l0226_p020_0217` | 0.84 | `DESIRE` | Any one making the bold claim that they are destined to awaken as God sounds lik... |
+| 7 | `l0226_p021_0228` | 0.84 | `PROMISE` | I have been teaching this Law since 1938, but I did not know the Promise of God ... |
+| 8 | `l0226_p026_0310` | 0.84 | `CONSCIOUSNESS_I_AM` | When you say, �And who do you say that I am?� you are discussing the Son of man.... |
+| 9 | `l0226_p026_0313` | 0.84 | `CONSCIOUSNESS_I_AM` | When you say, �I am,� that�s He. When you say, �And who do you say that I am?� y... |
+| 10 | `l0226_p045_0607` | 0.84 | `SCRIPTURE` | You do not modify it to please others. If they are not pleased, you are not conc... |

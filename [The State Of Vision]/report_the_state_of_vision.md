@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The State Of Vision (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The State Of Vision  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0204  
+**Work Class:** LECTURE  
+**Slug:** `the_state_of_vision`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2987 ????, 28 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-state-of-vision/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 303
+- **REVIEW_RECOMMENDED:** 68
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 25
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0204_p024_0316` | 0.86 | `ASSUMPTION` | By feeling the bed and the various objects in the apartment, I fell asleep feeli... |
+| 2 | `l0204_p014_0180` | 0.85 | `FEELING` | Perhaps the sense of feeling is easy for you. If so, be like Isaac and touch you... |
+| 3 | `l0204_p024_0319` | 0.85 | `ASSUMPTION` | I brought feeling up to the state of vision. By feeling the bed and the various ... |
+| 4 | `l0204_p001_0001` | 0.84 | `SCRIPTURE` | “We have only to raise Imagination to the state of Vision and the thing is done.... |
+| 5 | `l0204_p001_0003` | 0.84 | `SCRIPTURE` | No matter what it is we desire, we have only to raise imagination to the state o... |
+| 6 | `l0204_p002_0022` | 0.84 | `SCRIPTURE` | Imagination must be raised to the sense of sight in order to see.... |
+| 7 | `l0204_p003_0045` | 0.84 | `FEELING` | Invite it to come near, that you may feel it, to know whether it is as real as y... |
+| 8 | `l0204_p007_0090` | 0.84 | `CONSCIOUSNESS_I_AM` | In relating this story to me, this lady added this comment: “I didn’t actually h... |
+| 9 | `l0204_p007_0093` | 0.84 | `ASSUMPTION` | As she lifted the cover from a beautiful platter, she heard a ring which persist... |
+| 10 | `l0204_p011_0144` | 0.84 | `ASSUMPTION` | If you will become self-persuaded that your desire is already granted, even thou... |

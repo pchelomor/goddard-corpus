@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Light Of The World (1969-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The Light Of The World  
+**???? ??????:** 1969-01-01  
+**Corpus ID:** L0173  
+**Work Class:** LECTURE  
+**Slug:** `the_light_of_the_world`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3131 ????, 44 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-light-of-the-world/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 229
+- **REVIEW_RECOMMENDED:** 71
+- **REJECTED:** 4
+- **FAILED:** 0
+- **????? ??????:** 39
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0173_p030_0175` | 0.85 | `SCRIPTURE` | In a moment, in the twinkle of an eye, you begin to awaken and are born from abo... |
+| 2 | `l0173_p030_0181` | 0.85 | `SCRIPTURE` | It doesn’t take long. In a moment, in the twinkle of an eye, you begin to awaken... |
+| 3 | `l0173_p018_0104` | 0.84 | `FEELING` | The day is coming when you will feel an activity within you, arrest it, and see ... |
+| 4 | `l0173_p018_0105` | 0.84 | `FEELING` | Then you will know that you are life itself, and the life you now know yourself ... |
+| 5 | `l0173_p022_0127` | 0.84 | `SCRIPTURE` | There is no absorption into, just union with the one being of love, power, wisdo... |
+| 6 | `l0173_p037_0241` | 0.84 | `ASSUMPTION` | We voluntarily came down and assumed this bondage of flesh.... |
+| 7 | `l0173_p037_0245` | 0.84 | `ASSUMPTION` | So it is from death to life, from darkness to light, from bondage to freedom. We... |
+| 8 | `l0173_p037_0246` | 0.84 | `ASSUMPTION` | We voluntarily came down and assumed this bondage of flesh. As we entered the wo... |
+| 9 | `l0173_p003_0017` | 0.83 | `CONSCIOUSNESS_I_AM` | His most fantastic claim: “I am the light of the world” was not claimed by one l... |
+| 10 | `l0173_p007_0037` | 0.83 | `PROMISE` | Now, we are told: “You are born anew through the resurrection of Jesus Christ fr... |

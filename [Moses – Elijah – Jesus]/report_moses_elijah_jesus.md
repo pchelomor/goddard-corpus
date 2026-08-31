@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Moses – Elijah – Jesus (1963-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Moses – Elijah – Jesus  
+**???? ??????:** 1963-01-01  
+**Corpus ID:** L0107  
+**Work Class:** LECTURE  
+**Slug:** `moses_elijah_jesus`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 5164 ????, 40 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/moses-elijah-jesus/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 393
+- **REVIEW_RECOMMENDED:** 138
+- **REJECTED:** 18
+- **FAILED:** 0
+- **????? ??????:** 35
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0107_p021_0283` | 0.86 | `FEELING` | It could be economic power, where there is no feeling whatsoever but simply to g... |
+| 2 | `l0107_p021_0284` | 0.86 | `FEELING` | It could be a military power, social power, intellectual power, or any other kin... |
+| 3 | `l0107_p021_0287` | 0.86 | `FEELING` | If I can get the better of that nation or nations without feeling it doesn’t mat... |
+| 4 | `l0107_p021_0289` | 0.86 | `FEELING` | You see it in the world today. It could be economic power, where there is no fee... |
+| 5 | `l0107_p011_0133` | 0.85 | `SCRIPTURE` | We are told he draws it all out – but he cannot enter the kingdom of heaven – th... |
+| 6 | `l0107_p021_0291` | 0.85 | `FEELING` | It could be a military power, social power, intellectual power, or any other kin... |
+| 7 | `l0107_p021_0293` | 0.85 | `FEELING` | Not a bulletin on the radio or TV that doesn’t describe this sheer might. If I c... |
+| 8 | `l0107_p002_0018` | 0.84 | `SCRIPTURE` | Joseph is human imagination – it is of one tissue with divine imagination, but h... |
+| 9 | `l0107_p004_0055` | 0.84 | `SCRIPTURE` | Now let me stop here and tell you: this is not a man as you are, as I am; this i... |
+| 10 | `l0107_p010_0114` | 0.84 | `SCRIPTURE` | When you read the words in the sentence: “I am the Lord thy God”, the word “I AM... |

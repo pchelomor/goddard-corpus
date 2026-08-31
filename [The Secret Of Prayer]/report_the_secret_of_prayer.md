@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Secret Of Prayer (1967-10-06)
+
+**?????:** Neville Goddard  
+**????????:** The Secret Of Prayer  
+**???? ??????:** 1967-10-06  
+**Corpus ID:** L0195  
+**Work Class:** LECTURE  
+**Slug:** `the_secret_of_prayer`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2648 ????, 29 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-secret-of-prayer/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 282
+- **REVIEW_RECOMMENDED:** 56
+- **REJECTED:** 2
+- **FAILED:** 0
+- **????? ??????:** 26
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0195_p011_0130` | 0.91 | `ASSUMPTION` | Believe it is true; for an assumption, though false, if persisted in will harden... |
+| 2 | `l0195_p011_0132` | 0.91 | `ASSUMPTION` | Think it is already fulfilled. Believe it is true; for an assumption, though fal... |
+| 3 | `l0195_p011_0134` | 0.91 | `ASSUMPTION` | Live your desire. Think it is already fulfilled. Believe it is true; for an assu... |
+| 4 | `l0195_p021_0269` | 0.88 | `SCRIPTURE` | When you put your body on the bed and assume you are elsewhere, are you not all ... |
+| 5 | `l0195_p005_0056` | 0.86 | `CONSCIOUSNESS_I_AM` | Time and finances may not allow it, but in my imagination I can assume I am alre... |
+| 6 | `l0195_p006_0075` | 0.86 | `ASSUMPTION` | Blake’s words are true: “Man is all Imagination, and God is Man and exists in us... |
+| 7 | `l0195_p006_0081` | 0.86 | `ASSUMPTION` | Blake’s words are true: “Man is all Imagination, and God is Man and exists in us... |
+| 8 | `l0195_p007_0088` | 0.86 | `SCRIPTURE` | You can pray for another by feeling they now have what they formerly wanted, for... |
+| 9 | `l0195_p008_0100` | 0.86 | `ASSUMPTION` | If you are seeing things you would like to change, move in your imagination to t... |
+| 10 | `l0195_p014_0152` | 0.86 | `DESIRE` | If your desire is not fulfilled today, tomorrow, next week or next month – persi... |

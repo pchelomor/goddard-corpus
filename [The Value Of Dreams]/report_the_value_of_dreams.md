@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Value Of Dreams (1959-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The Value Of Dreams  
+**???? ??????:** 1959-01-01  
+**Corpus ID:** L0213  
+**Work Class:** LECTURE  
+**Slug:** `the_value_of_dreams`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3062 ????, 29 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-value-of-dreams/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 237
+- **REVIEW_RECOMMENDED:** 91
+- **REJECTED:** 19
+- **FAILED:** 0
+- **????? ??????:** 15
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0213_p001_0001` | 0.84 | `CONSCIOUSNESS_I_AM` | Here we use the words “God” or “Christ” or “imagination” interchangeably.... |
+| 2 | `l0213_p001_0006` | 0.84 | `CONSCIOUSNESS_I_AM` | Here we use the words “God” or “Christ” or “imagination” interchangeably. They m... |
+| 3 | `l0213_p007_0141` | 0.84 | `CONSCIOUSNESS_I_AM` | Everything in the world is talking to me and I am talking to myself and my own w... |
+| 4 | `l0213_p008_0155` | 0.84 | `CONSCIOUSNESS_I_AM` | If you know someone who would like this or that, you do not raise a finger physi... |
+| 5 | `l0213_p009_0222` | 0.84 | `DESIRE` | If you want dolphin you ask for dolphin, etc., but if you just ask for �fish� yo... |
+| 6 | `l0213_p010_0241` | 0.84 | `CONSCIOUSNESS_I_AM` | By taking today and living so fully in Imagination as the man I want to be, then... |
+| 7 | `l0213_p010_0243` | 0.84 | `CONSCIOUSNESS_I_AM` | So God, Christ or Imagination are interchangeable, and the whole thing is speaki... |
+| 8 | `l0213_p011_0253` | 0.84 | `ASSUMPTION` | There is no one to intercede for you for we are all One.... |
+| 9 | `l0213_p011_0255` | 0.84 | `ASSUMPTION` | Then it has to fulfill itself, for Imagination creates Reality, and there is not... |
+| 10 | `l0213_p011_0266` | 0.84 | `ASSUMPTION` | There is no one to intercede for you for we are all One. So stand on your own tw... |

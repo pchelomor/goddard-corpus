@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Christ Is Your Life (1968-10-18)
+
+**?????:** Neville Goddard  
+**????????:** Christ Is Your Life  
+**???? ??????:** 1968-10-18  
+**Corpus ID:** L0037  
+**Work Class:** LECTURE  
+**Slug:** `christ_is_your_life`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3299 ????, 42 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/christ-is-your-life/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 296
+- **REVIEW_RECOMMENDED:** 78
+- **REJECTED:** 6
+- **FAILED:** 0
+- **????? ??????:** 41
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0037_p004_0040` | 0.86 | `CONSCIOUSNESS_I_AM` | I have a desire that involves others, yet I have the feeling that they do not wa... |
+| 2 | `l0037_p035_0312` | 0.86 | `DESIRE` | If you want a great deal of money, see the money within you. Then claim it is yo... |
+| 3 | `l0037_p035_0314` | 0.85 | `DESIRE` | You do not have to be concerned about influencing individuals if you make goals.... |
+| 4 | `l0037_p002_0009` | 0.84 | `SCRIPTURE` | You are alive now, so what does Paul mean when he claims you have died?... |
+| 5 | `l0037_p004_0043` | 0.84 | `CONSCIOUSNESS_I_AM` | A gentleman wrote:  “You say others have bodies and lives of their own, but thei... |
+| 6 | `l0037_p005_0048` | 0.84 | `CONSCIOUSNESS_I_AM` | You say when I am lovingly exercising my imagination on behalf of another, I am ... |
+| 7 | `l0037_p018_0140` | 0.84 | `CONSCIOUSNESS_I_AM` | When I speak of Christ being your life, I am saying he is your imagination, for ... |
+| 8 | `l0037_p022_0191` | 0.84 | `CONSCIOUSNESS_I_AM` | When I speak of God, or Lord, Jesus, or Christ, I am speaking of the human imagi... |
+| 9 | `l0037_p026_0223` | 0.84 | `SCRIPTURE` | When he calls you father, you will know that you are God.... |
+| 10 | `l0037_p027_0227` | 0.84 | `SCRIPTURE` | When you inherit God, you inherit his infinite past, and from that moment on you... |

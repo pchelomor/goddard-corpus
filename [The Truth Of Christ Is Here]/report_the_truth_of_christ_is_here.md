@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Truth Of Christ Is Here (1970-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The Truth Of Christ Is Here  
+**???? ??????:** 1970-01-01  
+**Corpus ID:** L0210  
+**Work Class:** LECTURE  
+**Slug:** `the_truth_of_christ_is_here`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 5999 ????, 81 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-truth-of-christ-is-here/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 509
+- **REVIEW_RECOMMENDED:** 130
+- **REJECTED:** 37
+- **FAILED:** 0
+- **????? ??????:** 55
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0210_p003_0009` | 0.87 | `SCRIPTURE` | But really, it was the redemption of himself, because God became man, that man m... |
+| 2 | `l0210_p026_0156` | 0.87 | `CONSCIOUSNESS_I_AM` | It went forth from you, but God became man, that man might become God.... |
+| 3 | `l0210_p026_0161` | 0.87 | `CONSCIOUSNESS_I_AM` | But you say, �That�s from you, a man.� Don�t you know that God became you? It we... |
+| 4 | `l0210_p026_0162` | 0.87 | `CONSCIOUSNESS_I_AM` | It went forth from you, but God became man, that man might become God. So, in th... |
+| 5 | `l0210_p026_0166` | 0.87 | `CONSCIOUSNESS_I_AM` | It went forth from you, but God became man, that man might become God. So, in th... |
+| 6 | `l0210_p003_0012` | 0.86 | `SCRIPTURE` | But really, it was the redemption of himself, because God became man, that man m... |
+| 7 | `l0210_p011_0065` | 0.86 | `ASSUMPTION` | You can assume anything in this world, for the Being assuming is God. Can you be... |
+| 8 | `l0210_p026_0164` | 0.86 | `CONSCIOUSNESS_I_AM` | And your word has gone forth from you. But you say, �That�s from you, a man.� Do... |
+| 9 | `l0210_p026_0165` | 0.86 | `CONSCIOUSNESS_I_AM` | But you say, �That�s from you, a man.� Don�t you know that God became you? It we... |
+| 10 | `l0210_p049_0336` | 0.86 | `FEELING` | What would the feeling be like if it were true?... |

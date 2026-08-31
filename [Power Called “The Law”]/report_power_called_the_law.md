@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Power Called “The Law” (1969-04-21)
+
+**?????:** Neville Goddard  
+**????????:** Power Called “The Law”  
+**???? ??????:** 1969-04-21  
+**Corpus ID:** L0120  
+**Work Class:** LECTURE  
+**Slug:** `power_called_the_law`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3743 ????, 24 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/power-called-the-law/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 281
+- **REVIEW_RECOMMENDED:** 102
+- **REJECTED:** 9
+- **FAILED:** 0
+- **????? ??????:** 23
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0120_p001_0004` | 0.85 | `PROMISE` | Get their interest in the power called “The Law,” and then perhaps they will des... |
+| 2 | `l0120_p004_0073` | 0.85 | `PROMISE` | There is no such thing as physical causation. It’s all imaginal, but the world w... |
+| 3 | `l0120_p010_0162` | 0.85 | `SCRIPTURE` | Do not start with the hereafter. You can tell them of the promise later.... |
+| 4 | `l0120_p010_0163` | 0.85 | `SCRIPTURE` | You can tell them of the promise later. And remember: nothing is impossible to i... |
+| 5 | `l0120_p012_0205` | 0.85 | `PROMISE` | If they do, and it comes to pass then you can present them with the promise.... |
+| 6 | `l0120_p001_0006` | 0.84 | `PROMISE` | Show them what they can do right here and now. Get their interest in the power c... |
+| 7 | `l0120_p003_0031` | 0.84 | `ASSUMPTION` | Your imagination sets everything in motion, but your memory is faulty; therefore... |
+| 8 | `l0120_p004_0058` | 0.84 | `PROMISE` | If one’s interest is aroused on this level and it is proved to be true in the te... |
+| 9 | `l0120_p004_0062` | 0.84 | `PROMISE` | There is no such thing as physical causation. It’s all imaginal, but the world w... |
+| 10 | `l0120_p004_0063` | 0.84 | `PROMISE` | It’s all imaginal, but the world will not accept it. They laugh at the man of im... |

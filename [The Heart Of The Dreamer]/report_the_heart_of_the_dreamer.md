@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Heart Of The Dreamer (1969-12-01)
+
+**?????:** Neville Goddard  
+**????????:** The Heart Of The Dreamer  
+**???? ??????:** 1969-12-01  
+**Corpus ID:** L0166  
+**Work Class:** LECTURE  
+**Slug:** `the_heart_of_the_dreamer`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3551 ????, 46 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-heart-of-the-dreamer/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 225
+- **REVIEW_RECOMMENDED:** 116
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 33
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0166_p002_0006` | 0.84 | `ASSUMPTION` | I must, however, use certain imagery in order to explain it. so I ask that you f... |
+| 2 | `l0166_p002_0007` | 0.84 | `ASSUMPTION` | Your wonderful human imagination is a reproduction of the Divine Imagination.... |
+| 3 | `l0166_p002_0008` | 0.84 | `ASSUMPTION` | Think of the human imagination as brain cells in the mind of the dreamer, which ... |
+| 4 | `l0166_p011_0077` | 0.84 | `PROMISE` | When you return to your source, you will know that you are God the Father and th... |
+| 5 | `l0166_p015_0114` | 0.84 | `CONSCIOUSNESS_I_AM` | You need not be concerned as to how it will come about, simply let your Imaginat... |
+| 6 | `l0166_p017_0133` | 0.84 | `PROMISE` | In a few days, we will be celebrating the birth of Imagination in the individual... |
+| 7 | `l0166_p017_0137` | 0.84 | `PROMISE` | The story begins with the resurrection, for without it there could be no birth, ... |
+| 8 | `l0166_p017_0138` | 0.84 | `PROMISE` | In a few days, we will be celebrating the birth of Imagination in the individual... |
+| 9 | `l0166_p021_0168` | 0.84 | `ASSUMPTION` | If you believe, no effort is necessary to see the fulfillment of your every desi... |
+| 10 | `l0166_p021_0171` | 0.84 | `ASSUMPTION` | Knowing your desire exists in your imagination, simply expect its fulfillment in... |

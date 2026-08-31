@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Revealer (1968-11-22)
+
+**?????:** Neville Goddard  
+**????????:** The Revealer  
+**???? ??????:** 1968-11-22  
+**Corpus ID:** L0190  
+**Work Class:** LECTURE  
+**Slug:** `the_revealer`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2780 ????, 22 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-revealer/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 279
+- **REVIEW_RECOMMENDED:** 55
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 21
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0190_p015_0240` | 0.88 | `CONSCIOUSNESS_I_AM` | If you really believe in your I Amness, you must test yourself by daring to assu... |
+| 2 | `l0190_p007_0083` | 0.86 | `CONSCIOUSNESS_I_AM` | If your desire is for wealth, fame, or health, call it forth by claiming: I am f... |
+| 3 | `l0190_p015_0243` | 0.86 | `CONSCIOUSNESS_I_AM` | If you really believe in your I Amness, you must test yourself by daring to assu... |
+| 4 | `l0190_p019_0300` | 0.86 | `PROMISE` | If you dare to remain conscious of any state, it must appear! Claim for yourself... |
+| 5 | `l0190_p007_0094` | 0.85 | `CONSCIOUSNESS_I_AM` | If your desire is for wealth, fame, or health, call it forth by claiming: I am f... |
+| 6 | `l0190_p019_0295` | 0.85 | `PROMISE` | Show them how to get their things until they hunger for the promise.... |
+| 7 | `l0190_p019_0305` | 0.85 | `PROMISE` | Not everyone will, for they are interested only in things of this world. Show th... |
+| 8 | `l0190_p001_0005` | 0.84 | `SCRIPTURE` | Awareness is the Lord your God, who will bring you out of the land of Egypt, out... |
+| 9 | `l0190_p001_0007` | 0.84 | `SCRIPTURE` | Do you trust your own wonderful I amness? I hope so, for God is the I AM that is... |
+| 10 | `l0190_p004_0034` | 0.84 | `CONSCIOUSNESS_I_AM` | “I (your own wonderful awareness) have brought you out of the land called Egypt,... |

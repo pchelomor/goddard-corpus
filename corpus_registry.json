@@ -329,7 +329,7 @@
     "normalized_title": "fivelessonsmasterclass",
     "year": 1948,
     "full_date": "1948-01-01",
-    "primary_source_url": "https://realneville.com/txt/lesson1.htm",
+    "primary_source_url": "https://feelingfield.com/books/five-lessons/",
     "alternate_sources": [],
     "alternate_titles": [
       "Lesson 1 — Consciousness Is The Only Reality",
@@ -339,14 +339,14 @@
       "Lesson 5 — Remain Faithful To Your Idea",
       "Lessons Q & A"
     ],
-    "word_count": null,
+    "word_count": 45609,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED"
   },
   {
     "corpus_id": "S002",
@@ -356,19 +356,19 @@
     "normalized_title": "thekecaradiotalks",
     "year": 1951,
     "full_date": "1951-01-01",
-    "primary_source_url": "https://realneville.com/txt_archive.htm",
+    "primary_source_url": "https://realneville.com/txt/radio_lectures.htm",
     "alternate_sources": [],
     "alternate_titles": [
       "9 Radio Talks delivered in Los Angeles (1951)"
     ],
-    "word_count": null,
+    "word_count": 14225,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED"
   },
   {
     "corpus_id": "S003",
@@ -378,19 +378,19 @@
     "normalized_title": "thecreativeuseofimagination",
     "year": 1952,
     "full_date": "1952-01-01",
-    "primary_source_url": "https://realneville.com/txt_archive.htm",
+    "primary_source_url": "https://www.globalgreyebooks.com/online-ebooks/neville-goddard_creative-use-of-imagination_complete-text.html",
     "alternate_sources": [],
     "alternate_titles": [
       "Edited collection by Margaret Ruth Broome (1952 lectures)"
     ],
-    "word_count": null,
+    "word_count": 25789,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "REVIEW_SOURCE"
+    "processing_status": "COMPLETED"
   },
   {
     "corpus_id": "L0001",
@@ -405,14 +405,15 @@
       "http://realneville.com/txt/a_divine_event.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3529,
+    "word_count": 3532,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-12-08"
   },
   {
     "corpus_id": "L0002",
@@ -427,14 +428,15 @@
       "http://realneville.com/txt/a_lesson_in_scripture.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4078,
+    "word_count": 4096,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-10-23"
   },
   {
     "corpus_id": "L0003",
@@ -449,14 +451,15 @@
       "http://realneville.com/txt/a_movement_of_mind.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3127,
+    "word_count": 3126,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-01"
   },
   {
     "corpus_id": "L0004",
@@ -471,14 +474,15 @@
       "http://realneville.com/txt/a_movement_within_god.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3772,
+    "word_count": 3790,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-10-16"
   },
   {
     "corpus_id": "L0005",
@@ -493,14 +497,15 @@
       "http://realneville.com/txt/a_parabolic_revelation.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4062,
+    "word_count": 4057,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-06-06"
   },
   {
     "corpus_id": "L0006",
@@ -515,14 +520,15 @@
       "http://realneville.com/txt/a_prophecy.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3389,
+    "word_count": 3378,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0007",
@@ -537,14 +543,15 @@
       "http://realneville.com/txt/a_riddle.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3582,
+    "word_count": 3587,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-01"
   },
   {
     "corpus_id": "L0008",
@@ -559,14 +566,15 @@
       "http://realneville.com/txt/a_state_called_moses.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3018,
+    "word_count": 3014,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0009",
@@ -581,14 +589,15 @@
       "http://realneville.com/txt/all_that_is_divine.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4259,
+    "word_count": 4269,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-06-16"
   },
   {
     "corpus_id": "L0010",
@@ -603,14 +612,15 @@
       "http://realneville.com/txt/all_that_you_behold.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4415,
+    "word_count": 4413,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-04-19"
   },
   {
     "corpus_id": "L0011",
@@ -625,14 +635,15 @@
       "http://realneville.com/txt/all_things_are_possible2.htm"
     ],
     "alternate_titles": [],
-    "word_count": 1923,
+    "word_count": 1918,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-11-03"
   },
   {
     "corpus_id": "L0012",
@@ -645,14 +656,15 @@
     "primary_source_url": "https://thenevillegoddard.com/lectures/all-things-are-possible-2/",
     "alternate_sources": [],
     "alternate_titles": [],
-    "word_count": 3805,
+    "word_count": 3820,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-05-12"
   },
   {
     "corpus_id": "L0013",
@@ -669,14 +681,15 @@
       "https://library.feelingfield.com/audio/all-things-exist.mp3"
     ],
     "alternate_titles": [],
-    "word_count": 2272,
+    "word_count": 2269,
     "audio_available": true,
     "audio_status": "ORIGINAL_AUDIO_VERIFIED",
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-05-24"
   },
   {
     "corpus_id": "L0014",
@@ -691,14 +704,15 @@
       "http://realneville.com/txt/an_assured_understanding.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3857,
+    "word_count": 3868,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-06-13"
   },
   {
     "corpus_id": "L0015",
@@ -713,14 +727,15 @@
       "http://realneville.com/txt/an_inner_conviction.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3331,
+    "word_count": 3346,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-03-15"
   },
   {
     "corpus_id": "L0016",
@@ -735,14 +750,15 @@
       "http://realneville.com/txt/arise.htm"
     ],
     "alternate_titles": [],
-    "word_count": 1207,
+    "word_count": 1208,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0017",
@@ -757,14 +773,15 @@
       "http://realneville.com/txt/at_your_command.htm"
     ],
     "alternate_titles": [],
-    "word_count": 8588,
+    "word_count": 8467,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": "B001",
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "DUPLICATE"
+    "processing_status": "COMPLETED",
+    "date": "1939-01-01"
   },
   {
     "corpus_id": "L0018",
@@ -781,14 +798,15 @@
       "https://library.feelingfield.com/audio/awake-oh-sleeper.mp3"
     ],
     "alternate_titles": [],
-    "word_count": 3437,
+    "word_count": 3448,
     "audio_available": true,
     "audio_status": "ORIGINAL_AUDIO_VERIFIED",
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-08"
   },
   {
     "corpus_id": "L0019",
@@ -803,14 +821,15 @@
       "http://realneville.com/txt/awakened_imagination.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4595,
+    "word_count": 4638,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1954-01-01"
   },
   {
     "corpus_id": "L0020",
@@ -825,14 +844,15 @@
       "http://realneville.com/txt/barabbas_or_jesus.htm"
     ],
     "alternate_titles": [],
-    "word_count": 6326,
+    "word_count": 6279,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-01-01"
   },
   {
     "corpus_id": "L0021",
@@ -847,14 +867,15 @@
       "http://realneville.com/txt/be_imitators_of_god.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2857,
+    "word_count": 2853,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0022",
@@ -869,14 +890,15 @@
       "http://realneville.com/txt/bear_ye_one_anothers_burdens.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3639,
+    "word_count": 3638,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-03-17"
   },
   {
     "corpus_id": "L0023",
@@ -891,14 +913,15 @@
       "http://realneville.com/txt/before_abraham_was_i_am.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3064,
+    "word_count": 3046,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-10-11"
   },
   {
     "corpus_id": "L0024",
@@ -913,14 +936,15 @@
       "http://realneville.com/txt/behold_the_dreamer.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3689,
+    "word_count": 3692,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-09-19"
   },
   {
     "corpus_id": "L0025",
@@ -935,14 +959,15 @@
       "http://realneville.com/txt/believe_in_him.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3519,
+    "word_count": 3513,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-01"
   },
   {
     "corpus_id": "L0026",
@@ -957,14 +982,15 @@
       "http://realneville.com/txt/believe_it_in.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3697,
+    "word_count": 3712,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-10-06"
   },
   {
     "corpus_id": "L0027",
@@ -979,14 +1005,15 @@
       "http://realneville.com/txt/biblical_language.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3531,
+    "word_count": 3515,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-09-26"
   },
   {
     "corpus_id": "L0028",
@@ -1003,14 +1030,15 @@
       "https://library.feelingfield.com/audio/blake-on-religion.mp3"
     ],
     "alternate_titles": [],
-    "word_count": 6108,
+    "word_count": 6144,
     "audio_available": true,
     "audio_status": "ORIGINAL_AUDIO_VERIFIED",
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-03-26"
   },
   {
     "corpus_id": "L0029",
@@ -1025,14 +1053,15 @@
       "http://realneville.com/txt/brazen_impudence.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3120,
+    "word_count": 3131,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-09-27"
   },
   {
     "corpus_id": "L0030",
@@ -1047,14 +1076,15 @@
       "http://realneville.com/txt/building_your_temple.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2371,
+    "word_count": 2366,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-11-20"
   },
   {
     "corpus_id": "L0031",
@@ -1069,14 +1099,15 @@
       "http://realneville.com/txt/by_water_and_blood.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4482,
+    "word_count": 4470,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1956-01-01"
   },
   {
     "corpus_id": "L0032",
@@ -1091,14 +1122,15 @@
       "http://realneville.com/txt/catch_the_mood.html"
     ],
     "alternate_titles": [],
-    "word_count": 6894,
+    "word_count": 6909,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0033",
@@ -1113,14 +1145,15 @@
       "http://realneville.com/txt/changing_the_feeling_of_i.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4445,
+    "word_count": 4488,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1953-01-01"
   },
   {
     "corpus_id": "L0034",
@@ -1135,14 +1168,15 @@
       "http://realneville.com/txt/christ_bears_our_sins.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2952,
+    "word_count": 2950,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-01"
   },
   {
     "corpus_id": "L0035",
@@ -1157,14 +1191,15 @@
       "http://realneville.com/txt/christ_in_man.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3062,
+    "word_count": 3089,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1966-10-17"
   },
   {
     "corpus_id": "L0036",
@@ -1179,14 +1214,15 @@
       "http://realneville.com/txt/christ_in_you.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3787,
+    "word_count": 3785,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-05-06"
   },
   {
     "corpus_id": "L0037",
@@ -1201,14 +1237,15 @@
       "http://realneville.com/txt/christ_is_your_life.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3305,
+    "word_count": 3299,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-10-18"
   },
   {
     "corpus_id": "L0038",
@@ -1223,14 +1260,15 @@
       "http://realneville.com/txt/christ_unveiled.htm"
     ],
     "alternate_titles": [],
-    "word_count": 6227,
+    "word_count": 6192,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-01-01"
   },
   {
     "corpus_id": "L0039",
@@ -1245,14 +1283,15 @@
       "http://realneville.com/txt/christmas.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3061,
+    "word_count": 3060,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0040",
@@ -1267,14 +1306,15 @@
       "http://realneville.com/txt/come_o_blessed.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3261,
+    "word_count": 3300,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-11-10"
   },
   {
     "corpus_id": "L0041",
@@ -1289,14 +1329,15 @@
       "http://realneville.com/txt/conception.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3536,
+    "word_count": 3553,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-03-11"
   },
   {
     "corpus_id": "L0042",
@@ -1311,14 +1352,15 @@
       "http://realneville.com/txt/creation_faith.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3217,
+    "word_count": 3227,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0043",
@@ -1333,14 +1375,15 @@
       "http://realneville.com/txt/divine_signs.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2911,
+    "word_count": 2907,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-05-01"
   },
   {
     "corpus_id": "L0044",
@@ -1355,14 +1398,15 @@
       "http://realneville.com/txt/election_and_change_of_consciousness.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3302,
+    "word_count": 3161,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-02-24"
   },
   {
     "corpus_id": "L0045",
@@ -1377,14 +1421,15 @@
       "http://realneville.com/txt/enter_the_dream.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3414,
+    "word_count": 3315,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-11-21"
   },
   {
     "corpus_id": "L0046",
@@ -1399,14 +1444,15 @@
       "http://realneville.com/txt/esau_jacob_israel.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5218,
+    "word_count": 5213,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-02-12"
   },
   {
     "corpus_id": "L0047",
@@ -1421,14 +1467,15 @@
       "http://realneville.com/txt/esau_and_jacob.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5092,
+    "word_count": 5078,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-11-13"
   },
   {
     "corpus_id": "L0048",
@@ -1443,14 +1490,15 @@
       "http://realneville.com/txt/eschatology.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4254,
+    "word_count": 4264,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-20"
   },
   {
     "corpus_id": "L0049",
@@ -1465,14 +1513,15 @@
       "http://realneville.com/txt/eschatology_the_drama.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3442,
+    "word_count": 3454,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-04-05"
   },
   {
     "corpus_id": "L0050",
@@ -1487,14 +1536,15 @@
       "http://realneville.com/txt/eternal_states.htm"
     ],
     "alternate_titles": [],
-    "word_count": 1994,
+    "word_count": 1997,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-09-09"
   },
   {
     "corpus_id": "L0051",
@@ -1509,14 +1559,15 @@
       "http://realneville.com/txt/eternity_within.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4952,
+    "word_count": 4991,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1966-01-01"
   },
   {
     "corpus_id": "L0052",
@@ -1531,14 +1582,15 @@
       "http://realneville.com/txt/every_natural_effect.htm"
     ],
     "alternate_titles": [],
-    "word_count": 6043,
+    "word_count": 6171,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0053",
@@ -1553,14 +1605,15 @@
       "http://realneville.com/txt/experience_scripture.htm"
     ],
     "alternate_titles": [],
-    "word_count": 6131,
+    "word_count": 6346,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1971-01-01"
   },
   {
     "corpus_id": "L0054",
@@ -1575,14 +1628,15 @@
       "http://realneville.com/txt/faith.htm"
     ],
     "alternate_titles": [],
-    "word_count": 8411,
+    "word_count": 8311,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0055",
@@ -1597,14 +1651,15 @@
       "http://realneville.com/txt/faith_in_god.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2311,
+    "word_count": 2312,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-02-05"
   },
   {
     "corpus_id": "L0056",
@@ -1619,14 +1674,15 @@
       "http://realneville.com/txt/faith_hope_and_love.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2903,
+    "word_count": 2904,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0057",
@@ -1641,14 +1697,15 @@
       "http://realneville.com/txt/feed_my_sheep.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5186,
+    "word_count": 5189,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1956-01-01"
   },
   {
     "corpus_id": "L0058",
@@ -1663,14 +1720,15 @@
       "http://realneville.com/txt/feel_deeply.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3574,
+    "word_count": 3571,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-05-30"
   },
   {
     "corpus_id": "L0059",
@@ -1685,14 +1743,15 @@
       "http://realneville.com/txt/follow_me.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4202,
+    "word_count": 4209,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-11-11"
   },
   {
     "corpus_id": "L0060",
@@ -1714,7 +1773,8 @@
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-03-25"
   },
   {
     "corpus_id": "L0061",
@@ -1729,14 +1789,15 @@
       "http://realneville.com/txt/four_fold_vision.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3050,
+    "word_count": 3062,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-26"
   },
   {
     "corpus_id": "L0062",
@@ -1751,14 +1812,15 @@
       "http://realneville.com/txt/four_mighty_ones.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4836,
+    "word_count": 4833,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1956-01-01"
   },
   {
     "corpus_id": "L0063",
@@ -1773,14 +1835,15 @@
       "http://realneville.com/txt/freedom.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3158,
+    "word_count": 3138,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-10-28"
   },
   {
     "corpus_id": "L0064",
@@ -1795,14 +1858,15 @@
       "http://realneville.com/txt/fulfillment_of_gods_plan.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5881,
+    "word_count": 5999,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0065",
@@ -1817,14 +1881,15 @@
       "http://realneville.com/txt/fundamentals.htm"
     ],
     "alternate_titles": [],
-    "word_count": 1204,
+    "word_count": 1199,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1953-01-01"
   },
   {
     "corpus_id": "L0066",
@@ -1839,14 +1904,15 @@
       "http://realneville.com/txt/god_became_man.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2311,
+    "word_count": 2292,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-02-24"
   },
   {
     "corpus_id": "L0067",
@@ -1861,14 +1927,15 @@
       "http://realneville.com/txt/god_is_light.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3546,
+    "word_count": 3544,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-10-09"
   },
   {
     "corpus_id": "L0068",
@@ -1883,14 +1950,15 @@
       "http://realneville.com/txt/god_only_acts.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3074,
+    "word_count": 2927,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1966-01-01"
   },
   {
     "corpus_id": "L0069",
@@ -1905,14 +1973,15 @@
       "http://realneville.com/txt/god_speaks_to_man.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3114,
+    "word_count": 3104,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-18"
   },
   {
     "corpus_id": "L0070",
@@ -1927,14 +1996,15 @@
       "http://realneville.com/txt/gods_almighty_power.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3182,
+    "word_count": 3191,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-12-02"
   },
   {
     "corpus_id": "L0071",
@@ -1949,14 +2019,15 @@
       "http://realneville.com/txt/gods_creative_power.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3578,
+    "word_count": 3592,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-02-09"
   },
   {
     "corpus_id": "L0072",
@@ -1978,7 +2049,8 @@
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-05-08"
   },
   {
     "corpus_id": "L0073",
@@ -1993,14 +2065,15 @@
       "http://realneville.com/txt/gods_plan_of_redemption.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3447,
+    "word_count": 3448,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-03-24"
   },
   {
     "corpus_id": "L0074",
@@ -2015,14 +2088,15 @@
       "http://realneville.com/txt/gods_promise_to_man.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5078,
+    "word_count": 5105,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-01-01"
   },
   {
     "corpus_id": "L0075",
@@ -2037,14 +2111,15 @@
       "http://realneville.com/txt/gods_wisest_creature.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2276,
+    "word_count": 2268,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0076",
@@ -2059,14 +2134,15 @@
       "http://realneville.com/txt/gods_word.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2716,
+    "word_count": 2714,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-11-13"
   },
   {
     "corpus_id": "L0077",
@@ -2081,14 +2157,15 @@
       "http://realneville.com/txt/good_friday_easter.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3124,
+    "word_count": 3116,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1954-01-01"
   },
   {
     "corpus_id": "L0078",
@@ -2103,14 +2180,15 @@
       "http://realneville.com/txt/grace_vs_law.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5186,
+    "word_count": 5210,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-03-12"
   },
   {
     "corpus_id": "L0079",
@@ -2125,14 +2203,15 @@
       "http://realneville.com/txt/have_you_found_him.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2360,
+    "word_count": 2359,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-01-01"
   },
   {
     "corpus_id": "L0080",
@@ -2147,14 +2226,15 @@
       "http://realneville.com/txt/he_dreams_in_me.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3865,
+    "word_count": 3860,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-03-13"
   },
   {
     "corpus_id": "L0081",
@@ -2171,14 +2251,15 @@
       "https://library.feelingfield.com/audio/he-is-dreaming-now.mp3"
     ],
     "alternate_titles": [],
-    "word_count": 6160,
+    "word_count": 6230,
     "audio_available": true,
     "audio_status": "ORIGINAL_AUDIO_VERIFIED",
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1970-01-01"
   },
   {
     "corpus_id": "L0082",
@@ -2193,14 +2274,15 @@
       "http://realneville.com/txt/he_is_dreaming_now_1.htm"
     ],
     "alternate_titles": [],
-    "word_count": 8123,
+    "word_count": 8334,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0083",
@@ -2215,14 +2297,15 @@
       "http://realneville.com/txt/he_is_my_resurrection.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3545,
+    "word_count": 3557,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-06-28"
   },
   {
     "corpus_id": "L0084",
@@ -2237,14 +2320,15 @@
       "http://realneville.com/txt/he_wakes_in_me.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3607,
+    "word_count": 3610,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-03-24"
   },
   {
     "corpus_id": "L0085",
@@ -2259,14 +2343,15 @@
       "http://realneville.com/txt/his_name.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5027,
+    "word_count": 4830,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-02-26"
   },
   {
     "corpus_id": "L0086",
@@ -2281,14 +2366,15 @@
       "http://realneville.com/txt/How_To_Use_Your_Imagination.html"
     ],
     "alternate_titles": [],
-    "word_count": 2942,
+    "word_count": 2948,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1955-01-01"
   },
   {
     "corpus_id": "L0087",
@@ -2303,14 +2389,15 @@
       "http://realneville.com/txt/i_am_in_you.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2826,
+    "word_count": 2821,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-09-30"
   },
   {
     "corpus_id": "L0088",
@@ -2325,14 +2412,15 @@
       "http://realneville.com/txt/i_am_the_cause.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4300,
+    "word_count": 4304,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-10-19"
   },
   {
     "corpus_id": "L0089",
@@ -2347,14 +2435,15 @@
       "http://realneville.com/txt/i_am_the_lord.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3132,
+    "word_count": 3129,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-02-21"
   },
   {
     "corpus_id": "L0090",
@@ -2369,14 +2458,15 @@
       "http://realneville.com/txt/i_remember_when.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3278,
+    "word_count": 3285,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0091",
@@ -2391,14 +2481,15 @@
       "http://realneville.com/txt/if_any_two_agree.html"
     ],
     "alternate_titles": [],
-    "word_count": 4849,
+    "word_count": 4717,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1971-01-01"
   },
   {
     "corpus_id": "L0092",
@@ -2413,14 +2504,15 @@
       "http://realneville.com/txt/imagination.htm"
     ],
     "alternate_titles": [],
-    "word_count": 9877,
+    "word_count": 9997,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-01"
   },
   {
     "corpus_id": "L0093",
@@ -2435,14 +2527,15 @@
       "http://realneville.com/txt/imagining_creates.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3064,
+    "word_count": 3057,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0094",
@@ -2457,14 +2550,15 @@
       "http://realneville.com/txt/is_christ_your_imagination.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4315,
+    "word_count": 4310,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-03-22"
   },
   {
     "corpus_id": "L0095",
@@ -2479,14 +2573,15 @@
       "http://realneville.com/txt/jeremiahs_discovery.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4094,
+    "word_count": 4086,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-11-17"
   },
   {
     "corpus_id": "L0096",
@@ -2501,14 +2596,15 @@
       "http://realneville.com/txt/jesus.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3341,
+    "word_count": 3376,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-02-23"
   },
   {
     "corpus_id": "L0097",
@@ -2523,14 +2619,15 @@
       "http://realneville.com/txt/judas_the_revealer.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4016,
+    "word_count": 4006,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-01-01"
   },
   {
     "corpus_id": "L0098",
@@ -2545,14 +2642,15 @@
       "http://realneville.com/txt/1948Les1.htm"
     ],
     "alternate_titles": [],
-    "word_count": 7794,
+    "word_count": 7784,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1948-01-01"
   },
   {
     "corpus_id": "L0099",
@@ -2567,14 +2665,15 @@
       "http://realneville.com/txt/lesson1.htm"
     ],
     "alternate_titles": [],
-    "word_count": 7762,
+    "word_count": 7747,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0100",
@@ -2589,14 +2688,15 @@
       "http://realneville.com/txt/lesson2.htm"
     ],
     "alternate_titles": [],
-    "word_count": 7562,
+    "word_count": 7574,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0101",
@@ -2611,14 +2711,15 @@
       "http://realneville.com/txt/lesson3.htm"
     ],
     "alternate_titles": [],
-    "word_count": 8714,
+    "word_count": 8727,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0102",
@@ -2633,14 +2734,15 @@
       "http://realneville.com/txt/lesson4.htm"
     ],
     "alternate_titles": [],
-    "word_count": 8179,
+    "word_count": 8201,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0103",
@@ -2655,14 +2757,15 @@
       "http://realneville.com/txt/lesson5.htm"
     ],
     "alternate_titles": [],
-    "word_count": 7071,
+    "word_count": 6963,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0104",
@@ -2677,14 +2780,15 @@
       "http://realneville.com/txt/lessons_QA.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5913,
+    "word_count": 5569,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1948-01-01"
   },
   {
     "corpus_id": "L0105",
@@ -2699,14 +2803,15 @@
       "http://realneville.com/txt/love_endureth.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2859,
+    "word_count": 2871,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-11-13"
   },
   {
     "corpus_id": "L0106",
@@ -2721,14 +2826,15 @@
       "http://realneville.com/txt/Mental_Diets.html"
     ],
     "alternate_titles": [],
-    "word_count": 3117,
+    "word_count": 3121,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1955-01-01"
   },
   {
     "corpus_id": "L0107",
@@ -2743,14 +2849,15 @@
       "http://realneville.com/txt/moses_elijah_jesus.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5180,
+    "word_count": 5164,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-01-01"
   },
   {
     "corpus_id": "L0108",
@@ -2765,14 +2872,15 @@
       "http://realneville.com/txt/my_word.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2543,
+    "word_count": 2540,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-04-22"
   },
   {
     "corpus_id": "L0109",
@@ -2787,14 +2895,15 @@
       "http://realneville.com/txt/nevilles_purpose_revealed.html"
     ],
     "alternate_titles": [],
-    "word_count": 6295,
+    "word_count": 6317,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1971-01-01"
   },
   {
     "corpus_id": "L0110",
@@ -2809,14 +2918,15 @@
       "http://realneville.com/txt/no_other_foundation_10_69.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3557,
+    "word_count": 3556,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-10-10"
   },
   {
     "corpus_id": "L0111",
@@ -2831,14 +2941,15 @@
       "http://realneville.com/txt/no_other_foundation_11_68.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3081,
+    "word_count": 3080,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-11-04"
   },
   {
     "corpus_id": "L0112",
@@ -2853,14 +2964,15 @@
       "http://realneville.com/txt/no_other_god.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3547,
+    "word_count": 3555,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0113",
@@ -2875,14 +2987,15 @@
       "http://realneville.com/txt/north_of_the_strip.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3492,
+    "word_count": 3490,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-11-24"
   },
   {
     "corpus_id": "L0114",
@@ -2897,14 +3010,15 @@
       "http://realneville.com/txt/occupant_or_inmate.html"
     ],
     "alternate_titles": [],
-    "word_count": 3646,
+    "word_count": 3669,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1966-01-01"
   },
   {
     "corpus_id": "L0115",
@@ -2919,14 +3033,15 @@
       "http://realneville.com/txt/one_thousand_two_hundred_sixty.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3976,
+    "word_count": 3988,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-09-13"
   },
   {
     "corpus_id": "L0116",
@@ -2941,14 +3056,15 @@
       "http://realneville.com/txt/pauls_autobiography.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4999,
+    "word_count": 5005,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-02-22"
   },
   {
     "corpus_id": "L0117",
@@ -2963,14 +3079,15 @@
       "http://realneville.com/txt/perception.htm"
     ],
     "alternate_titles": [],
-    "word_count": 1848,
+    "word_count": 1793,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0118",
@@ -2985,14 +3102,15 @@
       "http://realneville.com/txt/persistent_assumption.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2648,
+    "word_count": 2651,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-03-18"
   },
   {
     "corpus_id": "L0119",
@@ -3009,14 +3127,15 @@
       "https://library.feelingfield.com/audio/power-and-wisdom.mp3"
     ],
     "alternate_titles": [],
-    "word_count": 2338,
+    "word_count": 2329,
     "audio_available": true,
     "audio_status": "ORIGINAL_AUDIO_VERIFIED",
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-10-04"
   },
   {
     "corpus_id": "L0120",
@@ -3031,14 +3150,15 @@
       "http://realneville.com/txt/power_called_the_law.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3739,
+    "word_count": 3743,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-04-21"
   },
   {
     "corpus_id": "L0121",
@@ -3053,14 +3173,15 @@
       "http://realneville.com/txt/prophetic_blueprints.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4115,
+    "word_count": 4084,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-01-08"
   },
   {
     "corpus_id": "L0122",
@@ -3075,14 +3196,15 @@
       "http://realneville.com/txt/prophetic_sketches.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3388,
+    "word_count": 3410,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-09-22"
   },
   {
     "corpus_id": "L0123",
@@ -3097,14 +3219,15 @@
       "http://realneville.com/txt/radio_lectures.htm"
     ],
     "alternate_titles": [],
-    "word_count": 14350,
+    "word_count": 13885,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1951-01-01"
   },
   {
     "corpus_id": "L0124",
@@ -3119,14 +3242,15 @@
       "http://realneville.com/txt/reconciliation.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3380,
+    "word_count": 3394,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-10-12"
   },
   {
     "corpus_id": "L0125",
@@ -3141,14 +3265,15 @@
       "http://realneville.com/txt/redemption.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3481,
+    "word_count": 3487,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-10-21"
   },
   {
     "corpus_id": "L0126",
@@ -3163,14 +3288,15 @@
       "http://realneville.com/txt/release_barabbas_and_crucify_jesus.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3303,
+    "word_count": 3300,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1957-10-17"
   },
   {
     "corpus_id": "L0127",
@@ -3185,14 +3311,15 @@
       "http://realneville.com/txt/revealed_truth.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2930,
+    "word_count": 2939,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-11-03"
   },
   {
     "corpus_id": "L0128",
@@ -3207,14 +3334,15 @@
       "http://realneville.com/txt/salvation_history.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2517,
+    "word_count": 2516,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-02-12"
   },
   {
     "corpus_id": "L0129",
@@ -3229,14 +3357,15 @@
       "http://realneville.com/txt/seedtime_and_harvest.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5318,
+    "word_count": 5293,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1956-01-01"
   },
   {
     "corpus_id": "L0130",
@@ -3251,14 +3380,15 @@
       "http://realneville.com/txt/seeing_christ_through_the_eyes_of_paul.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3303,
+    "word_count": 3300,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-03-31"
   },
   {
     "corpus_id": "L0131",
@@ -3273,14 +3403,15 @@
       "http://realneville.com/txt/seek_the_kingdom.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2985,
+    "word_count": 3002,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-03-29"
   },
   {
     "corpus_id": "L0132",
@@ -3297,14 +3428,15 @@
       "https://library.feelingfield.com/audio/self-abandonment.mp3"
     ],
     "alternate_titles": [],
-    "word_count": 6253,
+    "word_count": 6015,
     "audio_available": true,
     "audio_status": "ORIGINAL_AUDIO_VERIFIED",
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1970-01-01"
   },
   {
     "corpus_id": "L0133",
@@ -3319,14 +3451,15 @@
       "http://realneville.com/txt/sharing_in_creativity.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2951,
+    "word_count": 2961,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-06-10"
   },
   {
     "corpus_id": "L0134",
@@ -3341,14 +3474,15 @@
       "http://realneville.com/txt/signs_from_above.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2515,
+    "word_count": 2506,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-06-24"
   },
   {
     "corpus_id": "L0135",
@@ -3363,14 +3497,15 @@
       "http://realneville.com/txt/sons_of_the_most_high.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2615,
+    "word_count": 2616,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-04-15"
   },
   {
     "corpus_id": "L0136",
@@ -3385,14 +3520,15 @@
       "http://realneville.com/txt/sound_investments.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4749,
+    "word_count": 4804,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1953-01-01"
   },
   {
     "corpus_id": "L0137",
@@ -3407,14 +3543,15 @@
       "http://realneville.com/txt/spiritual_sensation.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3926,
+    "word_count": 3921,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-05-16"
   },
   {
     "corpus_id": "L0138",
@@ -3429,14 +3566,15 @@
       "http://realneville.com/txt/summary.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4270,
+    "word_count": 4287,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-01-29"
   },
   {
     "corpus_id": "L0139",
@@ -3451,14 +3589,15 @@
       "http://realneville.com/txt/test_yourselves.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3487,
+    "word_count": 3313,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-09-25"
   },
   {
     "corpus_id": "L0140",
@@ -3473,14 +3612,15 @@
       "http://realneville.com/txt/that_which_already_has_been.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3697,
+    "word_count": 3679,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-01-01"
   },
   {
     "corpus_id": "L0141",
@@ -3495,14 +3635,15 @@
       "http://realneville.com/txt/the_art_of_dying.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3012,
+    "word_count": 3002,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-01-01"
   },
   {
     "corpus_id": "L0142",
@@ -3517,14 +3658,15 @@
       "http://realneville.com/txt/the_artist_is_god.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3634,
+    "word_count": 3790,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-10-16"
   },
   {
     "corpus_id": "L0143",
@@ -3539,14 +3681,15 @@
       "http://realneville.com/txt/the_awakening_of_faith.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3226,
+    "word_count": 3254,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-11-28"
   },
   {
     "corpus_id": "L0144",
@@ -3561,14 +3704,15 @@
       "http://realneville.com/txt/the_battle_of_armageddon.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3942,
+    "word_count": 3928,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-05-06"
   },
   {
     "corpus_id": "L0145",
@@ -3583,14 +3727,15 @@
       "http://realneville.com/txt/the_bible_your_biography.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4719,
+    "word_count": 4720,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-02-05"
   },
   {
     "corpus_id": "L0146",
@@ -3605,14 +3750,15 @@
       "http://realneville.com/txt/the_bibles_mystery.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3215,
+    "word_count": 3221,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-01"
   },
   {
     "corpus_id": "L0147",
@@ -3627,14 +3773,15 @@
       "http://realneville.com/txt/the_birth_of_the_babe.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3000,
+    "word_count": 2991,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-01-01"
   },
   {
     "corpus_id": "L0148",
@@ -3649,14 +3796,15 @@
       "http://realneville.com/txt/the_book_of_job.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5210,
+    "word_count": 5205,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-02-01"
   },
   {
     "corpus_id": "L0149",
@@ -3671,14 +3819,15 @@
       "http://realneville.com/txt/the_bread_and_the_wine.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3318,
+    "word_count": 3312,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-01-01"
   },
   {
     "corpus_id": "L0150",
@@ -3693,14 +3842,15 @@
       "http://realneville.com/txt/the_coin_of_heaven.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4535,
+    "word_count": 4624,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1954-01-01"
   },
   {
     "corpus_id": "L0151",
@@ -3715,14 +3865,15 @@
       "http://realneville.com/txt/the_core_of_man.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2878,
+    "word_count": 2863,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-11-17"
   },
   {
     "corpus_id": "L0152",
@@ -3737,14 +3888,15 @@
       "http://realneville.com/txt/the_creator.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3676,
+    "word_count": 3685,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-10-27"
   },
   {
     "corpus_id": "L0153",
@@ -3759,14 +3911,15 @@
       "http://realneville.com/txt/the_crucifixion.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5528,
+    "word_count": 5545,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-01-01"
   },
   {
     "corpus_id": "L0154",
@@ -3781,14 +3934,15 @@
       "http://realneville.com/txt/the_cup_of_experience.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3164,
+    "word_count": 3162,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-10-27"
   },
   {
     "corpus_id": "L0155",
@@ -3803,14 +3957,15 @@
       "http://realneville.com/txt/the_father.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3260,
+    "word_count": 3273,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-09-23"
   },
   {
     "corpus_id": "L0156",
@@ -3825,14 +3980,15 @@
       "http://realneville.com/txt/the_first_principle.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3453,
+    "word_count": 3455,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-06-09"
   },
   {
     "corpus_id": "L0157",
@@ -3847,14 +4003,15 @@
       "http://realneville.com/txt/the_forming_of_christ_in_you.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3679,
+    "word_count": 3655,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-06-23"
   },
   {
     "corpus_id": "L0158",
@@ -3869,14 +4026,15 @@
       "http://realneville.com/txt/the_foundation_stone_imagination.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3156,
+    "word_count": 3141,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-01-01"
   },
   {
     "corpus_id": "L0159",
@@ -3891,14 +4049,15 @@
       "http://realneville.com/txt/the_four_fold_gospel.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5681,
+    "word_count": 5706,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-01-01"
   },
   {
     "corpus_id": "L0160",
@@ -3913,14 +4072,15 @@
       "http://realneville.com/txt/the_free_man.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3632,
+    "word_count": 3621,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-10-13"
   },
   {
     "corpus_id": "L0161",
@@ -3935,14 +4095,15 @@
       "http://realneville.com/txt/the_game_of_life.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3687,
+    "word_count": 3566,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-03-07"
   },
   {
     "corpus_id": "L0162",
@@ -3957,14 +4118,15 @@
       "http://realneville.com/txt/the_gospel.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3284,
+    "word_count": 3715,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-10-06"
   },
   {
     "corpus_id": "L0163",
@@ -3979,14 +4141,15 @@
       "http://realneville.com/txt/the_great_mystery.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2460,
+    "word_count": 3517,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-09-26"
   },
   {
     "corpus_id": "L0164",
@@ -4001,14 +4164,15 @@
       "http://realneville.com/txt/the_great_possession.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3045,
+    "word_count": 3036,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0165",
@@ -4023,14 +4187,15 @@
       "http://realneville.com/txt/the_great_secret.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3113,
+    "word_count": 3133,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-09-27"
   },
   {
     "corpus_id": "L0166",
@@ -4045,14 +4210,15 @@
       "http://realneville.com/txt/the_heart_of_the_dreamer.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3564,
+    "word_count": 3551,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-12-01"
   },
   {
     "corpus_id": "L0167",
@@ -4067,14 +4233,15 @@
       "http://realneville.com/txt/the_heavenly_vision.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4074,
+    "word_count": 4470,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0168",
@@ -4089,14 +4256,15 @@
       "http://realneville.com/txt/the_hidden_cause.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3770,
+    "word_count": 3760,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-03-28"
   },
   {
     "corpus_id": "L0169",
@@ -4111,14 +4279,15 @@
       "http://realneville.com/txt/the_incarnate_revelation.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3458,
+    "word_count": 3457,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-02-20"
   },
   {
     "corpus_id": "L0170",
@@ -4133,14 +4302,15 @@
       "http://realneville.com/txt/the_knowledge_of_god.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3401,
+    "word_count": 3394,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0171",
@@ -4155,14 +4325,15 @@
       "http://realneville.com/txt/the_last_days.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3926,
+    "word_count": 3943,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-02-08"
   },
   {
     "corpus_id": "L0172",
@@ -4177,14 +4348,15 @@
       "http://realneville.com/txt/the_law.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3036,
+    "word_count": 3029,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-11-20"
   },
   {
     "corpus_id": "L0173",
@@ -4199,14 +4371,15 @@
       "http://realneville.com/txt/the_light_of_the_world.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3135,
+    "word_count": 3131,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-01"
   },
   {
     "corpus_id": "L0174",
@@ -4221,14 +4394,15 @@
       "http://realneville.com/txt/the_living_word.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3981,
+    "word_count": 3967,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-05-23"
   },
   {
     "corpus_id": "L0175",
@@ -4243,14 +4417,15 @@
       "http://realneville.com/txt/the_lord_our_potter.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3227,
+    "word_count": 3232,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-11-07"
   },
   {
     "corpus_id": "L0176",
@@ -4265,14 +4440,15 @@
       "http://realneville.com/txt/the_miraculous_child.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2841,
+    "word_count": 2856,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1966-10-28"
   },
   {
     "corpus_id": "L0177",
@@ -4287,14 +4463,15 @@
       "http://realneville.com/txt/the_mystery_of_baptism.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2913,
+    "word_count": 2896,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-31"
   },
   {
     "corpus_id": "L0178",
@@ -4309,14 +4486,15 @@
       "http://realneville.com/txt/the_mystery_of_inspiration.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3353,
+    "word_count": 3145,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-01"
   },
   {
     "corpus_id": "L0179",
@@ -4331,14 +4509,15 @@
       "http://realneville.com/txt/the_mystery_of_life.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3554,
+    "word_count": 3547,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-12-12"
   },
   {
     "corpus_id": "L0180",
@@ -4353,14 +4532,15 @@
       "http://realneville.com/txt/the_nature_of_god.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3781,
+    "word_count": 3774,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-09-22"
   },
   {
     "corpus_id": "L0181",
@@ -4375,14 +4555,15 @@
       "http://realneville.com/txt/the_new_christology.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4063,
+    "word_count": 4081,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-01-01"
   },
   {
     "corpus_id": "L0182",
@@ -4397,14 +4578,15 @@
       "https://www.realneville.com/txt/the_only_christianity.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3003,
+    "word_count": 2999,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-11-10"
   },
   {
     "corpus_id": "L0183",
@@ -4426,7 +4608,8 @@
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0184",
@@ -4441,14 +4624,15 @@
       "http://realneville.com/txt/the_perfect_image.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3411,
+    "word_count": 3406,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-04-11"
   },
   {
     "corpus_id": "L0185",
@@ -4463,14 +4647,15 @@
       "http://realneville.com/txt/the_power_of_awareness.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4664,
+    "word_count": 4660,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1953-01-01"
   },
   {
     "corpus_id": "L0186",
@@ -4485,14 +4670,15 @@
       "http://realneville.com/txt/the_primal_wish.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2992,
+    "word_count": 3020,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1966-10-24"
   },
   {
     "corpus_id": "L0187",
@@ -4507,14 +4693,15 @@
       "http://realneville.com/txt/the_promise_explained.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3626,
+    "word_count": 3536,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1970-01-01"
   },
   {
     "corpus_id": "L0188",
@@ -4529,14 +4716,15 @@
       "http://realneville.com/txt/the_pruning_shears_of_revision.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3737,
+    "word_count": 3797,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1954-01-01"
   },
   {
     "corpus_id": "L0189",
@@ -4551,14 +4739,15 @@
       "http://realneville.com/txt/the_pure_in_heart.htm"
     ],
     "alternate_titles": [],
-    "word_count": 6131,
+    "word_count": 6146,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-03-01"
   },
   {
     "corpus_id": "L0190",
@@ -4573,14 +4762,15 @@
       "http://realneville.com/txt/the_revealer.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2770,
+    "word_count": 2780,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-11-22"
   },
   {
     "corpus_id": "L0191",
@@ -4597,14 +4787,15 @@
       "https://library.feelingfield.com/audio/the-rock.mp3"
     ],
     "alternate_titles": [],
-    "word_count": 3999,
+    "word_count": 4004,
     "audio_available": true,
     "audio_status": "ORIGINAL_AUDIO_VERIFIED",
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-01"
   },
   {
     "corpus_id": "L0192",
@@ -4619,14 +4810,15 @@
       "http://realneville.com/txt/the_roll_of_the_book.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3837,
+    "word_count": 3848,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-11-01"
   },
   {
     "corpus_id": "L0193",
@@ -4641,14 +4833,15 @@
       "http://realneville.com/txt/the_second_vision.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2992,
+    "word_count": 2989,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-01-01"
   },
   {
     "corpus_id": "L0194",
@@ -4663,14 +4856,15 @@
       "http://realneville.com/txt/the_secret_of_causation.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3171,
+    "word_count": 3073,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-12-05"
   },
   {
     "corpus_id": "L0195",
@@ -4685,14 +4879,15 @@
       "http://realneville.com/txt/the_secret_of_prayer.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2662,
+    "word_count": 2648,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-10-06"
   },
   {
     "corpus_id": "L0196",
@@ -4707,14 +4902,15 @@
       "http://realneville.com/txt/the_seven_eyes_of_god.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3905,
+    "word_count": 3881,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0197",
@@ -4729,14 +4925,15 @@
       "http://realneville.com/txt/the_shaping_of_the_unbegotten.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2109,
+    "word_count": 2103,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-05-03"
   },
   {
     "corpus_id": "L0198",
@@ -4751,14 +4948,15 @@
       "http://realneville.com/txt/the_sin_against_the_holy_spirit.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4309,
+    "word_count": 4264,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-02-19"
   },
   {
     "corpus_id": "L0199",
@@ -4773,14 +4971,15 @@
       "http://realneville.com/txt/the_source.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3995,
+    "word_count": 3979,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-10-14"
   },
   {
     "corpus_id": "L0200",
@@ -4795,14 +4994,15 @@
       "http://realneville.com/txt/the_sphere_within.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3408,
+    "word_count": 3233,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-06-02"
   },
   {
     "corpus_id": "L0201",
@@ -4817,14 +5017,15 @@
       "http://realneville.com/txt/the_spirit_of_truth.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2418,
+    "word_count": 2407,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-10-07"
   },
   {
     "corpus_id": "L0202",
@@ -4839,14 +5040,15 @@
       "http://realneville.com/txt/the_spirit_within.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3410,
+    "word_count": 3251,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-04-25"
   },
   {
     "corpus_id": "L0203",
@@ -4861,14 +5063,15 @@
       "http://realneville.com/txt/the_spiritual_cause.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2714,
+    "word_count": 2712,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-05-03"
   },
   {
     "corpus_id": "L0204",
@@ -4883,14 +5086,15 @@
       "http://realneville.com/txt/the_state_of_vision.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2980,
+    "word_count": 2987,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0205",
@@ -4905,14 +5109,15 @@
       "http://realneville.com/txt/the_story_of_judas.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3455,
+    "word_count": 3445,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-01-01"
   },
   {
     "corpus_id": "L0206",
@@ -4927,14 +5132,15 @@
       "http://realneville.com/txt/the_talent.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3258,
+    "word_count": 3266,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1970-01-01"
   },
   {
     "corpus_id": "L0207",
@@ -4949,14 +5155,15 @@
       "http://realneville.com/txt/the_tree_of_life.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3169,
+    "word_count": 3181,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-03-21"
   },
   {
     "corpus_id": "L0208",
@@ -4971,14 +5178,15 @@
       "http://realneville.com/txt/the_true_knowledge_of_god.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3591,
+    "word_count": 3585,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-11-14"
   },
   {
     "corpus_id": "L0209",
@@ -4993,14 +5201,15 @@
       "http://realneville.com/txt/the_true_vine.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4174,
+    "word_count": 4161,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-04-04"
   },
   {
     "corpus_id": "L0210",
@@ -5015,14 +5224,15 @@
       "http://realneville.com/txt/the_truth_of_christ.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5950,
+    "word_count": 5999,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1970-01-01"
   },
   {
     "corpus_id": "L0211",
@@ -5037,14 +5247,15 @@
       "http://realneville.com/txt/the_twelve_disciples.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2499,
+    "word_count": 2503,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0212",
@@ -5059,14 +5270,15 @@
       "http://realneville.com/txt/the_ultimate_sense.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3576,
+    "word_count": 3590,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-06-20"
   },
   {
     "corpus_id": "L0213",
@@ -5081,14 +5293,15 @@
       "http://realneville.com/txt/the_value_of_dreams.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3367,
+    "word_count": 3062,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1959-01-01"
   },
   {
     "corpus_id": "L0214",
@@ -5103,14 +5316,15 @@
       "http://realneville.com/txt/there_is_no_fiction.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3534,
+    "word_count": 3515,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-06-07"
   },
   {
     "corpus_id": "L0215",
@@ -5125,14 +5339,15 @@
       "http://realneville.com/txt/three_propositions.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5104,
+    "word_count": 5183,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1954-01-01"
   },
   {
     "corpus_id": "L0216",
@@ -5147,14 +5362,15 @@
       "http://realneville.com/txt/true_forgiveness.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3156,
+    "word_count": 3152,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-04-01"
   },
   {
     "corpus_id": "L0217",
@@ -5169,14 +5385,15 @@
       "http://realneville.com/txt/trust_in_god.htm"
     ],
     "alternate_titles": [],
-    "word_count": 1730,
+    "word_count": 1728,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-10-13"
   },
   {
     "corpus_id": "L0218",
@@ -5191,14 +5408,15 @@
       "http://realneville.com/txt/truth_the_word_of_god.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2169,
+    "word_count": 2184,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-11-24"
   },
   {
     "corpus_id": "L0219",
@@ -5213,14 +5431,15 @@
       "http://realneville.com/txt/walk_by_faith.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2929,
+    "word_count": 2821,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-11-06"
   },
   {
     "corpus_id": "L0220",
@@ -5235,14 +5454,15 @@
       "http://realneville.com/txt/walk_on_the_water.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2586,
+    "word_count": 2588,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-06-20"
   },
   {
     "corpus_id": "L0221",
@@ -5257,14 +5477,15 @@
       "http://realneville.com/txt/what_are_you_doing.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2325,
+    "word_count": 2312,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-10-30"
   },
   {
     "corpus_id": "L0222",
@@ -5279,14 +5500,15 @@
       "http://realneville.com/txt/what_is_truth.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4290,
+    "word_count": 4284,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-03-31"
   },
   {
     "corpus_id": "L0223",
@@ -5301,14 +5523,15 @@
       "http://realneville.com/txt/where_are_you_from.htm"
     ],
     "alternate_titles": [],
-    "word_count": 7499,
+    "word_count": 7513,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-12-13"
   },
   {
     "corpus_id": "L0224",
@@ -5323,14 +5546,15 @@
       "http://realneville.com/txt/who_am_i.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4103,
+    "word_count": 4114,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-05-06"
   },
   {
     "corpus_id": "L0225",
@@ -5345,14 +5569,15 @@
       "http://realneville.com/txt/who_is_the_real_messiah.html"
     ],
     "alternate_titles": [],
-    "word_count": 5918,
+    "word_count": 5801,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1971-01-01"
   },
   {
     "corpus_id": "L0226",
@@ -5367,14 +5592,15 @@
       "http://realneville.com/txt/who_is_the_son_of_man.html"
     ],
     "alternate_titles": [],
-    "word_count": 7646,
+    "word_count": 7648,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-01-01"
   },
   {
     "corpus_id": "L0227",
@@ -5389,14 +5615,15 @@
       "http://realneville.com/txt/whom_do_you_seek.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3008,
+    "word_count": 3014,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-04-02"
   },
   {
     "corpus_id": "L0228",
@@ -5411,14 +5638,15 @@
       "http://realneville.com/txt/wonder_working_power.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2885,
+    "word_count": 2874,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-02-03"
   },
   {
     "corpus_id": "L0229",
@@ -5433,14 +5661,15 @@
       "http://realneville.com/txt/you_are_a_cosmic_being.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3909,
+    "word_count": 3795,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-05-02"
   },
   {
     "corpus_id": "L0230",
@@ -5455,14 +5684,15 @@
       "http://realneville.com/txt/you_can_forgive_sin.htm"
     ],
     "alternate_titles": [],
-    "word_count": 5230,
+    "word_count": 5182,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1963-03-29"
   },
   {
     "corpus_id": "L0231",
@@ -5484,7 +5714,8 @@
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-03-10"
   },
   {
     "corpus_id": "L0232",
@@ -5499,14 +5730,15 @@
       "http://realneville.com/txt/your_husband.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3588,
+    "word_count": 3592,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1968-02-02"
   },
   {
     "corpus_id": "L0233",
@@ -5521,14 +5753,15 @@
       "http://realneville.com/txt/your_maker.htm"
     ],
     "alternate_titles": [],
-    "word_count": 3798,
+    "word_count": 3778,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1969-01-07"
   },
   {
     "corpus_id": "L0234",
@@ -5543,14 +5776,15 @@
       "http://realneville.com/txt/your_supreme_dominion.htm"
     ],
     "alternate_titles": [],
-    "word_count": 4431,
+    "word_count": 4452,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "PUBLIC_DOMAIN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1953-01-01"
   },
   {
     "corpus_id": "L0235",
@@ -5565,13 +5799,14 @@
       "http://realneville.com/txt/yours_for_the_taking.htm"
     ],
     "alternate_titles": [],
-    "word_count": 2486,
+    "word_count": 2493,
     "audio_available": false,
     "audio_status": null,
     "transcript_available": true,
     "canonical_parent_id": null,
     "possible_duplicate_ids": [],
     "rights_status": "UNKNOWN",
-    "processing_status": "PENDING"
+    "processing_status": "COMPLETED",
+    "date": "1967-09-18"
   }
 ]

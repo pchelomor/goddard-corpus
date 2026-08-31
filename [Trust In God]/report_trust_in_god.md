@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Trust In God (1967-10-13)
+
+**?????:** Neville Goddard  
+**????????:** Trust In God  
+**???? ??????:** 1967-10-13  
+**Corpus ID:** L0217  
+**Work Class:** LECTURE  
+**Slug:** `trust_in_god`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 1728 ????, 30 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/trust-in-god/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 161
+- **REVIEW_RECOMMENDED:** 42
+- **REJECTED:** 3
+- **FAILED:** 0
+- **????? ??????:** 27
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0217_p012_0077` | 0.91 | `ASSUMPTION` | Assume things are as you want them to be, for an assumption, persisted in will h... |
+| 2 | `l0217_p012_0080` | 0.90 | `ASSUMPTION` | Believe that you need no one on the outside to aid you, for all things are possi... |
+| 3 | `l0217_p012_0082` | 0.90 | `ASSUMPTION` | Knowing what you want, believe that your assumption will make it a fact. Believe... |
+| 4 | `l0217_p007_0046` | 0.86 | `ASSUMPTION` | In her imagination she told the neighbor that she loved her. This she persisted ... |
+| 5 | `l0217_p029_0196` | 0.86 | `ASSUMPTION` | If you really believe in God, you can be penniless, yet walk in the assumption o... |
+| 6 | `l0217_p007_0049` | 0.85 | `ASSUMPTION` | In her imagination she told the neighbor that she loved her. This she persisted ... |
+| 7 | `l0217_p029_0201` | 0.85 | `ASSUMPTION` | If you really believe in God, you can be penniless, yet walk in the assumption o... |
+| 8 | `l0217_p005_0026` | 0.84 | `CONSCIOUSNESS_I_AM` | There is no other God, other than he who is housed within you.... |
+| 9 | `l0217_p005_0027` | 0.84 | `CONSCIOUSNESS_I_AM` | When you say, “I am” you are speaking God’s name, the God I ask you to trust – f... |
+| 10 | `l0217_p006_0034` | 0.84 | `ASSUMPTION` | She tried to tell the woman how to change things by using her imagination, but s... |

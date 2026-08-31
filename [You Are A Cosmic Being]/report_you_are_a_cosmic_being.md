@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: You Are A Cosmic Being (1969-05-02)
+
+**?????:** Neville Goddard  
+**????????:** You Are A Cosmic Being  
+**???? ??????:** 1969-05-02  
+**Corpus ID:** L0229  
+**Work Class:** LECTURE  
+**Slug:** `you_are_a_cosmic_being`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3795 ????, 39 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/you-are-a-cosmic-being/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 276
+- **REVIEW_RECOMMENDED:** 82
+- **REJECTED:** 5
+- **FAILED:** 0
+- **????? ??????:** 32
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0229_p005_0041` | 0.84 | `SCRIPTURE` | I cannot conceive of anything comparable to this, for unless we are born from ab... |
+| 2 | `l0229_p006_0053` | 0.84 | `FEELING` | If you would imitate God as a dear child you must first have a pattern from whic... |
+| 3 | `l0229_p007_0069` | 0.84 | `SCRIPTURE` | Christianity is based upon the claim that a certain series of events happened in... |
+| 4 | `l0229_p016_0134` | 0.84 | `SCRIPTURE` | Like Paul, I was taught that Christ was a man who came into the world and claime... |
+| 5 | `l0229_p036_0324` | 0.84 | `SLEEP_SATS` | As my consciousness follows vision, I step into that world and it closes upon me... |
+| 6 | `l0229_p038_0348` | 0.84 | `SPIRITUAL` | When you die here, you remold yourself in the likeness that you know – only you ... |
+| 7 | `l0229_p005_0046` | 0.83 | `SCRIPTURE` | I cannot conceive of anything comparable to this, for unless we are born from ab... |
+| 8 | `l0229_p006_0059` | 0.83 | `FEELING` | If you would imitate God as a dear child you must first have a pattern from whic... |
+| 9 | `l0229_p012_0112` | 0.83 | `SCRIPTURE` | That will be your birth from above, of which John speaks, saying: “Unless you ar... |
+| 10 | `l0229_p016_0135` | 0.83 | `SCRIPTURE` | But I tell you, Christianity is based upon the claim that a certain series of su... |

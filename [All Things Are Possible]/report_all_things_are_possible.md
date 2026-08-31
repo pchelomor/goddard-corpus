@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: All Things Are Possible (1969-05-12)
+
+**?????:** Neville Goddard  
+**????????:** All Things Are Possible  
+**???? ??????:** 1969-05-12  
+**Corpus ID:** L0012  
+**Work Class:** LECTURE  
+**Slug:** `all_things_are_possible`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3820 ????, 35 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/all-things-are-possible-2/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 372
+- **REVIEW_RECOMMENDED:** 90
+- **REJECTED:** 10
+- **FAILED:** 0
+- **????? ??????:** 32
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0012_p033_0457` | 0.90 | `SCRIPTURE` | Their prophecy is fulfilled in the New Testament as: “Whatsoever you desire, bel... |
+| 2 | `l0012_p006_0071` | 0.86 | `SCRIPTURE` | Assume your wish through the sense of feeling. That assumption, subjectively app... |
+| 3 | `l0012_p006_0074` | 0.86 | `SCRIPTURE` | Assume your wish through the sense of feeling. That assumption, subjectively app... |
+| 4 | `l0012_p018_0244` | 0.86 | `SCRIPTURE` | Are you willing to assume its joys and woes? Your assumption is your subjective ... |
+| 5 | `l0012_p002_0006` | 0.85 | `ASSUMPTION` | If you go beyond the dictates of reason, it must be via your imagination, and si... |
+| 6 | `l0012_p018_0248` | 0.85 | `SCRIPTURE` | Are you willing to assume its joys and woes? Your assumption is your subjective ... |
+| 7 | `l0012_p002_0004` | 0.84 | `ASSUMPTION` | You do not have to limit your power of belief to what your reasonable mind dicta... |
+| 8 | `l0012_p002_0009` | 0.84 | `ASSUMPTION` | You do not have to limit your power of belief to what your reasonable mind dicta... |
+| 9 | `l0012_p005_0044` | 0.84 | `ASSUMPTION` | All things are possible to him who believes and “with God all things are possibl... |
+| 10 | `l0012_p005_0045` | 0.84 | `ASSUMPTION` | When you leave here tonight, you expect to find your home where you left it.... |

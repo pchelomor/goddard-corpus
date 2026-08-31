@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Faith, Hope And Love (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Faith, Hope And Love  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0056  
+**Work Class:** LECTURE  
+**Slug:** `faith_hope_and_love`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2904 ????, 24 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/faith-hope-and-love/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 225
+- **REVIEW_RECOMMENDED:** 67
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 21
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0056_p008_0045` | 0.84 | `CONSCIOUSNESS_I_AM` | Now she knows that she incarnates God and that he radiates from her own wonderfu... |
+| 2 | `l0056_p015_0131` | 0.84 | `ASSUMPTION` | All things are possible to God, and by the exercise of this power she can prove ... |
+| 3 | `l0056_p015_0135` | 0.84 | `ASSUMPTION` | Power is not in anything outside of the human imagination.... |
+| 4 | `l0056_p015_0136` | 0.84 | `ASSUMPTION` | All that you behold, though it appears without, it is within, in your imaginatio... |
+| 5 | `l0056_p015_0144` | 0.84 | `ASSUMPTION` | It’s not in space, in the stars, or teacup leaves. Power is not in anything outs... |
+| 6 | `l0056_p016_0160` | 0.84 | `SCRIPTURE` | Now she knows – as does the other lady – that she incarnates God, and God radiat... |
+| 7 | `l0056_p015_0130` | 0.83 | `ASSUMPTION` | God’s creative power has made itself known to her and she will, in the immediate... |
+| 8 | `l0056_p015_0145` | 0.83 | `ASSUMPTION` | Power is not in anything outside of the human imagination. All that you behold, ... |
+| 9 | `l0056_p016_0159` | 0.83 | `SCRIPTURE` | So I repeat: God the creator and your own wonderful human imagination are one an... |
+| 10 | `l0056_p017_0172` | 0.83 | `ASSUMPTION` | Then he remembered that nineteen years ago he had been sketching, and a scene ju... |

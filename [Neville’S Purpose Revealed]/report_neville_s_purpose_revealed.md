@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Neville’S Purpose Revealed (1971-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Neville’S Purpose Revealed  
+**???? ??????:** 1971-01-01  
+**Corpus ID:** L0109  
+**Work Class:** LECTURE  
+**Slug:** `neville_s_purpose_revealed`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 6317 ????, 131 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/neville-s-purpose-revealed/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 464
+- **REVIEW_RECOMMENDED:** 204
+- **REJECTED:** 27
+- **FAILED:** 0
+- **????? ??????:** 68
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0109_p066_0441` | 0.91 | `ASSUMPTION` | In your dreams dare to assume that you are the man that you want to be.... |
+| 2 | `l0109_p066_0442` | 0.91 | `ASSUMPTION` | Assume that you are it, and persist in that assumption; and that assumption, in ... |
+| 3 | `l0109_p067_0453` | 0.91 | `ASSUMPTION` | So, if you dare to assume it, give it time.... |
+| 4 | `l0109_p067_0461` | 0.91 | `ASSUMPTION` | There are intervals of time between the assumption and its fulfillment. It�s lik... |
+| 5 | `l0109_p068_0465` | 0.91 | `ASSUMPTION` | So, dare to assume a noble concept of yourself. Live in it as though it were tru... |
+| 6 | `l0109_p068_0467` | 0.91 | `ASSUMPTION` | So, dare to assume a noble concept of yourself. Live in it as though it were tru... |
+| 7 | `l0109_p066_0445` | 0.90 | `ASSUMPTION` | In your dreams dare to assume that you are the man that you want to be. Assume t... |
+| 8 | `l0109_p066_0446` | 0.90 | `ASSUMPTION` | Assume that you are it, and persist in that assumption; and that assumption, in ... |
+| 9 | `l0109_p067_0458` | 0.90 | `ASSUMPTION` | So, if you dare to assume it, give it time. And then some bridge of incidents wi... |
+| 10 | `l0109_p067_0462` | 0.90 | `ASSUMPTION` | It�s like generation. So, if you dare to assume it, give it time. And then some ... |

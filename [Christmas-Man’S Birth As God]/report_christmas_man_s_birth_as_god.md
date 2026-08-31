@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Christmas-Man’S Birth As God (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Christmas-Man’S Birth As God  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0039  
+**Work Class:** LECTURE  
+**Slug:** `christmas_man_s_birth_as_god`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3060 ????, 53 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/christmas-man-s-birth-as-god/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 268
+- **REVIEW_RECOMMENDED:** 82
+- **REJECTED:** 10
+- **FAILED:** 0
+- **????? ??????:** 41
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0039_p002_0004` | 0.86 | `ASSUMPTION` | When you were born your little human form was assumed by God.... |
+| 2 | `l0039_p002_0008` | 0.86 | `ASSUMPTION` | When you were born your little human form was assumed by God. Christmas marks th... |
+| 3 | `l0039_p044_0300` | 0.86 | `FEELING` | That reaction sets a feeling in motion, be it anger, frustration, or irritation.... |
+| 4 | `l0039_p044_0303` | 0.86 | `FEELING` | Read the paper and react. That reaction sets a feeling in motion, be it anger, f... |
+| 5 | `l0039_p044_0304` | 0.86 | `FEELING` | That reaction sets a feeling in motion, be it anger, frustration, or irritation.... |
+| 6 | `l0039_p044_0305` | 0.86 | `FEELING` | When the feeling leaves, where does it go? Back to sleep within you, for you con... |
+| 7 | `l0039_p044_0306` | 0.86 | `FEELING` | Everything is within man. Read the paper and react. That reaction sets a feeling... |
+| 8 | `l0039_p044_0307` | 0.86 | `FEELING` | Read the paper and react. That reaction sets a feeling in motion, be it anger, f... |
+| 9 | `l0039_p025_0147` | 0.85 | `SPIRITUAL` | Christmas is not the incarnation of God, but the departure of Man as God; for Go... |
+| 10 | `l0039_p002_0007` | 0.84 | `ASSUMPTION` | The Word became flesh and dwells in us.” (John 1) Our physical birth is God’s in... |

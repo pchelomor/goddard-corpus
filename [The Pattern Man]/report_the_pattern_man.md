@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Pattern Man (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The Pattern Man  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0183  
+**Work Class:** LECTURE  
+**Slug:** `the_pattern_man`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 7946 ????, 86 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-pattern-man/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 617
+- **REVIEW_RECOMMENDED:** 221
+- **REJECTED:** 26
+- **FAILED:** 0
+- **????? ??????:** 75
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0183_p050_0480` | 0.93 | `ASSUMPTION` | If you wait for things to change before you dare to assume, you will wait foreve... |
+| 2 | `l0183_p050_0482` | 0.93 | `ASSUMPTION` | If you wait for things to change before you dare to assume, you will wait foreve... |
+| 3 | `l0183_p050_0484` | 0.93 | `ASSUMPTION` | If you wait for things to change before you dare to assume, you will wait foreve... |
+| 4 | `l0183_p050_0479` | 0.91 | `ASSUMPTION` | If you really want to be what you call �secure�, — say, in finances, dare to ass... |
+| 5 | `l0183_p049_0473` | 0.90 | `ASSUMPTION` | And, although at the moment of your assumption your reason and your senses deny ... |
+| 6 | `l0183_p049_0477` | 0.87 | `ASSUMPTION` | And, although at the moment of your assumption your reason and your senses deny ... |
+| 7 | `l0183_p081_0800` | 0.87 | `FEELING` | If you are a Catholic — as you said, you were raised a Catholic and you bowed yo... |
+| 8 | `l0183_p057_0547` | 0.86 | `CONSCIOUSNESS_I_AM` | I �go within� and I simply appropriate it. I simply assume the feeling of my wis... |
+| 9 | `l0183_p057_0553` | 0.86 | `CONSCIOUSNESS_I_AM` | Well, I appropriate it subjectively. I �go within� and I simply appropriate it. ... |
+| 10 | `l0183_p081_0799` | 0.86 | `FEELING` | If you feel comfortable lying on your back, lie on your back.... |

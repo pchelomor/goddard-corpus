@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Changing The Feeling Of “I” (1953-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Changing The Feeling Of “I”  
+**???? ??????:** 1953-01-01  
+**Corpus ID:** L0033  
+**Work Class:** LECTURE  
+**Slug:** `changing_the_feeling_of_i`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 4488 ????, 22 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/changing-the-feeling-of-i/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 344
+- **REVIEW_RECOMMENDED:** 108
+- **REJECTED:** 13
+- **FAILED:** 0
+- **????? ??????:** 22
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0033_p013_0242` | 0.86 | `FEELING` | So, the changing of the feeling of “I” is a selective thing because unnumbered  ... |
+| 2 | `l0033_p013_0248` | 0.86 | `FEELING` | The moment the feeling becomes natural, it will begin to  bear fruit within your... |
+| 3 | `l0033_p013_0250` | 0.86 | `FEELING` | I can’t tell you how long it’s going to take you but I’ll tell you this  much. I... |
+| 4 | `l0033_p013_0251` | 0.86 | `FEELING` | It can be measured by the feeling of naturalness. You can wear a feeling  until ... |
+| 5 | `l0033_p013_0252` | 0.86 | `FEELING` | You can wear a feeling  until it’s natural. The moment the feeling becomes natur... |
+| 6 | `l0033_p018_0320` | 0.86 | `CONSCIOUSNESS_I_AM` | Now, how will I know that I have changed the feeling of “I”?... |
+| 7 | `l0033_p018_0324` | 0.86 | `CONSCIOUSNESS_I_AM` | So the  changing of the feeling of “I” results in a change of reaction, which ch... |
+| 8 | `l0033_p022_0457` | 0.86 | `ASSUMPTION` | If you want to shift your position in the  chair, do so. Feel as though you are ... |
+| 9 | `l0033_p001_0002` | 0.85 | `ASSUMPTION` | We claimed that the world was a  manifestation of consciousness, that the indivi... |
+| 10 | `l0033_p002_0027` | 0.85 | `CONSCIOUSNESS_I_AM` | And that brings us to today’s subject, “Changing the Feeling of I”, and I hope I... |

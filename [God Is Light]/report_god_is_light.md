@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: God Is Light (1967-10-09)
+
+**?????:** Neville Goddard  
+**????????:** God Is Light  
+**???? ??????:** 1967-10-09  
+**Corpus ID:** L0067  
+**Work Class:** LECTURE  
+**Slug:** `god_is_light`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3544 ????, 25 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/god-is-light/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 297
+- **REVIEW_RECOMMENDED:** 102
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 24
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0067_p006_0062` | 0.86 | `CONSCIOUSNESS_I_AM` | Since my embrace I have no other feeling but the body of love that embraced me.... |
+| 2 | `l0067_p006_0071` | 0.85 | `CONSCIOUSNESS_I_AM` | I am man, and yet I know I am infinite love. Since my embrace I have no other fe... |
+| 3 | `l0067_p006_0078` | 0.85 | `CONSCIOUSNESS_I_AM` | I am human. I am man, and yet I know I am infinite love. Since my embrace I have... |
+| 4 | `l0067_p012_0200` | 0.85 | `PROMISE` | If you dare to act and persist in acting as though it were true and it becomes a... |
+| 5 | `l0067_p013_0220` | 0.85 | `PROMISE` | The promise you will have to take on faith. I tell you from experience: it is tr... |
+| 6 | `l0067_p005_0057` | 0.84 | `SCRIPTURE` | After this revelation happens in you, every claim made in scripture concerning G... |
+| 7 | `l0067_p006_0072` | 0.84 | `CONSCIOUSNESS_I_AM` | Since my embrace I have no other feeling but the body of love that embraced me. ... |
+| 8 | `l0067_p006_0079` | 0.84 | `CONSCIOUSNESS_I_AM` | I am man, and yet I know I am infinite love. Since my embrace I have no other fe... |
+| 9 | `l0067_p009_0134` | 0.84 | `SCRIPTURE` | One day you will know that you are all light, then all love, and finally all spi... |
+| 10 | `l0067_p011_0167` | 0.84 | `CONSCIOUSNESS_I_AM` | God is one in all and He awakens in all, and when he does everything claimed of ... |

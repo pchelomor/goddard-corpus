@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Artist Is God (1967-10-16)
+
+**?????:** Neville Goddard  
+**????????:** The Artist Is God  
+**???? ??????:** 1967-10-16  
+**Corpus ID:** L0142  
+**Work Class:** LECTURE  
+**Slug:** `the_artist_is_god`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3790 ????, 31 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-artist-is-god/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 313
+- **REVIEW_RECOMMENDED:** 85
+- **REJECTED:** 5
+- **FAILED:** 0
+- **????? ??????:** 28
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0142_p028_0366` | 0.86 | `ASSUMPTION` | If your income had just been increased to say $30,000 a year from your present i... |
+| 2 | `l0142_p028_0376` | 0.85 | `ASSUMPTION` | If your income had just been increased to say $30,000 a year from your present i... |
+| 3 | `l0142_p002_0005` | 0.84 | `SCRIPTURE` | Seated as you are now, you can move without moving physically because your etern... |
+| 4 | `l0142_p003_0023` | 0.84 | `FEELING` | If you don’t like it, you must imagine yourself out of it and into another.... |
+| 5 | `l0142_p003_0031` | 0.84 | `FEELING` | If you don’t like it, you must imagine yourself out of it and into another. It i... |
+| 6 | `l0142_p006_0055` | 0.84 | `CONSCIOUSNESS_I_AM` | I am trying to get you to realize that Jesus Christ is in you as your own wonder... |
+| 7 | `l0142_p006_0056` | 0.84 | `CONSCIOUSNESS_I_AM` | So when I say: “God became Man that Man may become God” I mean: “Imagination bec... |
+| 8 | `l0142_p006_0058` | 0.84 | `CONSCIOUSNESS_I_AM` | May I tell you: the whole vast world is all imagination.... |
+| 9 | `l0142_p006_0059` | 0.84 | `CONSCIOUSNESS_I_AM` | Our realists think they are nearer to the truth, yet they do not realize they ar... |
+| 10 | `l0142_p015_0171` | 0.84 | `ASSUMPTION` | The universe is nothing more than Imagination creating while it is fast asleep!... |

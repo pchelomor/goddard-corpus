@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Three Propositions (1954-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Three Propositions  
+**???? ??????:** 1954-01-01  
+**Corpus ID:** L0215  
+**Work Class:** LECTURE  
+**Slug:** `three_propositions`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 5183 ????, 34 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/three-propositions/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 168
+- **REVIEW_RECOMMENDED:** 66
+- **REJECTED:** 4
+- **FAILED:** 0
+- **????? ??????:** 24
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0215_p009_0065` | 0.85 | `SCRIPTURE` | Man has  a peculiar, strange feeling, a little affection for the feeling of bein... |
+| 2 | `l0215_p001_0002` | 0.84 | `FEELING` | The individual state of consciousness  determines the conditions and the circums... |
+| 3 | `l0215_p001_0004` | 0.84 | `FEELING` | Well, my first proposition is this one. The individual state of consciousness  d... |
+| 4 | `l0215_p004_0019` | 0.84 | `CONSCIOUSNESS_I_AM` | Most of us  do not even know what we mean by state of consciousness.... |
+| 5 | `l0215_p009_0073` | 0.84 | `SCRIPTURE` | We just don’t want certain things to take place in our world  even though they m... |
+| 6 | `l0215_p011_0084` | 0.84 | `CONSCIOUSNESS_I_AM` | Now, a transformation of consciousness will definitely result in a change of  en... |
+| 7 | `l0215_p017_0131` | 0.84 | `CONSCIOUSNESS_I_AM` | If you take this technique and you try it consciously, for here I am appealing  ... |
+| 8 | `l0215_p021_0148` | 0.84 | `SCRIPTURE` | If you didn’t rewrite yesterday’s  events and make them conform to the ideal you... |
+| 9 | `l0215_p023_0165` | 0.84 | `FEELING` | Man can change his state  of consciousness and therefore man can determine the c... |
+| 10 | `l0215_p027_0192` | 0.84 | `DESIRE` | If you want one to congratulate you, you allow yourself to be  congratulated.... |

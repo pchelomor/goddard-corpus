@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Awake O Sleeper (1968-01-08)
+
+**?????:** Neville Goddard  
+**????????:** Awake O Sleeper  
+**???? ??????:** 1968-01-08  
+**Corpus ID:** L0018  
+**Work Class:** LECTURE  
+**Slug:** `awake_o_sleeper`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3448 ????, 52 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/awake-o-sleeper/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 256
+- **REVIEW_RECOMMENDED:** 67
+- **REJECTED:** 2
+- **FAILED:** 0
+- **????? ??????:** 43
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0018_p034_0197` | 0.86 | `FEELING` | When you stand in His presence you can’t feel anything but love.... |
+| 2 | `l0018_p034_0201` | 0.85 | `FEELING` | When you stand in His presence you can’t feel anything but love. And when love e... |
+| 3 | `l0018_p037_0213` | 0.85 | `SCRIPTURE` | One day when your time here is fulfilled, you will awaken and be born from above... |
+| 4 | `l0018_p043_0264` | 0.85 | `PROMISE` | We died when we left our heavenly home to come down and assume the limitations o... |
+| 5 | `l0018_p002_0001` | 0.84 | `SCRIPTURE` | The Bible is addressed to the Imagination – which is spiritual sensation – and o... |
+| 6 | `l0018_p004_0005` | 0.84 | `SCRIPTURE` | All of the commands of scripture are addressed to and fulfilled by the Lord, who... |
+| 7 | `l0018_p011_0048` | 0.84 | `CONSCIOUSNESS_I_AM` | Imagination is joined to you and you are joined to me by our emanated Jerusalems... |
+| 8 | `l0018_p011_0050` | 0.84 | `CONSCIOUSNESS_I_AM` | Although hidden from view, you are so one with Eve that if you were struck and f... |
+| 9 | `l0018_p014_0061` | 0.84 | `ASSUMPTION` | She is your soul, which God (Imagination) cleaves to and has become one with.... |
+| 10 | `l0018_p014_0063` | 0.84 | `ASSUMPTION` | She is your soul, which God (Imagination) cleaves to and has become one with. Th... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Conception (1968-03-11)
+
+**?????:** Neville Goddard  
+**????????:** Conception  
+**???? ??????:** 1968-03-11  
+**Corpus ID:** L0041  
+**Work Class:** LECTURE  
+**Slug:** `conception`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3553 ????, 31 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/conception/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 281
+- **REVIEW_RECOMMENDED:** 86
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 27
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0041_p021_0251` | 0.88 | `CONSCIOUSNESS_I_AM` | There is no other. “Man is all Imagination and God is Man and exists in us and w... |
+| 2 | `l0041_p021_0257` | 0.88 | `CONSCIOUSNESS_I_AM` | There is no other. “Man is all Imagination and God is Man and exists in us and w... |
+| 3 | `l0041_p007_0058` | 0.86 | `SCRIPTURE` | All things are possible to God! By burying his creative power in them, he turns ... |
+| 4 | `l0041_p008_0066` | 0.86 | `SCRIPTURE` | People think that Man is not God, but I tell you that Man is all Imagination and... |
+| 5 | `l0041_p021_0256` | 0.86 | `CONSCIOUSNESS_I_AM` | The being that maintains it all is the same being that maintains you! There is n... |
+| 6 | `l0041_p008_0073` | 0.85 | `SCRIPTURE` | People think that Man is not God, but I tell you that Man is all Imagination and... |
+| 7 | `l0041_p021_0260` | 0.85 | `CONSCIOUSNESS_I_AM` | There is only one Spirit in this wonderful universe. The being that maintains it... |
+| 8 | `l0041_p021_0261` | 0.85 | `CONSCIOUSNESS_I_AM` | The being that maintains it all is the same being that maintains you! There is n... |
+| 9 | `l0041_p026_0321` | 0.85 | `FEELING` | Then, feeling the relief of being in it and the satisfaction of accomplishment, ... |
+| 10 | `l0041_p007_0055` | 0.84 | `SCRIPTURE` | By burying his creative power in them, he turns death into sleep and sleep into ... |

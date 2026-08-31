@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Lord Our Potter (1969-11-07)
+
+**?????:** Neville Goddard  
+**????????:** The Lord Our Potter  
+**???? ??????:** 1969-11-07  
+**Corpus ID:** L0175  
+**Work Class:** LECTURE  
+**Slug:** `the_lord_our_potter`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3232 ????, 40 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-lord-our-potter/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 272
+- **REVIEW_RECOMMENDED:** 75
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 36
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0175_p009_0053` | 0.86 | `ASSUMPTION` | All things exist in Divine Imagination who is reproducing Himself in you, the hu... |
+| 2 | `l0175_p012_0086` | 0.86 | `SCRIPTURE` | I tell you, “Man is all Imagination and God is Man and exists in us and we in Hi... |
+| 3 | `l0175_p031_0258` | 0.86 | `CONSCIOUSNESS_I_AM` | Your awareness of being is your I AM, your potter who molds your world.... |
+| 4 | `l0175_p003_0011` | 0.85 | `CONSCIOUSNESS_I_AM` | Your own wonderful I AMness is the Lord, your Father. And the word “potter” mean... |
+| 5 | `l0175_p012_0091` | 0.85 | `SCRIPTURE` | I tell you, “Man is all Imagination and God is Man and exists in us and we in Hi... |
+| 6 | `l0175_p031_0262` | 0.85 | `CONSCIOUSNESS_I_AM` | Your awareness of being is your I AM, your potter who molds your world. To him a... |
+| 7 | `l0175_p003_0007` | 0.84 | `CONSCIOUSNESS_I_AM` | Your own wonderful I AMness is the Lord, your Father.... |
+| 8 | `l0175_p003_0009` | 0.84 | `CONSCIOUSNESS_I_AM` | Imagination is the Lord, the potter, the shaper of your world, molding it into i... |
+| 9 | `l0175_p004_0016` | 0.84 | `ASSUMPTION` | The Eternal Body of Man is the Imagination which is God Himself.” (William.... |
+| 10 | `l0175_p004_0017` | 0.84 | `ASSUMPTION` | “God is Man and exists in us and we in Him. The Eternal Body of Man is the Imagi... |

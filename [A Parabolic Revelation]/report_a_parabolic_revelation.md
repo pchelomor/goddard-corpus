@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: A Parabolic Revelation (1969-06-06)
+
+**?????:** Neville Goddard  
+**????????:** A Parabolic Revelation  
+**???? ??????:** 1969-06-06  
+**Corpus ID:** L0005  
+**Work Class:** LECTURE  
+**Slug:** `a_parabolic_revelation`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 4057 ????, 35 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/a-parabolic-revelation/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 297
+- **REVIEW_RECOMMENDED:** 106
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 28
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0005_p034_0389` | 0.86 | `ASSUMPTION` | Assume the feeling it has been reached and sleep in that feeling.... |
+| 2 | `l0005_p034_0398` | 0.86 | `ASSUMPTION` | I urge you to set your goal high. Assume the feeling it has been reached and sle... |
+| 3 | `l0005_p034_0399` | 0.85 | `ASSUMPTION` | Assume the feeling it has been reached and sleep in that feeling. Persist and I ... |
+| 4 | `l0005_p012_0052` | 0.84 | `SCRIPTURE` | There is nothing more difficult than to give up a fixed idea, especially concern... |
+| 5 | `l0005_p016_0109` | 0.84 | `SCRIPTURE` | If you read scripture correctly you will see that the only son of Jacob mentione... |
+| 6 | `l0005_p020_0187` | 0.84 | `ASSUMPTION` | When you read it you may think this is an episode which took place in some histo... |
+| 7 | `l0005_p027_0290` | 0.84 | `SPIRITUAL` | Until then you do not know that you are Jesus and remain confused by the hearing... |
+| 8 | `l0005_p029_0311` | 0.84 | `SCRIPTURE` | When you see that giant of a man leaning against a tree, you will see a serpent ... |
+| 9 | `l0005_p029_0314` | 0.84 | `SCRIPTURE` | When you see Abraham you will know you are seeing the beginning of the journey.... |
+| 10 | `l0005_p030_0328` | 0.84 | `SCRIPTURE` | So, when you read scripture try to bear in mind that you are reading about infin... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Coin Of Heaven (1954-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The Coin Of Heaven  
+**???? ??????:** 1954-01-01  
+**Corpus ID:** L0150  
+**Work Class:** LECTURE  
+**Slug:** `the_coin_of_heaven`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 4624 ????, 28 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-coin-of-heaven/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 169
+- **REVIEW_RECOMMENDED:** 63
+- **REJECTED:** 5
+- **FAILED:** 0
+- **????? ??????:** 21
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0150_p007_0052` | 0.84 | `SCRIPTURE` | When imagination awakes it is  incapable of being exercised in any way outside o... |
+| 2 | `l0150_p007_0053` | 0.84 | `SCRIPTURE` | So every time  you use your imagination lovingly, you are literally awakening th... |
+| 3 | `l0150_p021_0192` | 0.84 | `ASSUMPTION` | If you were conscious of the activity  within you, you would see everything rela... |
+| 4 | `l0150_p022_0203` | 0.84 | `FEELING` | There is not a person on earth that you know as intimately as  those who have aw... |
+| 5 | `l0150_p023_0205` | 0.84 | `FEELING` | When you go into their presence and you mingle with them you become one.... |
+| 6 | `l0150_p026_0222` | 0.84 | `DESIRE` | If you had all the knowledge in the  world and you didn’t put it into practice, ... |
+| 7 | `l0150_p004_0036` | 0.83 | `ASSUMPTION` | If you do not lay  new tracks, I will prophesy for you you will find your self r... |
+| 8 | `l0150_p007_0051` | 0.83 | `SCRIPTURE` | Then he finds himself awakening a man within that was asleep; he awakens  the se... |
+| 9 | `l0150_p012_0101` | 0.83 | `ASSUMPTION` | In your imagination you imagine the action to be unfolding and you replay  every... |
+| 10 | `l0150_p017_0151` | 0.83 | `ASSUMPTION` | Go back to that moment in time. rewrite it, replay it in the revised  version, a... |

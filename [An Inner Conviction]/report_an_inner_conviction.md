@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: An Inner Conviction (1968-03-15)
+
+**?????:** Neville Goddard  
+**????????:** An Inner Conviction  
+**???? ??????:** 1968-03-15  
+**Corpus ID:** L0015  
+**Work Class:** LECTURE  
+**Slug:** `an_inner_conviction`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3346 ????, 29 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/an-inner-conviction/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 270
+- **REVIEW_RECOMMENDED:** 59
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 26
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0015_p003_0017` | 0.91 | `SCRIPTURE` | But I do know from experience that on this level, if you dare to assume you are ... |
+| 2 | `l0015_p003_0023` | 0.90 | `SCRIPTURE` | But I do know from experience that on this level, if you dare to assume you are ... |
+| 3 | `l0015_p003_0028` | 0.89 | `SCRIPTURE` | But I do know from experience that on this level, if you dare to assume you are ... |
+| 4 | `l0015_p003_0022` | 0.87 | `SCRIPTURE` | There are many experiences not recorded in scripture, and I am not here to stand... |
+| 5 | `l0015_p003_0018` | 0.86 | `SCRIPTURE` | When you embrace the desired state, you have assumed its impregnation, and its f... |
+| 6 | `l0015_p003_0024` | 0.86 | `SCRIPTURE` | When you embrace the desired state, you have assumed its impregnation, and its f... |
+| 7 | `l0015_p004_0031` | 0.86 | `ASSUMPTION` | I felt the dampness of the rail and tasted the salt air of the sea with the feel... |
+| 8 | `l0015_p004_0034` | 0.86 | `ASSUMPTION` | So I know that the truth of any concept is known by the feeling of a certainty, ... |
+| 9 | `l0015_p017_0189` | 0.86 | `FEELING` | Once you have that inner feeling of certainty, don’t ask me to confirm it.... |
+| 10 | `l0015_p017_0195` | 0.86 | `FEELING` | Once you have that inner feeling of certainty, don’t ask me to confirm it. What ... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Sin Against The Holy Spirit (1963-02-19)
+
+**?????:** Neville Goddard  
+**????????:** The Sin Against The Holy Spirit  
+**???? ??????:** 1963-02-19  
+**Corpus ID:** L0198  
+**Work Class:** LECTURE  
+**Slug:** `the_sin_against_the_holy_spirit`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 4264 ????, 20 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-sin-against-the-holy-spirit/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 361
+- **REVIEW_RECOMMENDED:** 136
+- **REJECTED:** 13
+- **FAILED:** 0
+- **????? ??????:** 19
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0198_p013_0345` | 0.86 | `FEELING` | A man falls into the state of feeling sorry for himself.... |
+| 2 | `l0198_p013_0350` | 0.86 | `FEELING` | After years of saturation, he cannot conceive of feeling happy.... |
+| 3 | `l0198_p013_0359` | 0.86 | `FEELING` | In the interval – all these things we sin against – we fall into states. A man f... |
+| 4 | `l0198_p013_0360` | 0.86 | `FEELING` | A man falls into the state of feeling sorry for himself. Knowing the law, instea... |
+| 5 | `l0198_p013_0375` | 0.85 | `FEELING` | A man falls into the state of feeling sorry for himself. Knowing the law, instea... |
+| 6 | `l0198_p013_0379` | 0.85 | `FEELING` | I wish I could say pleased about things concerning myself.’ He has been coming t... |
+| 7 | `l0198_p007_0187` | 0.84 | `SCRIPTURE` | There is nothing comparable to it – that breath which transfers to you the gift ... |
+| 8 | `l0198_p007_0196` | 0.84 | `SCRIPTURE` | There is nothing comparable to it – that breath which transfers to you the gift ... |
+| 9 | `l0198_p008_0212` | 0.84 | `FEELING` | If you sin against the Holy Spirit there is no forgiveness, but against anything... |
+| 10 | `l0198_p013_0366` | 0.84 | `FEELING` | After years of saturation, he cannot conceive of feeling happy. And you tell him... |

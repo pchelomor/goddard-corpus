@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Reconciliation (1969-10-12)
+
+**?????:** Neville Goddard  
+**????????:** Reconciliation  
+**???? ??????:** 1969-10-12  
+**Corpus ID:** L0124  
+**Work Class:** LECTURE  
+**Slug:** `reconciliation`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3394 ????, 31 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/reconciliation/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 266
+- **REVIEW_RECOMMENDED:** 62
+- **REJECTED:** 5
+- **FAILED:** 0
+- **????? ??????:** 28
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0124_p007_0043` | 0.85 | `CONSCIOUSNESS_I_AM` | But I cannot describe the feeling that possessed me when I stood in the presence... |
+| 2 | `l0124_p007_0051` | 0.84 | `CONSCIOUSNESS_I_AM` | I know what it is like to love a child, my wife, my family, and friends. But I c... |
+| 3 | `l0124_p007_0052` | 0.84 | `CONSCIOUSNESS_I_AM` | But I cannot describe the feeling that possessed me when I stood in the presence... |
+| 4 | `l0124_p017_0157` | 0.84 | `SCRIPTURE` | When you think of Christ do not think of a man, but a plan of redemption.... |
+| 5 | `l0124_p017_0158` | 0.84 | `SCRIPTURE` | When you read: “I am the way; I am the truth; I am the light,” do not picture a ... |
+| 6 | `l0124_p017_0160` | 0.84 | `SCRIPTURE` | If you believe what I have told you now, its experience is advancing into your f... |
+| 7 | `l0124_p022_0216` | 0.84 | `SPIRITUAL` | When you read in the Book of John that God is love, don’t think these are idle w... |
+| 8 | `l0124_p025_0255` | 0.84 | `PROMISE` | The way begins with the resurrection, followed by your birth from above.... |
+| 9 | `l0124_p028_0307` | 0.84 | `CONSCIOUSNESS_I_AM` | Although the mortal eye cannot see it I feel this body all the time.... |
+| 10 | `l0124_p001_0002` | 0.83 | `FEELING` | When you first hear this you will no doubt resist it and believe the one who mak... |

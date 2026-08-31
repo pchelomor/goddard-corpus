@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: God’S Promise To Man (1963-01-01)
+
+**?????:** Neville Goddard  
+**????????:** God’S Promise To Man  
+**???? ??????:** 1963-01-01  
+**Corpus ID:** L0074  
+**Work Class:** LECTURE  
+**Slug:** `god_s_promise_to_man`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 5105 ????, 26 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/god-s-promise-to-man/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 366
+- **REVIEW_RECOMMENDED:** 141
+- **REJECTED:** 17
+- **FAILED:** 0
+- **????? ??????:** 23
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0074_p021_0453` | 0.86 | `PROMISE` | When you receive the promise, you are declared heir to the kingdom; when you rec... |
+| 2 | `l0074_p002_0042` | 0.85 | `SCRIPTURE` | Listen to the words carefully: “Now the promises were made to Abraham and to his... |
+| 3 | `l0074_p003_0083` | 0.85 | `SCRIPTURE` | The promise is unconditional. So, here I am, a normal man with all the limitatio... |
+| 4 | `l0074_p013_0272` | 0.85 | `SCRIPTURE` | We are told in 2 Corinthians 1:20, speaking of Christ Jesus: “In him are all the... |
+| 5 | `l0074_p013_0273` | 0.85 | `SCRIPTURE` | All the promises of God find their affirmation, their fulfillment, in him.... |
+| 6 | `l0074_p013_0290` | 0.85 | `SCRIPTURE` | All the promises of God find their affirmation, their fulfillment, in him. Well,... |
+| 7 | `l0074_p013_0302` | 0.85 | `SCRIPTURE` | All the promises of God find their affirmation, their fulfillment, in him. Well,... |
+| 8 | `l0074_p021_0452` | 0.85 | `PROMISE` | There is quite a difference between receiving the promise and receiving what was... |
+| 9 | `l0074_p021_0459` | 0.85 | `PROMISE` | There is quite a difference between receiving the promise and receiving what was... |
+| 10 | `l0074_p001_0006` | 0.84 | `FEELING` | If you are familiar with the story, he had a son who was described as a “wild as... |

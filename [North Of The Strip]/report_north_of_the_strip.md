@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: North Of The Strip (1959-11-24)
+
+**?????:** Neville Goddard  
+**????????:** North Of The Strip  
+**???? ??????:** 1959-11-24  
+**Corpus ID:** L0113  
+**Work Class:** LECTURE  
+**Slug:** `north_of_the_strip`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3490 ????, 32 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/north-of-the-strip/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 315
+- **REVIEW_RECOMMENDED:** 147
+- **REJECTED:** 14
+- **FAILED:** 0
+- **????? ??????:** 24
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0113_p009_0178` | 0.87 | `ASSUMPTION` | I tell her there is nothing impossible to her, and there is nothing impossible  ... |
+| 2 | `l0113_p009_0181` | 0.87 | `ASSUMPTION` | I tell her there is nothing impossible to her, and there is nothing impossible  ... |
+| 3 | `l0113_p029_0403` | 0.85 | `SCRIPTURE` | The statement: You must be born from above or you cannot enter the Kingdom of  H... |
+| 4 | `l0113_p001_0001` | 0.84 | `ASSUMPTION` | On this platform we believe that God is all Imagination and God is man  (spiritu... |
+| 5 | `l0113_p001_0002` | 0.84 | `ASSUMPTION` | We believe also that God, being the only creator, and God being  man, then we ar... |
+| 6 | `l0113_p001_0003` | 0.84 | `ASSUMPTION` | The  whole world in which we live is a world of Imagination.... |
+| 7 | `l0113_p008_0162` | 0.84 | `ASSUMPTION` | She wanted to do so [and] she did it, because she is all Imagination.... |
+| 8 | `l0113_p010_0193` | 0.84 | `CONSCIOUSNESS_I_AM` | I  brought this doctor, in Imagination, before me and I put my hand on his face.... |
+| 9 | `l0113_p010_0198` | 0.84 | `CONSCIOUSNESS_I_AM` | There is no separation or time without consent. You make this work for  another,... |
+| 10 | `l0113_p010_0204` | 0.84 | `CONSCIOUSNESS_I_AM` | I  brought this doctor, in Imagination, before me and I put my hand on his face.... |

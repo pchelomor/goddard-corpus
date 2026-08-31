@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Walk On The Water (1968-06-20)
+
+**?????:** Neville Goddard  
+**????????:** Walk On The Water  
+**???? ??????:** 1968-06-20  
+**Corpus ID:** L0220  
+**Work Class:** LECTURE  
+**Slug:** `walk_on_the_water`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2588 ????, 26 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/walk-on-the-water/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 292
+- **REVIEW_RECOMMENDED:** 46
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 25
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0220_p002_0010` | 0.86 | `ASSUMPTION` | There is no sin against the Holy Ghost other than man’s belief that something is... |
+| 2 | `l0220_p021_0279` | 0.86 | `PROMISE` | There is no need to beg or ask anyone for anything, for everything lives in the ... |
+| 3 | `l0220_p002_0018` | 0.85 | `ASSUMPTION` | There is no sin against the Holy Ghost other than man’s belief that something is... |
+| 4 | `l0220_p003_0027` | 0.85 | `SCRIPTURE` | When you cease excusing yourself or anyone for life’s experiences, and begin to ... |
+| 5 | `l0220_p020_0256` | 0.85 | `PROMISE` | The promise is: “You shall be born from above.” If God makes such a promise, he ... |
+| 6 | `l0220_p022_0281` | 0.85 | `PROMISE` | Everyone will be born from above, for everyone is God and there is nothing but G... |
+| 7 | `l0220_p024_0321` | 0.85 | `FEELING` | When you know what you want in life, construct a scene which would imply your de... |
+| 8 | `l0220_p001_0001` | 0.84 | `SCRIPTURE` | The Bible is addressed to the Man of Imagination, he who is immortal and cannot ... |
+| 9 | `l0220_p002_0024` | 0.84 | `ASSUMPTION` | There is no sin against the Holy Ghost other than man’s belief that something is... |
+| 10 | `l0220_p003_0026` | 0.84 | `SCRIPTURE` | Water symbolizes your acceptance of life as psychological, and its drama as taki... |

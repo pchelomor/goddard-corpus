@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Four Fold Vision (1968-01-26)
+
+**?????:** Neville Goddard  
+**????????:** Four Fold Vision  
+**???? ??????:** 1968-01-26  
+**Corpus ID:** L0061  
+**Work Class:** LECTURE  
+**Slug:** `four_fold_vision`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3062 ????, 44 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/four-fold-vision/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 264
+- **REVIEW_RECOMMENDED:** 80
+- **REJECTED:** 3
+- **FAILED:** 0
+- **????? ??????:** 40
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0061_p005_0011` | 0.84 | `ASSUMPTION` | The idea that imagination could create reality would be sheer nonsense to him, a... |
+| 2 | `l0061_p024_0203` | 0.84 | `ASSUMPTION` | If you have a desire to supplant what you have now, you must start by assuming i... |
+| 3 | `l0061_p024_0205` | 0.84 | `ASSUMPTION` | Imagination is the creative power which can cause that which was not, to be!... |
+| 4 | `l0061_p024_0211` | 0.84 | `ASSUMPTION` | If you have a desire to supplant what you have now, you must start by assuming i... |
+| 5 | `l0061_p025_0215` | 0.84 | `ASSUMPTION` | The power to change anything will lie dormant unless we operate it, as Imaginati... |
+| 6 | `l0061_p029_0235` | 0.84 | `ASSUMPTION` | So Imagination can not only bring things into being, it can take things away!... |
+| 7 | `l0061_p029_0240` | 0.84 | `ASSUMPTION` | So Imagination can not only bring things into being, it can take things away! It... |
+| 8 | `l0061_p034_0285` | 0.84 | `FEELING` | As you look at the fire and feel its warmth something will begin to stir within ... |
+| 9 | `l0061_p036_0303` | 0.84 | `ASSUMPTION` | When you see another meaning to that which appears to be, you are beginning to h... |
+| 10 | `l0061_p039_0328` | 0.84 | `SPIRITUAL` | We descended in consciousness, and made our dreams so real by entering into the ... |

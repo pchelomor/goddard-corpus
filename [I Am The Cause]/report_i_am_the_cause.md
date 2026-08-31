@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: I Am The Cause (1969-10-19)
+
+**?????:** Neville Goddard  
+**????????:** I Am The Cause  
+**???? ??????:** 1969-10-19  
+**Corpus ID:** L0088  
+**Work Class:** LECTURE  
+**Slug:** `i_am_the_cause`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 4304 ????, 47 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/i-am-the-cause/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 325
+- **REVIEW_RECOMMENDED:** 108
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 44
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0088_p031_0269` | 0.91 | `ASSUMPTION` | When I dared to assume I was the man I wanted to be, I did not discuss it with o... |
+| 2 | `l0088_p031_0275` | 0.90 | `ASSUMPTION` | Anything can be created by a mere assumption. When I dared to assume I was the m... |
+| 3 | `l0088_p031_0276` | 0.90 | `ASSUMPTION` | When I dared to assume I was the man I wanted to be, I did not discuss it with o... |
+| 4 | `l0088_p031_0281` | 0.90 | `ASSUMPTION` | Anything can be created by a mere assumption. When I dared to assume I was the m... |
+| 5 | `l0088_p031_0280` | 0.89 | `ASSUMPTION` | Or you can create something ignoble and become so immersed in it you believe in ... |
+| 6 | `l0088_p038_0343` | 0.86 | `ASSUMPTION` | Not knowing how it was going to come about, he simply persisted in his assumptio... |
+| 7 | `l0088_p039_0352` | 0.86 | `ASSUMPTION` | Declaring that you are now it, don’t look away and forget the image reflected th... |
+| 8 | `l0088_p003_0011` | 0.85 | `SCRIPTURE` | Peter tells us: “Scoffers will come in the last days scoffing and saying, �Where... |
+| 9 | `l0088_p031_0264` | 0.85 | `ASSUMPTION` | And the day you dare to remain faithful to your assumption, it will begin to ext... |
+| 10 | `l0088_p031_0271` | 0.85 | `ASSUMPTION` | And the day you dare to remain faithful to your assumption, it will begin to ext... |

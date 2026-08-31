@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: I Am The Lord (1969-02-21)
+
+**?????:** Neville Goddard  
+**????????:** I Am The Lord  
+**???? ??????:** 1969-02-21  
+**Corpus ID:** L0089  
+**Work Class:** LECTURE  
+**Slug:** `i_am_the_lord`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3129 ????, 29 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/i-am-the-lord/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 274
+- **REVIEW_RECOMMENDED:** 81
+- **REJECTED:** 10
+- **FAILED:** 0
+- **????? ??????:** 26
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0089_p024_0329` | 0.86 | `ASSUMPTION` | If you want to hate someone, you can augment it through intensity and persistenc... |
+| 2 | `l0089_p024_0332` | 0.86 | `ASSUMPTION` | If you want to hate someone, you can augment it through intensity and persistenc... |
+| 3 | `l0089_p005_0065` | 0.85 | `CONSCIOUSNESS_I_AM` | To say: “I am” is near, is to claim God is another – but there is no other. You ... |
+| 4 | `l0089_p005_0077` | 0.85 | `CONSCIOUSNESS_I_AM` | Wherever you are, I am! To say: “I am” is near, is to claim God is another – but... |
+| 5 | `l0089_p021_0288` | 0.85 | `FEELING` | Rearrange those little clusters around the foot, and when they are fixed with fe... |
+| 6 | `l0089_p002_0016` | 0.84 | `SCRIPTURE` | The cause of the phenomena of your life is not on the outside, but in your own w... |
+| 7 | `l0089_p005_0042` | 0.84 | `CONSCIOUSNESS_I_AM` | If you are unaware of your imaginal activity, you are asleep relative to it.... |
+| 8 | `l0089_p005_0050` | 0.84 | `CONSCIOUSNESS_I_AM` | God, as your imagination, can never be so far off as even to be near, for the ne... |
+| 9 | `l0089_p005_0051` | 0.84 | `CONSCIOUSNESS_I_AM` | To say: “I am” is near, is to claim God is another – but there is no other.... |
+| 10 | `l0089_p005_0052` | 0.84 | `CONSCIOUSNESS_I_AM` | You and God are one, for He is your wonderful human imagination!... |

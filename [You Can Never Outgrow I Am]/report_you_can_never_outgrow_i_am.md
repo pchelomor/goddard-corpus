@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: You Can Never Outgrow I Am (1969-03-10)
+
+**?????:** Neville Goddard  
+**????????:** You Can Never Outgrow I Am  
+**???? ??????:** 1969-03-10  
+**Corpus ID:** L0231  
+**Work Class:** LECTURE  
+**Slug:** `you_can_never_outgrow_i_am`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 4344 ????, 33 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/you-can-never-outgrow-i-am/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 324
+- **REVIEW_RECOMMENDED:** 146
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 32
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0231_p009_0082` | 0.85 | `CONSCIOUSNESS_I_AM` | When you imagine a state, do you believe that the scene has the power to externa... |
+| 2 | `l0231_p003_0022` | 0.84 | `SCRIPTURE` | All things are possible to God, but man has difficulty keeping the tense.... |
+| 3 | `l0231_p007_0057` | 0.84 | `SCRIPTURE` | Yet I tell you: God is eternally contemporary for he is our awareness of being.... |
+| 4 | `l0231_p008_0065` | 0.84 | `CONSCIOUSNESS_I_AM` | Can you believe that, housed within you as your I amness, is the only creative p... |
+| 5 | `l0231_p009_0076` | 0.84 | `CONSCIOUSNESS_I_AM` | When you imagine a state, do you believe that the scene has the power to externa... |
+| 6 | `l0231_p009_0077` | 0.84 | `FEELING` | Or do you feel you must pray to a being on the outside for help?... |
+| 7 | `l0231_p009_0083` | 0.84 | `FEELING` | Or do you feel you must pray to a being on the outside for help? I tell you: the... |
+| 8 | `l0231_p009_0087` | 0.84 | `CONSCIOUSNESS_I_AM` | When you imagine a state, do you believe that the scene has the power to externa... |
+| 9 | `l0231_p011_0114` | 0.84 | `SCRIPTURE` | There is no evidence of an historical Jesus Christ. We have the essence of Chris... |
+| 10 | `l0231_p016_0193` | 0.84 | `CONSCIOUSNESS_I_AM` | The true goal is to know God is your own wonderful human imagination.... |

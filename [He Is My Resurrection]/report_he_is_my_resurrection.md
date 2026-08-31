@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: He Is My Resurrection (1968-06-28)
+
+**?????:** Neville Goddard  
+**????????:** He Is My Resurrection  
+**???? ??????:** 1968-06-28  
+**Corpus ID:** L0083  
+**Work Class:** LECTURE  
+**Slug:** `he_is_my_resurrection`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3557 ????, 38 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/he-is-my-resurrection/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 245
+- **REVIEW_RECOMMENDED:** 79
+- **REJECTED:** 15
+- **FAILED:** 0
+- **????? ??????:** 28
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0083_p019_0176` | 0.89 | `ASSUMPTION` | In the meanwhile don’t neglect the law of God which is: An assumption will harde... |
+| 2 | `l0083_p019_0179` | 0.89 | `ASSUMPTION` | In the meanwhile don’t neglect the law of God which is: An assumption will harde... |
+| 3 | `l0083_p019_0181` | 0.87 | `ASSUMPTION` | In the meanwhile don’t neglect the law of God which is: An assumption will harde... |
+| 4 | `l0083_p021_0200` | 0.86 | `CONSCIOUSNESS_I_AM` | There is not a moment in time when imagination is not acting, causing the events... |
+| 5 | `l0083_p025_0243` | 0.86 | `ASSUMPTION` | Now I know that Man is all Imagination, and God is Man and exists in us and we i... |
+| 6 | `l0083_p037_0325` | 0.86 | `ASSUMPTION` | Remain faithful to that assumption and in a way that no one knows you will becom... |
+| 7 | `l0083_p009_0096` | 0.85 | `PROMISE` | Then, after the long interval of death he is born from above into a world of lif... |
+| 8 | `l0083_p010_0113` | 0.85 | `PROMISE` | We are told that in the last days scoffers will come, saying: “Where is the prom... |
+| 9 | `l0083_p025_0247` | 0.85 | `ASSUMPTION` | Now I know that Man is all Imagination, and God is Man and exists in us and we i... |
+| 10 | `l0083_p037_0332` | 0.85 | `ASSUMPTION` | All you need do is assume you are now what you want to be. Remain faithful to th... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The True Vine (1969-04-04)
+
+**?????:** Neville Goddard  
+**????????:** The True Vine  
+**???? ??????:** 1969-04-04  
+**Corpus ID:** L0209  
+**Work Class:** LECTURE  
+**Slug:** `the_true_vine`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 4161 ????, 40 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-true-vine/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 341
+- **REVIEW_RECOMMENDED:** 84
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 36
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0209_p008_0079` | 0.87 | `ASSUMPTION` | When you believe this you will no longer imagine as you formerly did, but will p... |
+| 2 | `l0209_p008_0073` | 0.86 | `ASSUMPTION` | You will break the habit of feeling remorseful, depressed, or regretful.... |
+| 3 | `l0209_p013_0157` | 0.86 | `ASSUMPTION` | When you imagine, God is acting. He is the true vine and the vinedresser, for he... |
+| 4 | `l0209_p013_0160` | 0.86 | `ASSUMPTION` | Your awareness is He. When you imagine, God is acting. He is the true vine and t... |
+| 5 | `l0209_p001_0002` | 0.85 | `CONSCIOUSNESS_I_AM` | I tell you: Jesus Christ is your awareness, your I Amness, who became as you are... |
+| 6 | `l0209_p013_0161` | 0.85 | `ASSUMPTION` | When you imagine, God is acting. He is the true vine and the vinedresser, for he... |
+| 7 | `l0209_p014_0163` | 0.85 | `ASSUMPTION` | When you become aware of those in need, even though you do not know them persona... |
+| 8 | `l0209_p023_0225` | 0.85 | `ASSUMPTION` | If you will accept this truth and will not let it go, your days will change as y... |
+| 9 | `l0209_p034_0366` | 0.85 | `PROMISE` | Yet night after night the visions continue to possess you, all based upon the pr... |
+| 10 | `l0209_p001_0005` | 0.84 | `CONSCIOUSNESS_I_AM` | I tell you: Jesus Christ is your awareness, your I Amness, who became as you are... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: God’S Wisest Creature (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** God’S Wisest Creature  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0075  
+**Work Class:** LECTURE  
+**Slug:** `god_s_wisest_creature`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2268 ????, 35 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/god-s-wisest-creature/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 184
+- **REVIEW_RECOMMENDED:** 24
+- **REJECTED:** 2
+- **FAILED:** 0
+- **????? ??????:** 29
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0075_p011_0067` | 0.84 | `PROMISE` | The act of resurrection is God’s mightiest act, for he must awaken his sons, who... |
+| 2 | `l0075_p011_0069` | 0.84 | `PROMISE` | You had to forget this truth in order to assume the limitations of this cross ca... |
+| 3 | `l0075_p017_0105` | 0.84 | `SPIRITUAL` | There is not a thing you -as man – have ever done that God has seen something to... |
+| 4 | `l0075_p023_0145` | 0.84 | `PROMISE` | So resurrection is identified with birth, for at that moment you are designated ... |
+| 5 | `l0075_p023_0146` | 0.84 | `PROMISE` | Man is born anew through the resurrection of the son of God, who died to give li... |
+| 6 | `l0075_p024_0151` | 0.84 | `CONSCIOUSNESS_I_AM` | You do not have any ancestor who is a son of God – you are!... |
+| 7 | `l0075_p005_0016` | 0.83 | `SCRIPTURE` | I cannot describe that body, but I will use scripture in the hope that you will ... |
+| 8 | `l0075_p011_0071` | 0.83 | `PROMISE` | Dwell upon your true being, for although you have forgotten it, you are a son of... |
+| 9 | `l0075_p011_0072` | 0.83 | `PROMISE` | The act of resurrection is God’s mightiest act, for he must awaken his sons, who... |
+| 10 | `l0075_p012_0073` | 0.83 | `ASSUMPTION` | But before this assumption, our one grand hope was for expansion and ultimate bi... |

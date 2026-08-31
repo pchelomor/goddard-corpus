@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Great Possession (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The Great Possession  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0164  
+**Work Class:** LECTURE  
+**Slug:** `the_great_possession`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3036 ????, 40 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-great-possession/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 222
+- **REVIEW_RECOMMENDED:** 67
+- **REJECTED:** 4
+- **FAILED:** 0
+- **????? ??????:** 35
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0164_p007_0036` | 0.86 | `FEELING` | Buy a home, and the minute you have the feeling of possession you must insure yo... |
+| 2 | `l0164_p007_0038` | 0.85 | `FEELING` | In this world your possessions enslave you. Buy a home, and the minute you have ... |
+| 3 | `l0164_p008_0041` | 0.85 | `FEELING` | People who own a fortune in diamonds often place them in a vault and never see t... |
+| 4 | `l0164_p007_0039` | 0.84 | `FEELING` | Buy a home, and the minute you have the feeling of possession you must insure yo... |
+| 5 | `l0164_p007_0040` | 0.84 | `FEELING` | In this world your possessions enslave you. Buy a home, and the minute you have ... |
+| 6 | `l0164_p008_0044` | 0.84 | `FEELING` | People who own a fortune in diamonds often place them in a vault and never see t... |
+| 7 | `l0164_p017_0112` | 0.84 | `PROMISE` | Your own wonderful human imagination is the God of the earth and sea who is buri... |
+| 8 | `l0164_p017_0115` | 0.84 | `PROMISE` | Your own wonderful human imagination is the God of the earth and sea who is buri... |
+| 9 | `l0164_p018_0124` | 0.84 | `SLEEP_SATS` | If you stopped this moment in time and kept it so for a thousand years, nothing ... |
+| 10 | `l0164_p023_0161` | 0.84 | `CONSCIOUSNESS_I_AM` | Having proclaimed to you that I am the truth, who can I send but myself?... |

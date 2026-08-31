@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Signs From Above (1968-06-24)
+
+**?????:** Neville Goddard  
+**????????:** Signs From Above  
+**???? ??????:** 1968-06-24  
+**Corpus ID:** L0134  
+**Work Class:** LECTURE  
+**Slug:** `signs_from_above`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2506 ????, 21 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/signs-from-above/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 179
+- **REVIEW_RECOMMENDED:** 48
+- **REJECTED:** 4
+- **FAILED:** 0
+- **????? ??????:** 19
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0134_p013_0101` | 0.91 | `ASSUMPTION` | Then, if this statement in the Book of Mark is true, all you have to do is persi... |
+| 2 | `l0134_p013_0109` | 0.90 | `ASSUMPTION` | Your true friends would rejoice, would they not? Then, if this statement in the ... |
+| 3 | `l0134_p013_0116` | 0.90 | `ASSUMPTION` | Ask yourself how your friends would see you if you now embodied the idea you des... |
+| 4 | `l0134_p015_0138` | 0.86 | `CONSCIOUSNESS_I_AM` | Persist in your assumption and in a way that no one knows, it will become true f... |
+| 5 | `l0134_p015_0145` | 0.86 | `CONSCIOUSNESS_I_AM` | How would you feel if your desire were true? Catch the feeling and sustain it.... |
+| 6 | `l0134_p015_0146` | 0.86 | `CONSCIOUSNESS_I_AM` | Catch the feeling and sustain it. Persist in your assumption and in a way that n... |
+| 7 | `l0134_p018_0191` | 0.86 | `ASSUMPTION` | If you do not believe that you are spirit, all imagination, you remain where you... |
+| 8 | `l0134_p004_0021` | 0.85 | `PROMISE` | I tell you, unless you are born from above, you cannot enter the kingdom of God.... |
+| 9 | `l0134_p015_0152` | 0.85 | `CONSCIOUSNESS_I_AM` | Accept on faith that which you do not understand, and apply that which you do. H... |
+| 10 | `l0134_p015_0153` | 0.85 | `CONSCIOUSNESS_I_AM` | How would you feel if your desire were true? Catch the feeling and sustain it. P... |

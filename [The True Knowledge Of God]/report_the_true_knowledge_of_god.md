@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The True Knowledge Of God (1969-11-14)
+
+**?????:** Neville Goddard  
+**????????:** The True Knowledge Of God  
+**???? ??????:** 1969-11-14  
+**Corpus ID:** L0208  
+**Work Class:** LECTURE  
+**Slug:** `the_true_knowledge_of_god`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3585 ????, 34 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-true-knowledge-of-god/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 282
+- **REVIEW_RECOMMENDED:** 99
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 31
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0208_p032_0373` | 0.90 | `ASSUMPTION` | Start with your immediate circle and – although at the moment your circle may de... |
+| 2 | `l0208_p032_0377` | 0.89 | `ASSUMPTION` | Nothing less than the very best, and simply imagine it to be true about you and ... |
+| 3 | `l0208_p032_0381` | 0.87 | `ASSUMPTION` | Take a glorious concept of life. Nothing less than the very best, and simply ima... |
+| 4 | `l0208_p021_0226` | 0.85 | `SCRIPTURE` | When you reach the point where you cannot blame another because you have accepte... |
+| 5 | `l0208_p024_0258` | 0.85 | `PROMISE` | I have been born from above, and the only one who is born from above is God, He ... |
+| 6 | `l0208_p012_0076` | 0.84 | `PROMISE` | If you see David as the world does, you will never understand the mystery.... |
+| 7 | `l0208_p012_0078` | 0.84 | `PROMISE` | When you see him, you are seeing the sign that you have played all the parts you... |
+| 8 | `l0208_p012_0080` | 0.84 | `PROMISE` | If you see David as the world does, you will never understand the mystery. David... |
+| 9 | `l0208_p013_0088` | 0.84 | `CONSCIOUSNESS_I_AM` | There is no other God. “Hear O Israel, the Lord our God, the Lord is one.” There... |
+| 10 | `l0208_p014_0095` | 0.84 | `DESIRE` | If you want someone to love you, or see you differently, change your attitude to... |

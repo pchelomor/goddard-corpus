@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Spiritual Cause (1968-05-03)
+
+**?????:** Neville Goddard  
+**????????:** The Spiritual Cause  
+**???? ??????:** 1968-05-03  
+**Corpus ID:** L0203  
+**Work Class:** LECTURE  
+**Slug:** `the_spiritual_cause`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2712 ????, 25 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-spiritual-cause/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 272
+- **REVIEW_RECOMMENDED:** 55
+- **REJECTED:** 2
+- **FAILED:** 0
+- **????? ??????:** 23
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0203_p007_0073` | 0.91 | `ASSUMPTION` | Then, when your thoughtful seed is harvested, remember the moment of planting; f... |
+| 2 | `l0203_p007_0082` | 0.90 | `ASSUMPTION` | Use each and every moment to plant a seed of thought you want to experience. The... |
+| 3 | `l0203_p007_0083` | 0.90 | `ASSUMPTION` | Then, when your thoughtful seed is harvested, remember the moment of planting; f... |
+| 4 | `l0203_p007_0091` | 0.89 | `ASSUMPTION` | I urge everyone to think of time as precious! Use each and every moment to plant... |
+| 5 | `l0203_p007_0093` | 0.89 | `ASSUMPTION` | Then, when your thoughtful seed is harvested, remember the moment of planting; f... |
+| 6 | `l0203_p007_0092` | 0.87 | `ASSUMPTION` | Use each and every moment to plant a seed of thought you want to experience. The... |
+| 7 | `l0203_p002_0011` | 0.86 | `ASSUMPTION` | Can you imagine you are the one you would like to be, and remain faithful to tha... |
+| 8 | `l0203_p002_0012` | 0.86 | `ASSUMPTION` | If you can and do, it will appear, and you will realize that its spiritual cause... |
+| 9 | `l0203_p002_0022` | 0.86 | `ASSUMPTION` | If you listen to them and doubt your desire’s fulfillment, Satan has made himsel... |
+| 10 | `l0203_p007_0079` | 0.86 | `ASSUMPTION` | Feeling intense, a lovely or unlovely seed is planted, and must be harvested; fo... |

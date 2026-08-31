@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Spiritual Sensation (1969-05-16)
+
+**?????:** Neville Goddard  
+**????????:** Spiritual Sensation  
+**???? ??????:** 1969-05-16  
+**Corpus ID:** L0137  
+**Work Class:** LECTURE  
+**Slug:** `spiritual_sensation`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3921 ????, 37 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/spiritual-sensation/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 323
+- **REVIEW_RECOMMENDED:** 104
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 35
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0137_p017_0187` | 0.92 | `ASSUMPTION` | Dare to believe in the reality of your assumption and watch the world play its p... |
+| 2 | `l0137_p017_0183` | 0.91 | `ASSUMPTION` | Your assumption may appear to be false when first imagined; but if you will pers... |
+| 3 | `l0137_p017_0188` | 0.90 | `SCRIPTURE` | Your assumption may appear to be false when first imagined; but if you will pers... |
+| 4 | `l0137_p017_0191` | 0.89 | `SCRIPTURE` | Dare to believe in the reality of your assumption and watch the world play its p... |
+| 5 | `l0137_p017_0190` | 0.87 | `ASSUMPTION` | Walk in this assumption, knowing you are all imagination, and all things are pos... |
+| 6 | `l0137_p032_0376` | 0.87 | `ASSUMPTION` | If you can lose all fear, and imagine what you would like to have in spite of wh... |
+| 7 | `l0137_p017_0180` | 0.86 | `SCRIPTURE` | Right now you can use your powerful imagination to assume you are what at the mo... |
+| 8 | `l0137_p017_0182` | 0.86 | `ASSUMPTION` | Dare to believe in the reality of your assumption and watch the world play its p... |
+| 9 | `l0137_p031_0350` | 0.86 | `ASSUMPTION` | If your imagination is God, then your imaginal act is God in action.... |
+| 10 | `l0137_p031_0359` | 0.86 | `ASSUMPTION` | If your imagination is God, then your imaginal act is God in action. Everything ... |

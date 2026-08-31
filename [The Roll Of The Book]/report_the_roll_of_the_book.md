@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Roll Of The Book (1968-11-01)
+
+**?????:** Neville Goddard  
+**????????:** The Roll Of The Book  
+**???? ??????:** 1968-11-01  
+**Corpus ID:** L0192  
+**Work Class:** LECTURE  
+**Slug:** `the_roll_of_the_book`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3848 ????, 37 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-roll-of-the-book/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 288
+- **REVIEW_RECOMMENDED:** 82
+- **REJECTED:** 6
+- **FAILED:** 0
+- **????? ??????:** 34
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0192_p006_0061` | 0.85 | `DESIRE` | By claiming to be the offspring of this heavenly being, he claimed to exist, but... |
+| 2 | `l0192_p016_0148` | 0.85 | `PROMISE` | After satisfying myself with the feeling that it was accomplished, I bathed in t... |
+| 3 | `l0192_p031_0305` | 0.85 | `PROMISE` | All I can share with her now are aspects of the Promise, which I have done in my... |
+| 4 | `l0192_p001_0003` | 0.84 | `SCRIPTURE` | Take any story and, regardless of whether the central figure is male or female, ... |
+| 5 | `l0192_p006_0050` | 0.84 | `DESIRE` | By claiming to be the offspring of this heavenly being, he claimed to exist, but... |
+| 6 | `l0192_p006_0070` | 0.84 | `DESIRE` | Then I realized he had the right to live. By claiming to be the offspring of thi... |
+| 7 | `l0192_p006_0071` | 0.84 | `DESIRE` | By claiming to be the offspring of this heavenly being, he claimed to exist, but... |
+| 8 | `l0192_p013_0111` | 0.84 | `ASSUMPTION` | You do not have to acquire merit in order to get into heaven; your acceptance of... |
+| 9 | `l0192_p016_0154` | 0.84 | `PROMISE` | Another letter came, saying: “I did my homework, as it were, by sitting in my li... |
+| 10 | `l0192_p016_0155` | 0.84 | `PROMISE` | After satisfying myself with the feeling that it was accomplished, I bathed in t... |

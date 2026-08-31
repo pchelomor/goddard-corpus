@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Story Of Judas (1959-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The Story Of Judas  
+**???? ??????:** 1959-01-01  
+**Corpus ID:** L0205  
+**Work Class:** LECTURE  
+**Slug:** `the_story_of_judas`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3445 ????, 22 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-story-of-judas/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 306
+- **REVIEW_RECOMMENDED:** 107
+- **REJECTED:** 6
+- **FAILED:** 0
+- **????? ??????:** 20
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0205_p005_0123` | 0.86 | `ASSUMPTION` | There is no other. Christ in Man is man�s own wonderful human Imagination, and w... |
+| 2 | `l0205_p001_0004` | 0.84 | `FEELING` | How many times one feels concerned at the misuse of this principle.... |
+| 3 | `l0205_p002_0029` | 0.84 | `SCRIPTURE` | The characters are real in eternity and we assume the character and play it on t... |
+| 4 | `l0205_p005_0119` | 0.84 | `ASSUMPTION` | Christ in Man is man�s own wonderful human Imagination, and with Christ all thin... |
+| 5 | `l0205_p010_0197` | 0.84 | `ASSUMPTION` | You have to tell the world who God is and that He is Imagination, but the transl... |
+| 6 | `l0205_p012_0219` | 0.84 | `CONSCIOUSNESS_I_AM` | I ask you to take this revelation of God, who is your own wonderful human Imagin... |
+| 7 | `l0205_p013_0238` | 0.84 | `CONSCIOUSNESS_I_AM` | Distinguish man, who is all Imagination, from his present state.... |
+| 8 | `l0205_p013_0242` | 0.84 | `CONSCIOUSNESS_I_AM` | If you were given a vision you would now, this moment, see in human form the sta... |
+| 9 | `l0205_p013_0249` | 0.84 | `CONSCIOUSNESS_I_AM` | Distinguish man, who is all Imagination, from his present state. You can forgive... |
+| 10 | `l0205_p015_0283` | 0.84 | `SCRIPTURE` | When you enter the state of contention it is then alive, but if you are not in t... |

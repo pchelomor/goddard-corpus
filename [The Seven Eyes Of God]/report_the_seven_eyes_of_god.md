@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Seven Eyes Of God (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The Seven Eyes Of God  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0196  
+**Work Class:** LECTURE  
+**Slug:** `the_seven_eyes_of_god`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3881 ????, 35 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-seven-eyes-of-god/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 305
+- **REVIEW_RECOMMENDED:** 129
+- **REJECTED:** 17
+- **FAILED:** 0
+- **????? ??????:** 28
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0196_p009_0110` | 0.87 | `SCRIPTURE` | Then you see that God became man, that man, awakening, may become God.... |
+| 2 | `l0196_p009_0127` | 0.87 | `SCRIPTURE` | It does not open by the process of time, but only after the clarifying of the se... |
+| 3 | `l0196_p026_0339` | 0.87 | `FEELING` | For God became man that man may become God. So this wonderful poem that existed ... |
+| 4 | `l0196_p009_0140` | 0.86 | `SCRIPTURE` | It means that the eighth eye is open. It does not open by the process of time, b... |
+| 5 | `l0196_p021_0262` | 0.86 | `FEELING` | It may scare you a little at first, the feeling of an electric battery moving in... |
+| 6 | `l0196_p026_0338` | 0.86 | `FEELING` | Now, you catch it on the wing, but I tell you that you will discover all kinds o... |
+| 7 | `l0196_p026_0341` | 0.86 | `FEELING` | Now, you catch it on the wing, but I tell you that you will discover all kinds o... |
+| 8 | `l0196_p026_0342` | 0.86 | `ASSUMPTION` | For God became man that man may become God. So this wonderful poem that existed ... |
+| 9 | `l0196_p024_0313` | 0.85 | `SCRIPTURE` | But it comes only after the seventh eye is exercised. So I must learn to experie... |
+| 10 | `l0196_p024_0318` | 0.85 | `SCRIPTURE` | Look in your Bible and read the story of the unveiling of the mind of man. But i... |

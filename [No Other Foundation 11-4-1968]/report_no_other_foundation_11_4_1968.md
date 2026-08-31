@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: No Other Foundation 11-4-1968 (1968-11-04)
+
+**?????:** Neville Goddard  
+**????????:** No Other Foundation 11-4-1968  
+**???? ??????:** 1968-11-04  
+**Corpus ID:** L0111  
+**Work Class:** LECTURE  
+**Slug:** `no_other_foundation_11_4_1968`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3080 ????, 40 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/no-other-foundation-11-4-1968/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 318
+- **REVIEW_RECOMMENDED:** 67
+- **REJECTED:** 6
+- **FAILED:** 0
+- **????? ??????:** 37
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0111_p036_0361` | 0.91 | `ASSUMPTION` | Simply dare to assume you are what you want to be, and you will compel everyone ... |
+| 2 | `l0111_p036_0366` | 0.91 | `ASSUMPTION` | Simply dare to assume you are what you want to be, and you will compel everyone ... |
+| 3 | `l0111_p036_0365` | 0.90 | `ASSUMPTION` | You don’t have to be concerned as to who is going to aid you. Simply dare to ass... |
+| 4 | `l0111_p036_0370` | 0.90 | `ASSUMPTION` | You don’t have to be concerned as to who is going to aid you. Simply dare to ass... |
+| 5 | `l0111_p036_0362` | 0.89 | `ASSUMPTION` | Dare to assume that you have your desire. You may feel you do not have the wisdo... |
+| 6 | `l0111_p036_0357` | 0.87 | `ASSUMPTION` | Dare to assume that you have your desire.... |
+| 7 | `l0111_p036_0369` | 0.87 | `ASSUMPTION` | If it takes one thousand or ten thousand people to play their parts to bring you... |
+| 8 | `l0111_p013_0124` | 0.86 | `FEELING` | Although I knew of no road that would lead me back, I knew that feeling was the ... |
+| 9 | `l0111_p031_0301` | 0.86 | `SCRIPTURE` | You must claim your awareness is Jesus Christ in order to know who you really ar... |
+| 10 | `l0111_p032_0306` | 0.86 | `FEELING` | Men claim it is a shadow and unreal, yet from these so-called dreams they interp... |

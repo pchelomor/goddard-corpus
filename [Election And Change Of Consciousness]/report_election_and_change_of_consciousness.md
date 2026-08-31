@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Election And Change Of Consciousness (1963-02-24)
+
+**?????:** Neville Goddard  
+**????????:** Election And Change Of Consciousness  
+**???? ??????:** 1963-02-24  
+**Corpus ID:** L0044  
+**Work Class:** LECTURE  
+**Slug:** `election_and_change_of_consciousness`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3161 ????, 30 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/election-and-change-of-consciousness/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 307
+- **REVIEW_RECOMMENDED:** 98
+- **REJECTED:** 11
+- **FAILED:** 0
+- **????? ??????:** 28
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0044_p026_0353` | 0.86 | `FEELING` | What would the feeling be like were you the person you would like to be?... |
+| 2 | `l0044_p026_0358` | 0.86 | `FEELING` | By the act of feeling. Feel the tones of reality that would be yours were you we... |
+| 3 | `l0044_p026_0360` | 0.86 | `FEELING` | What would the feeling be like were you the person you would like to be? Feeling... |
+| 4 | `l0044_p026_0359` | 0.85 | `FEELING` | Feel the tones of reality that would be yours were you wedded to the state of yo... |
+| 5 | `l0044_p026_0363` | 0.85 | `FEELING` | But like the other, you can leave the state to which you are now wedded. How do ... |
+| 6 | `l0044_p026_0364` | 0.85 | `FEELING` | How do you do it? By the act of feeling. Feel the tones of reality that would be... |
+| 7 | `l0044_p007_0097` | 0.84 | `SCRIPTURE` | She cannot sell or give her present state of consciousness away.... |
+| 8 | `l0044_p007_0100` | 0.84 | `SCRIPTURE` | Chosen to leave this age. She cannot sell or give her present state of conscious... |
+| 9 | `l0044_p007_0101` | 0.84 | `SCRIPTURE` | She cannot sell or give her present state of consciousness away. She must volunt... |
+| 10 | `l0044_p007_0104` | 0.84 | `SCRIPTURE` | Chosen to leave this age. She cannot sell or give her present state of conscious... |

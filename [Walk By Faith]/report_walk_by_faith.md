@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Walk By Faith (1967-11-06)
+
+**?????:** Neville Goddard  
+**????????:** Walk By Faith  
+**???? ??????:** 1967-11-06  
+**Corpus ID:** L0219  
+**Work Class:** LECTURE  
+**Slug:** `walk_by_faith`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2821 ????, 34 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/walk-by-faith/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 298
+- **REVIEW_RECOMMENDED:** 46
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 31
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0219_p010_0093` | 0.86 | `SCRIPTURE` | You will become the man you assume you are, if you persist in the assumption tha... |
+| 2 | `l0219_p018_0162` | 0.86 | `CONSCIOUSNESS_I_AM` | That’s spiritual sensation – a vivid way of seeing, hearing, smelling, tasting, ... |
+| 3 | `l0219_p018_0169` | 0.86 | `CONSCIOUSNESS_I_AM` | Of course not. That’s spiritual sensation – a vivid way of seeing, hearing, smel... |
+| 4 | `l0219_p018_0177` | 0.86 | `CONSCIOUSNESS_I_AM` | Do they all feel alike? Of course not. That’s spiritual sensation – a vivid way ... |
+| 5 | `l0219_p020_0190` | 0.86 | `FEELING` | She had embraced and lost herself in the feeling of the possession of beautiful ... |
+| 6 | `l0219_p003_0015` | 0.85 | `SCRIPTURE` | And if you will remain faithful to that state of consciousness, what is seen onl... |
+| 7 | `l0219_p016_0137` | 0.85 | `ASSUMPTION` | If you do not like it, you have an “I” within that is Christ in you. He is the p... |
+| 8 | `l0219_p018_0163` | 0.85 | `CONSCIOUSNESS_I_AM` | Ask yourself this simple question: What would it be like if it were true that I ... |
+| 9 | `l0219_p018_0170` | 0.85 | `CONSCIOUSNESS_I_AM` | Ask yourself this simple question: What would it be like if it were true that I ... |
+| 10 | `l0219_p020_0194` | 0.85 | `FEELING` | And when she came home that evening, all she could smell were those lovely roses... |

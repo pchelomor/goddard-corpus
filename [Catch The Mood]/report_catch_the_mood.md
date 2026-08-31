@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Catch The Mood (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Catch The Mood  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0032  
+**Work Class:** LECTURE  
+**Slug:** `catch_the_mood`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 6909 ????, 69 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/catch-the-mood/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 650
+- **REVIEW_RECOMMENDED:** 176
+- **REJECTED:** 45
+- **FAILED:** 0
+- **????? ??????:** 65
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0032_p043_0493` | 0.86 | `CONSCIOUSNESS_I_AM` | I was leaving a perfectly lovely island with so many members of my family, and y... |
+| 2 | `l0032_p028_0285` | 0.85 | `CONSCIOUSNESS_I_AM` | Do you view it from poverty, saying, “I am poor?” Do you walk the street feeling... |
+| 3 | `l0032_p003_0013` | 0.84 | `SCRIPTURE` | That one known in Scripture is called Jesus Christ; The Lord Jesus Christ is you... |
+| 4 | `l0032_p003_0020` | 0.84 | `SCRIPTURE` | That one known in Scripture is called Jesus Christ; The Lord Jesus Christ is you... |
+| 5 | `l0032_p007_0050` | 0.84 | `CONSCIOUSNESS_I_AM` | If you can believe that, then all things are possible to you.... |
+| 6 | `l0032_p008_0067` | 0.84 | `ASSUMPTION` | Man has to rouse Him. He doesn’t know that his own wonderful human imagination i... |
+| 7 | `l0032_p012_0100` | 0.84 | `CONSCIOUSNESS_I_AM` | Now, is there something in me that is my True Self that can do it? Yes, my imagi... |
+| 8 | `l0032_p023_0227` | 0.84 | `SCRIPTURE` | No, they are right here in everyone in this world! These are the eternal states ... |
+| 9 | `l0032_p025_0252` | 0.84 | `ASSUMPTION` | The Second Man is the Lord from Heaven, and the Second Son is your own wonderful... |
+| 10 | `l0032_p025_0253` | 0.84 | `ASSUMPTION` | When you stir it and rouse it and make him come into being, you can do wonders i... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Sound Investments (1953-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Sound Investments  
+**???? ??????:** 1953-01-01  
+**Corpus ID:** L0136  
+**Work Class:** LECTURE  
+**Slug:** `sound_investments`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 4804 ????, 26 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/sound-investments/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 232
+- **REVIEW_RECOMMENDED:** 104
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 20
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0136_p024_0302` | 0.86 | `FEELING` | How  would I feel?” And in response to that question would come a feeling, a fee... |
+| 2 | `l0136_p023_0288` | 0.85 | `CONSCIOUSNESS_I_AM` | If I desired to get  your point of view, while standing here I would assume that... |
+| 3 | `l0136_p014_0100` | 0.84 | `FEELING` | Now he knows the working of law – that  the complete acceptance of the state in ... |
+| 4 | `l0136_p023_0295` | 0.84 | `CONSCIOUSNESS_I_AM` | I  would define it from here; you would define it from there. If I desired to ge... |
+| 5 | `l0136_p023_0297` | 0.84 | `CONSCIOUSNESS_I_AM` | Now, if that position represents, say one of security and  this one of insecurit... |
+| 6 | `l0136_p024_0305` | 0.84 | `FEELING` | So here, look out at your world, formulate your lovely aims in life and just ask... |
+| 7 | `l0136_p024_0306` | 0.84 | `FEELING` | How  would I feel?” And in response to that question would come a feeling, a fee... |
+| 8 | `l0136_p024_0309` | 0.84 | `FEELING` | How  would I feel?” And in response to that question would come a feeling, a fee... |
+| 9 | `l0136_p026_0326` | 0.84 | `ASSUMPTION` | Knowing that any time  that we exercise our imagination lovingly on behalf of an... |
+| 10 | `l0136_p008_0018` | 0.83 | `DESIRE` | If you do you are spending; if, not by denying, but by complete indifference,  c... |

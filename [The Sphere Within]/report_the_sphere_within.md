@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Sphere Within (1969-06-02)
+
+**?????:** Neville Goddard  
+**????????:** The Sphere Within  
+**???? ??????:** 1969-06-02  
+**Corpus ID:** L0200  
+**Work Class:** LECTURE  
+**Slug:** `the_sphere_within`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3233 ????, 40 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-sphere-within/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 214
+- **REVIEW_RECOMMENDED:** 69
+- **REJECTED:** 4
+- **FAILED:** 0
+- **????? ??????:** 33
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0200_p031_0231` | 0.88 | `FEELING` | If you would dwell upon this thought alone, you would stop feeling inferior in a... |
+| 2 | `l0200_p031_0233` | 0.86 | `FEELING` | I can’t tell you how altogether glorious you really are. If you would dwell upon... |
+| 3 | `l0200_p031_0234` | 0.85 | `FEELING` | If you would dwell upon this thought alone, you would stop feeling inferior in a... |
+| 4 | `l0200_p004_0025` | 0.84 | `SPIRITUAL` | When you have been prepared, you will be automatically drawn like a magnet into ... |
+| 5 | `l0200_p011_0070` | 0.84 | `SPIRITUAL` | If your child is mentally deficient, don’t think you are its cause, for you are ... |
+| 6 | `l0200_p011_0075` | 0.84 | `SPIRITUAL` | If your child is mentally deficient, don’t think you are its cause, for you are ... |
+| 7 | `l0200_p018_0156` | 0.84 | `PROMISE` | Man made Saul their king; but God rejected Saul and made David higher than the k... |
+| 8 | `l0200_p039_0283` | 0.84 | `ASSUMPTION` | His body contains everything in eternity, while this world only objectifies what... |
+| 9 | `l0200_p006_0036` | 0.83 | `SCRIPTURE` | You cast yourself into the role you are now playing in order to prepare yourself... |
+| 10 | `l0200_p011_0080` | 0.83 | `SPIRITUAL` | If your child is mentally deficient, don’t think you are its cause, for you are ... |

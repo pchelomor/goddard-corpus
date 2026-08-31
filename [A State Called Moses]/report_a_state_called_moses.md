@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: A State Called Moses (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** A State Called Moses  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0008  
+**Work Class:** LECTURE  
+**Slug:** `a_state_called_moses`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3014 ????, 26 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/a-state-called-moses/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 308
+- **REVIEW_RECOMMENDED:** 75
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 23
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0008_p010_0099` | 0.91 | `SCRIPTURE` | If I am in an impoverished state and desire the state of wealth, I must dare to ... |
+| 2 | `l0008_p010_0104` | 0.91 | `SCRIPTURE` | You must dare to assume wealth, if that is your objective.... |
+| 3 | `l0008_p010_0107` | 0.91 | `SCRIPTURE` | If I am in an impoverished state and desire the state of wealth, I must dare to ... |
+| 4 | `l0008_p012_0131` | 0.91 | `CONSCIOUSNESS_I_AM` | But if I dare to assume health, God is proclaiming it, for he has no name other ... |
+| 5 | `l0008_p010_0106` | 0.90 | `SCRIPTURE` | Now that you know it, ask for wealth in the name of God by saying: “I am wealthy... |
+| 6 | `l0008_p010_0111` | 0.90 | `SCRIPTURE` | As you walk in the assumption that your desire is fulfilled, you are calling upo... |
+| 7 | `l0008_p010_0114` | 0.90 | `SCRIPTURE` | If I am in an impoverished state and desire the state of wealth, I must dare to ... |
+| 8 | `l0008_p012_0137` | 0.90 | `CONSCIOUSNESS_I_AM` | If I want to conjure health and the doctors tell me I cannot overcome my illness... |
+| 9 | `l0008_p010_0117` | 0.89 | `SCRIPTURE` | Your desires will never come to pass if you believe the denials displayed by you... |
+| 10 | `l0008_p010_0113` | 0.87 | `SCRIPTURE` | Now that you know it, ask for wealth in the name of God by saying: “I am wealthy... |

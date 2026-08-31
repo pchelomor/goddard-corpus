@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Secret Of Causation (1969-12-05)
+
+**?????:** Neville Goddard  
+**????????:** The Secret Of Causation  
+**???? ??????:** 1969-12-05  
+**Corpus ID:** L0194  
+**Work Class:** LECTURE  
+**Slug:** `the_secret_of_causation`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3073 ????, 36 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-secret-of-causation/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 236
+- **REVIEW_RECOMMENDED:** 74
+- **REJECTED:** 5
+- **FAILED:** 0
+- **????? ??????:** 30
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0194_p029_0229` | 0.86 | `ASSUMPTION` | If you know who you are and how imagination operates, you will learn to control ... |
+| 2 | `l0194_p032_0275` | 0.86 | `ASSUMPTION` | If you really believe in God, believe in your own imagination, for it is the pow... |
+| 3 | `l0194_p001_0002` | 0.84 | `SCRIPTURE` | Imagination is called “Jehovah” in the Old Testament and “Jesus” in the New, but... |
+| 4 | `l0194_p001_0003` | 0.84 | `SCRIPTURE` | Divine Imagination, containing all, reproduces itself in the human imagination; ... |
+| 5 | `l0194_p001_0004` | 0.84 | `SCRIPTURE` | When you solve the problem of imagining, you will have found Jesus Christ, the s... |
+| 6 | `l0194_p005_0030` | 0.84 | `ASSUMPTION` | There is no other God. You can use your imagination wisely and create a heaven h... |
+| 7 | `l0194_p007_0043` | 0.84 | `ASSUMPTION` | Divine Imagination, containing all, reproduces itself in human imagination; ther... |
+| 8 | `l0194_p007_0048` | 0.84 | `ASSUMPTION` | Divine Imagination, containing all, reproduces itself in human imagination; ther... |
+| 9 | `l0194_p020_0135` | 0.84 | `SCRIPTURE` | Scripture claims that: Whatever you desire, if you will believe you already have... |
+| 10 | `l0194_p022_0143` | 0.84 | `ASSUMPTION` | When you know what you want, you must think from your belief in its possession, ... |

@@ -1,10 +1,10 @@
 {
-  "corpus_id": "B008",
+  "corpus_id": "L0185",
   "complete": true,
-  "candidates": 1131,
-  "review_recommended": 331,
-  "rejected": 28,
+  "candidates": 300,
+  "review_recommended": 75,
+  "rejected": 13,
   "failed_verification": 0,
-  "duplicate_groups": 190,
-  "processed_at": "2026-08-31T08:56:00Z"
+  "duplicate_groups": 28,
+  "processed_at": "2026-08-31T07:37:35.570621+00:00"
 }

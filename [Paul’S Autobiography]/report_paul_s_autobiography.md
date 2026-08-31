@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Paul’S Autobiography (1963-02-22)
+
+**?????:** Neville Goddard  
+**????????:** Paul’S Autobiography  
+**???? ??????:** 1963-02-22  
+**Corpus ID:** L0116  
+**Work Class:** LECTURE  
+**Slug:** `paul_s_autobiography`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 5005 ????, 31 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/paul-s-autobiography/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 304
+- **REVIEW_RECOMMENDED:** 129
+- **REJECTED:** 16
+- **FAILED:** 0
+- **????? ??????:** 24
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0116_p021_0281` | 0.87 | `SPIRITUAL` | God became man and played the part and showed us all before we started the journ... |
+| 2 | `l0116_p021_0283` | 0.86 | `SPIRITUAL` | The play is on. God became man and played the part and showed us all before we s... |
+| 3 | `l0116_p021_0284` | 0.86 | `SPIRITUAL` | So, Jesus Christ is God himself. The play is on. God became man and played the p... |
+| 4 | `l0116_p012_0150` | 0.84 | `SCRIPTURE` | If you are violent today in supporting something that is external that you must ... |
+| 5 | `l0116_p012_0155` | 0.84 | `SCRIPTURE` | Then in the end of Acts, when he stands before King Agrippa, he says: “Here I st... |
+| 6 | `l0116_p015_0192` | 0.84 | `SCRIPTURE` | God in action is Christ, and imagination in action is imagining.... |
+| 7 | `l0116_p015_0199` | 0.84 | `SCRIPTURE` | God in action is Christ, and imagination in action is imagining. So, imagination... |
+| 8 | `l0116_p015_0200` | 0.84 | `SCRIPTURE` | So, imagination imagining is reconciling the world to itself. Now to those who d... |
+| 9 | `l0116_p017_0218` | 0.84 | `SCRIPTURE` | Then come the other attributes and among them you will find there is patience, t... |
+| 10 | `l0116_p017_0219` | 0.84 | `CONSCIOUSNESS_I_AM` | Read the fruit of the spirit. It is not only love and joy and peace – it is pati... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Feed My Sheep – July 1 1956 (1956-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Feed My Sheep – July 1 1956  
+**???? ??????:** 1956-01-01  
+**Corpus ID:** L0057  
+**Work Class:** LECTURE  
+**Slug:** `feed_my_sheep_july_1_1956`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 5189 ????, 21 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/feed-my-sheep-july-1-1956/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 417
+- **REVIEW_RECOMMENDED:** 150
+- **REJECTED:** 25
+- **FAILED:** 0
+- **????? ??????:** 21
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0057_p017_0480` | 0.87 | `SCRIPTURE` | You see, they are sound  asleep. They don’t realize that God became man for one ... |
+| 2 | `l0057_p009_0228` | 0.86 | `CONSCIOUSNESS_I_AM` | Yes, I do  not claim that this union, this oneness, entitles me to the same iden... |
+| 3 | `l0057_p017_0489` | 0.86 | `SCRIPTURE` | And they will tell you that’s not right – you  are taking back from God the thin... |
+| 4 | `l0057_p017_0490` | 0.86 | `SCRIPTURE` | You see, they are sound  asleep. They don’t realize that God became man for one ... |
+| 5 | `l0057_p009_0239` | 0.85 | `CONSCIOUSNESS_I_AM` | For I and my Father are one, yet my Father is greater than I. Yes, I do  not cla... |
+| 6 | `l0057_p009_0240` | 0.85 | `CONSCIOUSNESS_I_AM` | Yes, I do  not claim that this union, this oneness, entitles me to the same iden... |
+| 7 | `l0057_p017_0468` | 0.85 | `SCRIPTURE` | They don’t realize that God became man for one purpose, that he may have  the co... |
+| 8 | `l0057_p018_0524` | 0.85 | `CONSCIOUSNESS_I_AM` | When you say: “I AM,” that is the Lord. Go tell them I AM hath sent you. So when... |
+| 9 | `l0057_p005_0081` | 0.84 | `PROMISE` | If you know exactly what you want,  where do you see it?... |
+| 10 | `l0057_p005_0096` | 0.84 | `PROMISE` | If you know exactly what you want,  where do you see it? You see it in the mind ... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: A Riddle (1969-01-01)
+
+**?????:** Neville Goddard  
+**????????:** A Riddle  
+**???? ??????:** 1969-01-01  
+**Corpus ID:** L0007  
+**Work Class:** LECTURE  
+**Slug:** `a_riddle`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3587 ????, 33 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/a-riddle/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 303
+- **REVIEW_RECOMMENDED:** 108
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 30
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0007_p006_0046` | 0.84 | `CONSCIOUSNESS_I_AM` | If you don’t believe me, believe it for the sake of the works themselves.” God t... |
+| 2 | `l0007_p006_0048` | 0.84 | `CONSCIOUSNESS_I_AM` | If you turn you will see Him and, becoming what you behold, you will vanish from... |
+| 3 | `l0007_p009_0092` | 0.84 | `CONSCIOUSNESS_I_AM` | I feel that if I could turn around I would see who I really am.... |
+| 4 | `l0007_p028_0345` | 0.84 | `SCRIPTURE` | There is no greater riddle than this – the riddle of riddles, which is Christ.... |
+| 5 | `l0007_p028_0356` | 0.84 | `SCRIPTURE` | There is no greater riddle than this – the riddle of riddles, which is Christ. I... |
+| 6 | `l0007_p006_0053` | 0.83 | `CONSCIOUSNESS_I_AM` | If you don’t believe me, believe it for the sake of the works themselves.” God t... |
+| 7 | `l0007_p025_0272` | 0.83 | `CONSCIOUSNESS_I_AM` | All that I behold, though it appears without, it is within me in my own wonderfu... |
+| 8 | `l0007_p028_0366` | 0.83 | `SCRIPTURE` | There is no greater riddle than this – the riddle of riddles, which is Christ. I... |
+| 9 | `l0007_p032_0418` | 0.83 | `ASSUMPTION` | Tonight I hope I have been able to un-riddle the riddle, for the greatest riddle... |
+| 10 | `l0007_p001_0001` | 0.82 | `ASSUMPTION` | Tonight I will call this, “A Riddle,” for every creative mind rises to the chall... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: What Are You Doing (1967-10-30)
+
+**?????:** Neville Goddard  
+**????????:** What Are You Doing  
+**???? ??????:** 1967-10-30  
+**Corpus ID:** L0221  
+**Work Class:** LECTURE  
+**Slug:** `what_are_you_doing`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2312 ????, 32 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/what-are-you-doing/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 231
+- **REVIEW_RECOMMENDED:** 34
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 31
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0221_p027_0233` | 0.91 | `ASSUMPTION` | Dare to assume you are wealthy, and watch everyone play their parts to provide y... |
+| 2 | `l0221_p027_0237` | 0.89 | `ASSUMPTION` | Dare to assume you are wealthy, and watch everyone play their parts to provide y... |
+| 3 | `l0221_p027_0236` | 0.87 | `ASSUMPTION` | Move in your imagination, and people will respond because of your action. Dare t... |
+| 4 | `l0221_p004_0028` | 0.86 | `ASSUMPTION` | Build a structure that would imply your desire is already fulfilled, and enter i... |
+| 5 | `l0221_p004_0033` | 0.86 | `ASSUMPTION` | The law, to be effective, needs feeling with form. Build a structure that would ... |
+| 6 | `l0221_p027_0239` | 0.86 | `ASSUMPTION` | Move in your imagination, and people will respond because of your action. Dare t... |
+| 7 | `l0221_p027_0238` | 0.85 | `ASSUMPTION` | Practice the art of imagining, and you will discover you can go anywhere and ent... |
+| 8 | `l0221_p002_0006` | 0.84 | `ASSUMPTION` | When you imagine you may include others, but do not think in terms of influence.... |
+| 9 | `l0221_p002_0008` | 0.84 | `ASSUMPTION` | When you imagine you may include others, but do not think in terms of influence.... |
+| 10 | `l0221_p004_0029` | 0.84 | `ASSUMPTION` | You do not have to be concerned about influencing others, as they are not the ca... |

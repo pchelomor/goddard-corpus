@@ -2,11 +2,15 @@
   "core_books_total": 14,
   "core_books_completed": 14,
   "supplementary_total": 3,
-  "supplementary_completed": 0,
+  "supplementary_completed": 3,
   "lecture_records_discovered": 235,
-  "canonical_lectures_after_dedup": 234,
-  "lectures_completed": 0,
-  "last_completed_id": "B014",
-  "next_pending_id": "S001",
-  "updated_at": "2026-08-31T06:04:02.280471+00:00"
+  "canonical_lectures_after_dedup": 235,
+  "lectures_completed": 235,
+  "total_items_in_corpus": 252,
+  "total_completed_items": 252,
+  "total_words_processed": 1186024,
+  "last_completed_id": "L0235",
+  "next_pending_id": "ALL_COMPLETED",
+  "corpus_status": "ALL_PHASES_COMPLETED",
+  "updated_at": "2026-08-31T07:38:16.806404+00:00"
 }

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Mystery Of Baptism (1969-01-31)
+
+**?????:** Neville Goddard  
+**????????:** The Mystery Of Baptism  
+**???? ??????:** 1969-01-31  
+**Corpus ID:** L0177  
+**Work Class:** LECTURE  
+**Slug:** `the_mystery_of_baptism`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2896 ????, 43 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-mystery-of-baptism/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 205
+- **REVIEW_RECOMMENDED:** 55
+- **REJECTED:** 3
+- **FAILED:** 0
+- **????? ??????:** 36
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0177_p007_0031` | 0.84 | `PROMISE` | After incubation, we will all hatch out and be united with Him in a resurrection... |
+| 2 | `l0177_p029_0170` | 0.84 | `DESIRE` | Both Matthew and Mark claimed only the one having the experience saw the clarity... |
+| 3 | `l0177_p031_0179` | 0.84 | `CONSCIOUSNESS_I_AM` | When you are baptized with this baptism, you become one with the one body waitin... |
+| 4 | `l0177_p039_0234` | 0.84 | `PROMISE` | There is no loss of identity, yet you know you are God the Father of all.... |
+| 5 | `l0177_p007_0033` | 0.83 | `PROMISE` | At that moment we were united with Christ in a death like his. After incubation,... |
+| 6 | `l0177_p018_0107` | 0.83 | `SPIRITUAL` | If you cannot enter into the kingdom of God unless you are born of water and the... |
+| 7 | `l0177_p026_0150` | 0.83 | `PROMISE` | Luke is telling you that he has had the heavenly experience and knows what he is... |
+| 8 | `l0177_p026_0152` | 0.83 | `PROMISE` | The phrase “from the beginning” is a translation of the Greek word “anothen”, wh... |
+| 9 | `l0177_p031_0183` | 0.83 | `CONSCIOUSNESS_I_AM` | When you are baptized with this baptism, you become one with the one body waitin... |
+| 10 | `l0177_p039_0238` | 0.83 | `PROMISE` | There is no loss of identity, yet you know you are God the Father of all. I will... |

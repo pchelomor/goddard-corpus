@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Mystery Of Inspiration (1969-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The Mystery Of Inspiration  
+**???? ??????:** 1969-01-01  
+**Corpus ID:** L0178  
+**Work Class:** LECTURE  
+**Slug:** `the_mystery_of_inspiration`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3145 ????, 45 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-mystery-of-inspiration/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 280
+- **REVIEW_RECOMMENDED:** 69
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 37
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0178_p035_0284` | 0.86 | `ASSUMPTION` | Knowing intuitively who you are and the power you are feeling, you will arrest t... |
+| 2 | `l0178_p033_0273` | 0.85 | `SCRIPTURE` | When you claim you have a spirit, you will be called mad, just as it is said of ... |
+| 3 | `l0178_p035_0290` | 0.85 | `ASSUMPTION` | Possessed by the Spirit, you will be taken into a room. Knowing intuitively who ... |
+| 4 | `l0178_p031_0249` | 0.84 | `ASSUMPTION` | You don’t have to become arrogant, but you must assume you are God.... |
+| 5 | `l0178_p031_0251` | 0.84 | `SCRIPTURE` | Do this and the visions will come to confirm your assumption.... |
+| 6 | `l0178_p031_0253` | 0.84 | `ASSUMPTION` | Instead, walk believing you are that important. You don’t have to become arrogan... |
+| 7 | `l0178_p031_0254` | 0.84 | `ASSUMPTION` | You don’t have to become arrogant, but you must assume you are God. Think about ... |
+| 8 | `l0178_p031_0255` | 0.84 | `SCRIPTURE` | Stop believing in God and start believing as God. Do this and the visions will c... |
+| 9 | `l0178_p031_0257` | 0.84 | `ASSUMPTION` | Instead, walk believing you are that important. You don’t have to become arrogan... |
+| 10 | `l0178_p031_0258` | 0.84 | `ASSUMPTION` | You don’t have to become arrogant, but you must assume you are God. Think about ... |

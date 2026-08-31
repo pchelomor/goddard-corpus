@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: A Prophecy (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** A Prophecy  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0006  
+**Work Class:** LECTURE  
+**Slug:** `a_prophecy`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3378 ????, 49 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/a-prophecy/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 318
+- **REVIEW_RECOMMENDED:** 65
+- **REJECTED:** 9
+- **FAILED:** 0
+- **????? ??????:** 43
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0006_p012_0084` | 0.86 | `CONSCIOUSNESS_I_AM` | Lost and confused, imagination is faithful to the image he has assumed, saying: ... |
+| 2 | `l0006_p012_0087` | 0.85 | `CONSCIOUSNESS_I_AM` | Is that not the story of everyone? Lost and confused, imagination is faithful to... |
+| 3 | `l0006_p041_0324` | 0.85 | `SCRIPTURE` | Do not be discouraged if your visions are fore-shadowings; the promise will be f... |
+| 4 | `l0006_p046_0385` | 0.85 | `SCRIPTURE` | Because of an innate knowledge, you will push from within, and the stone will ro... |
+| 5 | `l0006_p002_0003` | 0.84 | `ASSUMPTION` | Enitharmon is the emanation of Los, who – in the story – had the similitude of t... |
+| 6 | `l0006_p007_0041` | 0.84 | `DESIRE` | Christ is the plan, the image God entered and made so real he claims he is the i... |
+| 7 | `l0006_p010_0064` | 0.84 | `CONSCIOUSNESS_I_AM` | Imagination is the male, which must leave every doubt, every thought of impossib... |
+| 8 | `l0006_p010_0065` | 0.84 | `CONSCIOUSNESS_I_AM` | To do this, imagination must enter into the shadow and remain there until there ... |
+| 9 | `l0006_p012_0089` | 0.84 | `CONSCIOUSNESS_I_AM` | But to himself he was a wanderer, lost in dreary night. Is that not the story of... |
+| 10 | `l0006_p014_0102` | 0.84 | `DESIRE` | Do not believe anyone who claims to love someone else more than they do themselv... |

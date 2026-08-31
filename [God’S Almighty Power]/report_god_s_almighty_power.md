@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: God’S Almighty Power (1968-12-02)
+
+**?????:** Neville Goddard  
+**????????:** God’S Almighty Power  
+**???? ??????:** 1968-12-02  
+**Corpus ID:** L0070  
+**Work Class:** LECTURE  
+**Slug:** `god_s_almighty_power`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3191 ????, 24 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/god-s-almighty-power/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 281
+- **REVIEW_RECOMMENDED:** 81
+- **REJECTED:** 5
+- **FAILED:** 0
+- **????? ??????:** 20
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0070_p009_0108` | 0.87 | `FEELING` | There is no devil, no Satan – only doubts. Doubt, in the mind of one who was bor... |
+| 2 | `l0070_p009_0104` | 0.86 | `FEELING` | Doubt, in the mind of one who was born by the grace of God, gives God the feelin... |
+| 3 | `l0070_p009_0112` | 0.86 | `FEELING` | There is no devil, no Satan – only doubts. Doubt, in the mind of one who was bor... |
+| 4 | `l0070_p015_0211` | 0.86 | `ASSUMPTION` | She walked through the rooms, feeling conscious of being there, now!... |
+| 5 | `l0070_p015_0217` | 0.86 | `ASSUMPTION` | We sat quietly in the silence and she returned to her apartment in her imaginati... |
+| 6 | `l0070_p015_0218` | 0.85 | `ASSUMPTION` | She walked through the rooms, feeling conscious of being there, now! She saw the... |
+| 7 | `l0070_p015_0222` | 0.85 | `ASSUMPTION` | Then she came to me. We sat quietly in the silence and she returned to her apart... |
+| 8 | `l0070_p003_0007` | 0.84 | `SCRIPTURE` | Your own wonderful human imagination, he who is one with the God who created the... |
+| 9 | `l0070_p005_0031` | 0.84 | `ASSUMPTION` | I firmly believed that Jesus Christ was my own wonderful human imagination, that... |
+| 10 | `l0070_p007_0056` | 0.84 | `SCRIPTURE` | I slept in the assumption it was true, and within hours the confirmation was min... |

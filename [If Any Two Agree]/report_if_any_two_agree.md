@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: If Any Two Agree (1971-01-01)
+
+**?????:** Neville Goddard  
+**????????:** If Any Two Agree  
+**???? ??????:** 1971-01-01  
+**Corpus ID:** L0091  
+**Work Class:** LECTURE  
+**Slug:** `if_any_two_agree`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 4717 ????, 88 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/if-any-two-agree/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 358
+- **REVIEW_RECOMMENDED:** 98
+- **REJECTED:** 37
+- **FAILED:** 0
+- **????? ??????:** 52
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0091_p029_0188` | 0.86 | `SCRIPTURE` | There is no other power! That is the God spoken of in Scripture! That is the onl... |
+| 2 | `l0091_p024_0163` | 0.85 | `PROMISE` | The Promise does not interest her. As far as I am concerned, it has not interest... |
+| 3 | `l0091_p004_0010` | 0.84 | `ASSUMPTION` | Here we are told the greatest secret in the world concerning the human imaginati... |
+| 4 | `l0091_p006_0043` | 0.84 | `ASSUMPTION` | If you speak to her — make a sentence, and then you stop, she can hear you as di... |
+| 5 | `l0091_p006_0044` | 0.84 | `FEELING` | If you put it on a record, what she is hearing is just as accurate as that recor... |
+| 6 | `l0091_p014_0098` | 0.84 | `PROMISE` | Now, can you go into another level and have someone who really sincerely desires... |
+| 7 | `l0091_p022_0142` | 0.84 | `ASSUMPTION` | So, �All things are possible to him who believes�; and �With God all things are ... |
+| 8 | `l0091_p024_0160` | 0.84 | `PROMISE` | I can�t see any interest in the Promise when I talk to her; but I can see a grea... |
+| 9 | `l0091_p025_0168` | 0.84 | `PROMISE` | There is another friend* of mine back in the east, and the Promise means nothing... |
+| 10 | `l0091_p029_0182` | 0.84 | `SCRIPTURE` | So, I tell you, your own wonderful human imagination is the only cause of the ph... |

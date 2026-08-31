@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Nature Of God (1969-09-22)
+
+**?????:** Neville Goddard  
+**????????:** The Nature Of God  
+**???? ??????:** 1969-09-22  
+**Corpus ID:** L0180  
+**Work Class:** LECTURE  
+**Slug:** `the_nature_of_god`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3774 ????, 51 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-nature-of-god/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 299
+- **REVIEW_RECOMMENDED:** 85
+- **REJECTED:** 11
+- **FAILED:** 0
+- **????? ??????:** 42
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0180_p040_0320` | 0.91 | `ASSUMPTION` | Your assumption, though false in the sense that it is denied by your reasonable ... |
+| 2 | `l0180_p041_0325` | 0.91 | `ASSUMPTION` | Having assumed your desire is fulfilled, your faith in that assumption will caus... |
+| 3 | `l0180_p041_0328` | 0.91 | `ASSUMPTION` | That link is faith. Having assumed your desire is fulfilled, your faith in that ... |
+| 4 | `l0180_p041_0329` | 0.91 | `ASSUMPTION` | Having assumed your desire is fulfilled, your faith in that assumption will caus... |
+| 5 | `l0180_p041_0332` | 0.91 | `ASSUMPTION` | That link is faith. Having assumed your desire is fulfilled, your faith in that ... |
+| 6 | `l0180_p041_0331` | 0.90 | `ASSUMPTION` | It’s up to you to provide the necessary link between your assumption and its ful... |
+| 7 | `l0180_p035_0259` | 0.87 | `SCRIPTURE` | There is no other God, for God became Man by assuming all of his human weaknesse... |
+| 8 | `l0180_p035_0267` | 0.87 | `SCRIPTURE` | There is no other God, for God became Man by assuming all of his human weaknesse... |
+| 9 | `l0180_p040_0322` | 0.87 | `ASSUMPTION` | Your assumption, though false in the sense that it is denied by your reasonable ... |
+| 10 | `l0180_p040_0321` | 0.86 | `ASSUMPTION` | You do not need to know the means that will be employed to bring your assumption... |

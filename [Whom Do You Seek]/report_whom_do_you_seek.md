@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Whom Do You Seek (1968-04-02)
+
+**?????:** Neville Goddard  
+**????????:** Whom Do You Seek  
+**???? ??????:** 1968-04-02  
+**Corpus ID:** L0227  
+**Work Class:** LECTURE  
+**Slug:** `whom_do_you_seek`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3014 ????, 27 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/whom-do-you-seek/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 248
+- **REVIEW_RECOMMENDED:** 86
+- **REJECTED:** 9
+- **FAILED:** 0
+- **????? ??????:** 24
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0227_p020_0238` | 0.88 | `ASSUMPTION` | When you go to bed tonight, catch the feeling that would be yours if your desire... |
+| 2 | `l0227_p020_0249` | 0.88 | `ASSUMPTION` | When you go to bed tonight, catch the feeling that would be yours if your desire... |
+| 3 | `l0227_p020_0259` | 0.87 | `ASSUMPTION` | When you go to bed tonight, catch the feeling that would be yours if your desire... |
+| 4 | `l0227_p020_0250` | 0.86 | `ASSUMPTION` | Then fall asleep in that feeling. If you do it, you will not fail.... |
+| 5 | `l0227_p020_0248` | 0.85 | `ASSUMPTION` | So I urge everyone to take my words seriously and try it. When you go to bed ton... |
+| 6 | `l0227_p020_0260` | 0.85 | `ASSUMPTION` | Then fall asleep in that feeling. If you do it, you will not fail. How it is goi... |
+| 7 | `l0227_p022_0276` | 0.85 | `CONSCIOUSNESS_I_AM` | If you do not believe you are this fabulous being, that your own wonderful human... |
+| 8 | `l0227_p020_0257` | 0.84 | `ASSUMPTION` | Knowing Sam would not falter in the doing, I knew by that time it would be done,... |
+| 9 | `l0227_p020_0258` | 0.84 | `ASSUMPTION` | So I urge everyone to take my words seriously and try it. When you go to bed ton... |
+| 10 | `l0227_p022_0281` | 0.84 | `CONSCIOUSNESS_I_AM` | If you do not believe you are this fabulous being, that your own wonderful human... |

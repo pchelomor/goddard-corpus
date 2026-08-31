@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Crucifixion (1963-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The Crucifixion  
+**???? ??????:** 1963-01-01  
+**Corpus ID:** L0153  
+**Work Class:** LECTURE  
+**Slug:** `the_crucifixion`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 5545 ????, 60 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-crucifixion/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 386
+- **REVIEW_RECOMMENDED:** 157
+- **REJECTED:** 21
+- **FAILED:** 0
+- **????? ??????:** 35
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0153_p023_0161` | 0.86 | `CONSCIOUSNESS_I_AM` | I have always been aware of being “I am.” I have never had any feeling of being ... |
+| 2 | `l0153_p021_0110` | 0.85 | `SCRIPTURE` | The promise of this begins in Genesis 17:19, the promise of an infant called Isa... |
+| 3 | `l0153_p023_0166` | 0.85 | `CONSCIOUSNESS_I_AM` | I have always been aware of being “I am.” I have never had any feeling of being ... |
+| 4 | `l0153_p031_0256` | 0.85 | `PROMISE` | Everyone who is Born from Above, – because God succeeded in giving Himself to th... |
+| 5 | `l0153_p011_0074` | 0.84 | `SCRIPTURE` | The Bible speaks of three days between the crucifixion and the resurrection; but... |
+| 6 | `l0153_p019_0104` | 0.84 | `PROMISE` | There came the very act of crucifixion that was in itself resurrection.... |
+| 7 | `l0153_p019_0106` | 0.84 | `PROMISE` | There came the very act of crucifixion that was in itself resurrection. Yes, – a... |
+| 8 | `l0153_p021_0112` | 0.84 | `SCRIPTURE` | Here is God the unbegotten shaping himself upon us; and when he completes that s... |
+| 9 | `l0153_p021_0114` | 0.84 | `SCRIPTURE` | And when he begot himself in me to his satisfaction, I was born from Above and w... |
+| 10 | `l0153_p021_0128` | 0.84 | `SCRIPTURE` | The promise of this begins in Genesis 17:19, the promise of an infant called Isa... |

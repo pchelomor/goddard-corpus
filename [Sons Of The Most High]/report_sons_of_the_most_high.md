@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Sons Of The Most High (1968-04-15)
+
+**?????:** Neville Goddard  
+**????????:** Sons Of The Most High  
+**???? ??????:** 1968-04-15  
+**Corpus ID:** L0135  
+**Work Class:** LECTURE  
+**Slug:** `sons_of_the_most_high`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2616 ????, 26 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/sons-of-the-most-high/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 223
+- **REVIEW_RECOMMENDED:** 40
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 21
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0135_p023_0235` | 0.90 | `PROMISE` | While in this world of Caesar, go to bed this night and putting your head on the... |
+| 2 | `l0135_p023_0239` | 0.90 | `PROMISE` | While in this world of Caesar, go to bed this night and putting your head on the... |
+| 3 | `l0135_p023_0243` | 0.87 | `PROMISE` | While in this world of Caesar, go to bed this night and putting your head on the... |
+| 4 | `l0135_p016_0114` | 0.86 | `CONSCIOUSNESS_I_AM` | Everyone reflects my assumptions and plays their part relative to that which I h... |
+| 5 | `l0135_p008_0059` | 0.85 | `CONSCIOUSNESS_I_AM` | Unless you feel you are the man (or woman) that you want to be and persist in th... |
+| 6 | `l0135_p019_0189` | 0.85 | `CONSCIOUSNESS_I_AM` | Then assume “I am secure.” That is the only way you will attain it. I am Imagina... |
+| 7 | `l0135_p019_0196` | 0.85 | `CONSCIOUSNESS_I_AM` | You want to be secure? Then assume “I am secure.” That is the only way you will ... |
+| 8 | `l0135_p023_0236` | 0.85 | `PROMISE` | Tomorrow, if the world denies it, turn your back on its denial and persist in yo... |
+| 9 | `l0135_p023_0237` | 0.85 | `PROMISE` | But when your world reflects your persistent assumption, don’t forget how you br... |
+| 10 | `l0135_p023_0240` | 0.85 | `PROMISE` | Just assume it. Tomorrow, if the world denies it, turn your back on its denial a... |

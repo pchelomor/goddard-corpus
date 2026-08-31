@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Seedtime And Harvest – June 10 1956 (1956-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Seedtime And Harvest – June 10 1956  
+**???? ??????:** 1956-01-01  
+**Corpus ID:** L0129  
+**Work Class:** LECTURE  
+**Slug:** `seedtime_and_harvest_june_10_1956`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 5293 ????, 1 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/seedtime-and-harvest-june-10-1956/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 258
+- **REVIEW_RECOMMENDED:** 111
+- **REJECTED:** 7
+- **FAILED:** 0
+- **????? ??????:** 1
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0129_p001_0055` | 0.86 | `SCRIPTURE` | If you will study  the fable carefully, you will see the importance of imaginati... |
+| 2 | `l0129_p001_0210` | 0.86 | `SCRIPTURE` | If you will study  the fable carefully, you will see the importance of imaginati... |
+| 3 | `l0129_p001_0344` | 0.86 | `SCRIPTURE` | There is no separate  individual detached being in my Father’s Kingdom. We are o... |
+| 4 | `l0129_p001_0035` | 0.85 | `SCRIPTURE` | If everything is  finished and completed, then why the promise there shall be se... |
+| 5 | `l0129_p001_0317` | 0.85 | `SCRIPTURE` | If you will study  the fable carefully, you will see the importance of imaginati... |
+| 6 | `l0129_p001_0073` | 0.84 | `SCRIPTURE` | Now as I do it in my imagination I am setting up  within myself a certain change... |
+| 7 | `l0129_p001_0111` | 0.84 | `SCRIPTURE` | There is no separate  individual detached being in my Father’s Kingdom.... |
+| 8 | `l0129_p001_0112` | 0.84 | `SCRIPTURE` | I am completely  responsible for the use or misuse of my imagination.... |
+| 9 | `l0129_p001_0131` | 0.84 | `SCRIPTURE` | There is nothing unreal, because God is infinite, and God has finished creation.... |
+| 10 | `l0129_p001_0161` | 0.84 | `SCRIPTURE` | Feel the joy that is  theirs, and that moment is seedtime for them.... |

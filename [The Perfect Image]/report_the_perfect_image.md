@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Perfect Image (1969-04-11)
+
+**?????:** Neville Goddard  
+**????????:** The Perfect Image  
+**???? ??????:** 1969-04-11  
+**Corpus ID:** L0184  
+**Work Class:** LECTURE  
+**Slug:** `the_perfect_image`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3406 ????, 24 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-perfect-image/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 274
+- **REVIEW_RECOMMENDED:** 81
+- **REJECTED:** 9
+- **FAILED:** 0
+- **????? ??????:** 21
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0184_p023_0357` | 0.91 | `ASSUMPTION` | Persist in claiming a healthy body and a healthy mind, and your assumption will ... |
+| 2 | `l0184_p023_0360` | 0.90 | `ASSUMPTION` | Stand in its center and clothe yourself with its feeling. Persist in claiming a ... |
+| 3 | `l0184_p023_0363` | 0.90 | `ASSUMPTION` | Assume health. Stand in its center and clothe yourself with its feeling. Persist... |
+| 4 | `l0184_p015_0219` | 0.87 | `CONSCIOUSNESS_I_AM` | When you know what it is, ask yourself how you would feel if your desire was rea... |
+| 5 | `l0184_p019_0300` | 0.87 | `PROMISE` | Persist, and your desire will be objectified. Learn to use the law, because ther... |
+| 6 | `l0184_p015_0203` | 0.86 | `CONSCIOUSNESS_I_AM` | When you know what it is, ask yourself how you would feel if your desire was rea... |
+| 7 | `l0184_p015_0213` | 0.86 | `CONSCIOUSNESS_I_AM` | You are aware of its fit and its feeling until it becomes comfortable.... |
+| 8 | `l0184_p015_0220` | 0.86 | `CONSCIOUSNESS_I_AM` | When you know the feeling, try to catch it. In my own case I find it easier to c... |
+| 9 | `l0184_p015_0229` | 0.86 | `CONSCIOUSNESS_I_AM` | You are aware of its fit and its feeling until it becomes comfortable. So it is ... |
+| 10 | `l0184_p019_0299` | 0.86 | `PROMISE` | Put your awareness in the center of your desire. Persist, and your desire will b... |

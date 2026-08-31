@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: All That Is Divine (1969-06-16)
+
+**?????:** Neville Goddard  
+**????????:** All That Is Divine  
+**???? ??????:** 1969-06-16  
+**Corpus ID:** L0009  
+**Work Class:** LECTURE  
+**Slug:** `all_that_is_divine`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 4269 ????, 38 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/all-that-is-divine/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 336
+- **REVIEW_RECOMMENDED:** 109
+- **REJECTED:** 6
+- **FAILED:** 0
+- **????? ??????:** 35
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0009_p033_0383` | 0.91 | `ASSUMPTION` | An assumption, though false, if persisted in will harden into fact.... |
+| 2 | `l0009_p033_0391` | 0.91 | `ASSUMPTION` | All you are called upon to do is to assume that you have it. An assumption, thou... |
+| 3 | `l0009_p033_0392` | 0.91 | `ASSUMPTION` | An assumption, though false, if persisted in will harden into fact. That is the ... |
+| 4 | `l0009_p033_0400` | 0.91 | `ASSUMPTION` | All you are called upon to do is to assume that you have it. An assumption, thou... |
+| 5 | `l0009_p033_0399` | 0.88 | `ASSUMPTION` | They will do it not even knowing that they are. All you are called upon to do is... |
+| 6 | `l0009_p010_0061` | 0.87 | `FEELING` | You do not see that little child until the end of the play, at which time you wi... |
+| 7 | `l0009_p009_0052` | 0.86 | `CONSCIOUSNESS_I_AM` | When you view consciousness you must see the two relationships: the pure, uncond... |
+| 8 | `l0009_p034_0403` | 0.86 | `SCRIPTURE` | So you can render unto Caesar the things that are Caesar�s by assuming that you ... |
+| 9 | `l0009_p009_0056` | 0.85 | `CONSCIOUSNESS_I_AM` | When you view consciousness you must see the two relationships: the pure, uncond... |
+| 10 | `l0009_p013_0097` | 0.85 | `ASSUMPTION` | You must feel yourself into the state desired with the same persistence as Chris... |

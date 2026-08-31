@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Occupant Or Inmate (1966-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Occupant Or Inmate  
+**???? ??????:** 1966-01-01  
+**Corpus ID:** L0114  
+**Work Class:** LECTURE  
+**Slug:** `occupant_or_inmate`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3669 ????, 32 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/occupant-or-inmate/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 346
+- **REVIEW_RECOMMENDED:** 82
+- **REJECTED:** 11
+- **FAILED:** 0
+- **????? ??????:** 29
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0114_p013_0147` | 0.86 | `CONSCIOUSNESS_I_AM` | The sensation was so great she broke the feeling and the room returned to normal... |
+| 2 | `l0114_p017_0220` | 0.86 | `ASSUMPTION` | If you feel secure or insecure, loved or unloved, known or unknown, it is only a... |
+| 3 | `l0114_p013_0151` | 0.85 | `CONSCIOUSNESS_I_AM` | The sensation was so great she broke the feeling and the room returned to normal... |
+| 4 | `l0114_p029_0409` | 0.85 | `PROMISE` | It flowers on earth, but until the promise unfolds, share your experiences of mo... |
+| 5 | `l0114_p004_0012` | 0.84 | `ASSUMPTION` | We are always dwelling in and thinking from a state of consciousness.... |
+| 6 | `l0114_p004_0024` | 0.84 | `ASSUMPTION` | We are always dwelling in and thinking from a state of consciousness. Do you kno... |
+| 7 | `l0114_p006_0054` | 0.84 | `ASSUMPTION` | Your household is your imagination, where all your enemies live.... |
+| 8 | `l0114_p006_0060` | 0.84 | `ASSUMPTION` | Your father, mother, daughter, daughter-in-law or mother-in-law are not your hou... |
+| 9 | `l0114_p012_0122` | 0.84 | `ASSUMPTION` | When Christ (imagination) begins to stir in you, go all out and completely aband... |
+| 10 | `l0114_p014_0155` | 0.84 | `FEELING` | If you are its occupant you can move and be other than what you are now.... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: God’S Creative Power (1968-02-09)
+
+**?????:** Neville Goddard  
+**????????:** God’S Creative Power  
+**???? ??????:** 1968-02-09  
+**Corpus ID:** L0071  
+**Work Class:** LECTURE  
+**Slug:** `god_s_creative_power`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3592 ????, 28 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/god-s-creative-power/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 290
+- **REVIEW_RECOMMENDED:** 71
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 26
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0071_p003_0028` | 0.86 | `SCRIPTURE` | Jesus Christ is God the Father and God the Father is Spirit, And those who worsh... |
+| 2 | `l0071_p026_0334` | 0.86 | `CONSCIOUSNESS_I_AM` | Do you always turn to your imagination and, no matter what happens, do you remai... |
+| 3 | `l0071_p026_0343` | 0.85 | `CONSCIOUSNESS_I_AM` | I ask you: are you really keeping the faith? Do you always turn to your imaginat... |
+| 4 | `l0071_p026_0344` | 0.85 | `CONSCIOUSNESS_I_AM` | Do you always turn to your imagination and, no matter what happens, do you remai... |
+| 5 | `l0071_p001_0004` | 0.84 | `SCRIPTURE` | The Christian world claims to believe in Christ, but they do not know him for he... |
+| 6 | `l0071_p002_0013` | 0.84 | `ASSUMPTION` | If you have and are still not sure, then you have failed the test.... |
+| 7 | `l0071_p002_0016` | 0.84 | `ASSUMPTION` | I tell you that Jesus Christ is your own wonderful human imagination, who is the... |
+| 8 | `l0071_p002_0017` | 0.84 | `ASSUMPTION` | If you do not know that, you do not know Jesus Christ!... |
+| 9 | `l0071_p002_0023` | 0.84 | `ASSUMPTION` | If you do not know that, you do not know Jesus Christ! You may say: “He is a per... |
+| 10 | `l0071_p003_0036` | 0.84 | `SCRIPTURE` | Jesus Christ is God the Father and God the Father is Spirit, And those who worsh... |

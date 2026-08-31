@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Game Of Life (1969-03-07)
+
+**?????:** Neville Goddard  
+**????????:** The Game Of Life  
+**???? ??????:** 1969-03-07  
+**Corpus ID:** L0161  
+**Work Class:** LECTURE  
+**Slug:** `the_game_of_life`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3566 ????, 45 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-game-of-life/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 343
+- **REVIEW_RECOMMENDED:** 59
+- **REJECTED:** 4
+- **FAILED:** 0
+- **????? ??????:** 42
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0161_p011_0098` | 0.92 | `ASSUMPTION` | When you know what it is, you must assume the feeling that you have it. Although... |
+| 2 | `l0161_p011_0104` | 0.92 | `ASSUMPTION` | When you know what it is, you must assume the feeling that you have it. Although... |
+| 3 | `l0161_p011_0093` | 0.91 | `ASSUMPTION` | Although your reason and senses will deny its existence, persistence will cause ... |
+| 4 | `l0161_p011_0099` | 0.91 | `ASSUMPTION` | Although your reason and senses will deny its existence, persistence will cause ... |
+| 5 | `l0161_p011_0105` | 0.90 | `ASSUMPTION` | Although your reason and senses will deny its existence, persistence will cause ... |
+| 6 | `l0161_p011_0092` | 0.88 | `ASSUMPTION` | When you know what it is, you must assume the feeling that you have it.... |
+| 7 | `l0161_p035_0294` | 0.88 | `CONSCIOUSNESS_I_AM` | When you imagine, you contact a feeling, and the feeling you imagine, you create... |
+| 8 | `l0161_p011_0103` | 0.87 | `ASSUMPTION` | Now, in order to play the game of life, you must know what you want to replace w... |
+| 9 | `l0161_p002_0007` | 0.86 | `FEELING` | You must feel yourself into and partaking of your goal. And you must persist in ... |
+| 10 | `l0161_p008_0057` | 0.86 | `FEELING` | People feeling poor attract poverty, not knowing that if they felt rich they wou... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Sharing In Creativity (1968-06-10)
+
+**?????:** Neville Goddard  
+**????????:** Sharing In Creativity  
+**???? ??????:** 1968-06-10  
+**Corpus ID:** L0133  
+**Work Class:** LECTURE  
+**Slug:** `sharing_in_creativity`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2961 ????, 27 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/sharing-in-creativity/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 249
+- **REVIEW_RECOMMENDED:** 76
+- **REJECTED:** 5
+- **FAILED:** 0
+- **????? ??????:** 22
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0133_p013_0157` | 0.85 | `PROMISE` | Although she did not bring forward her exit from her skull, she has been born fr... |
+| 2 | `l0133_p017_0209` | 0.85 | `PROMISE` | And like the lady who felt an intense fatherly feeling for her son, you will ans... |
+| 3 | `l0133_p017_0211` | 0.85 | `PROMISE` | You must give up all and stand alone, just you and God the Father. Only then are... |
+| 4 | `l0133_p017_0212` | 0.85 | `PROMISE` | Only then are you born from above. This is followed by God’s son revealing himse... |
+| 5 | `l0133_p017_0216` | 0.85 | `PROMISE` | Only then are you born from above. This is followed by God’s son revealing himse... |
+| 6 | `l0133_p026_0328` | 0.85 | `PROMISE` | Everyone who comes into God’s temple brings his measure of divine creative power... |
+| 7 | `l0133_p001_0001` | 0.84 | `SCRIPTURE` | There is no greater thrill than sharing in divine creative activity!... |
+| 8 | `l0133_p001_0003` | 0.84 | `SCRIPTURE` | When someone proclaimed: “I am of Paul and I am of Apollo,” Paul asked, “Who is ... |
+| 9 | `l0133_p001_0005` | 0.84 | `SCRIPTURE` | There is no greater thrill than sharing in divine creative activity! This activi... |
+| 10 | `l0133_p001_0008` | 0.84 | `SCRIPTURE` | There is no greater thrill than sharing in divine creative activity! This activi... |

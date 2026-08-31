@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Brazen Impudence (1968-09-27)
+
+**?????:** Neville Goddard  
+**????????:** Brazen Impudence  
+**???? ??????:** 1968-09-27  
+**Corpus ID:** L0029  
+**Work Class:** LECTURE  
+**Slug:** `brazen_impudence`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3131 ????, 29 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/brazen-impudence/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 318
+- **REVIEW_RECOMMENDED:** 66
+- **REJECTED:** 9
+- **FAILED:** 0
+- **????? ??????:** 27
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0029_p023_0293` | 0.93 | `SCRIPTURE` | When you pray, do not get down on your knees and pray to any unknown God. Instea... |
+| 2 | `l0029_p023_0290` | 0.91 | `SCRIPTURE` | Instead, go to bed and dare to assume you are now who you want to be.... |
+| 3 | `l0029_p023_0296` | 0.91 | `SCRIPTURE` | When you pray, do not get down on your knees and pray to any unknown God. Instea... |
+| 4 | `l0029_p023_0294` | 0.90 | `SCRIPTURE` | Instead, go to bed and dare to assume you are now who you want to be. Fall aslee... |
+| 5 | `l0029_p023_0295` | 0.90 | `SCRIPTURE` | Now, the two stories from scripture that I have shared with you show the importa... |
+| 6 | `l0029_p013_0143` | 0.88 | `FEELING` | If your imaginal counselor (your feeling of fulfillment) agrees with that which ... |
+| 7 | `l0029_p003_0018` | 0.86 | `CONSCIOUSNESS_I_AM` | When you go to bed tonight and put your head on a pillow, you are aware of being... |
+| 8 | `l0029_p013_0153` | 0.86 | `FEELING` | If your imaginal counselor (your feeling of fulfillment) agrees with that which ... |
+| 9 | `l0029_p013_0162` | 0.86 | `FEELING` | If your imaginal counselor (your feeling of fulfillment) agrees with that which ... |
+| 10 | `l0029_p003_0021` | 0.85 | `CONSCIOUSNESS_I_AM` | When you go to bed tonight and put your head on a pillow, you are aware of being... |

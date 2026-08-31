@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: God’S Plan Of Redemption (1969-03-24)
+
+**?????:** Neville Goddard  
+**????????:** God’S Plan Of Redemption  
+**???? ??????:** 1969-03-24  
+**Corpus ID:** L0073  
+**Work Class:** LECTURE  
+**Slug:** `god_s_plan_of_redemption`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3448 ????, 31 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/god-s-plan-of-redemption/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 284
+- **REVIEW_RECOMMENDED:** 87
+- **REJECTED:** 6
+- **FAILED:** 0
+- **????? ??????:** 19
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0073_p015_0085` | 0.86 | `CONSCIOUSNESS_I_AM` | Only by feeling lucky could he bring the horse in first.... |
+| 2 | `l0073_p018_0149` | 0.86 | `PROMISE` | When you think of God as a man of imagination, you are recognizing the power beh... |
+| 3 | `l0073_p026_0277` | 0.86 | `ASSUMPTION` | All I asked them to do was assume the feeling of financial security.... |
+| 4 | `l0073_p026_0278` | 0.86 | `ASSUMPTION` | One lady immediately began to search for the feeling of security.... |
+| 5 | `l0073_p026_0287` | 0.86 | `ASSUMPTION` | All I asked them to do was assume the feeling of financial security. One lady im... |
+| 6 | `l0073_p015_0080` | 0.85 | `CONSCIOUSNESS_I_AM` | I could ride the best horse there is, but if I do not feel lucky he won’t come i... |
+| 7 | `l0073_p015_0086` | 0.85 | `CONSCIOUSNESS_I_AM` | Anyone who has succeeded in applying this principle will have felt that same emo... |
+| 8 | `l0073_p015_0090` | 0.85 | `CONSCIOUSNESS_I_AM` | Wearing gay colors and looking almost like a circus clown, he was asked about hi... |
+| 9 | `l0073_p015_0105` | 0.85 | `CONSCIOUSNESS_I_AM` | The jockey imagined himself a lucky man. He would not have been lucky if he lost... |
+| 10 | `l0073_p018_0158` | 0.85 | `PROMISE` | When you think of God as a man of imagination, you are recognizing the power beh... |

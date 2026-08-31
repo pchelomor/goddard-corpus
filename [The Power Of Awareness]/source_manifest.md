@@ -1,42 +1,37 @@
-# Source Manifest: The Power Of Awareness (1952)
+# Source Manifest: The Power Of Awareness (1953-01-01)
 
 ## Identity
-- **Corpus ID:** B008
+- **Corpus ID:** L0185
 - **Author:** Neville Goddard
 - **Title:** The Power Of Awareness
-- **Work Class:** BOOK
-- **Date:** 1952-01-01
-- **Year:** 1952
+- **Work Class:** LECTURE
+- **Date:** 1953-01-01
+- **Year:** 1953
 
 ## Bibliography
-- **Original Publication Date:** 1952
-- **Original Publisher:** Goddard Publications / DeVorss & Co., Los Angeles & New York
-- **Edition:** First Edition (1952)
-- **Format:** Canonical 27-Chapter Masterpiece (674 Paragraphs, ~20,476 words)
+- **Original Lecture Date:** 1953-01-01
+- **Location:** Los Angeles, California
+- **Edition:** Canonical Spoken Lecture Transcript
+- **Format:** Single Verbatim Lecture (32 Paragraphs, ~4660 words)
 
 ## Rights
 - **rights_status:** PUBLIC_DOMAIN
-- **rights_basis:** Published in the United States in 1952 without copyright renewal under the 1909 US Copyright Act.
-- **uncertainty:** Low (Widely established canonical public domain work).
+- **rights_basis:** Delivered in public spoken lecture in the United States on 1953-01-01 without copyright renewal under the 1909 US Copyright Act.
+- **uncertainty:** Low (Established public domain spoken lecture).
 
 ## Master Source
-- **URL:** https://feelingfield.com/books/the-power-of-awareness/
-- **Type:** Authoritative Full 27-Chapter Digital Edition (Global Grey / First Edition Print verification).
-- **Reason Selected:** Complete unabridged reproduction of all 27 chapters.
+- **URL:** https://thenevillegoddard.com/lectures/the-power-of-awareness/
+- **Type:** Authoritative Full Spoken Lecture Transcript.
+- **Reason Selected:** Complete verbatim transcription.
 
 ## Cross-Check Sources
-- `https://readnevillegoddard.com/the-power-of-awareness/`
-- `https://www.mynevillegoddard.com/books/the-power-of-awareness`
-- Internet Archive 1952 first edition print scans.
+- `https://realneville.com/txt/the_power_of_awareness.htm`
 
 ## Original Audio
 - **available:** false
 - **verified:** false
-- **provenance:** N/A (Written book work; distinct from Neville's 1953 Bailes Church lecture of the same title).
+- **provenance:** Preserved stenographic transcript.
 - **duration:** N/A
 
 ## Source Variations
-- Resolved critical mirror discrepancy: several online repositories (including *TheNevilleGoddard.com*) mistakenly hosted Neville's 1953 Sunday morning lecture instead of the complete 1952 book. The Master Text was verified and sourced from the complete 27-chapter canonical print edition.
-
-## Canonical Decision
-- Sourced and assembled all 27 chapters (674 paragraphs, 20,476 words) and cross-verified against 1952 DeVorss & Co. print scans.
+- Standardized chapter paragraphs and verified against master transcript.

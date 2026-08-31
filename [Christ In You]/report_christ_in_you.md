@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Christ In You (1969-05-06)
+
+**?????:** Neville Goddard  
+**????????:** Christ In You  
+**???? ??????:** 1969-05-06  
+**Corpus ID:** L0036  
+**Work Class:** LECTURE  
+**Slug:** `christ_in_you`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3785 ????, 32 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/christ-in-you/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 352
+- **REVIEW_RECOMMENDED:** 87
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 27
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0036_p008_0121` | 0.91 | `SCRIPTURE` | Closing your eyes against the facts of life, dare to assume you are seeing and h... |
+| 2 | `l0036_p008_0129` | 0.90 | `SCRIPTURE` | Closing your eyes against the facts of life, dare to assume you are seeing and h... |
+| 3 | `l0036_p008_0134` | 0.87 | `SCRIPTURE` | Closing your eyes against the facts of life, dare to assume you are seeing and h... |
+| 4 | `l0036_p024_0352` | 0.86 | `ASSUMPTION` | Be faithful to your assumption. Persist in this thought, for persistence is the ... |
+| 5 | `l0036_p026_0370` | 0.86 | `ASSUMPTION` | When you become lost in the reasoning world, your imagination is not fed with yo... |
+| 6 | `l0036_p031_0445` | 0.85 | `PROMISE` | If you are a musician and stop practicing for a week you will not be qualified t... |
+| 7 | `l0036_p001_0003` | 0.84 | `ASSUMPTION` | When you test the Christ in you and prove from experience that it works, then yo... |
+| 8 | `l0036_p003_0028` | 0.84 | `SCRIPTURE` | If you will read scripture carefully (and not go along with the herd) you will s... |
+| 9 | `l0036_p003_0040` | 0.84 | `SCRIPTURE` | If you do, put him to the test. He is your power to create, your power to imagin... |
+| 10 | `l0036_p004_0054` | 0.84 | `CONSCIOUSNESS_I_AM` | So, Awakened Imagination begins the 14th [chapter] of John by saying: “Let not y... |

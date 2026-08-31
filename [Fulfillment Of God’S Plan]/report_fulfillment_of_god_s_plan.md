@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Fulfillment Of God’S Plan (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Fulfillment Of God’S Plan  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0064  
+**Work Class:** LECTURE  
+**Slug:** `fulfillment_of_god_s_plan`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 5999 ????, 26 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/fulfillment-of-god-s-plan/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 695
+- **REVIEW_RECOMMENDED:** 175
+- **REJECTED:** 52
+- **FAILED:** 0
+- **????? ??????:** 22
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0064_p009_0254` | 0.85 | `SCRIPTURE` | That must be born from above. It is now entombed in my skull, entombed in your s... |
+| 2 | `l0064_p016_0524` | 0.85 | `SCRIPTURE` | He�s the breath of man, the spirit of man, the I Amness of man, man�s own wonder... |
+| 3 | `l0064_p016_0538` | 0.85 | `SCRIPTURE` | He�s the breath of man, the spirit of man, the I Amness of man, man�s own wonder... |
+| 4 | `l0064_p016_0551` | 0.85 | `SCRIPTURE` | He�s the breath of man, the spirit of man, the I Amness of man, man�s own wonder... |
+| 5 | `l0064_p004_0003` | 0.84 | `SCRIPTURE` | That�s the week, the triumphant march into Jerusalem, the crucifixion and then t... |
+| 6 | `l0064_p004_0013` | 0.84 | `SCRIPTURE` | The resurrection took place and is taking place and will continue until everyone... |
+| 7 | `l0064_p004_0016` | 0.84 | `SCRIPTURE` | It�s the story of the fulfillment of God�s purpose. That�s the week, the triumph... |
+| 8 | `l0064_p004_0017` | 0.84 | `SCRIPTURE` | That�s the week, the triumphant march into Jerusalem, the crucifixion and then t... |
+| 9 | `l0064_p004_0029` | 0.84 | `SCRIPTURE` | The resurrection took place and is taking place and will continue until everyone... |
+| 10 | `l0064_p006_0133` | 0.84 | `SCRIPTURE` | There is no limit to expansion. God is forever expanding and then, at a moment o... |

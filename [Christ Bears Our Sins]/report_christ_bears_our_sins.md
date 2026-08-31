@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Christ Bears Our Sins (1969-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Christ Bears Our Sins  
+**???? ??????:** 1969-01-01  
+**Corpus ID:** L0034  
+**Work Class:** LECTURE  
+**Slug:** `christ_bears_our_sins`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2950 ????, 40 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/christ-bears-our-sins/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 222
+- **REVIEW_RECOMMENDED:** 83
+- **REJECTED:** 4
+- **FAILED:** 0
+- **????? ??????:** 36
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0034_p002_0005` | 0.86 | `SCRIPTURE` | When you are in pain, or experiencing deep sorrow, your imagination is doing the... |
+| 2 | `l0034_p028_0224` | 0.86 | `ASSUMPTION` | If you want the joy of marriage, a love affair, or a romance, you can test God b... |
+| 3 | `l0034_p006_0036` | 0.85 | `SCRIPTURE` | Her husband, like 99% of the people of the world, does not want to be awakened, ... |
+| 4 | `l0034_p016_0115` | 0.85 | `CONSCIOUSNESS_I_AM` | Feel ashamed, limited, inadequate or afraid, and God is experiencing them all; f... |
+| 5 | `l0034_p028_0221` | 0.85 | `ASSUMPTION` | And to the degree you persist in that assumption, it will be yours to experience... |
+| 6 | `l0034_p028_0222` | 0.85 | `ASSUMPTION` | Do not be concerned as to how or when it will happen; simply persist in the assu... |
+| 7 | `l0034_p002_0006` | 0.84 | `SCRIPTURE` | If a friend tells you he is not feeling well, or is in great pain, and you tell ... |
+| 8 | `l0034_p002_0009` | 0.84 | `SCRIPTURE` | Our wonderful human imagination! When you are in pain, or experiencing deep sorr... |
+| 9 | `l0034_p002_0011` | 0.84 | `SCRIPTURE` | Christ! Our wonderful human imagination! When you are in pain, or experiencing d... |
+| 10 | `l0034_p012_0079` | 0.84 | `CONSCIOUSNESS_I_AM` | I feel his thumbs press into my throat and feel as though I am going to die.... |

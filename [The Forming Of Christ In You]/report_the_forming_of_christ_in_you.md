@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Forming Of Christ In You (1969-06-23)
+
+**?????:** Neville Goddard  
+**????????:** The Forming Of Christ In You  
+**???? ??????:** 1969-06-23  
+**Corpus ID:** L0157  
+**Work Class:** LECTURE  
+**Slug:** `the_forming_of_christ_in_you`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3655 ????, 48 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-forming-of-christ-in-you/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 290
+- **REVIEW_RECOMMENDED:** 105
+- **REJECTED:** 10
+- **FAILED:** 0
+- **????? ??????:** 43
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0157_p011_0072` | 0.89 | `ASSUMPTION` | The Lord of the whole earth is omnificent, with unlimited sperm. He so loves you... |
+| 2 | `l0157_p011_0070` | 0.87 | `ASSUMPTION` | He so loves you – his wife, that if you dare to assume anything that Esau – the ... |
+| 3 | `l0157_p011_0074` | 0.87 | `ASSUMPTION` | The Lord of the whole earth is omnificent, with unlimited sperm. He so loves you... |
+| 4 | `l0157_p018_0108` | 0.86 | `CONSCIOUSNESS_I_AM` | She has no feeling that a home will give her security.... |
+| 5 | `l0157_p022_0148` | 0.86 | `PROMISE` | Your awareness is the bride of the Lord. She can’t conceive without the embrace ... |
+| 6 | `l0157_p041_0364` | 0.86 | `PROMISE` | There is no other way for you to know that you are God.... |
+| 7 | `l0157_p018_0113` | 0.85 | `CONSCIOUSNESS_I_AM` | I like living as we do in an apartment owned and cared for by someone else, and ... |
+| 8 | `l0157_p018_0114` | 0.85 | `CONSCIOUSNESS_I_AM` | She has no feeling that a home will give her security. She knows that she either... |
+| 9 | `l0157_p022_0153` | 0.85 | `PROMISE` | Your awareness is the bride of the Lord. She can’t conceive without the embrace ... |
+| 10 | `l0157_p030_0220` | 0.85 | `SCRIPTURE` | If you imagine a state, it is unseen by others, but if you assume it is true, yo... |

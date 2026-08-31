@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: There Is No Fiction (1968-06-07)
+
+**?????:** Neville Goddard  
+**????????:** There Is No Fiction  
+**???? ??????:** 1968-06-07  
+**Corpus ID:** L0214  
+**Work Class:** LECTURE  
+**Slug:** `there_is_no_fiction`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 3515 ????, 54 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/there-is-no-fiction/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 316
+- **REVIEW_RECOMMENDED:** 63
+- **REJECTED:** 12
+- **FAILED:** 0
+- **????? ??????:** 48
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0214_p006_0031` | 0.92 | `ASSUMPTION` | If you dare to assume what your reason and senses deny and walk faithful to your... |
+| 2 | `l0214_p006_0036` | 0.92 | `ASSUMPTION` | If you dare to assume what your reason and senses deny and walk faithful to your... |
+| 3 | `l0214_p005_0029` | 0.91 | `ASSUMPTION` | You will know that this world is imaginal and that an assumption – with no exter... |
+| 4 | `l0214_p006_0040` | 0.91 | `ASSUMPTION` | If you dare to assume what your reason and senses deny and walk faithful to your... |
+| 5 | `l0214_p020_0146` | 0.90 | `ASSUMPTION` | You can have them all, if you are willing to assume they are already yours. And,... |
+| 6 | `l0214_p020_0150` | 0.90 | `ASSUMPTION` | To be famous in the eyes of others? You can have them all, if you are willing to... |
+| 7 | `l0214_p006_0035` | 0.89 | `ASSUMPTION` | If an imaginal act produces an external fact to support it, then is not this wor... |
+| 8 | `l0214_p020_0142` | 0.89 | `ASSUMPTION` | And, in spite of the evidence of your senses and the contradiction of your reaso... |
+| 9 | `l0214_p020_0151` | 0.89 | `ASSUMPTION` | You can have them all, if you are willing to assume they are already yours. And,... |
+| 10 | `l0214_p020_0147` | 0.88 | `ASSUMPTION` | And, in spite of the evidence of your senses and the contradiction of your reaso... |

@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Truth, The Word Of God (1967-11-24)
+
+**?????:** Neville Goddard  
+**????????:** Truth, The Word Of God  
+**???? ??????:** 1967-11-24  
+**Corpus ID:** L0218  
+**Work Class:** LECTURE  
+**Slug:** `truth_the_word_of_god`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2184 ????, 36 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/truth-the-word-of-god/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 194
+- **REVIEW_RECOMMENDED:** 56
+- **REJECTED:** 8
+- **FAILED:** 0
+- **????? ??????:** 29
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0218_p005_0026` | 0.86 | `ASSUMPTION` | Controlling my thoughts, I began to apply my imagination by claiming it was Tues... |
+| 2 | `l0218_p003_0014` | 0.84 | `CONSCIOUSNESS_I_AM` | If you change your thinking, and things in your outer world change, then you hav... |
+| 3 | `l0218_p005_0029` | 0.84 | `ASSUMPTION` | “Knowing that our subcontractors were scattered all over the nation, when I arri... |
+| 4 | `l0218_p005_0030` | 0.84 | `ASSUMPTION` | Controlling my thoughts, I began to apply my imagination by claiming it was Tues... |
+| 5 | `l0218_p010_0073` | 0.84 | `FEELING` | When you see another in want, you repent by persuading yourself he is affluent.... |
+| 6 | `l0218_p013_0092` | 0.84 | `FEELING` | No mortal eye can see the body of God I wear, but I feel it, for I wear it every... |
+| 7 | `l0218_p020_0150` | 0.84 | `SPIRITUAL` | When you are sent, you will carry the message of the one who sent you.... |
+| 8 | `l0218_p024_0171` | 0.84 | `SCRIPTURE` | As scripture unfolds in you, you feel yourself to be the being who first called ... |
+| 9 | `l0218_p034_0228` | 0.84 | `PROMISE` | Lawrence called his experience resurrection, but the word is restoration.... |
+| 10 | `l0218_p034_0235` | 0.84 | `PROMISE` | Lawrence called his experience resurrection, but the word is restoration. He spo... |

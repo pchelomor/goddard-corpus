@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: The Twelve Disciples (1968-01-01)
+
+**?????:** Neville Goddard  
+**????????:** The Twelve Disciples  
+**???? ??????:** 1968-01-01  
+**Corpus ID:** L0211  
+**Work Class:** LECTURE  
+**Slug:** `the_twelve_disciples`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2503 ????, 32 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/the-twelve-disciples/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 106
+- **REVIEW_RECOMMENDED:** 88
+- **REJECTED:** 2
+- **FAILED:** 0
+- **????? ??????:** 26
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0211_p011_0041` | 0.85 | `SCRIPTURE` | But from the disciplined One the whole world could be taken and yet he would rem... |
+| 2 | `l0211_p007_0027` | 0.84 | `SPIRITUAL` | The instruction to Simon is that he should permit only dignified and honorable v... |
+| 3 | `l0211_p018_0089` | 0.84 | `ASSUMPTION` | No quality so separates man from man as does the disciplined imagination.... |
+| 4 | `l0211_p018_0091` | 0.84 | `ASSUMPTION` | Those who have given most to society are our artists, scientists, inventors and ... |
+| 5 | `l0211_p018_0095` | 0.84 | `ASSUMPTION` | No quality so separates man from man as does the disciplined imagination. This I... |
+| 6 | `l0211_p020_0103` | 0.84 | `ASSUMPTION` | Instead of developing the imagination of man, our educational system oftentimes ... |
+| 7 | `l0211_p011_0045` | 0.83 | `SCRIPTURE` | But from the disciplined One the whole world could be taken and yet he would rem... |
+| 8 | `l0211_p016_0075` | 0.83 | `FEELING` | The awakened man knows that the Father is the state of consciousness in which ma... |
+| 9 | `l0211_p018_0088` | 0.83 | `ASSUMPTION` | An awakened imagination places the one so awakened head and shoulders above the ... |
+| 10 | `l0211_p021_0114` | 0.83 | `SCRIPTURE` | Thomas, the doubter when disciplined would deny that sickness or anything else w... |

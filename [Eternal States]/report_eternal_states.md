@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Eternal States (1968-09-09)
+
+**?????:** Neville Goddard  
+**????????:** Eternal States  
+**???? ??????:** 1968-09-09  
+**Corpus ID:** L0050  
+**Work Class:** LECTURE  
+**Slug:** `eternal_states`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 1997 ????, 18 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/eternal-states/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 197
+- **REVIEW_RECOMMENDED:** 35
+- **REJECTED:** 5
+- **FAILED:** 0
+- **????? ??????:** 16
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0050_p007_0062` | 0.86 | `ASSUMPTION` | All things exist in the human imagination, and all phenomena are solely produced... |
+| 2 | `l0050_p007_0065` | 0.86 | `ASSUMPTION` | All things exist in the human imagination, and all phenomena are solely produced... |
+| 3 | `l0050_p012_0157` | 0.86 | `ASSUMPTION` | Determine what it would feel like, and adjust your thinking by assuming you are ... |
+| 4 | `l0050_p006_0053` | 0.85 | `PROMISE` | Now, until you are born from above, you operate the power which gives life to th... |
+| 5 | `l0050_p001_0002` | 0.84 | `SCRIPTURE` | Your answers will reveal your state of consciousness: your body of belief.... |
+| 6 | `l0050_p003_0021` | 0.84 | `FEELING` | When you enter a scene it becomes animated. Then you become lost in your own ani... |
+| 7 | `l0050_p006_0057` | 0.84 | `PROMISE` | Now, until you are born from above, you operate the power which gives life to th... |
+| 8 | `l0050_p008_0069` | 0.84 | `SCRIPTURE` | Scripture calls this transformation Jesus Christ, for it is he who is buried in ... |
+| 9 | `l0050_p008_0073` | 0.84 | `SCRIPTURE` | While lying on my bed tonight, I close my physical eyes to the room surrounding ... |
+| 10 | `l0050_p011_0125` | 0.84 | `CONSCIOUSNESS_I_AM` | Start from the premise, “I am all imagination and pass through states,” for eter... |

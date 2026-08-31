@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Barabbas Or Jesus (1963-01-01)
+
+**?????:** Neville Goddard  
+**????????:** Barabbas Or Jesus  
+**???? ??????:** 1963-01-01  
+**Corpus ID:** L0020  
+**Work Class:** LECTURE  
+**Slug:** `barabbas_or_jesus`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 6279 ????, 45 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/barabbas-or-jesus/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 480
+- **REVIEW_RECOMMENDED:** 183
+- **REJECTED:** 27
+- **FAILED:** 0
+- **????? ??????:** 38
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0020_p018_0217` | 0.85 | `CONSCIOUSNESS_I_AM` | Then regardless of what the world tells me, I will assume tonight that I am what... |
+| 2 | `l0020_p038_0594` | 0.85 | `PROMISE` | Believe that, and rather die than turn back, and you are moving toward being bor... |
+| 3 | `l0020_p038_0597` | 0.85 | `SCRIPTURE` | There is no other savior. I am the Lord thy God, the Holy One of Israel – thy sa... |
+| 4 | `l0020_p045_0686` | 0.85 | `PROMISE` | So, I am proud to say I am a Jew because I am a Christian. I have been born from... |
+| 5 | `l0020_p045_0687` | 0.85 | `PROMISE` | I have been born from above. I could not possibly be, unless I were a Jew.... |
+| 6 | `l0020_p009_0129` | 0.84 | `CONSCIOUSNESS_I_AM` | All things being relative, when you make $13,000 on a job, that is not hay.... |
+| 7 | `l0020_p016_0197` | 0.84 | `CONSCIOUSNESS_I_AM` | There is no other shepherd and no other door into eternity save the one door, an... |
+| 8 | `l0020_p018_0238` | 0.84 | `CONSCIOUSNESS_I_AM` | Then regardless of what the world tells me, I will assume tonight that I am what... |
+| 9 | `l0020_p024_0330` | 0.84 | `CONSCIOUSNESS_I_AM` | There is no other way in, no other door – just one.... |
+| 10 | `l0020_p029_0400` | 0.84 | `CONSCIOUSNESS_I_AM` | When you read these words: “I am the way, the Truth and the Life,” you will know... |

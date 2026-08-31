@@ -1,0 +1,36 @@
+# ????? ????????? ?????????: Wonder Working Power (1969-02-03)
+
+**?????:** Neville Goddard  
+**????????:** Wonder Working Power  
+**???? ??????:** 1969-02-03  
+**Corpus ID:** L0228  
+**Work Class:** LECTURE  
+**Slug:** `wonder_working_power`  
+
+---
+
+## 1. ????? ????????? ? ???????????
+- **????? ??????:** 2874 ????, 38 ?????????? (100% ?????? ?????).
+- **?????????????:** `https://thenevillegoddard.com/lectures/wonder-working-power/`
+- **???????? ??????:** `PUBLIC_DOMAIN` (????????? ?????? ?????? ? ???).
+
+## 2. ?????????? ??????
+- **CANDIDATE:** 301
+- **REVIEW_RECOMMENDED:** 47
+- **REJECTED:** 9
+- **FAILED:** 0
+- **????? ??????:** 35
+
+## 3. ??? ???????? ?????
+| ? | Candidate ID | Score | Primary Topic | ?????? |
+|---|---|---|---|---|
+| 1 | `l0228_p002_0013` | 0.86 | `CONSCIOUSNESS_I_AM` | There is no place you can go and not know that you are!... |
+| 2 | `l0228_p006_0060` | 0.86 | `CONSCIOUSNESS_I_AM` | Reality is controlled by feeling, as told us in the 27th chapter of Genesis.... |
+| 3 | `l0228_p006_0064` | 0.86 | `CONSCIOUSNESS_I_AM` | Feeling! Reality is controlled by feeling, as told us in the 27th chapter of Gen... |
+| 4 | `l0228_p006_0068` | 0.86 | `CONSCIOUSNESS_I_AM` | What is the secret that makes this wonder working power operate? Feeling! Realit... |
+| 5 | `l0228_p009_0095` | 0.86 | `FEELING` | I sense its solidity, and when my five senses are awakened I have the feeling of... |
+| 6 | `l0228_p011_0128` | 0.86 | `FEELING` | Clothed in the feeling of insecurity, your outer world (Esau) reflects that feel... |
+| 7 | `l0228_p022_0234` | 0.86 | `ASSUMPTION` | When I ask you to adjust yourself to a certain state, I mean for you to feel it ... |
+| 8 | `l0228_p024_0246` | 0.86 | `FEELING` | It does not matter where you are or what time it is; you can adjust your mind an... |
+| 9 | `l0228_p029_0273` | 0.86 | `CONSCIOUSNESS_I_AM` | Man is all imagination, and God is Man and exists in us and we in Him.... |
+| 10 | `l0228_p029_0286` | 0.86 | `CONSCIOUSNESS_I_AM` | A Christian calls the imagination Jesus. A Jew calls it Jehovah. Tradition claim... |
