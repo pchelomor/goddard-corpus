@@ -1,0 +1,19 @@
+{
+  "work": "Building Your Temple",
+  "corpus_id": "L0030",
+  "canonical_date": "1967-11-20",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_building_your_temple.txt",
+  "canonical_source_paragraphs": 20,
+  "source_paragraphs_reviewed": 20,
+  "raw_worker_windows_generated": 223,
+  "retained_worker_windows": 221,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 17,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Building Your Temple]/curated_building_your_temple.jsonl",
+  "decisions_file": "[Building Your Temple]/editorial_decisions_building_your_temple.jsonl",
+  "review_file": "[Building Your Temple]/editorial_review_building_your_temple.md"
+}
