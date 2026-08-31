@@ -1,0 +1,18 @@
+{
+  "work": "All Things Are Possible",
+  "corpus_id": "L0012",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_all_things_are_possible.txt",
+  "raw_worker_windows_generated": 472,
+  "raw_worker_candidates": 462,
+  "worker_rejected": 10,
+  "canonical_source_paragraphs": 35,
+  "source_paragraphs_reviewed": 35,
+  "select_fragments": 4,
+  "raw_duplicate_groups": 32,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[All Things Are Possible]/curated_all_things_are_possible.jsonl",
+  "decisions_file": "[All Things Are Possible]/editorial_decisions_all_things_are_possible.jsonl",
+  "review_file": "[All Things Are Possible]/editorial_review_all_things_are_possible.md"
+}
