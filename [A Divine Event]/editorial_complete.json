@@ -1,0 +1,15 @@
+{
+  "work":"A Divine Event",
+  "corpus_id":"L0001",
+  "review_mode":"SOURCE_FIRST_CANONICAL",
+  "raw_worker_candidates":398,
+  "canonical_source_paragraphs":33,
+  "source_paragraphs_reviewed":33,
+  "select_fragments":1,
+  "raw_duplicate_groups":32,
+  "complete":true,
+  "review_policy":"EDITORIAL_POLICY.md",
+  "curated_file":"[A Divine Event]/curated_a_divine_event.jsonl",
+  "decisions_file":"[A Divine Event]/editorial_decisions_a_divine_event.jsonl",
+  "review_file":"[A Divine Event]/editorial_review_a_divine_event.md"
+}
