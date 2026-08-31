@@ -1,0 +1,20 @@
+{
+  "work": "Christmas-Man’s Birth as God",
+  "corpus_id": "L0039",
+  "canonical_date": "1968-01-01",
+  "canonical_date_note": "Repository year-level placeholder; corpus_registry.full_date is null.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_christmas_man_s_birth_as_god.txt",
+  "canonical_source_paragraphs": 53,
+  "source_paragraphs_reviewed": 53,
+  "raw_worker_windows_generated": 360,
+  "retained_worker_windows": 350,
+  "worker_rejected": 10,
+  "raw_duplicate_groups": 41,
+  "select_fragments": 0,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Christmas-Man’S Birth As God]/curated_christmas_man_s_birth_as_god.jsonl",
+  "decisions_file": "[Christmas-Man’S Birth As God]/editorial_decisions_christmas_man_s_birth_as_god.jsonl",
+  "review_file": "[Christmas-Man’S Birth As God]/editorial_review_christmas_man_s_birth_as_god.md"
+}
