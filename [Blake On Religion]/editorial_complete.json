@@ -1,0 +1,19 @@
+{
+  "work": "Blake On Religion",
+  "corpus_id": "L0028",
+  "canonical_date": "1963-03-26",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_blake_on_religion.txt",
+  "canonical_source_paragraphs": 115,
+  "source_paragraphs_reviewed": 115,
+  "raw_worker_windows_generated": 691,
+  "retained_worker_windows": 646,
+  "worker_rejected": 45,
+  "raw_duplicate_groups": 44,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Blake On Religion]/curated_blake_on_religion.jsonl",
+  "decisions_file": "[Blake On Religion]/editorial_decisions_blake_on_religion.jsonl",
+  "review_file": "[Blake On Religion]/editorial_review_blake_on_religion.md"
+}
