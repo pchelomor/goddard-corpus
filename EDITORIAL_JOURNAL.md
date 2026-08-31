@@ -16,7 +16,7 @@ This journal tracks the strict book-by-book and work-by-work review defined in `
 | Awakened Imagination | COMPLETE | 8 chapters / 504 paragraphs / 1,232 raw windows | 36 | section-level | section-level | `[Awakened Imagination]/curated_awakened_imagination.jsonl` |
 | Freedom For All | COMPLETE | Intro + 9 chapters / 323 paragraphs / 841 raw windows | 32 | section-level | section-level | `[Freedom For All]/curated_freedom_for_all.jsonl` |
 | He Breaks The Shell | COMPLETE | 98 paragraphs / 188 raw windows | 0 | section-level | section-level | `[He Breaks The Shell]/curated_he_breaks_the_shell.jsonl` |
-| I Know My Father | TODO | — | — | — | — | — |
+| I Know My Father | COMPLETE | 10 chapters / 177 paragraphs / 892 raw windows | 17 | section-level | section-level | `[I Know My Father]/curated_i_know_my_father.jsonl` |
 | Out Of This World | TODO | — | — | — | — | — |
 | Prayer, The Art Of Believing | TODO | — | — | — | — | — |
 | Resurrection, A Confession Of Faith | TODO | — | — | — | — | — |
@@ -171,6 +171,38 @@ Files written in the work folder:
 - `curated_he_breaks_the_shell.jsonl` (intentionally empty main-pool shortlist)
 - `editorial_decisions_he_breaks_the_shell.jsonl`
 - `editorial_review_he_breaks_the_shell.md`
+- `editorial_complete.json`
+
+Raw candidate and source files were not changed.
+
+## 2026-08-31 — I Know My Father
+Completed a source-first hard editorial pass across the complete 1960 10-chapter book.
+
+Why source-first remained appropriate:
+- the worker retained 892 candidate windows from 177 canonical paragraphs;
+- 86 duplicate groups showed substantial overlap and nested variants;
+- the canonical master text was therefore reviewed end-to-end and used as the sole authority for final fragment boundaries.
+
+Result:
+- canonical chapters reviewed: 10 / 10;
+- canonical paragraphs covered: 177 / 177;
+- SELECT exact fragments: 17;
+- strict SELECT density vs 892 retained worker candidates: 1.9%;
+- strict SELECT density vs 177 canonical paragraphs: 9.6%.
+
+Notable filtering:
+- pure scripture and scripture-dominant retellings were excluded from Neville attribution;
+- repeated I AM, self-concept, feeling, and present-tense windows were collapsed to preferred exact formulations;
+- categorical medical and mental-health healing claims were kept out of the automatic pool;
+- passages discouraging reliance on drugs, diet, or money were excluded because they become unsafe or misleading without context;
+- categorical financial guarantees, poverty/blame language, political/war causation, and strong universal-causation claims were excluded or held;
+- circumcision and crucifixion/resurrection allegory was retained only contextually unless a clean Neville-only fragment stood independently;
+- sensory-evidence-denial material was held when decontextualization could encourage ignoring real-world evidence.
+
+Files written in the work folder:
+- `curated_i_know_my_father.jsonl`
+- `editorial_decisions_i_know_my_father.jsonl`
+- `editorial_review_i_know_my_father.md`
 - `editorial_complete.json`
 
 Raw candidate and source files were not changed.
