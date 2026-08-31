@@ -1,0 +1,18 @@
+{
+  "work": "An Inner Conviction",
+  "corpus_id": "L0015",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_an_inner_conviction.txt",
+  "raw_worker_windows_generated": 336,
+  "raw_worker_candidates": 329,
+  "worker_rejected": 7,
+  "canonical_source_paragraphs": 29,
+  "source_paragraphs_reviewed": 29,
+  "select_fragments": 3,
+  "raw_duplicate_groups": 26,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[An Inner Conviction]/curated_an_inner_conviction.jsonl",
+  "decisions_file": "[An Inner Conviction]/editorial_decisions_an_inner_conviction.jsonl",
+  "review_file": "[An Inner Conviction]/editorial_review_an_inner_conviction.md"
+}
