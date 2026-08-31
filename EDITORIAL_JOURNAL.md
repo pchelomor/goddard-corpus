@@ -1,406 +1,94 @@
 # Editorial Journal — Neville Goddard Corpus
 
-This journal tracks the strict book-by-book and work-by-work review defined in `EDITORIAL_POLICY.md`.
+This journal tracks the strict work-by-work review defined in `EDITORIAL_POLICY.md`. Raw extraction/source files remain immutable; the editorial layer is derivative and is complete only when the four required work files exist and the work is recorded here.
 
 ## Decision vocabulary
-- **SELECT** — main curated corpus / daily-pool candidate.
-- **HOLD** — valuable but contextual, sensitive, mixed-source, or not strong enough for automatic delivery.
-- **DROP** — weak, duplicate, misbounded, mostly external/scripture, generic, or unsuitable for the curated layer.
-
-## Progress
-
-| Work | Status | Reviewed | SELECT | HOLD | DROP | Output |
-|---|---:|---:|---:|---:|---:|---|
-| Feeling Is the Secret | COMPLETE | 88 candidates | 29 | 46 | 13 | `Feeling Is the Secret/curated_feeling_is_the_secret.jsonl` |
-| At Your Command | COMPLETE | 110 paragraphs / 711 raw windows | 20 | 67 | 23 | `[At Your Command]/curated_at_your_command.jsonl` |
-| Awakened Imagination | COMPLETE | 8 chapters / 504 paragraphs / 1,232 raw windows | 36 | section-level | section-level | `[Awakened Imagination]/curated_awakened_imagination.jsonl` |
-| Freedom For All | COMPLETE | Intro + 9 chapters / 323 paragraphs / 841 raw windows | 32 | section-level | section-level | `[Freedom For All]/curated_freedom_for_all.jsonl` |
-| He Breaks The Shell | COMPLETE | 98 paragraphs / 188 raw windows | 0 | section-level | section-level | `[He Breaks The Shell]/curated_he_breaks_the_shell.jsonl` |
-| I Know My Father | COMPLETE | 10 chapters / 177 paragraphs / 892 raw windows | 17 | section-level | section-level | `[I Know My Father]/curated_i_know_my_father.jsonl` |
-| Out Of This World | COMPLETE | 4 chapters / 189 paragraphs / 493 raw windows | 20 | section-level | section-level | `[Out Of This World]/curated_out_of_this_world.jsonl` |
-| Prayer, The Art Of Believing | COMPLETE | 7 chapters / 192 paragraphs / 700 raw windows | 21 | section-level | section-level | `[Prayer, The Art Of Believing]/curated_prayer_the_art_of_believing.jsonl` |
-| Resurrection, A Confession Of Faith | COMPLETE | 3 chapters / 168 paragraphs / 457 raw windows | 0 | section-level | section-level | `[Resurrection, A Confession Of Faith]/curated_resurrection_a_confession_of_faith.jsonl` |
-| Seedtime And Harvest | COMPLETE | 9 chapters / 360 paragraphs / 1,145 raw windows | 23 | section-level | section-level | `[Seedtime And Harvest]/curated_seedtime_and_harvest.jsonl` |
-| The Law And The Promise | COMPLETE | Intro + 15 chapters / 798 paragraphs / 3,036 raw windows | 34 | section-level | section-level | `[The Law And The Promise]/curated_the_law_and_the_promise.jsonl` |
-| Five Lessons (Master Class), S001 | COMPLETE | 6 sections / 858 paragraphs / 4,516 retained windows | 19 | section-level | section-level | `[Five Lessons]/curated_five_lessons.jsonl` |
-| The Power Of Awareness (book) | TODO | — | — | — | — | — |
-| The Power Of Awareness (1953 lecture, L0185) | COMPLETE | 32 paragraphs / 375 raw windows | 12 | section-level | section-level | `[The Power Of Awareness]/curated_the_power_of_awareness.jsonl` |
-| The Search | TODO | — | — | — | — | — |
-| Your Faith Is Your Fortune | TODO | — | — | — | — | — |
-
-## Repository-wide editorial queue
-
-The extraction corpus is now much larger than the original book-only journal. `corpus_progress.json` reports **252 extraction-complete corpus items**: 14 core books, 3 supplementary works, and 235 canonical lectures.
-
-To avoid manual journal maintenance and bureaucratic stops, the strict editorial queue is now **dynamic**:
-
-1. every top-level work folder represented in the completed corpus is considered queued when it has source/worker outputs and does not yet have a completed strict editorial layer;
-2. newly added work folders are therefore automatically eligible without requiring a hand-written row here first;
-3. the legacy book rows above remain as the current priority sequence;
-4. once those are exhausted, the queue continues through the remaining completed works/lectures from the repository tree/registry;
-5. a work is removed from the pending queue only after its strict editorial outputs are written and the review is marked complete.
-
-The current repository tree already contains many newly added works beyond the original book list, including `A Divine Event`, `A Lesson In Scripture`, `A Movement Of Mind`, `Mental Diets`, the five lesson transcripts, numerous later lectures, and many Promise-focused works. These are now covered by the dynamic queue rule rather than requiring individual manual insertion before processing.
-
-## 2026-08-31 — Feeling Is the Secret
-Completed the first hard editorial pass.
-
-Key decisions:
-- enforced a substantially stricter pool than the earlier ACCEPT/REVIEW/REJECT pass;
-- reduced 88 reviewed candidates to 29 SELECTs;
-- moved mixed-scripture material to HOLD rather than treating it as Neville-only quotation text;
-- dropped the categorical “all disease” medical claim;
-- collapsed overlapping idea clusters to preferred formulations;
-- retained core metaphysical quotations where they are clean, standalone, and recognizably Neville.
-
-Files written in the work folder:
-- `curated_feeling_is_the_secret.jsonl`
-- `editorial_decisions_feeling_is_the_secret.jsonl`
-- `editorial_review_feeling_is_the_secret.md`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — At Your Command
-Completed a source-first hard editorial pass.
-
-Why the method changed:
-- the worker generated 711 candidate windows from only 110 canonical source paragraphs;
-- 171 raw duplicate groups showed that candidate-by-candidate review would mostly review artificial sliding-window variants;
-- `EDITORIAL_POLICY.md` was extended with `SOURCE_FIRST_CANONICAL` mode so overgenerated works can be reviewed against the canonical master text paragraph-by-paragraph.
-
-Result:
-- canonical paragraphs reviewed: 110 / 110;
-- SELECT exact fragments: 20;
-- HOLD paragraphs: 67;
-- DROP paragraphs: 23;
-- strict SELECT density vs 711 raw worker windows: 2.8%.
-
-Notable filtering:
-- scripture-dominant and parable-retelling passages were kept out of the main Neville-only pool;
-- categorical medical-healing and financial-guarantee material was dropped from automatic delivery;
-- victim-blaming formulations around accidents, interpersonal behavior, poverty, illness, or condemnation were dropped;
-- problem-avoidance and very strong literal guarantees were held for context rather than selected;
-- core metaphysical/self-concept material was retained when clean, exact, and memorable.
-
-Files written in the work folder:
-- `curated_at_your_command.jsonl`
-- `editorial_decisions_at_your_command.jsonl`
-- `editorial_review_at_your_command.md`
-- `editorial_complete.json`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — Awakened Imagination
-Completed a source-first hard editorial pass across the complete canonical 8-chapter book.
-
-Why source-first remained appropriate:
-- the worker retained 1,232 candidate windows from 504 canonical paragraphs;
-- 182 duplicate groups showed heavy overlap among the extracted windows;
-- chapter-level audit records preserve full canonical coverage without serializing hundreds of mechanical near-duplicates as separate editorial judgments.
-
-Result:
-- canonical chapters reviewed: 8 / 8;
-- canonical paragraphs covered: 504 / 504;
-- SELECT exact fragments: 36;
-- strict SELECT density vs 1,232 retained worker candidates: 2.9%;
-- strict SELECT density vs 504 canonical paragraphs: 7.1%.
-
-Notable filtering:
-- external quotations and pure scripture were excluded from Neville attribution;
-- repeated `thinking of` / `thinking from` windows were collapsed to the strongest formulations;
-- medical-healing, bilocation, financial, miracle, and universal-causation claims were held when context would be necessary;
-- long autobiographical/testimonial passages were not used as standalone daily quotations;
-- Chapter 8 was reserved for a future spiritual/scriptural opt-in layer rather than the main automatic pool.
-
-Files written in the work folder:
-- `curated_awakened_imagination.jsonl`
-- `editorial_decisions_awakened_imagination.jsonl`
-- `editorial_review_awakened_imagination.md`
-- `editorial_complete.json`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — Freedom For All
-Completed a source-first hard editorial pass across the complete canonical Introduction + 9 chapters.
-
-Why source-first remained appropriate:
-- the worker retained 841 candidate windows from 323 canonical paragraphs;
-- 115 duplicate groups showed meaningful sliding-window overlap;
-- section-level audit records preserve complete source coverage without treating mechanical overlaps as separate editorial objects.
-
-Result:
-- canonical paragraphs covered: 323 / 323;
-- SELECT exact fragments: 32;
-- strict SELECT density vs 841 retained worker candidates: 3.8%;
-- strict SELECT density vs canonical paragraphs: 9.9%.
-
-Notable filtering:
-- pure scripture and scripture-dominant allegorical retellings were excluded from Neville attribution;
-- core I AM, feeling, assumption, Sabbath, desire, and imaginal-listening formulations were retained;
-- categorical healing, remote-healing, financial-guarantee, and universal-blame material was excluded from the automatic pool;
-- long Noah, Jacob/Esau, crucifixion, leprosy, mustard-seed, and Immaculate Conception explanations were held where context is more important than standalone delivery;
-- repeated formulations were collapsed to preferred local variants.
-
-Files written in the work folder:
-- `curated_freedom_for_all.jsonl`
-- `editorial_decisions_freedom_for_all.jsonl`
-- `editorial_review_freedom_for_all.md`
-- `editorial_complete.json`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — He Breaks The Shell
-Completed a source-first hard editorial pass across the complete 1964 monograph: Introduction + Acts 1–4 + Conclusion.
-
-Why source-first remained appropriate:
-- the worker retained 188 candidate windows from 98 canonical paragraphs;
-- 34 duplicate groups showed enough overlap that the canonical text remained the authoritative review unit;
-- the work is overwhelmingly Promise/spiritual material, so standalone product suitability had to be judged against the stricter automatic-pool policy rather than historical importance alone.
-
-Result:
-- canonical paragraphs covered: 98 / 98;
-- SELECT exact fragments for the main automatic pool: 0;
-- substantive Promise material: HOLD at section level for a future spiritual/Promise opt-in layer;
-- scripture/external-dominant or weak standalone units: DROP at section level.
-
-Notable filtering:
-- Blake and pure scripture were excluded from Neville attribution;
-- resurrection-in-the-skull, supernatural birth, Davidic fatherhood, split-body/serpent, dove, and related mystical descriptions were retained contextually as HOLD rather than converted into context-free maxims;
-- categorical identity formulations about God, Christ, and man were held for an opt-in spiritual layer;
-- the empty curated file is intentional: this monograph is historically central but no fragment cleared the current main automatic-pool threshold without losing needed theological context.
-
-Files written in the work folder:
-- `curated_he_breaks_the_shell.jsonl` (intentionally empty main-pool shortlist)
-- `editorial_decisions_he_breaks_the_shell.jsonl`
-- `editorial_review_he_breaks_the_shell.md`
-- `editorial_complete.json`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — I Know My Father
-Completed a source-first hard editorial pass across the complete 1960 10-chapter book.
-
-Why source-first remained appropriate:
-- the worker retained 892 candidate windows from 177 canonical paragraphs;
-- 86 duplicate groups showed substantial overlap and nested variants;
-- the canonical master text was therefore reviewed end-to-end and used as the sole authority for final fragment boundaries.
-
-Result:
-- canonical chapters reviewed: 10 / 10;
-- canonical paragraphs covered: 177 / 177;
-- SELECT exact fragments: 17;
-- strict SELECT density vs 892 retained worker candidates: 1.9%;
-- strict SELECT density vs 177 canonical paragraphs: 9.6%.
-
-Notable filtering:
-- pure scripture and scripture-dominant retellings were excluded from Neville attribution;
-- repeated I AM, self-concept, feeling, and present-tense windows were collapsed to preferred exact formulations;
-- categorical medical and mental-health healing claims were kept out of the automatic pool;
-- passages discouraging reliance on drugs, diet, or money were excluded because they become unsafe or misleading without context;
-- categorical financial guarantees, poverty/blame language, political/war causation, and strong universal-causation claims were excluded or held;
-- circumcision and crucifixion/resurrection allegory was retained only contextually unless a clean Neville-only fragment stood independently;
-- sensory-evidence-denial material was held when decontextualization could encourage ignoring real-world evidence.
-
-Files written in the work folder:
-- `curated_i_know_my_father.jsonl`
-- `editorial_decisions_i_know_my_father.jsonl`
-- `editorial_review_i_know_my_father.md`
-- `editorial_complete.json`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — Out Of This World
-Completed a source-first hard editorial pass across the complete 1949 four-chapter book.
-
-Why source-first remained appropriate:
-- the worker retained 493 candidate windows from 189 canonical paragraphs;
-- 73 duplicate groups showed substantial sliding-window overlap;
-- the complete canonical master text was reviewed directly so duplicate worker windows did not consume separate editorial passes.
-
-Result:
-- canonical chapters reviewed: 4 / 4;
-- canonical paragraphs covered: 189 / 189;
-- SELECT exact fragments: 20;
-- strict SELECT density vs 493 retained worker candidates: 4.1%;
-- strict SELECT density vs 189 canonical paragraphs: 10.6%.
-
-Notable filtering:
-- pure scripture was excluded from Neville attribution;
-- repeated assumption, SATS, wish-fulfilled, attention, and imaginal-action windows were collapsed to the strongest local wording;
-- literal fourth-dimensional physics, serial-universe, precognition, and out-of-body claims were held rather than presented as context-free scientific facts;
-- medical/healing/sanity claims, absolute external-causation language, and material that could imply blame for painful circumstances were kept out of the automatic pool;
-- direct-control-of-others formulations were held for context;
-- the long self-quotation from `The Search` was not duplicated into this local curated shortlist.
-
-Files written in the work folder:
-- `curated_out_of_this_world.jsonl`
-- `editorial_decisions_out_of_this_world.jsonl`
-- `editorial_review_out_of_this_world.md`
-- `editorial_complete.json`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — Prayer, The Art Of Believing
-Completed a source-first hard editorial pass across the complete 1945 seven-chapter book.
-
-Why source-first remained appropriate:
-- the worker retained 700 candidate windows from 192 canonical paragraphs;
-- 89 duplicate groups showed substantial overlap and nested variants;
-- the complete canonical text was reviewed directly and final quote boundaries were taken from the source rather than worker sliding windows.
-
-Result:
-- canonical chapters reviewed: 7 / 7;
-- canonical paragraphs covered: 192 / 192;
-- SELECT exact fragments: 21;
-- strict SELECT density vs 700 retained worker candidates: 3.0%;
-- strict SELECT density vs 192 canonical paragraphs: 10.9%.
-
-Notable filtering:
-- the Tennyson epigraph, scripture, Augustine, and other external wording were excluded from Neville attribution;
-- repeated prayer, assumption, fulfilled-desire, imagination, attention, and inner-conversation windows were collapsed to preferred exact fragments;
-- pseudo-scientific reversibility, vibration, photophone, telepathy, and thought-transmission explanations were kept contextual rather than treated as scientific facts;
-- categorical cure claims, claims superior to medical treatment, remote healing, and passages that could discourage appropriate medical care were excluded from the automatic pool;
-- covert suggestion, hypnosis analogies, claims that another person cannot resist, deterministic free-will denial, and behavior-control passages were excluded or held;
-- sunburn-from-within, age/decay-as-sleeping-health, poverty-as-sleeping-wealth, victim-blaming, and malicious-thought-rebound claims were excluded;
-- `I AM Christ` and related mystical identity passages were held for a future spiritual opt-in layer.
-
-Files written in the work folder:
-- `curated_prayer_the_art_of_believing.jsonl`
-- `editorial_decisions_prayer_the_art_of_believing.jsonl`
-- `editorial_review_prayer_the_art_of_believing.md`
-- `editorial_complete.json`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — Resurrection, A Confession Of Faith
-Completed a source-first hard editorial pass across the complete 1966 three-chapter title essay.
-
-Why source-first remained appropriate:
-- the worker retained 457 candidate windows from 168 canonical paragraphs;
-- 55 duplicate groups showed substantial overlap;
-- the work is overwhelmingly Promise/spiritual material and contains extensive scripture/external quotation, so canonical-source review avoids both duplication and false Neville attribution.
-
-Result:
-- canonical chapters reviewed: 3 / 3;
-- canonical paragraphs covered: 168 / 168;
-- SELECT exact fragments for the main automatic pool: 0;
-- substantive Promise/theological material: HOLD at section level for a future spiritual/Promise opt-in layer;
-- pure scripture, external quotations, and weak/context-dependent units: DROP at section level.
-
-Notable filtering:
-- pure scripture and wording from William Blake, Johann Scheffler, Edward Thomas, F. W. H. Myers, and other external sources were excluded from Neville attribution;
-- Father/Son, David, resurrection, birth-from-above, Golgotha/skull, divine-body, serpent/light, dove, and related mystical descriptions were retained contextually rather than converted into daily maxims;
-- categorical supernatural and theological identity claims were held for an opt-in spiritual layer;
-- the concise line `Faith is not complete till it has become experience` was not selected because it did not clear the strict author-specificity threshold in isolation;
-- the empty curated file is intentional and consistent with the handling of Promise-dominant works such as `He Breaks The Shell`.
-
-Files written in the work folder:
-- `curated_resurrection_a_confession_of_faith.jsonl` (intentionally empty main-pool shortlist)
-- `editorial_decisions_resurrection_a_confession_of_faith.jsonl`
-- `editorial_review_resurrection_a_confession_of_faith.md`
-- `editorial_complete.json`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — Seedtime And Harvest
-Completed a source-first hard editorial pass across the complete 1956 nine-chapter book.
-
-Why source-first remained appropriate:
-- the worker retained 1,145 candidate windows from 360 canonical paragraphs;
-- 149 duplicate groups showed substantial overlap and nested variants;
-- the complete canonical text was reviewed end-to-end, with final quote boundaries taken from Neville's source wording instead of worker sliding windows.
-
-Result:
-- canonical chapters reviewed: 9 / 9;
-- canonical paragraphs covered: 360 / 360;
-- SELECT exact fragments: 23;
-- strict SELECT density vs 1,145 retained worker candidates: 2.0%;
-- strict SELECT density vs 360 canonical paragraphs: 6.4%.
-
-Notable filtering:
-- scripture and wording from William Blake, Shakespeare, Thoreau, Angelus Silesius, Browning, and other external sources were excluded from Neville attribution;
-- repeated `Four Mighty Ones`, final-scene, directed-attention, inner-conversation, and fulfilled-state windows were collapsed to preferred exact formulations;
-- the birthmark and sick-cat healing stories, plus categorical healing implications, were excluded from the automatic pool;
-- passages attributing accidents, death, discriminatory burial events, poverty, theft recovery, or another person's behavior to an individual's consciousness were excluded or held where decontextualization could become misleading or victim-blaming;
-- direct-control-of-others material and testimonials in which another person's behavior is presented as compelled by imaginal action were held;
-- stronger claims that the entire physical world is solely a construction of mind were held while clean core metaphysical and practical Neville wording was retained.
-
-Files written in the work folder:
-- `curated_seedtime_and_harvest.jsonl`
-- `editorial_decisions_seedtime_and_harvest.jsonl`
-- `editorial_review_seedtime_and_harvest.md`
-- `editorial_complete.json`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — The Law And The Promise
-Completed a source-first hard editorial pass across the complete 1961 Introduction + 15 chapters.
-
-Why source-first remained appropriate:
-- the worker retained 3,036 candidate windows from 798 canonical paragraphs;
-- 357 duplicate groups showed very heavy sliding-window overlap;
-- the book contains extensive letters, testimonials, scripture, and external quotations, so canonical review was required to distinguish Neville's own prose from quoted or correspondent wording.
-
-Result:
-- canonical sections reviewed: Introduction + 15 chapters;
-- canonical paragraphs covered: 798 / 798;
-- SELECT exact Neville fragments: 34;
-- strict SELECT density vs 3,036 retained worker candidates: 1.1%;
-- strict SELECT density vs 798 canonical paragraphs: 4.3%.
-
-Notable filtering:
-- correspondent letters and testimonial wording were treated as context/evidence and were not attributed to Neville;
-- pure scripture and external wording from Blake, Shakespeare, Yeats, Herbert, Shelley, Rossetti, Fawcett, and other quoted authors were excluded from Neville attribution;
-- repeated `imagining creates reality`, `thinking of / thinking from`, wish-fulfilled, revision, mood, and attention windows were collapsed to preferred formulations;
-- gambling/race-track stories, categorical financial outcomes, medical cure stories, and material that could discourage appropriate real-world care were kept out of the automatic pool;
-- claims assigning imaginal causation to accidents, the Titanic disaster, war, death, legal verdicts, or other people's behavior were excluded or held where decontextualization could become harmful or misleading;
-- bilocation, remote-presence, direct mental influence, strong sensory-evidence-denial, and similar context-sensitive passages were held;
-- Chapter 15, `The Promise: Four Mystical Experiences`, was reserved for a future spiritual/Promise opt-in layer rather than the main automatic pool.
-
-Files written in the work folder:
-- `curated_the_law_and_the_promise.jsonl`
-- `editorial_decisions_the_law_and_the_promise.jsonl`
-- `editorial_review_the_law_and_the_promise.md`
-- `editorial_complete.json`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — The Power Of Awareness (1953 lecture, L0185)
-Completed a source-first hard editorial pass across the full 1953-01-01 spoken lecture transcript.
-
-Identity note:
-- the folder `[The Power Of Awareness]` is corpus item `L0185`, work class `LECTURE`, not the legacy book of the same title;
-- the legacy book remains a separate TODO item until a distinct canonical book source is present in the repository.
-
-Why source-first remained appropriate:
-- the worker retained 375 candidate windows from only 32 canonical paragraphs;
-- 28 duplicate groups showed heavy overlap among sliding-window variants;
-- the complete transcript was reviewed end-to-end and final quote boundaries were taken directly from Neville's own prose.
-
-Result:
-- canonical paragraphs covered: 32 / 32;
-- SELECT exact Neville fragments: 12;
-- strict SELECT density vs 375 retained worker candidates: 3.2%;
-- strict SELECT density vs 32 canonical paragraphs: 37.5%.
-
-Notable filtering:
-- pure scripture and scripture-dominant paraphrase were excluded from Neville attribution;
-- clean state, identity, viewpoint, thinking-from, self-observation, and fulfilled-state formulations were retained;
-- Christological and `Second Man` symbolism was held for a spiritual/contextual layer;
-- categorical formulations assigning painful circumstances wholly to a person's own choice were excluded from the automatic pool;
-- strong sensory-evidence-denial, dimensional-world, direct-influence-of-others, and absolute outer-causation passages were held or dropped where decontextualization could become misleading;
-- repeated state/imagination/fulfilled-desire windows were collapsed to preferred exact formulations.
-
-Files written in the work folder:
-- `curated_the_power_of_awareness.jsonl`
-- `editorial_decisions_the_power_of_awareness.jsonl`
-- `editorial_review_the_power_of_awareness.md`
-- `editorial_complete.json`
-
-Raw candidate and source files were not changed.
-
-## 2026-08-31 — Dynamic lecture batch L0001–L0005
-Completed a five-lecture `SOURCE_FIRST_CANONICAL` editorial batch across the first five pending lecture items in `corpus_registry.json`.
+- **SELECT** — main curated corpus / automatic daily-pool candidate.
+- **HOLD** — valuable but contextual, sensitive, mixed-source, spiritually specialized, or otherwise unsuitable for automatic delivery without context.
+- **DROP** — weak, duplicate, misbounded, mostly external/scripture/testimonial, generic, unsafe/misleading when isolated, or otherwise unsuitable for the curated layer.
+
+## Mandatory processing order
+
+The authoritative priority is by `corpus_id` in `corpus_registry.json`, never by title alone:
+
+1. finish every canonical `B001`–`B014` and `S001`–`S003` item;
+2. only after all 17 are editorially complete, continue unfinished `L*` lectures in corpus order;
+3. same-title books and lectures are separate corpus objects and must not share an editorial identity merely because their folder/title text matches;
+4. when worker extraction contains overlapping/sliding windows, use `SOURCE_FIRST_CANONICAL`: review the complete canonical master from beginning to end and treat worker windows as discovery/provenance rather than independent editorial units.
+
+## B/S priority audit
+
+| Corpus ID | Work | Status | Canonical coverage | SELECT | Output / note |
+|---|---|---:|---:|---:|---|
+| B001 | Feeling Is the Secret | COMPLETE | strict completed pass | 29 | `Feeling Is the Secret/curated_feeling_is_the_secret.jsonl` |
+| B002 | Your Faith Is Your Fortune | COMPLETE | 1,046 paragraphs / 2,279 worker candidates | 35 | `[Your Faith Is Your Fortune]/curated_your_faith_is_your_fortune.jsonl` |
+| B003 | Freedom For All | COMPLETE | 323 paragraphs / 841 worker candidates | 32 | `[Freedom For All]/curated_freedom_for_all.jsonl` |
+| B004 | Prayer, The Art Of Believing | COMPLETE | 192 paragraphs / 700 worker candidates | 21 | `[Prayer, The Art Of Believing]/curated_prayer_the_art_of_believing.jsonl` |
+| B005 | At Your Command | COMPLETE | 110 paragraphs / 711 worker candidates | 20 | `[At Your Command]/curated_at_your_command.jsonl` |
+| B006 | The Search | COMPLETE | 43 paragraphs / 150 worker candidates | 12 | `[The Search]/curated_the_search.jsonl` |
+| B007 | Out Of This World | COMPLETE | 189 paragraphs / 493 worker candidates | 20 | `[Out Of This World]/curated_out_of_this_world.jsonl` |
+| B008 | The Power Of Awareness (book) | **BLOCKED / UNFINISHED** | canonical book `master_text_*` not present as a distinct book object | — | same-title collision with `L0185`; see issue note below |
+| B009 | Awakened Imagination | COMPLETE | 504 paragraphs / 1,232 worker candidates | 36 | `[Awakened Imagination]/curated_awakened_imagination.jsonl` |
+| B010 | Seedtime And Harvest | COMPLETE | 360 paragraphs / 1,145 worker candidates | 23 | `[Seedtime And Harvest]/curated_seedtime_and_harvest.jsonl` |
+| B011 | The Law And The Promise | COMPLETE | 798 paragraphs / 3,036 worker candidates | 34 | `[The Law And The Promise]/curated_the_law_and_the_promise.jsonl` |
+| B012 | I Know My Father | COMPLETE | 177 paragraphs / 892 worker candidates | 17 | `[I Know My Father]/curated_i_know_my_father.jsonl` |
+| B013 | Resurrection, A Confession Of Faith | COMPLETE | 168 paragraphs / 457 worker candidates | 0 | intentional empty main-pool shortlist |
+| B014 | He Breaks The Shell | COMPLETE | 98 paragraphs / 188 worker candidates | 0 | intentional empty main-pool shortlist |
+| S001 | Five Lessons (Master Class) | COMPLETE | 6 sections / 858 paragraphs / 4,516 retained windows | 19 | `[Five Lessons]/curated_five_lessons.jsonl` |
+| S002 | The KECA Radio Talks | COMPLETE | 107 paragraphs / 1,771 worker candidates | 27 | `[The KECA Radio Talks]/curated_keca_radio_talks.jsonl` |
+| S003 | The Creative Use Of Imagination | COMPLETE | 271 paragraphs / 2,923 worker candidates | 20 | `[The Creative Use Of Imagination]/curated_the_creative_use_of_imagination.jsonl` |
+
+**Current gate:** `B008` is the only unfinished B/S priority object. No additional `L*` lecture should be processed until B008 is repaired and receives its own verified four-file editorial package.
+
+## Repository-wide queue
+
+`corpus_progress.json` reports an extraction-complete corpus of 252 items: 14 core books, 3 supplementary works, and 235 canonical lectures. Extraction completeness is not equivalent to editorial completeness.
+
+A work leaves the editorial queue only after all of the following are true:
+- the correct corpus identity is verified against `corpus_registry.json`;
+- the complete authoritative canonical source has been reviewed;
+- `curated_<slug>.jsonl` exists;
+- `editorial_decisions_<slug>.jsonl` exists;
+- `editorial_review_<slug>.md` exists;
+- `editorial_complete.json` exists and identifies the correct `corpus_id`;
+- this journal is updated;
+- the written files are re-fetched/verified in GitHub.
+
+## Global editorial rules retained from completed passes
+
+Across the corpus, strict review continues to enforce these rules:
+- preserve exact Neville wording for SELECT fragments; do not manufacture aphorisms by joining non-contiguous sentences;
+- exclude pure scripture and quotations from Blake, Shakespeare, Jung, Yeats, Shelley, Rossetti, Tennyson, Angelus Silesius/Scheffler, correspondents, testimonials, editors, and other external voices from Neville attribution;
+- collapse overlapping worker windows and weaker local duplicates to the strongest canonical formulation;
+- keep categorical medical or mental-health claims, discouragement of appropriate medical care, financial guarantees, guaranteed physical outcomes, gambling-success material, victim-blaming/event-causation formulations, covert influence/control claims, and misleading pseudo-scientific literal claims out of the automatic pool;
+- use HOLD for Promise material, mystical experiences, strong theological identity claims, dimensional/literal metaphysical claims, and other context-dependent content that remains valuable for an opt-in contextual layer;
+- no quota is imposed: a historically important work may legitimately produce zero SELECT fragments.
+
+## 2026-08-31 — Historical completed core passes
+
+The following core/supplementary passes were completed under the strict policy before the current priority audit and retain their existing four-file editorial packages:
+
+- `B001` Feeling Is the Secret — 29 SELECT; mixed scripture and categorical medical material excluded from the automatic pool.
+- `B002` Your Faith Is Your Fortune — 35 SELECT from 1,046 canonical paragraphs; full `SOURCE_FIRST_CANONICAL` package verified.
+- `B003` Freedom For All — 32 SELECT from 323 canonical paragraphs; scripture-dominant allegory and categorical healing/financial/universal-blame material excluded or held.
+- `B004` Prayer, The Art Of Believing — 21 SELECT from 192 canonical paragraphs; telepathy/hypnosis/control, categorical cure claims, pseudo-scientific and victim-blaming material excluded or held.
+- `B005` At Your Command — 20 SELECT from 110 canonical paragraphs; 711 overlapping worker windows collapsed source-first.
+- `B006` The Search — 12 SELECT from 43 canonical paragraphs; completed package exists even though an older journal table previously still showed TODO.
+- `B007` Out Of This World — 20 SELECT from 189 canonical paragraphs; literal fourth-dimensional/precognition/bilocation claims and control-of-others material held or excluded.
+- `B009` Awakened Imagination — 36 SELECT from 504 canonical paragraphs; chapter 8 Promise/spiritual material reserved for contextual use.
+- `B010` Seedtime And Harvest — 23 SELECT from 360 canonical paragraphs; external quotations, healing stories, event-causation/victim-blaming and direct-control material excluded or held.
+- `B011` The Law And The Promise — 34 SELECT from 798 canonical paragraphs; letters/testimonials were not attributed to Neville; gambling, medical cure, disaster/war/death causation and direct influence material kept out of the main pool.
+- `B012` I Know My Father — 17 SELECT from 177 canonical paragraphs; medical, financial, political/war, blame and unsafe sensory-evidence-denial formulations excluded or held.
+- `B013` Resurrection, A Confession Of Faith — 0 SELECT intentionally; Promise/theological material retained contextually and external/scripture wording excluded from Neville attribution.
+- `B014` He Breaks The Shell — 0 SELECT intentionally; Promise material retained for an opt-in spiritual layer.
+- `S001` Five Lessons (Master Class) — 19 SELECT after a complete six-section / 858-paragraph source-first reread; a provisional larger shortlist was reduced and the embedded self-reprint from `The Search` was not duplicated.
+- `S002` The KECA Radio Talks — 27 SELECT from 107 canonical paragraphs; complete source-first package exists.
+
+Raw candidate, rejected, master-text, manifest, variation, worker-report, and processing files for these completed works were not changed by editorial review.
+
+## 2026-08-31 — Earlier lecture batch L0001–L0005
+
+A five-lecture batch had already been completed before the present corpus-ID priority gate was made explicit:
 
 | Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
 |---|---|---:|---:|---:|
@@ -410,73 +98,57 @@ Completed a five-lecture `SOURCE_FIRST_CANONICAL` editorial batch across the fir
 | L0004 | A Movement Within God | 31 / 31 | 398 | 2 |
 | L0005 | A Parabolic Revelation | 35 / 35 | 403 | 1 |
 
-Batch result:
-- canonical paragraphs reviewed: **152 / 152**;
-- retained worker windows reviewed through canonical collapse: **1,864**;
-- final main-pool SELECT fragments: **8**;
-- all five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and `editorial_complete.json`;
-- raw candidates, rejected files, master texts, manifests, variations, and worker reports were not changed.
+These packages remain valid, but **no further L* work is authorized until B008 is complete**. The batch filtered Promise/theological material to HOLD where context was required, excluded pure scripture/external quotations, and kept categorical health/financial/political/war/control/universal-causation/victim-blaming formulations out of the main pool.
 
-Notable filtering across the batch:
-- Promise, Davidic fatherhood, resurrection, birth-from-above, mystical identity, afterlife, and scripture-heavy material was retained mainly as contextual `HOLD` rather than automatic daily content;
-- pure scripture and external literary quotations were excluded from Neville attribution;
-- categorical health, mental-health, financial, political/war, direct-control-of-others, and universal-causation claims were excluded or held;
-- formulations that could become victim-blaming when detached from context were kept out of the main pool;
-- clean assumption, feeling, self-persuasion, imaginal-scene, state-transition, and self-concept wording was retained where it remained standalone and exact.
+## 2026-08-31 — L0185 same-title lecture identity
 
-Files written:
-- `[A Divine Event]/curated_a_divine_event.jsonl`
-- `[A Divine Event]/editorial_decisions_a_divine_event.jsonl`
-- `[A Divine Event]/editorial_review_a_divine_event.md`
-- `[A Divine Event]/editorial_complete.json`
-- `[A Lesson In Scripture]/curated_a_lesson_in_scripture.jsonl`
-- `[A Lesson In Scripture]/editorial_decisions_a_lesson_in_scripture.jsonl`
-- `[A Lesson In Scripture]/editorial_review_a_lesson_in_scripture.md`
-- `[A Lesson In Scripture]/editorial_complete.json`
-- `[A Movement Of Mind]/curated_a_movement_of_mind.jsonl`
-- `[A Movement Of Mind]/editorial_decisions_a_movement_of_mind.jsonl`
-- `[A Movement Of Mind]/editorial_review_a_movement_of_mind.md`
-- `[A Movement Of Mind]/editorial_complete.json`
-- `[A Movement Within God]/curated_a_movement_within_god.jsonl`
-- `[A Movement Within God]/editorial_decisions_a_movement_within_god.jsonl`
-- `[A Movement Within God]/editorial_review_a_movement_within_god.md`
-- `[A Movement Within God]/editorial_complete.json`
-- `[A Parabolic Revelation]/curated_a_parabolic_revelation.jsonl`
-- `[A Parabolic Revelation]/editorial_decisions_a_parabolic_revelation.jsonl`
-- `[A Parabolic Revelation]/editorial_review_a_parabolic_revelation.md`
-- `[A Parabolic Revelation]/editorial_complete.json`
+The top-level folder `[The Power Of Awareness]` is already editorially complete, but its `editorial_complete.json` identifies it as **`L0185`**, a distinct 1953 spoken lecture, not book `B008`.
 
-## 2026-08-31 — Five Lessons (Master Class), S001
-Completed a strict `SOURCE_FIRST_CANONICAL` editorial pass across the complete supplementary master-class unit.
+L0185 result:
+- 32 canonical paragraphs reviewed end-to-end;
+- 375 retained worker windows collapsed source-first;
+- 12 SELECT fragments;
+- Christological symbolism, strong sensory-evidence-denial, dimensional claims, direct influence and victim-blaming formulations held or excluded under the strict policy.
 
-Canonical identity:
-- `corpus_registry.json` defines `S001` as one corpus item, `Five Lessons (Master Class)`, with Lesson 1–5 and `Lessons Q & A` represented as alternate titles;
-- `[Five Lessons]/source_manifest.md` defines the authoritative S001 master as the complete five lessons plus Q&A, totaling **858 canonical paragraphs**;
-- the similarly named top-level lecture folders are separate corpus items (`L0098`–`L0104`) and were treated as cross-check/dedup references rather than as components that replace the S001 master.
+The L0185 files must not be overwritten or relabeled as B008.
+
+## 2026-08-31 — B008 blocking identity/source issue
+
+`corpus_issues.md` explicitly records the distinction between the 1952 book *The Power of Awareness* and the same-title lecture. Repository inspection confirms the collision is real:
+
+- `[The Power Of Awareness]/editorial_complete.json` = `L0185`, not `B008`;
+- the folder's `master_text_the_power_of_awareness.txt` is the short lecture transcript, not the ~20k-word book;
+- root `scratch_poa_rn.txt` is also the RealNeville lecture source;
+- root `scratch_poa_mynev.txt` contains a modern MyNeville webpage wrapper with the 1952 book body embedded inside it (foreword + chapters 1–27), but it is a scratch/raw web capture, not a distinct canonical B008 `master_text_*` object;
+- no separate B008 canonical folder/master was found in the current repository tree/search.
+
+Therefore B008 is **not being falsely marked COMPLETE**. The next B008 work must first recover/establish an unambiguous canonical book source without modifying the raw scratch capture, then perform a complete source-first book review and write a B008-specific four-file package. Until that happens, the B/S priority gate remains closed.
+
+## 2026-08-31 — S003 The Creative Use Of Imagination
+
+Completed/verified the strict supplementary editorial package for `S003`.
+
+Identity and method:
+- `corpus_id`: `S003`;
+- `work_class`: `EDITED_COLLECTION`;
+- review mode: `SOURCE_FIRST_CANONICAL`;
+- attribution status: `EDITORIALLY_MEDIATED`, consistent with the repository issue noting posthumous editorial smoothing/merging in this collection.
 
 Result:
-- review mode: `SOURCE_FIRST_CANONICAL`;
-- canonical sections reviewed: **6 / 6**;
-- canonical paragraphs reviewed: **858 / 858**;
-- worker windows generated: **4,621**;
-- retained worker windows: **4,516** (`3,749` candidate + `767` review-recommended);
-- worker rejected windows: **105**;
-- raw duplicate groups: **612**;
-- final main-pool SELECT fragments: **19**;
-- the provisional 27-fragment shortlist that existed in the folder was not accepted at face value and was reduced after the full canonical reread.
+- canonical source paragraphs reviewed: **271 / 271**;
+- raw worker candidates collapsed through source-first review: **2,923**;
+- raw duplicate groups: **245**;
+- final main-pool SELECT fragments: **20**.
 
 Notable filtering:
-- pure scripture and external quotations were excluded from Neville attribution;
-- strong literal metaphysical guarantees, dimensional/mystical claims, predetermination, and complex theology were held for contextual or opt-in use;
-- categorical medical/bodily claims, material discouraging medical or dietary reliance, financial guarantees, guaranteed physical outcomes, direct-control-of-others language, and victim-blaming/event-causation formulations were kept out of the automatic pool;
-- weak generic fragments and weaker duplicate formulations were dropped;
-- the substantial embedded self-reprint from `The Search` in Lesson 4 was not duplicated into the S001 daily shortlist;
-- the decisions file was upgraded from one coarse whole-work record to an audit summary plus six section-level records covering Lesson 1–5 and Q&A.
+- editor preface/testimonial wording, pure scripture and external quotations were excluded from Neville attribution;
+- edited-collection attribution uncertainty, scripture-centered interpretation, spiritual identity claims and stronger universal-causation/metaphysical passages were held where context was necessary;
+- categorical medical claims, discouragement of medical reliance, financial guarantees, victim-blaming/event-causation, direct control of others, misleading scientific claims, weak/context-dependent fragments and weaker duplicates were kept out of the automatic pool.
 
-Files written:
-- `[Five Lessons]/curated_five_lessons.jsonl`
-- `[Five Lessons]/editorial_decisions_five_lessons.jsonl`
-- `[Five Lessons]/editorial_review_five_lessons.md`
-- `[Five Lessons]/editorial_complete.json`
+Files verified/written in `[The Creative Use Of Imagination]`:
+- `curated_the_creative_use_of_imagination.jsonl`
+- `editorial_decisions_the_creative_use_of_imagination.jsonl`
+- `editorial_review_the_creative_use_of_imagination.md`
+- `editorial_complete.json`
 
 Raw candidate, rejected, master-text, manifest, variation, worker-report, and processing files were not changed.
