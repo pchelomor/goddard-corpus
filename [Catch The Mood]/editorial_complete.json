@@ -1,0 +1,20 @@
+{
+  "work": "Catch The Mood",
+  "corpus_id": "L0032",
+  "canonical_date": "1968-01-01",
+  "date_precision": "YEAR_PLACEHOLDER",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_catch_the_mood.txt",
+  "canonical_source_paragraphs": 69,
+  "source_paragraphs_reviewed": 69,
+  "raw_worker_windows_generated": 871,
+  "retained_worker_windows": 826,
+  "worker_rejected": 45,
+  "raw_duplicate_groups": 65,
+  "select_fragments": 4,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Catch The Mood]/curated_catch_the_mood.jsonl",
+  "decisions_file": "[Catch The Mood]/editorial_decisions_catch_the_mood.jsonl",
+  "review_file": "[Catch The Mood]/editorial_review_catch_the_mood.md"
+}
