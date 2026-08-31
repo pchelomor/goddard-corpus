@@ -25,7 +25,7 @@
 - **Reason Selected:** Complete verbatim transcription.
 
 ## Cross-Check Sources
-- `https://realneville.com/txt/all_things_are_possible.htm`
+- `https://realneville.com/txt/all_things_are_possible2.htm`
 
 ## Original Audio
 - **available:** false
@@ -35,3 +35,4 @@
 
 ## Source Variations
 - Standardized chapter paragraphs and verified against master transcript.
+- This is the distinct 1969-05-12 lecture; do not conflate it with `L0011` dated 1967-11-03.
