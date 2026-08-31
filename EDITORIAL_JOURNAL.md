@@ -35,7 +35,7 @@ The authoritative priority is by `corpus_id` in `corpus_registry.json`, never by
 | B013 | Resurrection, A Confession Of Faith | COMPLETE | 168 paragraphs / 457 worker candidates | 0 | intentional empty main-pool shortlist |
 | B014 | He Breaks The Shell | COMPLETE | 98 paragraphs / 188 worker candidates | 0 | intentional empty main-pool shortlist |
 | S001 | Five Lessons (Master Class) | COMPLETE | 6 sections / 858 paragraphs / 4,516 retained windows | 19 | `[Five Lessons]/curated_five_lessons.jsonl` |
-| S002 | The KECA Radio Talks | COMPLETE | 107 paragraphs / 1,771 worker candidates | 27 | `[The KECA Radio Talks]/curated_keca_radio_talks.jsonl` |
+| S002 | The KECA Radio Talks | COMPLETE | 9 broadcasts / 107 paragraphs / 1,771 retained windows | 22 | `[The KECA Radio Talks]/curated_keca_radio_talks.jsonl` |
 | S003 | The Creative Use Of Imagination | COMPLETE | 271 paragraphs / 2,923 worker candidates | 20 | `[The Creative Use Of Imagination]/curated_the_creative_use_of_imagination.jsonl` |
 
 **Current gate:** `B008` is the only unfinished B/S priority object. No additional `L*` lecture should be processed until B008 is repaired and receives its own verified four-file editorial package.
@@ -82,7 +82,7 @@ The following core/supplementary passes were completed under the strict policy b
 - `B013` Resurrection, A Confession Of Faith — 0 SELECT intentionally; Promise/theological material retained contextually and external/scripture wording excluded from Neville attribution.
 - `B014` He Breaks The Shell — 0 SELECT intentionally; Promise material retained for an opt-in spiritual layer.
 - `S001` Five Lessons (Master Class) — 19 SELECT after a complete six-section / 858-paragraph source-first reread; a provisional larger shortlist was reduced and the embedded self-reprint from `The Search` was not duplicated.
-- `S002` The KECA Radio Talks — 27 SELECT from 107 canonical paragraphs; complete source-first package exists.
+- `S002` The KECA Radio Talks — 22 SELECT after a complete nine-broadcast / 107-paragraph source-first reread; the provisional 27-fragment shortlist was tightened and the audit was upgraded to broadcast-level decisions.
 
 Raw candidate, rejected, master-text, manifest, variation, worker-report, and processing files for these completed works were not changed by editorial review.
 
@@ -123,6 +123,50 @@ The L0185 files must not be overwritten or relabeled as B008.
 - no separate B008 canonical folder/master was found in the current repository tree/search.
 
 Therefore B008 is **not being falsely marked COMPLETE**. The next B008 work must first recover/establish an unambiguous canonical book source without modifying the raw scratch capture, then perform a complete source-first book review and write a B008-specific four-file package. Until that happens, the B/S priority gate remains closed.
+
+## 2026-08-31 — S002 The KECA Radio Talks
+
+Re-reviewed and finalized the strict supplementary editorial package for `S002` rather than relying on the pre-existing provisional `complete` marker.
+
+Identity and method:
+- `corpus_id`: `S002`;
+- registry work class: `RADIO_TALK`;
+- canonical registry year: `1951`;
+- review mode: `SOURCE_FIRST_CANONICAL`;
+- authoritative source: `[The KECA Radio Talks]/master_text_keca_radio_talks.txt`;
+- canonical structure: **9 broadcasts**, **107 paragraphs**.
+
+Result:
+- canonical broadcasts reviewed: **9 / 9**;
+- canonical paragraphs reviewed: **107 / 107**;
+- worker windows generated: **1,793**;
+- retained worker windows: **1,771** (`1,384` candidate + `387` review-recommended);
+- worker rejected windows: **22**;
+- raw duplicate groups: **80**;
+- final main-pool SELECT fragments: **22**;
+- provisional shortlist reduced from **27 → 22**;
+- decisions upgraded from one coarse whole-series record to an audit summary plus **9 broadcast-level records**.
+
+Notable filtering:
+- pure scripture and external wording from Millikan, Yeats, Blake, Browning, Emerson, Keats and other quoted voices were excluded from Neville attribution;
+- the Millikan income affirmation was treated as external wording, not a Neville quote;
+- categorical health/healing causation, financial guarantees, guaranteed physical outcomes, unverified university/scientific claims, direct influence/control of another person, victim-blaming/event-causation, deterministic/no-action claims and misleading absolutes were kept out of the automatic pool;
+- weak generic slogans such as `Don't blame; only resolve`, `Love is our birthright`, and `Love is the fundamental necessity of our life` were removed under the author-specificity threshold;
+- Broadcast 7, *Stone, Water or Wine?*, intentionally produced **0 SELECT** because its value is predominantly scripture-symbolic and contextual;
+- stronger missed canonical fragments on answered prayer, attention, imagination and self-concept were added where they had clean standalone boundaries.
+
+Date/provenance note:
+- `corpus_registry.json` records 1951 and the alternate title `9 Radio Talks delivered in Los Angeles (1951)`;
+- the source manifest/report also contain July 1953 dating language and a July 1951 / July 1953 source-tradition note;
+- editorial metadata preserves the canonical registry year `1951` and records the discrepancy instead of silently rewriting source metadata.
+
+Files written and verified in `[The KECA Radio Talks]`:
+- `curated_keca_radio_talks.jsonl`
+- `editorial_decisions_keca_radio_talks.jsonl`
+- `editorial_review_keca_radio_talks.md`
+- `editorial_complete.json`
+
+Raw candidate, rejected, master-text, manifest, variation, worker-report, and processing files were not changed.
 
 ## 2026-08-31 — S003 The Creative Use Of Imagination
 
