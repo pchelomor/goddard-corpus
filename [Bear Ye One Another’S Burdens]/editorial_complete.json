@@ -1,0 +1,19 @@
+{
+  "work": "Bear Ye One Another’S Burdens",
+  "corpus_id": "L0022",
+  "canonical_date": "1969-03-17",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_bear_ye_one_another_s_burdens.txt",
+  "canonical_source_paragraphs": 36,
+  "source_paragraphs_reviewed": 36,
+  "raw_worker_windows_generated": 365,
+  "retained_worker_windows": 363,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 30,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Bear Ye One Another’S Burdens]/curated_bear_ye_one_another_s_burdens.jsonl",
+  "decisions_file": "[Bear Ye One Another’S Burdens]/editorial_decisions_bear_ye_one_another_s_burdens.jsonl",
+  "review_file": "[Bear Ye One Another’S Burdens]/editorial_review_bear_ye_one_another_s_burdens.md"
+}
