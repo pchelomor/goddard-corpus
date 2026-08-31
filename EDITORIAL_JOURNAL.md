@@ -381,3 +381,39 @@ Notable filtering:
 - overlapping worker variants were collapsed source-first throughout; no quota was imposed.
 
 All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
+
+## 2026-08-31 — Lecture batch L0031–L0035
+
+Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`.
+
+| Corpus ID | Work | Canonical source units | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0031 | By Water And Blood – June 24 1956 | 1 / 1 long source paragraph; full ~4,470-word master | 549 | 2 |
+| L0032 | Catch The Mood | 69 / 69 paragraphs | 826 | 4 |
+| L0033 | Changing The Feeling Of “I” | 22 / 22 paragraphs | 452 | 4 |
+| L0034 | Christ Bears Our Sins | 40 / 40 paragraphs | 305 | 0 |
+| L0035 | Christ In Man | 30 / 30 paragraphs | 326 | 2 |
+
+Batch result:
+- canonical source units reviewed: **162 / 162**;
+- worker windows generated: **2,536**;
+- retained worker windows: **2,458**;
+- worker rejected windows: **78**;
+- raw duplicate groups: **148**;
+- final main-pool SELECT fragments: **12**.
+
+Notable filtering:
+- `L0031` is physically stored as one long canonical paragraph, so the full ~4,470-word master was read end-to-end; two practical Neville-only fragments survive on vivid imaginal representation and faithful assumption. Water/blood/incarnation symbolism, direct-other influence, universal causation and guaranteed health/financial outcomes remain contextual or excluded;
+- `L0032` contributes four strong formulations on entering a state, thinking from it, prayer as subjective appropriation, and the habitual state from which one views the world. Absolute no-failure claims, direct-other causation, zero-sum outcome rationalization and strong theological identity are excluded or held;
+- `L0033` contributes four self-observation/state-change formulations. The racial-discrimination case and other passages framing external mistreatment or other people's conduct as caused by the subject's inner state are explicitly excluded as victim-blaming/universal-causation material;
+- `L0034` intentionally produces **0 SELECT**. Its strongest passages remain inseparable from medical/pain causation, universal identity/causation, Promise/postmortem theology, or guaranteed financial/relationship outcomes;
+- `L0035` contributes two clean revision formulations. Guaranteed external confirmation, direct change of others, deterministic criminal/violent-state language, universal causation, mystical theology and scripture remain HOLD/DROP;
+- pure scripture/external wording and weaker overlapping worker variants were excluded throughout.
+
+Date/provenance notes:
+- `L0031` editorial metadata uses registry `full_date` **1956-06-24**; raw `date`/manifest retain `1956-01-01` as a placeholder;
+- `L0032` and `L0033` have no exact `full_date` in repository metadata, so `1968-01-01` and `1953-01-01` are explicitly marked as year-level placeholders;
+- `L0034` editorial metadata uses registry `full_date` **1969-02-24** while raw `date`/manifest retain `1969-01-01` as a placeholder;
+- `L0035` uses the exact date **1966-10-17**.
+
+All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
