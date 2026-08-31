@@ -316,3 +316,38 @@ Notable filtering:
 - `L0020` financial/inheritance/job guarantees, hospital/health revision, sensory-evidence denial, and theological absolutes were held or dropped; two clean Neville-only fragments survived, including an explicitly loving/ethical use-of-imagination formulation.
 
 All five corpus IDs now have corpus-ID-matching editorial completion markers, including separate derivative folders for L0017 and L0019 where the bare-title folders are occupied by different book editorial identities.
+
+## 2026-08-31 — Lecture batch L0021–L0025
+
+Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0021 | Be Imitators Of God | 32 / 32 | 303 | 1 |
+| L0022 | Bear Ye One Another’S Burdens | 36 / 36 | 363 | 2 |
+| L0023 | Before Abraham, Was I Am | 32 / 32 | 296 | 1 |
+| L0024 | Behold The Dreamer | 39 / 39 | 393 | 0 |
+| L0025 | Believe In Him | 47 / 47 | 395 | 2 |
+
+Batch result:
+- canonical paragraphs reviewed: **186 / 186**;
+- worker windows generated: **1,770**;
+- retained worker windows: **1,750**;
+- worker rejected windows: **20**;
+- raw duplicate groups: **163**;
+- final main-pool SELECT fragments: **6**.
+
+Notable filtering:
+- `L0021` is predominantly Promise/risen-Christ testimony; one clean self-image/imagination instruction survives, while mystical, postmortem and guaranteed-outcome material remains contextual;
+- `L0022` keeps a self-limitation warning and the formulation of faith as loyalty to unseen reality; claims that another person must change through one's imagining, plus categorical financial/health outcomes, were kept out of the automatic pool;
+- `L0023` contributes one distinctive states formulation separating a person from the state currently occupied; Abraham/Christ allegory, resurrection and mystical vision remain HOLD;
+- `L0024` intentionally produces **0 SELECT** because its strongest material depends on literal dream metaphysics, alternate-time/postmortem cosmology, spiritual identity or universal-causation framing; the empty curated file is deliberate;
+- `L0025` contributes an ethical motive test centered on love and a concise wish-fulfilled assumption instruction; Promise theology, mystical testimony, categorical financial guarantees, sensitive biographical material with causal framing, and strong outcome guarantees were excluded or held;
+- scripture and external-author wording were not attributed to Neville, and weaker overlapping worker variants were collapsed throughout.
+
+Date/provenance note for `L0025`:
+- `corpus_registry.json` records the exact `full_date` **1969-02-28**;
+- the pre-existing raw `source_manifest.md` retains `1969-01-01` as a year-level placeholder;
+- the editorial layer uses the exact registry date without rewriting the raw manifest.
+
+All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
