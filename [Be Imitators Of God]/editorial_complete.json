@@ -1,0 +1,18 @@
+{
+  "work": "Be Imitators Of God",
+  "corpus_id": "L0021",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_be_imitators_of_god.txt",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": 305,
+  "retained_worker_windows": 303,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 29,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Be Imitators Of God]/curated_be_imitators_of_god.jsonl",
+  "decisions_file": "[Be Imitators Of God]/editorial_decisions_be_imitators_of_god.jsonl",
+  "review_file": "[Be Imitators Of God]/editorial_review_be_imitators_of_god.md"
+}
