@@ -19,7 +19,7 @@ This journal tracks the strict book-by-book and work-by-work review defined in `
 | I Know My Father | COMPLETE | 10 chapters / 177 paragraphs / 892 raw windows | 17 | section-level | section-level | `[I Know My Father]/curated_i_know_my_father.jsonl` |
 | Out Of This World | COMPLETE | 4 chapters / 189 paragraphs / 493 raw windows | 20 | section-level | section-level | `[Out Of This World]/curated_out_of_this_world.jsonl` |
 | Prayer, The Art Of Believing | COMPLETE | 7 chapters / 192 paragraphs / 700 raw windows | 21 | section-level | section-level | `[Prayer, The Art Of Believing]/curated_prayer_the_art_of_believing.jsonl` |
-| Resurrection, A Confession Of Faith | TODO | — | — | — | — | — |
+| Resurrection, A Confession Of Faith | COMPLETE | 3 chapters / 168 paragraphs / 457 raw windows | 0 | section-level | section-level | `[Resurrection, A Confession Of Faith]/curated_resurrection_a_confession_of_faith.jsonl` |
 | Seedtime And Harvest | TODO | — | — | — | — | — |
 | The Law And The Promise | TODO | — | — | — | — | — |
 | The Power Of Awareness | TODO | — | — | — | — | — |
@@ -266,6 +266,36 @@ Files written in the work folder:
 - `curated_prayer_the_art_of_believing.jsonl`
 - `editorial_decisions_prayer_the_art_of_believing.jsonl`
 - `editorial_review_prayer_the_art_of_believing.md`
+- `editorial_complete.json`
+
+Raw candidate and source files were not changed.
+
+## 2026-08-31 — Resurrection, A Confession Of Faith
+Completed a source-first hard editorial pass across the complete 1966 three-chapter title essay.
+
+Why source-first remained appropriate:
+- the worker retained 457 candidate windows from 168 canonical paragraphs;
+- 55 duplicate groups showed substantial overlap;
+- the work is overwhelmingly Promise/spiritual material and contains extensive scripture/external quotation, so canonical-source review avoids both duplication and false Neville attribution.
+
+Result:
+- canonical chapters reviewed: 3 / 3;
+- canonical paragraphs covered: 168 / 168;
+- SELECT exact fragments for the main automatic pool: 0;
+- substantive Promise/theological material: HOLD at section level for a future spiritual/Promise opt-in layer;
+- pure scripture, external quotations, and weak/context-dependent units: DROP at section level.
+
+Notable filtering:
+- pure scripture and wording from William Blake, Johann Scheffler, Edward Thomas, F. W. H. Myers, and other external sources were excluded from Neville attribution;
+- Father/Son, David, resurrection, birth-from-above, Golgotha/skull, divine-body, serpent/light, dove, and related mystical descriptions were retained contextually rather than converted into daily maxims;
+- categorical supernatural and theological identity claims were held for an opt-in spiritual layer;
+- the concise line `Faith is not complete till it has become experience` was not selected because it did not clear the strict author-specificity threshold in isolation;
+- the empty curated file is intentional and consistent with the handling of Promise-dominant works such as `He Breaks The Shell`.
+
+Files written in the work folder:
+- `curated_resurrection_a_confession_of_faith.jsonl` (intentionally empty main-pool shortlist)
+- `editorial_decisions_resurrection_a_confession_of_faith.jsonl`
+- `editorial_review_resurrection_a_confession_of_faith.md`
 - `editorial_complete.json`
 
 Raw candidate and source files were not changed.
