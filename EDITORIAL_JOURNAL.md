@@ -13,7 +13,7 @@ This journal tracks the strict book-by-book review defined in `EDITORIAL_POLICY.
 |---|---:|---:|---:|---:|---:|---|
 | Feeling Is the Secret | COMPLETE | 88 candidates | 29 | 46 | 13 | `Feeling Is the Secret/curated_feeling_is_the_secret.jsonl` |
 | At Your Command | COMPLETE | 110 paragraphs / 711 raw windows | 20 | 67 | 23 | `[At Your Command]/curated_at_your_command.jsonl` |
-| Awakened Imagination | TODO | — | — | — | — | — |
+| Awakened Imagination | COMPLETE | 8 chapters / 504 paragraphs / 1,232 raw windows | 36 | section-level | section-level | `[Awakened Imagination]/curated_awakened_imagination.jsonl` |
 | Freedom For All | TODO | — | — | — | — | — |
 | He Breaks The Shell | TODO | — | — | — | — | — |
 | I Know My Father | TODO | — | — | — | — | — |
@@ -70,6 +70,36 @@ Files written in the work folder:
 - `curated_at_your_command.jsonl`
 - `editorial_decisions_at_your_command.jsonl`
 - `editorial_review_at_your_command.md`
+- `editorial_complete.json`
+
+Raw candidate and source files were not changed.
+
+## 2026-08-31 — Awakened Imagination
+Completed a source-first hard editorial pass across the complete canonical 8-chapter book.
+
+Why source-first remained appropriate:
+- the worker retained 1,232 candidate windows from 504 canonical paragraphs;
+- 182 duplicate groups showed heavy overlap among the extracted windows;
+- chapter-level audit records preserve full canonical coverage without serializing hundreds of mechanical near-duplicates as separate editorial judgments.
+
+Result:
+- canonical chapters reviewed: 8 / 8;
+- canonical paragraphs covered: 504 / 504;
+- SELECT exact fragments: 36;
+- strict SELECT density vs 1,232 retained worker candidates: 2.9%;
+- strict SELECT density vs 504 canonical paragraphs: 7.1%.
+
+Notable filtering:
+- external quotations and pure scripture were excluded from Neville attribution;
+- repeated `thinking of` / `thinking from` windows were collapsed to the strongest formulations;
+- medical-healing, bilocation, financial, miracle, and universal-causation claims were held when context would be necessary;
+- long autobiographical/testimonial passages were not used as standalone daily quotations;
+- Chapter 8 was reserved for a future spiritual/scriptural opt-in layer rather than the main automatic pool.
+
+Files written in the work folder:
+- `curated_awakened_imagination.jsonl`
+- `editorial_decisions_awakened_imagination.jsonl`
+- `editorial_review_awakened_imagination.md`
 - `editorial_complete.json`
 
 Raw candidate and source files were not changed.
