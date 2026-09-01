@@ -1,0 +1,21 @@
+{
+  "work": "I Remember When",
+  "corpus_id": "L0090",
+  "canonical_date": "1968-04-10",
+  "date_provenance": "Editorial metadata uses exact corpus_registry.full_date 1968-04-10; raw worker report retains 1968-01-01 as a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_i_remember_when.txt",
+  "canonical_source_sha": "b81803c584a4524d8cef01aa1d698e4f2cd35d67",
+  "canonical_source_paragraphs": 38,
+  "source_paragraphs_reviewed": 38,
+  "raw_worker_windows_generated": 321,
+  "retained_worker_windows": 312,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 28,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[I Remember When]/curated_i_remember_when.jsonl",
+  "decisions_file": "[I Remember When]/editorial_decisions_i_remember_when.jsonl",
+  "review_file": "[I Remember When]/editorial_review_i_remember_when.md"
+}
