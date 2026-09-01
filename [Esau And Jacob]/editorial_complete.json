@@ -1,0 +1,19 @@
+{
+  "work": "Esau And Jacob",
+  "corpus_id": "L0047",
+  "canonical_date": "1959-11-13",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_esau_and_jacob.txt",
+  "canonical_source_paragraphs": 42,
+  "source_paragraphs_reviewed": 42,
+  "raw_worker_windows_generated": 594,
+  "retained_worker_windows": 576,
+  "worker_rejected": 18,
+  "raw_duplicate_groups": 36,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Esau And Jacob]/curated_esau_and_jacob.jsonl",
+  "decisions_file": "[Esau And Jacob]/editorial_decisions_esau_and_jacob.jsonl",
+  "review_file": "[Esau And Jacob]/editorial_review_esau_and_jacob.md"
+}
