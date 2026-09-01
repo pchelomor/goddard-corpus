@@ -706,3 +706,55 @@ Date/provenance notes:
 - `L0075` editorial metadata uses exact registry `full_date` **1968-09-20**, while the raw worker report retains **1968-01-01** as a year-level placeholder.
 
 All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
+
+## 2026-09-01 — Lecture batch L0076–L0085
+
+Completed ten corpus IDs under `SOURCE_FIRST_CANONICAL`, processed internally as two five-work reading checkpoints without relaxing the editorial threshold.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0076 | God’s Word | 31 / 31 | 249 | 0 |
+| L0077 | Good Friday – Easter | 21 / 21 | 364 | 0 |
+| L0078 | Grace Vs. Law | 27 / 27 | 527 | 0 |
+| L0079 | Have You Found Him? | 33 / 33 | 193 | 0 |
+| L0080 | He Dreams In Me | 57 / 57 | 379 | 1 |
+| L0081 | He Is Dreaming Now | 53 / 53 | 720 | 0 |
+| L0082 | He Is Dreaming Now 1 | 109 / 109 | 889 | 1 |
+| L0083 | He Is My Resurrection | 38 / 38 | 324 | 0 |
+| L0084 | He Wakes In Me | 34 / 34 | 362 | 0 |
+| L0085 | His Name | 27 / 27 | 452 | 1 |
+
+Batch result:
+- canonical paragraphs reviewed: **430 / 430**;
+- worker windows generated: **4,608**;
+- retained worker windows: **4,459**;
+- worker rejected windows: **149**;
+- raw duplicate groups: **335**;
+- final main-pool SELECT fragments: **3**.
+
+Notable filtering:
+- `L0076` intentionally produces **0 SELECT**. It is dominated by Promise, tree-of-life/regeneration symbolism and mystical testimony; practical-looking material depends on strong metaphysics/body-causation, direct-other influence, external wording, generic advice or weaker duplicates;
+- `L0077` intentionally produces **0 SELECT**. Its practical assumption/transformation passages are mixed with health-related causation, changing other people, guaranteed hardening-into-fact language and Easter/rebirth symbolism;
+- `L0078` intentionally produces **4 SELECT**. Its Law passages assert broad mental causation, guaranteed bridges of incidents, no-power-can-stop fulfillment and no-consent other-person conformity; the remainder is grace/salvation, resurrection, predestination and scripture;
+- `L0079` intentionally produces **4 SELECT**. It is predominantly Promise/David/Father identity; the late Law section frames security/wealth as states with expected external fruit, while other practical passages concern another person or duplicate cleaner corpus selections;
+- `L0080| contributes one clean technical fragment on taking a wish, seeing it fulfilled, contemplating it and merging with the imaginal scene. Neighboring guarantees of objectification were excluded;
+- `L0081` intentionally produces **4 SELECT**. It is overwhelmingly Promise/Alice-King dream cosmology and creation metaphysics, with financial/social anecdotes used as causal proof; the safe reverse-day recollection exercise is too generic for the main pool;
+- `L0082` contributes one concise fragment on taking a bold inner step that changes a pattern of thinking and living. Financial/property/business proofs, direct or no-consent influence, guaranteed outcomes, universal causation and stronger duplicates remain outside the pool;
+- `L0083` intentionally produces **0 SELECT** it is dominated by resurrection/Promise and Davidic fatherhood, while its Law passages assert inevitable hardening into fact and universal imagination-causes-events, including blame-heavy explanations of harmful events;
+- `L0084` intentionally produces **0 SELECT**. It is overwhelmingly resurrection/Christ identity and mystical testimony; later examples reframe harmful events through predetermined redemption and universal actor/causation;
+- `L0085` contributes one clean self-observation fragment on keeping what is heard, felt and thought in harmony with one's highest ideal. Oil/wealth, health, guarantee and universal-causation framing was excluded;
+- no quota was imposed. Increasing the operational batch from five to ten did not change the source-first threshold: seven of ten works intentionally remained at zero SELECT.
+
+Date/provenance notes:
+- `L0076` uses exact registry `full_date` **1967-11-13**;
+- `L0077` has registry `full_date: null`; repository `date: 1954-01-01` is retained only as a year-level placeholder;
+- `L0078` has registry `full_date: null`; repository date and canonical worker report record **1963-03-12**, preserved as repository/source date;
+- `L0079` editorial metadata uses exact registry `full_date` **1967-09-15**, while the raw worker report retains **1967-01-01** as a year-level placeholder;
+- `L0080| uses exact registry `full_date` **1967-03-13**;
+- `L0081` editorial metadata uses exact registry `full_date` **1970-05-08**, while the raw worker report retains **1970-01-01** as a year-level placeholder;
+- `L0082` has registry `full_date: null`; repository `date: 1968-01-01` is retained only as a year-level placeholder;
+- `L0083` uses exact registry `full_date` **1968-06-28**;
+- `L0084` has registry `full_date: null`; repository date and canonical worker report record **1967-03-24**, preserved as repository/source date;
+- `L0085` has registry `full_date: null`; repository date and canonical worker report record **1963-02-26**, preserved as repository/source date.
+
+All ten works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
