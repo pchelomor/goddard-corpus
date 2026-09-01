@@ -1,0 +1,21 @@
+{
+  "work": "Jeremiah’s Discovery",
+  "corpus_id": "L0095",
+  "canonical_date": "1969-11-17",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_jeremiah_s_discovery.txt",
+  "canonical_source_sha": "c8db7544c364bc2fef1622e73c13512f787ea018",
+  "canonical_source_paragraphs": 77,
+  "source_paragraphs_reviewed": 77,
+  "raw_worker_windows_generated": 376,
+  "retained_worker_windows": 364,
+  "worker_rejected": 12,
+  "raw_duplicate_groups": 46,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Jeremiah’S Discovery]/curated_jeremiah_s_discovery.jsonl",
+  "decisions_file": "[Jeremiah’S Discovery]/editorial_decisions_jeremiah_s_discovery.jsonl",
+  "review_file": "[Jeremiah’S Discovery]/editorial_review_jeremiah_s_discovery.md"
+}
