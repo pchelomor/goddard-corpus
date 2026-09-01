@@ -1,0 +1,19 @@
+{
+  "work": "Faith",
+  "corpus_id": "L0054",
+  "canonical_date": "1968-07-22",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_faith.txt",
+  "canonical_source_paragraphs": 71,
+  "source_paragraphs_reviewed": 71,
+  "raw_worker_windows_generated": 1047,
+  "retained_worker_windows": 1002,
+  "worker_rejected": 45,
+  "raw_duplicate_groups": 62,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Faith]/curated_faith.jsonl",
+  "decisions_file": "[Faith]/editorial_decisions_faith.jsonl",
+  "review_file": "[Faith]/editorial_review_faith.md"
+}
