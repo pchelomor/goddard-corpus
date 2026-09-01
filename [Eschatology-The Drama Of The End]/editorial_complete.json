@@ -1,0 +1,20 @@
+{
+  "work": "Eschatology-The Drama Of The End",
+  "corpus_id": "L0049",
+  "canonical_date": "1968-04-05",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_eschatology_the_drama_of_the_end.txt",
+  "canonical_source_paragraphs": 30,
+  "source_paragraphs_reviewed": 30,
+  "raw_worker_windows_generated": 339,
+  "retained_worker_windows": 334,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 25,
+  "select_fragments": 0,
+  "complete": true,
+  "intentional_empty_curated": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Eschatology-The Drama Of The End]/curated_eschatology_the_drama_of_the_end.jsonl",
+  "decisions_file": "[Eschatology-The Drama Of The End]/editorial_decisions_eschatology_the_drama_of_the_end.jsonl",
+  "review_file": "[Eschatology-The Drama Of The End]/editorial_review_eschatology_the_drama_of_the_end.md"
+}
