@@ -1,0 +1,20 @@
+{
+  "work": "Follow Me",
+  "corpus_id": "L0059",
+  "canonical_date": "1968-11-11",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_follow_me.txt",
+  "canonical_source_paragraphs": 54,
+  "source_paragraphs_reviewed": 54,
+  "raw_worker_windows_generated": 446,
+  "retained_worker_windows": 437,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 51,
+  "select_fragments": 0,
+  "complete": true,
+  "intentional_empty_curated": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Follow Me]/curated_follow_me.jsonl",
+  "decisions_file": "[Follow Me]/editorial_decisions_follow_me.jsonl",
+  "review_file": "[Follow Me]/editorial_review_follow_me.md"
+}
