@@ -2,24 +2,24 @@ name: Append editorial journal L0046-L0050
 
 on:
   push:
-    branches:
-      - main
+    paths:
+      - '.github/workflows/append-journal-l0046-l0050.yml'
 
 permissions:
   contents: write
 
 jobs:
-  append-journal:
-    if: github.event.head_commit.message == 'chore: append journal L0046-L0050'
+  append:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-      - name: Append batch record
+          ref: main
+      - name: Append batch and commit
         shell: bash
         run: |
-          cat >> EDITORIAL_JOURNAL.md <<'EOF'
+          if ! grep -Fq '## 2026-09-01 — Lecture batch L0046–L0050' EDITORIAL_JOURNAL.md; then
+            cat >> EDITORIAL_JOURNAL.md <<'EOF'
 
           ## 2026-09-01 — Lecture batch L0046–L0050
 
@@ -51,12 +51,11 @@ jobs:
 
           All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
           EOF
-      - name: Commit journal and remove one-shot workflow
-        shell: bash
-        run: |
+          fi
+          rm .github/workflows/append-journal-l0046-l0050.yml
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git rm .github/workflows/append-journal-l0046-l0050.yml
-          git add EDITORIAL_JOURNAL.md
-          git commit -m "editorial: journal L0046-L0050"
+          git add EDITORIAL_JOURNAL.md .github/workflows/append-journal-l0046-l0050.yml
+          git diff --cached --check
+          git commit -m "Record editorial batch L0046 through L0050"
           git push origin HEAD:main
