@@ -1,0 +1,63 @@
+name: Append editorial journal L0066-L0070
+
+"on":
+  push:
+    paths:
+      - '.github/workflows/append-journal-l0066-l0070.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  append-journal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Append batch record and remove one-shot workflow
+        shell: bash
+        run: |
+          cat >> EDITORIAL_JOURNAL.md <<'EOF'
+
+## 2026-09-01 — Lecture batch L0066–L0070
+
+Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0066 | God Became Man | 16 / 16 | 261 | 0 |
+| L0067 | God Is Light | 25 / 25 | 399 | 0 |
+| L0068 | God Only Acts | 31 / 31 | 228 | 0 |
+| L0069 | God Speaks To Man | 41 / 41 | 334 | 2 |
+| L0070 | God’s Almighty Power | 24 / 24 | 362 | 1 |
+
+Batch result:
+- canonical paragraphs reviewed: **137 / 137**;
+- worker windows generated: **1,609**;
+- retained worker windows: **1,584**;
+- worker rejected windows: **25**;
+- raw duplicate groups: **121**;
+- final main-pool SELECT fragments: **3**.
+
+Notable filtering:
+- `L0066` intentionally produces **0 SELECT**. It is dominated by literal God-identity, Promise/Davidic fatherhood, mystical testimony, universal-role claims and scripture interpretation; short benign phrases become generic or context-broken when isolated;
+- `L0067` intentionally produces **0 SELECT**. Its strongest practical assumption block is a weaker/near-duplicate of cleaner corpus selections and carries categorical fulfillment language; healing-as-proof, literal light/love identity, fiery-arrow influence, postmortem material and scripture remain HOLD/DROP;
+- `L0068` intentionally produces **0 SELECT**. Its central God-only-acts thesis treats harmful and benevolent actions as one divine actor, while the practical section directs imaginal alteration of others and promises conformity. A safe hear-and-do formulation is suppressed as a weaker duplicate of L0061;
+- `L0069` contributes two clean Neville-only fragments: one on reading a dream for its central message rather than every detail, and one on becoming selective and assuming something wonderful for oneself. Universal causation, no-consent role assignment, postmortem/alternate-world claims and medical/life-extension disparagement remain outside the pool;
+- `L0070` contributes one vivid practical fragment on entering the mood of the wish fulfilled before sleep. Financial guarantees, categorical outcome promises, no-consent role mechanisms, causal-proof anecdotes and strong literal God/Christ identity remain HOLD/DROP;
+- no quota was imposed, and worker scores did not override source-first safety/authorship review.
+
+Date/provenance notes:
+- `L0066` uses exact registry `full_date` **1969-02-24**;
+- `L0067` has registry `full_date: null`; repository `date` and canonical worker report record **1967-10-09**, preserved as repository/source date without presenting it as registry-verified `full_date`;
+- `L0068` editorial metadata uses exact registry `full_date` **1966-09-20**, while the raw worker report retains **1966-01-01** as a year-level placeholder;
+- `L0069` uses exact registry `full_date` **1968-01-18**;
+- `L0070` uses exact registry `full_date` **1968-12-02**.
+
+All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
+EOF
+          rm -f .github/workflows/append-journal-l0066-l0070.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add EDITORIAL_JOURNAL.md .github/workflows/append-journal-l0066-l0070.yml
+          git commit -m "journal: record L0066-L0070 editorial batch"
+          git push
