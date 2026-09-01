@@ -1,0 +1,22 @@
+{
+  "work": "He Is Dreaming Now",
+  "corpus_id": "L0081",
+  "canonical_date": "1970-05-08",
+  "date_provenance": "Editorial metadata uses exact corpus_registry.full_date 1970-05-08; raw worker report retains 1970-01-01 as a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_he_is_dreaming_now.txt",
+  "canonical_source_sha": "9132b9f76e6791e4380ec22ac8c151658e66dc45",
+  "canonical_source_paragraphs": 53,
+  "source_paragraphs_reviewed": 53,
+  "raw_worker_windows_generated": 751,
+  "retained_worker_windows": 720,
+  "worker_rejected": 31,
+  "raw_duplicate_groups": 42,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[He Is Dreaming Now]/curated_he_is_dreaming_now.jsonl",
+  "decisions_file": "[He Is Dreaming Now]/editorial_decisions_he_is_dreaming_now.jsonl",
+  "review_file": "[He Is Dreaming Now]/editorial_review_he_is_dreaming_now.md"
+}
