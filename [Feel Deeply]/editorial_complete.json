@@ -1,0 +1,19 @@
+{
+  "work": "Feel Deeply",
+  "corpus_id": "L0058",
+  "canonical_date": "1969-05-30",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_feel_deeply.txt",
+  "canonical_source_paragraphs": 29,
+  "source_paragraphs_reviewed": 29,
+  "raw_worker_windows_generated": 435,
+  "retained_worker_windows": 428,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 27,
+  "select_fragments": 3,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Feel Deeply]/curated_feel_deeply.jsonl",
+  "decisions_file": "[Feel Deeply]/editorial_decisions_feel_deeply.jsonl",
+  "review_file": "[Feel Deeply]/editorial_review_feel_deeply.md"
+}
