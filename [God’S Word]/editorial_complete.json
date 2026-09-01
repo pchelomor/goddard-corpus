@@ -1,0 +1,21 @@
+{
+  "work": "God’s Word",
+  "corpus_id": "L0076",
+  "canonical_date": "1967-11-13",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_god_s_word.txt",
+  "canonical_source_sha": "a806727b81aeb2017e3d52b2ee04b597ec677c7c",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 251,
+  "retained_worker_windows": 249,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 20,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[God’S Word]/curated_god_s_word.jsonl",
+  "decisions_file": "[God’S Word]/editorial_decisions_god_s_word.jsonl",
+  "review_file": "[God’S Word]/editorial_review_god_s_word.md"
+}
