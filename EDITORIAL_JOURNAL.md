@@ -735,12 +735,12 @@ Batch result:
 Notable filtering:
 - `L0076` intentionally produces **0 SELECT**. It is dominated by Promise, tree-of-life/regeneration symbolism and mystical testimony; practical-looking material depends on strong metaphysics/body-causation, direct-other influence, external wording, generic advice or weaker duplicates;
 - `L0077` intentionally produces **0 SELECT**. Its practical assumption/transformation passages are mixed with health-related causation, changing other people, guaranteed hardening-into-fact language and Easter/rebirth symbolism;
-- `L0078` intentionally produces **4 SELECT**. Its Law passages assert broad mental causation, guaranteed bridges of incidents, no-power-can-stop fulfillment and no-consent other-person conformity; the remainder is grace/salvation, resurrection, predestination and scripture;
-- `L0079` intentionally produces **4 SELECT**. It is predominantly Promise/David/Father identity; the late Law section frames security/wealth as states with expected external fruit, while other practical passages concern another person or duplicate cleaner corpus selections;
-- `L0080| contributes one clean technical fragment on taking a wish, seeing it fulfilled, contemplating it and merging with the imaginal scene. Neighboring guarantees of objectification were excluded;
-- `L0081` intentionally produces **4 SELECT**. It is overwhelmingly Promise/Alice-King dream cosmology and creation metaphysics, with financial/social anecdotes used as causal proof; the safe reverse-day recollection exercise is too generic for the main pool;
+- `L0078` intentionally produces **0 SELECT**. Its Law passages assert broad mental causation, guaranteed bridges of incidents, no-power-can-stop fulfillment and no-consent other-person conformity; the remainder is grace/salvation, resurrection, predestination and scripture;
+- `L0079` intentionally produces **0 SELECT**. It is predominantly Promise/David/Father identity; the late Law section frames security/wealth as states with expected external fruit, while other practical passages concern another person or duplicate cleaner corpus selections;
+- `L0080` contributes one clean technical fragment on taking a wish, seeing it fulfilled, contemplating it and merging with the imaginal scene. Neighboring guarantees of objectification were excluded;
+- `L0081` intentionally produces **0 SELECT**. It is overwhelmingly Promise/Alice-King dream cosmology and creation metaphysics, with financial/social anecdotes used as causal proof; the safe reverse-day recollection exercise is too generic for the main pool;
 - `L0082` contributes one concise fragment on taking a bold inner step that changes a pattern of thinking and living. Financial/property/business proofs, direct or no-consent influence, guaranteed outcomes, universal causation and stronger duplicates remain outside the pool;
-- `L0083` intentionally produces **0 SELECT** it is dominated by resurrection/Promise and Davidic fatherhood, while its Law passages assert inevitable hardening into fact and universal imagination-causes-events, including blame-heavy explanations of harmful events;
+- `L0083` intentionally produces **0 SELECT**. It is dominated by resurrection/Promise and Davidic fatherhood, while its Law passages assert inevitable hardening into fact and universal imagination-causes-events, including blame-heavy explanations of harmful events;
 - `L0084` intentionally produces **0 SELECT**. It is overwhelmingly resurrection/Christ identity and mystical testimony; later examples reframe harmful events through predetermined redemption and universal actor/causation;
 - `L0085` contributes one clean self-observation fragment on keeping what is heard, felt and thought in harmony with one's highest ideal. Oil/wealth, health, guarantee and universal-causation framing was excluded;
 - no quota was imposed. Increasing the operational batch from five to ten did not change the source-first threshold: seven of ten works intentionally remained at zero SELECT.
@@ -750,7 +750,7 @@ Date/provenance notes:
 - `L0077` has registry `full_date: null`; repository `date: 1954-01-01` is retained only as a year-level placeholder;
 - `L0078` has registry `full_date: null`; repository date and canonical worker report record **1963-03-12**, preserved as repository/source date;
 - `L0079` editorial metadata uses exact registry `full_date` **1967-09-15**, while the raw worker report retains **1967-01-01** as a year-level placeholder;
-- `L0080| uses exact registry `full_date` **1967-03-13**;
+- `L0080` uses exact registry `full_date` **1967-03-13**;
 - `L0081` editorial metadata uses exact registry `full_date` **1970-05-08**, while the raw worker report retains **1970-01-01** as a year-level placeholder;
 - `L0082` has registry `full_date: null`; repository `date: 1968-01-01` is retained only as a year-level placeholder;
 - `L0083` uses exact registry `full_date` **1968-06-28**;
