@@ -1,0 +1,20 @@
+{
+  "work": "God Speaks To Man",
+  "corpus_id": "L0069",
+  "canonical_date": "1968-01-18",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_god_speaks_to_man.txt",
+  "canonical_source_sha": "ba614937dde898d451dc2987372baf9007b5ac91",
+  "canonical_source_paragraphs": 41,
+  "source_paragraphs_reviewed": 41,
+  "raw_worker_windows_generated": 339,
+  "retained_worker_windows": 334,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 35,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[God Speaks To Man]/curated_god_speaks_to_man.jsonl",
+  "decisions_file": "[God Speaks To Man]/editorial_decisions_god_speaks_to_man.jsonl",
+  "review_file": "[God Speaks To Man]/editorial_review_god_speaks_to_man.md"
+}
