@@ -1,0 +1,20 @@
+{
+  "work": "I Am The Lord",
+  "corpus_id": "L0089",
+  "canonical_date": "1969-02-21",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_i_am_the_lord.txt",
+  "canonical_source_sha": "390e6365f0cf78936c756efa126cb7a9787a8b9c",
+  "canonical_source_paragraphs": 29,
+  "source_paragraphs_reviewed": 29,
+  "raw_worker_windows_generated": 365,
+  "retained_worker_windows": 355,
+  "worker_rejected": 10,
+  "raw_duplicate_groups": 26,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[I Am The Lord]/curated_i_am_the_lord.jsonl",
+  "decisions_file": "[I Am The Lord]/editorial_decisions_i_am_the_lord.jsonl",
+  "review_file": "[I Am The Lord]/editorial_review_i_am_the_lord.md"
+}
