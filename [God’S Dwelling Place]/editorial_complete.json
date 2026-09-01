@@ -1,0 +1,21 @@
+{
+  "work": "God’s Dwelling Place",
+  "corpus_id": "L0072",
+  "canonical_date": "1969-05-08",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_god_s_dwelling_place.txt",
+  "canonical_source_sha": "3d0b95fe979acc7769f150103cfeecd0eb385ceb",
+  "canonical_source_paragraphs": 37,
+  "source_paragraphs_reviewed": 37,
+  "raw_worker_windows_generated": 413,
+  "retained_worker_windows": 404,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 26,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[God’S Dwelling Place]/curated_god_s_dwelling_place.jsonl",
+  "decisions_file": "[God’S Dwelling Place]/editorial_decisions_god_s_dwelling_place.jsonl",
+  "review_file": "[God’S Dwelling Place]/editorial_review_god_s_dwelling_place.md"
+}
