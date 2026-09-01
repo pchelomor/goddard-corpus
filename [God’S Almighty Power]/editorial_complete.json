@@ -1,0 +1,20 @@
+{
+  "work": "God’s Almighty Power",
+  "corpus_id": "L0070",
+  "canonical_date": "1968-12-02",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_god_s_almighty_power.txt",
+  "canonical_source_sha": "12f28e5473594dc659a8d0ea9f5abc8a2d14653b",
+  "canonical_source_paragraphs": 24,
+  "source_paragraphs_reviewed": 24,
+  "raw_worker_windows_generated": 367,
+  "retained_worker_windows": 362,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 20,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[God’S Almighty Power]/curated_god_s_almighty_power.jsonl",
+  "decisions_file": "[God’S Almighty Power]/editorial_decisions_god_s_almighty_power.jsonl",
+  "review_file": "[God’S Almighty Power]/editorial_review_god_s_almighty_power.md"
+}
