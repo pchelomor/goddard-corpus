@@ -1,0 +1,20 @@
+{
+  "work": "Experience Scripture",
+  "corpus_id": "L0053",
+  "canonical_date": "1971-05-28",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_experience_scripture.txt",
+  "canonical_source_paragraphs": 85,
+  "source_paragraphs_reviewed": 85,
+  "raw_worker_windows_generated": 831,
+  "retained_worker_windows": 779,
+  "worker_rejected": 52,
+  "raw_duplicate_groups": 65,
+  "select_fragments": 0,
+  "complete": true,
+  "intentional_empty_curated": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Experience Scripture]/curated_experience_scripture.jsonl",
+  "decisions_file": "[Experience Scripture]/editorial_decisions_experience_scripture.jsonl",
+  "review_file": "[Experience Scripture]/editorial_review_experience_scripture.md"
+}
