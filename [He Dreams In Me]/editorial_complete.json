@@ -1,0 +1,20 @@
+{
+  "work": "He Dreams In Me",
+  "corpus_id": "L0080",
+  "canonical_date": "1967-03-13",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_he_dreams_in_me.txt",
+  "canonical_source_sha": "500dd11444875a6af13124d6813457c08344d4f9",
+  "canonical_source_paragraphs": 57,
+  "source_paragraphs_reviewed": 57,
+  "raw_worker_windows_generated": 391,
+  "retained_worker_windows": 379,
+  "worker_rejected": 12,
+  "raw_duplicate_groups": 43,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[He Dreams In Me]/curated_he_dreams_in_me.jsonl",
+  "decisions_file": "[He Dreams In Me]/editorial_decisions_he_dreams_in_me.jsonl",
+  "review_file": "[He Dreams In Me]/editorial_review_he_dreams_in_me.md"
+}
