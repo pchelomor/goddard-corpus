@@ -1,0 +1,19 @@
+{
+  "work": "Eternal States",
+  "corpus_id": "L0050",
+  "canonical_date": "1968-09-09",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_eternal_states.txt",
+  "canonical_source_paragraphs": 18,
+  "source_paragraphs_reviewed": 18,
+  "raw_worker_windows_generated": 237,
+  "retained_worker_windows": 232,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 16,
+  "select_fragments": 3,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Eternal States]/curated_eternal_states.jsonl",
+  "decisions_file": "[Eternal States]/editorial_decisions_eternal_states.jsonl",
+  "review_file": "[Eternal States]/editorial_review_eternal_states.md"
+}
