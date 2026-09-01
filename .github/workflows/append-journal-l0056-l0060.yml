@@ -1,0 +1,68 @@
+name: Append editorial journal L0056-L0060
+
+on:
+  push:
+    paths:
+      - '.github/workflows/append-journal-l0056-l0060.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  append:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Append batch and commit
+        shell: bash
+        run: |
+          if ! grep -Fq '## 2026-09-01 — Lecture batch L0056–L0060' EDITORIAL_JOURNAL.md; then
+            cat >> EDITORIAL_JOURNAL.md <<'EOF'
+
+          ## 2026-09-01 — Lecture batch L0056–L0060
+
+          Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`.
+
+          | Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+          |---|---|---:|---:|---:|
+          | L0056 | Faith, Hope And Love | 24 / 24 | 292 | 1 |
+          | L0057 | Feed My Sheep – July 1 1956 | 21 / 21 | 567 | 2 |
+          | L0058 | Feel Deeply | 29 / 29 | 428 | 3 |
+          | L0059 | Follow Me | 54 / 54 | 437 | 0 |
+          | L0060 | Follow The Pattern | 21 / 21 | 399 | 1 |
+
+          Batch result:
+          - canonical paragraphs reviewed: **149 / 149**;
+          - worker windows generated: **2,178**;
+          - retained worker windows: **2,123**;
+          - worker rejected windows: **55**;
+          - raw duplicate groups: **140**;
+          - final main-pool SELECT fragments: **7**.
+
+          Notable filtering:
+          - `L0056` contributes one self-observation question about present imagining. Promise/Father theology, mystical testimony, the railroad-disaster causation example, universal-causation language and external wording remain HOLD/DROP;
+          - `L0057` contributes two formulations on practicing understanding and a simple spatial assumption exercise. Passages discouraging reliance on doctors/patient evidence, substituting imaginal treatment for outward recommendations, direct transformation of others and guaranteed correspondence remain outside the automatic pool;
+          - `L0058` contributes three formulations on deep feeling, assuming desire as present fact and thinking from fulfillment. Guaranteed externalization, health/wealth outcome language, zero-sum/other-person causation and stronger mystical material remain HOLD/DROP;
+          - `L0059` intentionally produces **0 SELECT**. It is dominated by Promise/Christology, mystical resurrection and postmortem cosmology; its concrete power claims include literal freezing/re-animation and universal actor/causation framing;
+          - `L0060` contributes one formulation on limiting belief directing thought. Direct-other influence, no-power-can-stop language, guaranteed salary/result examples, universal causation, Promise/serpent theology and external wording remain HOLD/DROP;
+          - no quota was imposed, and worker scores did not override source-first safety/authorship review.
+
+          Date/provenance notes:
+          - `L0056` has registry `full_date: null`; repository `date: 1968-01-01` is retained only as a year-level placeholder;
+          - `L0057` editorial metadata uses registry `full_date` **1956-07-01**, while the raw report/manifest retain **1956-01-01** as a year-level placeholder;
+          - `L0058` uses exact registry `full_date` **1969-05-30**;
+          - `L0059` uses exact registry `full_date` **1968-11-11**;
+          - `L0060` uses exact registry `full_date` **1968-03-25**.
+
+          All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
+          EOF
+          fi
+          rm .github/workflows/append-journal-l0056-l0060.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add EDITORIAL_JOURNAL.md .github/workflows/append-journal-l0056-l0060.yml
+          git diff --cached --check
+          git commit -m "Record editorial batch L0056 through L0060"
+          git push origin HEAD:main
