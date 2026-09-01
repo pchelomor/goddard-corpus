@@ -1,0 +1,21 @@
+{
+  "work": "How To Use Your Imagination",
+  "corpus_id": "L0086",
+  "canonical_date": "1955-01-01",
+  "date_provenance": "Repository year-level placeholder; corpus_registry.full_date is null.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_how_to_use_your_imagination.txt",
+  "canonical_source_sha": "f87d07f250ec5a91092e10badf920c2443fda13d",
+  "canonical_source_paragraphs": 36,
+  "source_paragraphs_reviewed": 36,
+  "raw_worker_windows_generated": 283,
+  "retained_worker_windows": 276,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[How To Use Your Imagination]/curated_how_to_use_your_imagination.jsonl",
+  "decisions_file": "[How To Use Your Imagination]/editorial_decisions_how_to_use_your_imagination.jsonl",
+  "review_file": "[How To Use Your Imagination]/editorial_review_how_to_use_your_imagination.md"
+}
