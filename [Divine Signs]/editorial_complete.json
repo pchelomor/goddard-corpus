@@ -1,0 +1,19 @@
+{
+  "work": "Divine Signs",
+  "corpus_id": "L0043",
+  "canonical_date": "1968-05-01",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_divine_signs.txt",
+  "canonical_source_paragraphs": 42,
+  "source_paragraphs_reviewed": 42,
+  "raw_worker_windows_generated": 285,
+  "retained_worker_windows": 280,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 37,
+  "select_fragments": 3,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Divine Signs]/curated_divine_signs.jsonl",
+  "decisions_file": "[Divine Signs]/editorial_decisions_divine_signs.jsonl",
+  "review_file": "[Divine Signs]/editorial_review_divine_signs.md"
+}
