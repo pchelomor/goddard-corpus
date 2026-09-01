@@ -595,3 +595,40 @@ Date/provenance notes:
 - `L0060` uses exact registry `full_date` **1968-03-25**.
 
 All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
+
+## 2026-09-01 — Lecture batch L0061–L0065
+
+Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0061 | Four Fold Vision | 44 / 44 | 344 | 2 |
+| L0062 | Four Mighty Ones – June 17 1956 | 1 / 1 | 448 | 2 |
+| L0063 | Freedom | 23 / 23 | 399 | 0 |
+| L0064 | Fulfillment Of God’s Plan | 26 / 26 | 870 | 1 |
+| L0065 | Fundamentals | 23 / 23 | 93 | 4 |
+
+Batch result:
+- canonical paragraphs/source units reviewed: **117 / 117**;
+- worker windows generated: **2,231**;
+- retained worker windows: **2,154**;
+- worker rejected windows: **77**;
+- raw duplicate groups: **98**;
+- final main-pool SELECT fragments: **9**.
+
+Notable filtering:
+- `L0061` contributes two practical formulations on making imagination a daily practice and not confusing hearing an idea with actually doing it. Medical/diet dismissal, the skin-cancer disappearance example, broad create/un-create causation, direct-other framing, Promise/postmortem material and external wording remain HOLD/DROP;
+- `L0062` contributes two practical fragments: a four-question self-inquiry for clarifying an implied end, and a concise instruction to assume the desired identity. Universal first-cause/self-blame claims, serious-injury self-causation, assigning other people roles without consent, guaranteed hardening-into-fact language, symbolic theology and scripture remain outside the automatic pool;
+- `L0063` intentionally produces **0 SELECT**. Its central argument repeatedly attributes misfortune, injury, illness, conflict, firing and other people’s actions to the individual imagination; softer-looking sentences cannot be detached honestly from that pervasive universal-causation/self-blame premise;
+- `L0064` contributes one late practical fragment on continuing to dream noble dreams without attaching a guaranteed timetable. The lecture is otherwise overwhelmingly Promise/Christology, Davidic fatherhood, resurrection testimony and scripture interpretation, with no-accident/spiritual-cause claims and causal daydream anecdotes excluded;
+- `L0065` contributes four practical formulations on present self-observation, measuring reactions against a defined aim, assuming a preferred loving identity while observing reactions, and detaching from habitual reactions. Categorical circumstance-causation, blame-heavy examples, Emerson wording and stronger metaphysical claims remain HOLD/DROP;
+- no quota was imposed, and worker scores did not override source-first safety/authorship review.
+
+Date/provenance notes:
+- `L0061` uses exact registry `full_date` **1968-01-26**;
+- `L0062` registry `full_date` is null and raw `date` remains the year-level placeholder **1956-01-01**; editorial metadata records **1956-06-17** because that exact date is embedded in the canonical title/folder and primary-source slug. Registry/raw provenance was not rewritten;
+- `L0063` uses exact registry `full_date` **1968-10-28**;
+- `L0064` has registry `full_date: null`; repository `date: 1968-01-01` is retained only as a year-level placeholder;
+- `L0065` has registry `full_date: null`; repository `date: 1953-01-01` is retained only as a year-level placeholder, while the canonical source header identifies INTA Bulletin, New Thought, summer 1953.
+
+All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
