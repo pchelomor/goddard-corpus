@@ -1,0 +1,22 @@
+{
+  "work": "God’s Promise To Man",
+  "corpus_id": "L0074",
+  "canonical_date": "1963-02-08",
+  "date_provenance": "Editorial metadata uses exact corpus_registry.full_date 1963-02-08; raw worker report retains 1963-01-01 as a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_god_s_promise_to_man.txt",
+  "canonical_source_sha": "830411e562cfdcd9c3e07515602205f8f02f50ca",
+  "canonical_source_paragraphs": 26,
+  "source_paragraphs_reviewed": 26,
+  "raw_worker_windows_generated": 524,
+  "retained_worker_windows": 507,
+  "worker_rejected": 17,
+  "raw_duplicate_groups": 23,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[God’S Promise To Man]/curated_god_s_promise_to_man.jsonl",
+  "decisions_file": "[God’S Promise To Man]/editorial_decisions_god_s_promise_to_man.jsonl",
+  "review_file": "[God’S Promise To Man]/editorial_review_god_s_promise_to_man.md"
+}
