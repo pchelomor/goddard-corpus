@@ -1,0 +1,21 @@
+{
+  "work": "Imagining Creates",
+  "corpus_id": "L0093",
+  "canonical_date": "1968-06-03",
+  "date_provenance": "Editorial metadata uses exact corpus_registry.full_date 1968-06-03; raw worker report retains 1968-01-01 as a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_imagining_creates.txt",
+  "canonical_source_sha": "058c207067e2a229d4f7e978aee081240023da98",
+  "canonical_source_paragraphs": 50,
+  "source_paragraphs_reviewed": 50,
+  "raw_worker_windows_generated": 343,
+  "retained_worker_windows": 330,
+  "worker_rejected": 13,
+  "raw_duplicate_groups": 43,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Imagining Creates]/curated_imagining_creates.jsonl",
+  "decisions_file": "[Imagining Creates]/editorial_decisions_imagining_creates.jsonl",
+  "review_file": "[Imagining Creates]/editorial_review_imagining_creates.md"
+}
