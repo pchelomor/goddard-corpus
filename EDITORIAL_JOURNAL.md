@@ -491,3 +491,33 @@ Date/provenance notes:
 - `L0045` uses exact registry `full_date` **1969-11-21**.
 
 All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
+
+## 2026-09-01 — Lecture batch L0046–L0050
+
+Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0046 | Esau – Jacob – Israel | 36 / 36 | 567 | 3 |
+| L0047 | Esau And Jacob | 42 / 42 | 576 | 2 |
+| L0048 | Eschatology-The Doctrine Of The End | 45 / 45 | 385 | 0 |
+| L0049 | Eschatology-The Drama Of The End | 30 / 30 | 334 | 0 |
+| L0050 | Eternal States | 18 / 18 | 232 | 3 |
+
+Batch result:
+- canonical paragraphs reviewed: **171 / 171**;
+- worker windows generated: **2,157**;
+- retained worker windows: **2,094**;
+- worker rejected windows: **63**;
+- raw duplicate groups: **149**;
+- final main-pool SELECT fragments: **8**.
+
+Notable filtering:
+- `L0046` contributes three Neville-only formulations on the inner arranging faculty, beginning from the desired end, and seeing/feeling from fulfillment. Guaranteed crystallization, direct-other persuasion, universal fulfillment/event-causation, mystical Esau symbolism, Promise/David theology, scripture/external wording and weaker overlaps remain HOLD/DROP;
+- `L0047` contributes two concise identification/absorption formulations. Passages describing other people as automatons or compelled servants of imaginal command, no-power-can-stop guarantees, broad universal causation, psychoanalysis disparagement, mystical bilocation/out-of-body claims and external wording remain outside the automatic pool;
+- `L0048` intentionally produces **0 SELECT**. It is overwhelmingly eschatology/Promise, mystical testimony, postmortem cosmology and scriptural exegesis. Its non-condemnation passages depend on the stronger claim that everyone must enact every evil role, so they are not decontextualized into daily advice;
+- `L0049` intentionally produces **0 SELECT**. Its revision/repentance idea is a weaker cross-work duplicate of the already selected L0035 formulation; the rest is dominated by eschatology, dream symbolism, guaranteed supernatural unfolding, and a passage framing killer and victim as roles of one actor;
+- `L0050` contributes three formulations on self-inquiry into one's state, stable identity across states, and assuming the desired feeling now. Universal-causation, direct control of others without consent, guaranteed outcomes, literal world-freezing/animation, pseudo-scientific validation, mystical/postmortem material, scripture/external wording and weaker overlaps remain HOLD/DROP;
+- no quota was imposed, and worker scores did not override source-first safety/authorship review.
+
+All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
