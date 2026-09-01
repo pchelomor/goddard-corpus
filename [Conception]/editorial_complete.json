@@ -1,0 +1,19 @@
+{
+  "work": "Conception",
+  "corpus_id": "L0041",
+  "canonical_date": "1968-03-11",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_conception.txt",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 375,
+  "retained_worker_windows": 367,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 27,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Conception]/curated_conception.jsonl",
+  "decisions_file": "[Conception]/editorial_decisions_conception.jsonl",
+  "review_file": "[Conception]/editorial_review_conception.md"
+}
