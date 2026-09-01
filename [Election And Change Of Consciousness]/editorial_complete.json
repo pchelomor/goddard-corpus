@@ -1,0 +1,19 @@
+{
+  "work": "Election And Change Of Consciousness",
+  "corpus_id": "L0044",
+  "canonical_date": "1963-02-24",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_election_and_change_of_consciousness.txt",
+  "canonical_source_paragraphs": 30,
+  "source_paragraphs_reviewed": 30,
+  "raw_worker_windows_generated": 416,
+  "retained_worker_windows": 405,
+  "worker_rejected": 11,
+  "raw_duplicate_groups": 28,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Election And Change Of Consciousness]/curated_election_and_change_of_consciousness.jsonl",
+  "decisions_file": "[Election And Change Of Consciousness]/editorial_decisions_election_and_change_of_consciousness.jsonl",
+  "review_file": "[Election And Change Of Consciousness]/editorial_review_election_and_change_of_consciousness.md"
+}
