@@ -1,0 +1,22 @@
+{
+  "work": "God’s Wisest Creature",
+  "corpus_id": "L0075",
+  "canonical_date": "1968-09-20",
+  "date_provenance": "Editorial metadata uses exact corpus_registry.full_date 1968-09-20; raw worker report retains 1968-01-01 as a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_god_s_wisest_creature.txt",
+  "canonical_source_sha": "66a6d348089b48318b606737cc1c4e35421e3459",
+  "canonical_source_paragraphs": 35,
+  "source_paragraphs_reviewed": 35,
+  "raw_worker_windows_generated": 210,
+  "retained_worker_windows": 208,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 29,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[God’S Wisest Creature]/curated_god_s_wisest_creature.jsonl",
+  "decisions_file": "[God’S Wisest Creature]/editorial_decisions_god_s_wisest_creature.jsonl",
+  "review_file": "[God’S Wisest Creature]/editorial_review_god_s_wisest_creature.md"
+}
