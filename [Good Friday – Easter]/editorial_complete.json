@@ -1,0 +1,22 @@
+{
+  "work": "Good Friday – Easter",
+  "corpus_id": "L0077",
+  "canonical_date": "1954-01-01",
+  "date_provenance": "Repository year-level placeholder; corpus_registry.full_date is null.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_good_friday_easter.txt",
+  "canonical_source_sha": "67e6735880518d6ae8c8a088d1c9d3f7859402b4",
+  "canonical_source_paragraphs": 21,
+  "source_paragraphs_reviewed": 21,
+  "raw_worker_windows_generated": 372,
+  "retained_worker_windows": 364,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 17,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Good Friday – Easter]/curated_good_friday_easter.jsonl",
+  "decisions_file": "[Good Friday – Easter]/editorial_decisions_good_friday_easter.jsonl",
+  "review_file": "[Good Friday – Easter]/editorial_review_good_friday_easter.md"
+}
