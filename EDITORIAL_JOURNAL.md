@@ -521,3 +521,40 @@ Notable filtering:
 - no quota was imposed, and worker scores did not override source-first safety/authorship review.
 
 All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
+
+## 2026-09-01 — Lecture batch L0051–L0055
+
+Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0051 | Eternity Within | 38 / 38 | 488 | 0 |
+| L0052 | Every Natural Effect | 23 / 23 | 853 | 2 |
+| L0053 | Experience Scripture | 85 / 85 | 779 | 0 |
+| L0054 | Faith | 71 / 71 | 1,002 | 1 |
+| L0055 | Faith In God | 28 / 28 | 278 | 2 |
+
+Batch result:
+- canonical paragraphs reviewed: **245 / 245**;
+- worker windows generated: **3,562**;
+- retained worker windows: **3,400**;
+- worker rejected windows: **162**;
+- raw duplicate groups: **201**;
+- final main-pool SELECT fragments: **5**.
+
+Notable filtering:
+- `L0051` intentionally produces **0 SELECT**. Its practical assumption passages are tied to categorical outcome claims or are weaker than already selected formulations; the lecture is predominantly Promise, Davidic fatherhood, postmortem cosmology, mystical testimony and universal-role framing;
+- `L0052` contributes two formulations: remaining faithful to a desired self-state, and distinguishing the person from the state currently occupied. Universal/event causation, direct-other influence, health-related causation, guaranteed outcomes, Promise/dream symbolism and external wording remain HOLD/DROP;
+- `L0053` intentionally produces **0 SELECT**. It is overwhelmingly Christology, eschatology, scripture fulfillment and mystical testimony, with concrete power passages depending on literal dominion/control or strong metaphysical claims;
+- `L0054` contributes one concise question about seeing present facts while retaining faith in an unseen state. Its faith-as-loyalty formulation is suppressed as a cross-work near-duplicate of the cleaner L0042 selection; health/event causation, direct influence, guaranteed outcomes, scientific-validation framing and external wording remain outside the automatic pool;
+- `L0055` contributes two formulations on the feeling of possession and making a desired future present. Direct-other influence, financial/job outcome guarantees, broad harm/health causation, causal-proof anecdotes, Promise material and external wording remain HOLD/DROP;
+- no quota was imposed, and worker scores did not override source-first safety/authorship review.
+
+Date/provenance notes:
+- `L0051` editorial metadata uses registry `full_date` **1966-10-04**, while raw report/manifest retain **1966-01-01** as a year-level placeholder;
+- `L0052` has registry `full_date: null`; repository `date: 1968-01-01` is retained only as a year-level placeholder;
+- `L0053` editorial metadata uses registry `full_date` **1971-05-28**, while raw report/manifest retain **1971-01-01** as a year-level placeholder;
+- `L0054` editorial metadata uses registry `full_date` **1968-07-22**, while raw report/manifest retain **1968-01-01** as a year-level placeholder;
+- `L0055` uses exact registry `full_date` **1968-02-05**.
+
+All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
