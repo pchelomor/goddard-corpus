@@ -1,0 +1,20 @@
+{
+  "work": "Every Natural Effect",
+  "corpus_id": "L0052",
+  "canonical_date": "1968-01-01",
+  "canonical_date_note": "Repository year-level placeholder; corpus_registry.full_date is null.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_every_natural_effect.txt",
+  "canonical_source_paragraphs": 23,
+  "source_paragraphs_reviewed": 23,
+  "raw_worker_windows_generated": 893,
+  "retained_worker_windows": 853,
+  "worker_rejected": 40,
+  "raw_duplicate_groups": 17,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Every Natural Effect]/curated_every_natural_effect.jsonl",
+  "decisions_file": "[Every Natural Effect]/editorial_decisions_every_natural_effect.jsonl",
+  "review_file": "[Every Natural Effect]/editorial_review_every_natural_effect.md"
+}
