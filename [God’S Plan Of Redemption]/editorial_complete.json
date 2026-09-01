@@ -1,0 +1,21 @@
+{
+  "work": "God’s Plan Of Redemption",
+  "corpus_id": "L0073",
+  "canonical_date": "1969-03-24",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_god_s_plan_of_redemption.txt",
+  "canonical_source_sha": "1ef8c7fa7fe32565cfffefe075fb906f2b7887c3",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 377,
+  "retained_worker_windows": 371,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 19,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[God’S Plan Of Redemption]/curated_god_s_plan_of_redemption.jsonl",
+  "decisions_file": "[God’S Plan Of Redemption]/editorial_decisions_god_s_plan_of_redemption.jsonl",
+  "review_file": "[God’S Plan Of Redemption]/editorial_review_god_s_plan_of_redemption.md"
+}
