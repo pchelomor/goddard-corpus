@@ -1,0 +1,21 @@
+{
+  "work": "Is Christ Your Imagination",
+  "corpus_id": "L0094",
+  "canonical_date": "1963-03-22",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_is_christ_your_imagination.txt",
+  "canonical_source_sha": "3031239c43a4f6d9cfaa015fde2e26af4ff02296",
+  "canonical_source_paragraphs": 24,
+  "source_paragraphs_reviewed": 24,
+  "raw_worker_windows_generated": 410,
+  "retained_worker_windows": 401,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 23,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Is Christ Your Imagination]/curated_is_christ_your_imagination.jsonl",
+  "decisions_file": "[Is Christ Your Imagination]/editorial_decisions_is_christ_your_imagination.jsonl",
+  "review_file": "[Is Christ Your Imagination]/editorial_review_is_christ_your_imagination.md"
+}
