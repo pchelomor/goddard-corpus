@@ -1,0 +1,21 @@
+{
+  "work": "Fulfillment Of God’s Plan",
+  "corpus_id": "L0064",
+  "canonical_date": "1968-01-01",
+  "date_provenance": "Repository year-level placeholder; corpus_registry.full_date is null.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_fulfillment_of_god_s_plan.txt",
+  "canonical_source_sha": "840ae619f48564eeab603ee52a69f014c37f9813",
+  "canonical_source_paragraphs": 26,
+  "source_paragraphs_reviewed": 26,
+  "raw_worker_windows_generated": 922,
+  "retained_worker_windows": 870,
+  "worker_rejected": 52,
+  "raw_duplicate_groups": 22,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Fulfillment Of God’S Plan]/curated_fulfillment_of_god_s_plan.jsonl",
+  "decisions_file": "[Fulfillment Of God’S Plan]/editorial_decisions_fulfillment_of_god_s_plan.jsonl",
+  "review_file": "[Fulfillment Of God’S Plan]/editorial_review_fulfillment_of_god_s_plan.md"
+}
