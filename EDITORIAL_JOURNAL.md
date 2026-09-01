@@ -758,3 +758,55 @@ Date/provenance notes:
 - `L0085` has registry `full_date: null`; repository date and canonical worker report record **1963-02-26**, preserved as repository/source date.
 
 All ten works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
+
+## 2026-09-01 — Lecture batch L0086–L0095
+
+Completed ten corpus IDs under `SOURCE_FIRST_CANONICAL`, processed internally as two five-work reading checkpoints without relaxing the editorial threshold.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0086 | How To Use Your Imagination | 36 / 36 | 276 | 1 |
+| L0087 | I Am In You | 46 / 46 | 327 | 1 |
+| L0088 | I Am The Cause | 47 / 47 | 433 | 0 |
+| L0089 | I Am The Lord | 29 / 29 | 355 | 1 |
+| L0090 | I Remember When | 38 / 38 | 312 | 1 |
+| L0091 | If Any Two Agree | 88 / 88 | 456 | 0 |
+| L0092 | Imagination | 122 / 122 | 1,095 | 1 |
+| L0093 | Imagining Creates | 50 / 50 | 330 | 1 |
+| L0094 | Is Christ Your Imagination | 24 / 24 | 401 | 0 |
+| L0095 | Jeremiah’s Discovery | 77 / 77 | 364 | 0 |
+
+Batch result:
+- canonical paragraphs reviewed: **557 / 557**;
+- worker windows generated: **4,500**;
+- retained worker windows: **4,349**;
+- worker rejected windows: **151**;
+- raw duplicate groups: **422**;
+- final main-pool SELECT fragments: **6**.
+
+Notable filtering:
+- `L0086` contributes one clean daily revision practice. Wish-fulfilled/thinking-from formulations already represented more strongly elsewhere, categorical fulfillment, health/injury examples, direct-other revision, causal-proof anecdotes and external wording remain HOLD/DROP;
+- `L0087` contributes one concise formulation on knowing the desired end without conditioning it to a specific mechanism or person. Promise/Davidic fatherhood, postmortem material, direct-other framing, guarantees and stronger feeling duplicates remain HOLD/DROP;
+- `L0088` intentionally produces **0 SELECT**. Its central argument repeatedly treats imagination as the cause of good, bad and harmful events; practical assumption lines carry categorical externalization or are weaker duplicates, with financial proof anecdotes and Promise theology excluded;
+- `L0089` contributes one self-observation formulation on awareness of imaginal activity. Universal/event causation, health/misfortune causation, hostility feedback, direct-other influence, guarantees and strong I-AM/Christ theology remain outside the automatic pool;
+- `L0090` contributes one clean boundary preserving the distinctive I-remember-when technique. Health-related causation, direct alteration of others, business/property outcomes, envy-as-force, categorical crystallization and Promise material remain HOLD/DROP;
+- `L0091` intentionally produces **0 SELECT**. Its central Law example links imaginal agreement to a harmful external result, while the argument repeatedly asserts no-consent influence, unlimited power and guaranteed externalization;
+- `L0092` contributes one concise formulation on the common faculty of imagining and the importance of its content. Thinking-from/wish-fulfilled/operant-power passages are stronger duplicates or coupled to guarantees; financial examples, universal causation, direct-other influence and Promise/postmortem material remain HOLD/DROP;
+- `L0093` contributes one formulation on moving an idea into creative practice by entering it inwardly. Direct/no-consent alteration of others, universal-role/harm causation, guarantees, outcome anecdotes and Promise theology remain outside the pool;
+- `L0094` intentionally produces **0 SELECT**. It is overwhelmingly Christology, resurrection and spiritual identity; its practical section explicitly reshapes other people without their knowledge or consent and promises corresponding external change;
+- `L0095` intentionally produces **0 SELECT**. It is dominated by scripture interpretation, spiritual identity and postmortem/resurrection claims; its late Law material includes categorical reaping and blame-heavy self-causation, while safer phrases are weaker duplicates or context-bound;
+- no quota was imposed. The operational batch size of ten was again handled as two internal five-work checkpoints without changing the source-first threshold.
+
+Date/provenance notes:
+- `L0086` has registry `full_date: null`; repository `date: 1955-01-01` is retained only as a year-level placeholder;
+- `L0087` uses exact registry `full_date` **1968-09-30**;
+- `L0088` uses exact registry `full_date` **1969-10-19**;
+- `L0089` uses exact registry `full_date` **1969-02-21**;
+- `L0090` editorial metadata uses exact registry `full_date` **1968-04-10**, while the raw worker report retains **1968-01-01** as a year-level placeholder;
+- `L0091` editorial metadata uses exact registry `full_date` **1971-03-22**, while the raw worker report retains **1971-01-01** as a year-level placeholder;
+- `L0092` editorial metadata uses exact registry `full_date` **1969-07-14**, while the raw worker report retains **1969-01-01** as a year-level placeholder;
+- `L0093` editorial metadata uses exact registry `full_date` **1968-06-03**, while the raw worker report retains **1968-01-01** as a year-level placeholder;
+- `L0094` uses exact registry `full_date` **1963-03-22**;
+- `L0095` uses exact registry `full_date` **1969-11-17**.
+
+All ten works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
