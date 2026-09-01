@@ -1,0 +1,19 @@
+{
+  "work": "Enter The Dream",
+  "corpus_id": "L0045",
+  "canonical_date": "1969-11-21",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_enter_the_dream.txt",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 354,
+  "retained_worker_windows": 346,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 27,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Enter The Dream]/curated_enter_the_dream.jsonl",
+  "decisions_file": "[Enter The Dream]/editorial_decisions_enter_the_dream.jsonl",
+  "review_file": "[Enter The Dream]/editorial_review_enter_the_dream.md"
+}
