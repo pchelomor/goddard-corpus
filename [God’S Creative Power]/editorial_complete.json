@@ -1,0 +1,20 @@
+{
+  "work": "God’s Creative Power",
+  "corpus_id": "L0071",
+  "canonical_date": "1968-02-09",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_god_s_creative_power.txt",
+  "canonical_source_sha": "49cc319526958415f94795d6014e964965036af7",
+  "canonical_source_paragraphs": 28,
+  "source_paragraphs_reviewed": 28,
+  "raw_worker_windows_generated": 369,
+  "retained_worker_windows": 361,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 26,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[God’S Creative Power]/curated_god_s_creative_power.jsonl",
+  "decisions_file": "[God’S Creative Power]/editorial_decisions_god_s_creative_power.jsonl",
+  "review_file": "[God’S Creative Power]/editorial_review_god_s_creative_power.md"
+}
