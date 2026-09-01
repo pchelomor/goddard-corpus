@@ -1,0 +1,21 @@
+{
+  "work": "I Am The Cause",
+  "corpus_id": "L0088",
+  "canonical_date": "1969-10-19",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_i_am_the_cause.txt",
+  "canonical_source_sha": "1c5e7998e7b8b52641564a4fabba3574e50f0893",
+  "canonical_source_paragraphs": 47,
+  "source_paragraphs_reviewed": 47,
+  "raw_worker_windows_generated": 441,
+  "retained_worker_windows": 433,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 44,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[I Am The Cause]/curated_i_am_the_cause.jsonl",
+  "decisions_file": "[I Am The Cause]/editorial_decisions_i_am_the_cause.jsonl",
+  "review_file": "[I Am The Cause]/editorial_review_i_am_the_cause.md"
+}
