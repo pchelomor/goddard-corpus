@@ -1,0 +1,19 @@
+{
+  "work": "Feed My Sheep – July 1 1956",
+  "corpus_id": "L0057",
+  "canonical_date": "1956-07-01",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_feed_my_sheep_july_1_1956.txt",
+  "canonical_source_paragraphs": 21,
+  "source_paragraphs_reviewed": 21,
+  "raw_worker_windows_generated": 592,
+  "retained_worker_windows": 567,
+  "worker_rejected": 25,
+  "raw_duplicate_groups": 21,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Feed My Sheep – July 1 1956]/curated_feed_my_sheep_july_1_1956.jsonl",
+  "decisions_file": "[Feed My Sheep – July 1 1956]/editorial_decisions_feed_my_sheep_july_1_1956.jsonl",
+  "review_file": "[Feed My Sheep – July 1 1956]/editorial_review_feed_my_sheep_july_1_1956.md"
+}
