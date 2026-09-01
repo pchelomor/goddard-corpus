@@ -1,0 +1,20 @@
+{
+  "work": "Faith, Hope And Love",
+  "corpus_id": "L0056",
+  "canonical_date": "1968-01-01",
+  "canonical_date_note": "Repository year-level placeholder; corpus_registry.full_date is null.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_faith_hope_and_love.txt",
+  "canonical_source_paragraphs": 24,
+  "source_paragraphs_reviewed": 24,
+  "raw_worker_windows_generated": 299,
+  "retained_worker_windows": 292,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 21,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Faith, Hope And Love]/curated_faith_hope_and_love.jsonl",
+  "decisions_file": "[Faith, Hope And Love]/editorial_decisions_faith_hope_and_love.jsonl",
+  "review_file": "[Faith, Hope And Love]/editorial_review_faith_hope_and_love.md"
+}
