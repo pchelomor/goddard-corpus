@@ -1,0 +1,22 @@
+{
+  "work": "Have You Found Him?",
+  "corpus_id": "L0079",
+  "canonical_date": "1967-09-15",
+  "date_provenance": "Editorial metadata uses exact corpus_registry.full_date 1967-09-15; raw worker report retains 1967-01-01 as a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_have_you_found_him.txt",
+  "canonical_source_sha": "b248366969bad11b95f81a9c1da51942fff61090",
+  "canonical_source_paragraphs": 33,
+  "source_paragraphs_reviewed": 33,
+  "raw_worker_windows_generated": 198,
+  "retained_worker_windows": 193,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 23,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Have You Found Him]/curated_have_you_found_him.jsonl",
+  "decisions_file": "[Have You Found Him]/editorial_decisions_have_you_found_him.jsonl",
+  "review_file": "[Have You Found Him]/editorial_review_have_you_found_him.md"
+}
