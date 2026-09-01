@@ -1,0 +1,22 @@
+{
+  "work": "God Only Acts",
+  "corpus_id": "L0068",
+  "canonical_date": "1966-09-20",
+  "date_provenance": "Editorial metadata uses exact corpus_registry.full_date 1966-09-20; raw worker report retains 1966-01-01 as a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_god_only_acts.txt",
+  "canonical_source_sha": "73c1565e85a3b8f7e07814b6fa410263e51de51f",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 233,
+  "retained_worker_windows": 228,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 27,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[God Only Acts]/curated_god_only_acts.jsonl",
+  "decisions_file": "[God Only Acts]/editorial_decisions_god_only_acts.jsonl",
+  "review_file": "[God Only Acts]/editorial_review_god_only_acts.md"
+}
