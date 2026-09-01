@@ -1,0 +1,20 @@
+{
+  "work": "Freedom",
+  "corpus_id": "L0063",
+  "canonical_date": "1968-10-28",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_freedom.txt",
+  "canonical_source_sha": "5cac631bc527cf9f5ed479902d06fa59c861b5dd",
+  "canonical_source_paragraphs": 23,
+  "source_paragraphs_reviewed": 23,
+  "raw_worker_windows_generated": 405,
+  "retained_worker_windows": 399,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 19,
+  "select_fragments": 0,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Freedom]/curated_freedom.jsonl",
+  "decisions_file": "[Freedom]/editorial_decisions_freedom.jsonl",
+  "review_file": "[Freedom]/editorial_review_freedom.md"
+}
