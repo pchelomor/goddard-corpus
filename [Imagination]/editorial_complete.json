@@ -1,0 +1,21 @@
+{
+  "work": "Imagination",
+  "corpus_id": "L0092",
+  "canonical_date": "1969-07-14",
+  "date_provenance": "Editorial metadata uses exact corpus_registry.full_date 1969-07-14; raw worker report retains 1969-01-01 as a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_imagination.txt",
+  "canonical_source_sha": "28fcdbd5f5336ce0428dba1c1a8626de593889d6",
+  "canonical_source_paragraphs": 122,
+  "source_paragraphs_reviewed": 122,
+  "raw_worker_windows_generated": 1134,
+  "retained_worker_windows": 1095,
+  "worker_rejected": 39,
+  "raw_duplicate_groups": 96,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Imagination]/curated_imagination.jsonl",
+  "decisions_file": "[Imagination]/editorial_decisions_imagination.jsonl",
+  "review_file": "[Imagination]/editorial_review_imagination.md"
+}
