@@ -1,0 +1,21 @@
+{
+  "work": "Fundamentals",
+  "corpus_id": "L0065",
+  "canonical_date": "1953-01-01",
+  "date_provenance": "Repository year-level placeholder; corpus_registry.full_date is null. Canonical source header identifies INTA Bulletin, New Thought, summer 1953.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_fundamentals.txt",
+  "canonical_source_sha": "42492cde786171583a3d8db10349540e84a07207",
+  "canonical_source_paragraphs": 23,
+  "source_paragraphs_reviewed": 23,
+  "raw_worker_windows_generated": 95,
+  "retained_worker_windows": 93,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 16,
+  "select_fragments": 4,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Fundamentals]/curated_fundamentals.jsonl",
+  "decisions_file": "[Fundamentals]/editorial_decisions_fundamentals.jsonl",
+  "review_file": "[Fundamentals]/editorial_review_fundamentals.md"
+}
