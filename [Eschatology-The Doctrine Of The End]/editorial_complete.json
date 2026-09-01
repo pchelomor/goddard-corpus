@@ -1,0 +1,20 @@
+{
+  "work": "Eschatology-The Doctrine Of The End",
+  "corpus_id": "L0048",
+  "canonical_date": "1969-01-20",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_eschatology_the_doctrine_of_the_end.txt",
+  "canonical_source_paragraphs": 45,
+  "source_paragraphs_reviewed": 45,
+  "raw_worker_windows_generated": 397,
+  "retained_worker_windows": 385,
+  "worker_rejected": 12,
+  "raw_duplicate_groups": 39,
+  "select_fragments": 0,
+  "complete": true,
+  "intentional_empty_curated": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Eschatology-The Doctrine Of The End]/curated_eschatology_the_doctrine_of_the_end.jsonl",
+  "decisions_file": "[Eschatology-The Doctrine Of The End]/editorial_decisions_eschatology_the_doctrine_of_the_end.jsonl",
+  "review_file": "[Eschatology-The Doctrine Of The End]/editorial_review_eschatology_the_doctrine_of_the_end.md"
+}
