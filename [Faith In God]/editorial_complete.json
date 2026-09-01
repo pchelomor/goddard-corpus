@@ -1,0 +1,19 @@
+{
+  "work": "Faith In God",
+  "corpus_id": "L0055",
+  "canonical_date": "1968-02-05",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_faith_in_god.txt",
+  "canonical_source_paragraphs": 28,
+  "source_paragraphs_reviewed": 28,
+  "raw_worker_windows_generated": 284,
+  "retained_worker_windows": 278,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Faith In God]/curated_faith_in_god.jsonl",
+  "decisions_file": "[Faith In God]/editorial_decisions_faith_in_god.jsonl",
+  "review_file": "[Faith In God]/editorial_review_faith_in_god.md"
+}
