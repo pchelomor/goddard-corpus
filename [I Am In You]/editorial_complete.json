@@ -1,0 +1,20 @@
+{
+  "work": "I Am In You",
+  "corpus_id": "L0087",
+  "canonical_date": "1968-09-30",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_i_am_in_you.txt",
+  "canonical_source_sha": "40ce962442a17ba233b62fceb2c2d5e4a791abc1",
+  "canonical_source_paragraphs": 46,
+  "source_paragraphs_reviewed": 46,
+  "raw_worker_windows_generated": 334,
+  "retained_worker_windows": 327,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 40,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[I Am In You]/curated_i_am_in_you.jsonl",
+  "decisions_file": "[I Am In You]/editorial_decisions_i_am_in_you.jsonl",
+  "review_file": "[I Am In You]/editorial_review_i_am_in_you.md"
+}
