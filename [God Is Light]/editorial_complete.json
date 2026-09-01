@@ -1,0 +1,22 @@
+{
+  "work": "God Is Light",
+  "corpus_id": "L0067",
+  "canonical_date": "1967-10-09",
+  "date_provenance": "corpus_registry.full_date is null; repository date and canonical worker report record 1967-10-09.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_god_is_light.txt",
+  "canonical_source_sha": "a288dfe82cf5ba6c770dcc72cea6115aedd9fc7f",
+  "canonical_source_paragraphs": 25,
+  "source_paragraphs_reviewed": 25,
+  "raw_worker_windows_generated": 406,
+  "retained_worker_windows": 399,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[God Is Light]/curated_god_is_light.jsonl",
+  "decisions_file": "[God Is Light]/editorial_decisions_god_is_light.jsonl",
+  "review_file": "[God Is Light]/editorial_review_god_is_light.md"
+}
