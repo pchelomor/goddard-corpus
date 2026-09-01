@@ -1,0 +1,19 @@
+{
+  "work": "Esau – Jacob – Israel",
+  "corpus_id": "L0046",
+  "canonical_date": "1963-02-12",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_esau_jacob_israel.txt",
+  "canonical_source_paragraphs": 36,
+  "source_paragraphs_reviewed": 36,
+  "raw_worker_windows_generated": 590,
+  "retained_worker_windows": 567,
+  "worker_rejected": 23,
+  "raw_duplicate_groups": 33,
+  "select_fragments": 3,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Esau – Jacob – Israel]/curated_esau_jacob_israel.jsonl",
+  "decisions_file": "[Esau – Jacob – Israel]/editorial_decisions_esau_jacob_israel.jsonl",
+  "review_file": "[Esau – Jacob – Israel]/editorial_review_esau_jacob_israel.md"
+}
