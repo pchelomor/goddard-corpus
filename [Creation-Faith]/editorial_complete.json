@@ -1,0 +1,19 @@
+{
+  "work": "Creation-Faith",
+  "corpus_id": "L0042",
+  "canonical_date": "1968-05-20",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_creation_faith.txt",
+  "canonical_source_paragraphs": 57,
+  "source_paragraphs_reviewed": 57,
+  "raw_worker_windows_generated": 344,
+  "retained_worker_windows": 336,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 46,
+  "select_fragments": 3,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Creation-Faith]/curated_creation_faith.jsonl",
+  "decisions_file": "[Creation-Faith]/editorial_decisions_creation_faith.jsonl",
+  "review_file": "[Creation-Faith]/editorial_review_creation_faith.md"
+}
