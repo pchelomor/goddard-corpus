@@ -15,46 +15,10 @@ jobs:
       - uses: actions/checkout@v4
       - name: Append batch record and remove one-shot workflow
         shell: bash
+        env:
+          JOURNAL_B64: "CiMjIDIwMjYtMDktMDEg4oCUIExlY3R1cmUgYmF0Y2ggTDAwNjbigJNMMDA3MAoKQ29tcGxldGVkIHRoZSBuZXh0IGZpdmUgY29ycHVzIElEcyB1bmRlciBgU09VUkNFX0ZJUlNUX0NBTk9OSUNBTGAuCgp8IENvcnB1cyBJRCB8IFdvcmsgfCBDYW5vbmljYWwgcGFyYWdyYXBocyB8IFJldGFpbmVkIHdvcmtlciB3aW5kb3dzIHwgU0VMRUNUIHwKfC0tLXwtLS18LS0tOnwtLS06fC0tLTp8CnwgTDAwNjYgfCBHb2QgQmVjYW1lIE1hbiB8IDE2IC8gMTYgfCAyNjEgfCAwIHwKfCBMMDA2NyB8IEdvZCBJcyBMaWdodCB8IDI1IC8gMjUgfCAzOTkgfCAwIHwKfCBMMDA2OCB8IEdvZCBPbmx5IEFjdHMgfCAzMSAvIDMxIHwgMjI4IHwgMCB8CnwgTDAwNjkgfCBHb2QgU3BlYWtzIFRvIE1hbiB8IDQxIC8gNDEgfCAzMzQgfCAyIHwKfCBMMDA3MCB8IEdvZOKAmXMgQWxtaWdodHkgUG93ZXIgfCAyNCAvIDI0IHwgMzYyIHwgMSB8CgpCYXRjaCByZXN1bHQ6Ci0gY2Fub25pY2FsIHBhcmFncmFwaHMgcmV2aWV3ZWQ6ICoqMTM3IC8gMTM3Kio7Ci0gd29ya2VyIHdpbmRvd3MgZ2VuZXJhdGVkOiAqKjEsNjA5Kio7Ci0gcmV0YWluZWQgd29ya2VyIHdpbmRvd3M6ICoqMSw1ODQqKjsKLSB3b3JrZXIgcmVqZWN0ZWQgd2luZG93czogKioyNSoqOwotIHJhdyBkdXBsaWNhdGUgZ3JvdXBzOiAqKjEyMSoqOwotIGZpbmFsIG1haW4tcG9vbCBTRUxFQ1QgZnJhZ21lbnRzOiAqKjMqKi4KCk5vdGFibGUgZmlsdGVyaW5nOgotIGBMMDA2NmAgaW50ZW50aW9uYWxseSBwcm9kdWNlcyAqKjAgU0VMRUNUKiouIEl0IGlzIGRvbWluYXRlZCBieSBsaXRlcmFsIEdvZC1pZGVudGl0eSwgUHJvbWlzZS9EYXZpZGljIGZhdGhlcmhvb2QsIG15c3RpY2FsIHRlc3RpbW9ueSwgdW5pdmVyc2FsLXJvbGUgY2xhaW1zIGFuZCBzY3JpcHR1cmUgaW50ZXJwcmV0YXRpb247IHNob3J0IGJlbmlnbiBwaHJhc2VzIGJlY29tZSBnZW5lcmljIG9yIGNvbnRleHQtYnJva2VuIHdoZW4gaXNvbGF0ZWQ7Ci0gYEwwMDY3YCBpbnRlbnRpb25hbGx5IHByb2R1Y2VzICoqMCBTRUxFQ1QqKi4gSXRzIHN0cm9uZ2VzdCBwcmFjdGljYWwgYXNzdW1wdGlvbiBibG9jayBpcyBhIHdlYWtlci9uZWFyLWR1cGxpY2F0ZSBvZiBjbGVhbmVyIGNvcnB1cyBzZWxlY3Rpb25zIGFuZCBjYXJyaWVzIGNhdGVnb3JpY2FsIGZ1bGZpbGxtZW50IGxhbmd1YWdlOyBoZWFsaW5nLWFzLXByb29mLCBsaXRlcmFsIGxpZ2h0L2xvdmUgaWRlbnRpdHksIGZpZXJ5LWFycm93IGluZmx1ZW5jZSwgcG9zdG1vcnRlbSBtYXRlcmlhbCBhbmQgc2NyaXB0dXJlIHJlbWFpbiBIT0xEL0RST1A7Ci0gYEwwMDY4YCBpbnRlbnRpb25hbGx5IHByb2R1Y2VzICoqMCBTRUxFQ1QqKi4gSXRzIGNlbnRyYWwgR29kLW9ubHktYWN0cyB0aGVzaXMgdHJlYXRzIGhhcm1mdWwgYW5kIGJlbmV2b2xlbnQgYWN0aW9ucyBhcyBvbmUgZGl2aW5lIGFjdG9yLCB3aGlsZSB0aGUgcHJhY3RpY2FsIHNlY3Rpb24gZGlyZWN0cyBpbWFnaW5hbCBhbHRlcmF0aW9uIG9mIG90aGVycyBhbmQgcHJvbWlzZXMgY29uZm9ybWl0eS4gQSBzYWZlIGhlYXItYW5kLWRvIGZvcm11bGF0aW9uIGlzIHN1cHByZXNzZWQgYXMgYSB3ZWFrZXIgZHVwbGljYXRlIG9mIEwwMDYxOwotIGBMMDA2OWAgY29udHJpYnV0ZXMgdHdvIGNsZWFuIE5ldmlsbGUtb25seSBmcmFnbWVudHM6IG9uZSBvbiByZWFkaW5nIGEgZHJlYW0gZm9yIGl0cyBjZW50cmFsIG1lc3NhZ2UgcmF0aGVyIHRoYW4gZXZlcnkgZGV0YWlsLCBhbmQgb25lIG9uIGJlY29taW5nIHNlbGVjdGl2ZSBhbmQgYXNzdW1pbmcgc29tZXRoaW5nIHdvbmRlcmZ1bCBmb3Igb25lc2VsZi4gVW5pdmVyc2FsIGNhdXNhdGlvbiwgbm8tY29uc2VudCByb2xlIGFzc2lnbm1lbnQsIHBvc3Rtb3J0ZW0vYWx0ZXJuYXRlLXdvcmxkIGNsYWltcyBhbmQgbWVkaWNhbC9saWZlLWV4dGVuc2lvbiBkaXNwYXJhZ2VtZW50IHJlbWFpbiBvdXRzaWRlIHRoZSBwb29sOwotIGBMMDA3MGAgY29udHJpYnV0ZXMgb25lIHZpdmlkIHByYWN0aWNhbCBmcmFnbWVudCBvbiBlbnRlcmluZyB0aGUgbW9vZCBvZiB0aGUgd2lzaCBmdWxmaWxsZWQgYmVmb3JlIHNsZWVwLiBGaW5hbmNpYWwgZ3VhcmFudGVlcywgY2F0ZWdvcmljYWwgb3V0Y29tZSBwcm9taXNlcywgbm8tY29uc2VudCByb2xlIG1lY2hhbmlzbXMsIGNhdXNhbC1wcm9vZiBhbmVjZG90ZXMgYW5kIHN0cm9uZyBsaXRlcmFsIEdvZC9DaHJpc3QgaWRlbnRpdHkgcmVtYWluIEhPTEQvRFJPUDsKLSBubyBxdW90YSB3YXMgaW1wb3NlZCwgYW5kIHdvcmtlciBzY29yZXMgZGlkIG5vdCBvdmVycmlkZSBzb3VyY2UtZmlyc3Qgc2FmZXR5L2F1dGhvcnNoaXAgcmV2aWV3LgoKRGF0ZS9wcm92ZW5hbmNlIG5vdGVzOgotIGBMMDA2NmAgdXNlcyBleGFjdCByZWdpc3RyeSBgZnVsbF9kYXRlYCAqKjE5NjktMDItMjQqKjsKLSBgTDAwNjdgIGhhcyByZWdpc3RyeSBgZnVsbF9kYXRlOiBudWxsYDsgcmVwb3NpdG9yeSBgZGF0ZWAgYW5kIGNhbm9uaWNhbCB3b3JrZXIgcmVwb3J0IHJlY29yZCAqKjE5NjctMTAtMDkqKiwgcHJlc2VydmVkIGFzIHJlcG9zaXRvcnkvc291cmNlIGRhdGUgd2l0aG91dCBwcmVzZW50aW5nIGl0IGFzIHJlZ2lzdHJ5LXZlcmlmaWVkIGBmdWxsX2RhdGVgOwotIGBMMDA2OGAgZWRpdG9yaWFsIG1ldGFkYXRhIHVzZXMgZXhhY3QgcmVnaXN0cnkgYGZ1bGxfZGF0ZWAgKioxOTY2LTA5LTIwKiosIHdoaWxlIHRoZSByYXcgd29ya2VyIHJlcG9ydCByZXRhaW5zICoqMTk2Ni0wMS0wMSoqIGFzIGEgeWVhci1sZXZlbCBwbGFjZWhvbGRlcjsKLSBgTDAwNjlgIHVzZXMgZXhhY3QgcmVnaXN0cnkgYGZ1bGxfZGF0ZWAgKioxOTY4LTAxLTE4Kio7Ci0gYEwwMDcwYCB1c2VzIGV4YWN0IHJlZ2lzdHJ5IGBmdWxsX2RhdGVgICoqMTk2OC0xMi0wMioqLgoKQWxsIGZpdmUgd29ya3Mgbm93IGNvbnRhaW4gYGN1cmF0ZWRfKmAsIGBlZGl0b3JpYWxfZGVjaXNpb25zXypgLCBgZWRpdG9yaWFsX3Jldmlld18qYCwgYW5kIGNvcnB1cy1JRC1tYXRjaGluZyBgZWRpdG9yaWFsX2NvbXBsZXRlLmpzb25gIGZpbGVzLiBSYXcgY2FuZGlkYXRlLCByZWplY3RlZCwgbWFzdGVyLXRleHQsIHNvdXJjZS1tYW5pZmVzdCwgc291cmNlLXZhcmlhdGlvbiwgd29ya2VyLXJlcG9ydCwgYW5kIHByb2Nlc3NpbmcgZmlsZXMgd2VyZSBub3QgbW9kaWZpZWQuCg=="
         run: |
-          cat >> EDITORIAL_JOURNAL.md <<'EOF'
-
-## 2026-09-01 — Lecture batch L0066–L0070
-
-Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`.
-
-| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
-|---|---|---:|---:|---:|
-| L0066 | God Became Man | 16 / 16 | 261 | 0 |
-| L0067 | God Is Light | 25 / 25 | 399 | 0 |
-| L0068 | God Only Acts | 31 / 31 | 228 | 0 |
-| L0069 | God Speaks To Man | 41 / 41 | 334 | 2 |
-| L0070 | God’s Almighty Power | 24 / 24 | 362 | 1 |
-
-Batch result:
-- canonical paragraphs reviewed: **137 / 137**;
-- worker windows generated: **1,609**;
-- retained worker windows: **1,584**;
-- worker rejected windows: **25**;
-- raw duplicate groups: **121**;
-- final main-pool SELECT fragments: **3**.
-
-Notable filtering:
-- `L0066` intentionally produces **0 SELECT**. It is dominated by literal God-identity, Promise/Davidic fatherhood, mystical testimony, universal-role claims and scripture interpretation; short benign phrases become generic or context-broken when isolated;
-- `L0067` intentionally produces **0 SELECT**. Its strongest practical assumption block is a weaker/near-duplicate of cleaner corpus selections and carries categorical fulfillment language; healing-as-proof, literal light/love identity, fiery-arrow influence, postmortem material and scripture remain HOLD/DROP;
-- `L0068` intentionally produces **0 SELECT**. Its central God-only-acts thesis treats harmful and benevolent actions as one divine actor, while the practical section directs imaginal alteration of others and promises conformity. A safe hear-and-do formulation is suppressed as a weaker duplicate of L0061;
-- `L0069` contributes two clean Neville-only fragments: one on reading a dream for its central message rather than every detail, and one on becoming selective and assuming something wonderful for oneself. Universal causation, no-consent role assignment, postmortem/alternate-world claims and medical/life-extension disparagement remain outside the pool;
-- `L0070` contributes one vivid practical fragment on entering the mood of the wish fulfilled before sleep. Financial guarantees, categorical outcome promises, no-consent role mechanisms, causal-proof anecdotes and strong literal God/Christ identity remain HOLD/DROP;
-- no quota was imposed, and worker scores did not override source-first safety/authorship review.
-
-Date/provenance notes:
-- `L0066` uses exact registry `full_date` **1969-02-24**;
-- `L0067` has registry `full_date: null`; repository `date` and canonical worker report record **1967-10-09**, preserved as repository/source date without presenting it as registry-verified `full_date`;
-- `L0068` editorial metadata uses exact registry `full_date` **1966-09-20**, while the raw worker report retains **1966-01-01** as a year-level placeholder;
-- `L0069` uses exact registry `full_date` **1968-01-18**;
-- `L0070` uses exact registry `full_date` **1968-12-02**.
-
-All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
-EOF
+          printf '%s' "$JOURNAL_B64" | base64 -d >> EDITORIAL_JOURNAL.md
           rm -f .github/workflows/append-journal-l0066-l0070.yml
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
