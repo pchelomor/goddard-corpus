@@ -1,0 +1,20 @@
+{
+  "work": "Four Fold Vision",
+  "corpus_id": "L0061",
+  "canonical_date": "1968-01-26",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_four_fold_vision.txt",
+  "canonical_source_sha": "5376910d9e1a9dc996db4707903e0166128edf69",
+  "canonical_source_paragraphs": 44,
+  "source_paragraphs_reviewed": 44,
+  "raw_worker_windows_generated": 347,
+  "retained_worker_windows": 344,
+  "worker_rejected": 3,
+  "raw_duplicate_groups": 40,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Four Fold Vision]/curated_four_fold_vision.jsonl",
+  "decisions_file": "[Four Fold Vision]/editorial_decisions_four_fold_vision.jsonl",
+  "review_file": "[Four Fold Vision]/editorial_review_four_fold_vision.md"
+}
