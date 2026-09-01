@@ -454,3 +454,40 @@ Date/provenance notes:
 - `L0040` uses the exact date **1967-11-10**.
 
 All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
+
+## 2026-09-01 — Lecture batch L0041–L0045
+
+Completed the next five corpus IDs under `SOURCE_FIRST_CANONICAL`.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0041 | Conception | 31 / 31 | 367 | 2 |
+| L0042 | Creation-Faith | 57 / 57 | 336 | 3 |
+| L0043 | Divine Signs | 42 / 42 | 280 | 3 |
+| L0044 | Election And Change Of Consciousness | 30 / 30 | 405 | 2 |
+| L0045 | Enter The Dream | 31 / 31 | 346 | 1 |
+
+Batch result:
+- canonical paragraphs reviewed: **191 / 191**;
+- worker windows generated: **1,774**;
+- retained worker windows: **1,734**;
+- worker rejected windows: **40**;
+- raw duplicate groups: **165**;
+- final main-pool SELECT fragments: **11**.
+
+Notable filtering:
+- `L0041` contributes two practical formulations on entering a state by assumption/thinking from it and deliberately occupying a desired state. Guaranteed bridge-of-events language, war/event causation, universal causation, Promise theology, mystical sexual symbolism, scripture/external wording, and weaker overlaps remain HOLD/DROP;
+- `L0042` contributes three formulations on faith as loyalty to unseen reality, listening to the implication of inner speech, and mentally structuring desire as already possessed. Direct-other influence, guaranteed externalization, blame framing, violent power demonstrations, Promise/postmortem material and external wording remain outside the automatic pool;
+- `L0043` contributes three formulations on assuming the fulfilled identity, focusing on the end rather than means, and imagination requiring operative assumption. Absolute no-failure claims, debt/financial causal examples, universal-causation claims, Promise theology, mystical sexual symbolism, scripture/external wording, and weaker overlaps remain HOLD/DROP;
+- `L0044` contributes two formulations on feeling as movement between states and remaining psychologically in the selected state. Promise/resurrection material, dream exegesis, financial-status examples, guaranteed objective-birth language, strong metaphysics, scripture/external wording and weaker overlaps remain HOLD/DROP;
+- `L0045` contributes one concise assumption instruction. The neighboring guarantee that one will become the assumed identity was deliberately excluded. Passages rationalizing murder/rape as states of experience, universal actor/causation and control claims, postmortem cosmology, alternate-world testimony, and Blake/Huxley/Lawrence/scripture wording remain HOLD/DROP;
+- no quota was imposed, and worker scores did not override source-first safety/authorship review.
+
+Date/provenance notes:
+- `L0041` uses exact registry `full_date` **1968-03-11**;
+- `L0042` editorial metadata uses exact registry `full_date` **1968-05-20**, while the pre-existing raw report/manifest retain **1968-01-01** as a year-level placeholder;
+- `L0043` uses exact registry `full_date` **1968-05-01**;
+- `L0044` has registry `full_date: null`; repository `date` and `source_manifest.md` both record **1963-02-24**, which is preserved as repository/source date without presenting it as registry-verified full_date;
+- `L0045` uses exact registry `full_date` **1969-11-21**.
+
+All five works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
