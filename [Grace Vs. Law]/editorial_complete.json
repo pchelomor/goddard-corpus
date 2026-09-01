@@ -1,0 +1,22 @@
+{
+  "work": "Grace Vs. Law",
+  "corpus_id": "L0078",
+  "canonical_date": "1963-03-12",
+  "date_provenance": "corpus_registry.full_date is null; repository date and canonical worker report record 1963-03-12.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_grace_vs_law.txt",
+  "canonical_source_sha": "22b648c4083cd894d14ebacc1109819212a30079",
+  "canonical_source_paragraphs": 27,
+  "source_paragraphs_reviewed": 27,
+  "raw_worker_windows_generated": 544,
+  "retained_worker_windows": 527,
+  "worker_rejected": 17,
+  "raw_duplicate_groups": 26,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Grace Vs. Law]/curated_grace_vs_law.jsonl",
+  "decisions_file": "[Grace Vs. Law]/editorial_decisions_grace_vs_law.jsonl",
+  "review_file": "[Grace Vs. Law]/editorial_review_grace_vs_law.md"
+}
