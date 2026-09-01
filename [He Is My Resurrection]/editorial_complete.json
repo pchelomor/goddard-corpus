@@ -1,0 +1,21 @@
+{
+  "work": "He Is My Resurrection",
+  "corpus_id": "L0083",
+  "canonical_date": "1968-06-28",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_he_is_my_resurrection.txt",
+  "canonical_source_sha": "341993d42d922ea690f44e73af7a33d5ecaff20b",
+  "canonical_source_paragraphs": 38,
+  "source_paragraphs_reviewed": 38,
+  "raw_worker_windows_generated": 339,
+  "retained_worker_windows": 324,
+  "worker_rejected": 15,
+  "raw_duplicate_groups": 28,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[He Is My Resurrection]/curated_he_is_my_resurrection.jsonl",
+  "decisions_file": "[He Is My Resurrection]/editorial_decisions_he_is_my_resurrection.jsonl",
+  "review_file": "[He Is My Resurrection]/editorial_review_he_is_my_resurrection.md"
+}
