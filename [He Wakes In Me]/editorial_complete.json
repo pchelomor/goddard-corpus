@@ -1,0 +1,22 @@
+{
+  "work": "He Wakes In Me",
+  "corpus_id": "L0084",
+  "canonical_date": "1967-03-24",
+  "date_provenance": "corpus_registry.full_date is null; repository date and canonical worker report record 1967-03-24.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_he_wakes_in_me.txt",
+  "canonical_source_sha": "e2fff921a7b4a7530204cdf8f3395c8fe66801a6",
+  "canonical_source_paragraphs": 34,
+  "source_paragraphs_reviewed": 34,
+  "raw_worker_windows_generated": 365,
+  "retained_worker_windows": 362,
+  "worker_rejected": 3,
+  "raw_duplicate_groups": 32,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[He Wakes In Me]/curated_he_wakes_in_me.jsonl",
+  "decisions_file": "[He Wakes In Me]/editorial_decisions_he_wakes_in_me.jsonl",
+  "review_file": "[He Wakes In Me]/editorial_review_he_wakes_in_me.md"
+}
