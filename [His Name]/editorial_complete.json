@@ -1,0 +1,21 @@
+{
+  "work": "His Name",
+  "corpus_id": "L0085",
+  "canonical_date": "1963-02-26",
+  "date_provenance": "corpus_registry.full_date is null; repository date and canonical worker report record 1963-02-26.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_his_name.txt",
+  "canonical_source_sha": "ab3d05cd96c4b1dd8a512001364e0f719dc63218",
+  "canonical_source_paragraphs": 27,
+  "source_paragraphs_reviewed": 27,
+  "raw_worker_windows_generated": 466,
+  "retained_worker_windows": 452,
+  "worker_rejected": 14,
+  "raw_duplicate_groups": 25,
+  "select_fragments": 1,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[His Name]/curated_his_name.jsonl",
+  "decisions_file": "[His Name]/editorial_decisions_his_name.jsonl",
+  "review_file": "[His Name]/editorial_review_his_name.md"
+}
