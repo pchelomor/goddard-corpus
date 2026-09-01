@@ -1,0 +1,21 @@
+{
+  "work": "Four Mighty Ones – June 17 1956",
+  "corpus_id": "L0062",
+  "canonical_date": "1956-06-17",
+  "date_provenance": "Exact date embedded in canonical title/folder and primary-source slug; corpus_registry.full_date is null; raw date field remains 1956-01-01 year placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_four_mighty_ones_june_17_1956.txt",
+  "canonical_source_sha": "7abea9968ae05f71dc80f5b76b637f05152420b0",
+  "canonical_source_paragraphs": 1,
+  "source_paragraphs_reviewed": 1,
+  "raw_worker_windows_generated": 462,
+  "retained_worker_windows": 448,
+  "worker_rejected": 14,
+  "raw_duplicate_groups": 1,
+  "select_fragments": 2,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Four Mighty Ones – June 17 1956]/curated_four_mighty_ones_june_17_1956.jsonl",
+  "decisions_file": "[Four Mighty Ones – June 17 1956]/editorial_decisions_four_mighty_ones_june_17_1956.jsonl",
+  "review_file": "[Four Mighty Ones – June 17 1956]/editorial_review_four_mighty_ones_june_17_1956.md"
+}
