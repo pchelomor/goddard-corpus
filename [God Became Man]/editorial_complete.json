@@ -1,0 +1,21 @@
+{
+  "work": "God Became Man",
+  "corpus_id": "L0066",
+  "canonical_date": "1969-02-24",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_god_became_man.txt",
+  "canonical_source_sha": "64219ece26b0c79a594a2f026435d5523cfee4c2",
+  "canonical_source_paragraphs": 16,
+  "source_paragraphs_reviewed": 16,
+  "raw_worker_windows_generated": 264,
+  "retained_worker_windows": 261,
+  "worker_rejected": 3,
+  "raw_duplicate_groups": 15,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[God Became Man]/curated_god_became_man.jsonl",
+  "decisions_file": "[God Became Man]/editorial_decisions_god_became_man.jsonl",
+  "review_file": "[God Became Man]/editorial_review_god_became_man.md"
+}
