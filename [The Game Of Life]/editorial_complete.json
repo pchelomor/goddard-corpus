@@ -1,0 +1,22 @@
+{
+  "work": "The Game Of Life",
+  "corpus_id": "L0161",
+  "canonical_date": "1969-03-07",
+  "date_provenance": "Registry full_date/date and raw report agree on 1969-03-07.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_game_of_life.txt",
+  "canonical_source_sha": "d77fc5d678b38070b6094f4e0ca01d44aa015e06",
+  "canonical_source_paragraphs": 45,
+  "source_paragraphs_reviewed": 45,
+  "raw_worker_windows_generated": 406,
+  "raw_worker_candidates": 402,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 42,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Game Of Life]/curated_the_game_of_life.jsonl",
+  "decisions_file": "[The Game Of Life]/editorial_decisions_the_game_of_life.jsonl",
+  "review_file": "[The Game Of Life]/editorial_review_the_game_of_life.md"
+}

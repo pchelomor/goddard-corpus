@@ -1,0 +1,22 @@
+{
+  "work": "The Great Mystery",
+  "corpus_id": "L0163",
+  "canonical_date": "1969-09-26",
+  "date_provenance": "Physical report/canonical object and corpus_registry.date identify 1969-09-26; corpus_registry.full_date is 1968-04-12. Editorial metadata follows the physical canonical object and records the registry discrepancy.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_great_mystery.txt",
+  "canonical_source_sha": "4d9f27d4ca6ef2083698eb8ede7fa51fc8c81729",
+  "canonical_source_paragraphs": 33,
+  "source_paragraphs_reviewed": 33,
+  "raw_worker_windows_generated": 361,
+  "raw_worker_candidates": 351,
+  "worker_rejected": 10,
+  "raw_duplicate_groups": 29,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Great Mystery]/curated_the_great_mystery.jsonl",
+  "decisions_file": "[The Great Mystery]/editorial_decisions_the_great_mystery.jsonl",
+  "review_file": "[The Great Mystery]/editorial_review_the_great_mystery.md"
+}

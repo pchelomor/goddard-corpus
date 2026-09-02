@@ -1,0 +1,22 @@
+{
+  "work": "The Gospel",
+  "corpus_id": "L0162",
+  "canonical_date": "1969-10-06",
+  "date_provenance": "Physical report/canonical object and corpus_registry.date identify 1969-10-06; corpus_registry.full_date is 1968-01-22. Editorial metadata follows the physical canonical object and records the registry discrepancy.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_gospel.txt",
+  "canonical_source_sha": "a564ffb1e81b66c18920f5e9a3a79d9e34e300b6",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": 422,
+  "raw_worker_candidates": 417,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 28,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Gospel]/curated_the_gospel.jsonl",
+  "decisions_file": "[The Gospel]/editorial_decisions_the_gospel.jsonl",
+  "review_file": "[The Gospel]/editorial_review_the_gospel.md"
+}

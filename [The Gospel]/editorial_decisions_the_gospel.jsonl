@@ -1,0 +1,4 @@
+{"decision_id":"L0162-ED-001","corpus_id":"L0162","decision":"DROP","text":"remember-when and scene-construction technique","reason":"Substantially duplicated by stronger existing selections."}
+{"decision_id":"L0162-ED-002","corpus_id":"L0162","decision":"DROP","text":"medical and mental-health examples attributed to imagination","reason":"Categorical health/mental-health causation excluded."}
+{"decision_id":"L0162-ED-003","corpus_id":"L0162","decision":"DROP","text":"wealth and gambling-success material","reason":"Financial/gambling success claims excluded."}
+{"decision_id":"L0162-ED-004","corpus_id":"L0162","decision":"HOLD","text":"Gospel/Promise/Christ identity exposition","reason":"Strong theological and mystical context outside automatic pool."}

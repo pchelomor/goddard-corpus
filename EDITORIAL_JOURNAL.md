@@ -8,8 +8,9 @@ Historical snapshots are preserved verbatim:
 - `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0127.md`
 - `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0137.md`
 - `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0147.md`
+- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0157.md`
 
-The authoritative queue identity is always the **current** `corpus_registry.json` `corpus_id`. Every completed item requires full `SOURCE_FIRST_CANONICAL` reading, the four-file editorial package, journal entry, and post-write GitHub verification.
+The authoritative queue identity is always the **current** `corpus_registry.json` `corpus_id`. Every completed item requires full `SOURCE_FIRST_CANONICAL` reading, the four-file editorial package, journal entry, and post-write GitHub verification. A corpus item whose physical master does not match its registry identity is **BLOCKED**, not editorially complete.
 
 ## Decision vocabulary
 
@@ -51,70 +52,70 @@ No quota is imposed.
 | L0118–L0127 | COMPLETE | 4 | L0123 duplicate-suppressed against S002 |
 | L0128–L0137 | COMPLETE | 7 | ten-lecture batch |
 | L0138–L0147 | COMPLETE | 4 | ten-lecture batch |
-| L0148–L0157 | COMPLETE | 4 | current ten-lecture batch |
+| L0148–L0157 | COMPLETE | 4 | ten-lecture batch |
+| L0158–L0167 | PROCESSED: 8 COMPLETE / 2 BLOCKED | 1 | L0165 and L0167 identity-misfile blockers |
 
-## 2026-09-02 — Lecture batch L0148–L0157
+## 2026-09-02 — Lecture batch L0158–L0167
 
-Completed ten corpus IDs under `SOURCE_FIRST_CANONICAL`.
+All ten physical source objects were read end-to-end under `SOURCE_FIRST_CANONICAL`. Eight corpus identities are editorially complete; two are blocked because the canonical payload does not match the registry identity.
 
-| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
-|---|---|---:|---:|---:|
-| L0148 | The Book Of Job | 32 / 32 | 513 | 0 |
-| L0149 | The Bread And The Wine | 16 / 16 | 383 | 0 |
-| L0150 | The Coin Of Heaven | 28 / 28 | 232 | 1 |
-| L0151 | The Core Of Man | 31 / 31 | 331 | 0 |
-| L0152 | The Creator | 44 / 44 | 404 | 1 |
-| L0153 | The Crucifixion | 60 / 60 | 543 | 0 |
-| L0154 | The Cup Of Experience | 28 / 28 | 349 | 1 |
-| L0155 | The Father | 26 / 26 | 348 | 0 |
-| L0156 | The First Principle | 40 / 40 | 388 | 1 |
-| L0157 | The Forming Of Christ In You | 48 / 48 | 395 | 0 |
+| Corpus ID | Work | Canonical paragraphs/source units | Retained worker windows | SELECT | Status |
+|---|---|---:|---:|---:|---|
+| L0158 | The Foundation Stone – Imagination | 1 / 1 long source unit | 412 | 0 | COMPLETE |
+| L0159 | The Fourfold Gospel | 35 / 35 | 575 | 0 | COMPLETE |
+| L0160 | The Free Man | 46 / 46 | 327 | 0 | COMPLETE |
+| L0161 | The Game Of Life | 45 / 45 | 402 | 1 | COMPLETE |
+| L0162 | The Gospel | 32 / 32 | 417 | 0 | COMPLETE |
+| L0163 | The Great Mystery | 33 / 33 | 351 | 0 | COMPLETE |
+| L0164 | The Great Possession | 40 / 40 | 289 | 0 | COMPLETE |
+| L0165 | The Great Secret | 30 / 30 physical payload | 384 | 0 new | **BLOCKED — payload is Brazen Impudence** |
+| L0166 | The Heart Of The Dreamer | 46 / 46 | 341 | 0 | COMPLETE |
+| L0167 | The Heavenly Vision | 1 / 1 long physical payload | 549 | 0 | **BLOCKED — payload is By Water And Blood** |
 
 Batch totals:
-- canonical paragraphs reviewed: **353 / 353**;
-- worker windows generated: **3,989**;
-- retained worker windows: **3,886**;
-- worker rejected windows: **103**;
-- raw duplicate groups: **299**;
-- final new SELECT fragments: **4**.
+- canonical physical paragraphs/source units reviewed: **309 / 309**;
+- worker windows generated: **4,133**;
+- retained worker windows: **4,047**;
+- worker rejected windows: **86**;
+- raw duplicate groups: **266**;
+- final new SELECT fragments: **1**;
+- editorially complete corpus IDs: **8 / 10**;
+- identity blockers discovered: **2**.
 
-Selected boundaries:
-- `L0150`: `Go back to that moment in time. rewrite it, replay it in the revised version, and do it over and over in your imagination until that takes on the tones of reality.`
-- `L0152`: `The power of any imaginal act is in its implication.`
-- `L0154`: `Tonight ask yourself: “Who am I? Where am I?” If you do not like your answers, assume you are the person you would like to be, living where you would like to live.`
-- `L0156`: `What I tell you I know from experience, but I ask you not to accept my words without questioning them within yourself.`
+Selected boundary:
+- `L0161`: `Seeing an objective, and mentally moving into its fulfillment, you occupy the state and fertilize it.`
 
 Notable filtering:
-- `L0148`: intentionally 0 SELECT. Job/grace/retribution exegesis dominates. The states/person distinction is context-dependent, partly duplicates L0138, and is repeatedly turned into covert alteration of another person; medical/direct-other causation is excluded.
-- `L0149`: intentionally 0 SELECT. Bread/wine forgiveness symbolism contains a useful state/person distinction but applies it through direct-other transformation. Health, employment, relationship and material outcomes are stated categorically; generic practice language does not clear author-specificity.
-- `L0150`: one exact revision instruction retained. Recurrence/time-track metaphysics, direct-other watering of health/employment/social states, and duplicate inner-conversation language are excluded or held.
-- `L0151`: intentionally 0 SELECT. The safe inner-senses definition is a near-duplicate of L0140; the rest couples practice to guaranteed externalization, Christ/imagination identity and Promise doctrine.
-- `L0152`: one compact implication principle retained. Universal self-causation, financial guarantees, other-person conformity and the violent-assault-as-proof example are excluded.
-- `L0153`: intentionally 0 SELECT. Crucifixion/resurrection, birth-from-above, Davidic fatherhood and mystical testimony dominate. Deterministic suffering and wicked-role claims are excluded.
-- `L0154`: one self-diagnostic/desired-state instruction retained, ending before the harden-into-fact guarantee. Unemployment/debt/direct-other conformity and universal causation are excluded.
-- `L0155`: intentionally 0 SELECT. Father/David/Promise theology, postmortem cosmology and fixed spiritual chronology dominate; deterministic claims about horrible acts being willed are excluded.
-- `L0156`: one unusually clear self-inquiry statement retained: Neville explicitly asks listeners not to accept even his testimony without questioning it inwardly. Fulfilled-feeling language duplicates L0134; gambling prediction, absolutes and scripture quotations are excluded/held.
-- `L0157`: intentionally 0 SELECT. Scene construction duplicates stronger B010/L0119/L0120 material; unique examples rely on rabbit healing, house-sale proof, categorical fulfillment and bride/husband spiritual metaphors.
+- `L0158`: intentionally 0 SELECT. The master was read as one long source unit. Neville's portion repeatedly combines imagination with illness examples, direct-other influence, universal causation and deterministic fulfillment. The appended **Notes by the Transcriber** are external wording and are explicitly excluded from Neville attribution.
+- `L0159`: intentionally 0 SELECT. Fourfold-Gospel/Christology/David/Fatherhood/Promise material dominates; practical identity language duplicates stronger earlier selections.
+- `L0160`: intentionally 0 SELECT. Paul/David/Promise and spiritual-body material dominate; income/assumption passages are tied to financial proof and result certainty.
+- `L0161`: one compact state-occupation technique retained. Financial determinism, other-person conformity and sole-responsibility/universal-causation framing are excluded.
+- `L0162`: intentionally 0 SELECT. Remember-when and scene-construction language duplicate stronger prior selections; universal self-causation, blame-heavy mental-health language, medical anecdote, wealth/gambling success and categorical guarantees are excluded.
+- `L0163`: intentionally 0 SELECT. Elohim/Promise/resurrection/David/postmortem mystical material dominates and practical wording is derivative.
+- `L0164`: intentionally 0 SELECT. Promise/postmortem/time-arrest/David/body-of-love material dominates.
+- `L0165`: **BLOCKED**. The physical `master_text_the_great_secret.txt` begins `BRAZEN IMPUDENCE` and corresponds to `L0029 Brazen Impudence`, already editorially complete with three canonical SELECT fragments. No duplicate L0165 selections were created. The intended *The Great Secret* master is missing/misfiled.
+- `L0166`: intentionally 0 SELECT. Mental-ledger and sleep practice is tied to a financial proof story and categorical fulfillment; Promise/mystical material dominates.
+- `L0167`: **BLOCKED**. The physical `master_text_the_heavenly_vision.txt` begins `BY WATER AND BLOOD` and contains that different lecture. No separate `By Water And Blood` corpus object was found in the repository. The intended *The Heavenly Vision* master is missing/misfiled.
 
 ### Date/provenance notes
 
-- `L0149`: registry `full_date` is **1959-09-25**; raw report carries `1959-01-01` as a year-level placeholder.
-- `L0150`: registry `full_date` is null; `1954-01-01` is retained only as a year-level repository placeholder.
-- `L0153`: registry `full_date` is **1963-04-09**; raw report carries `1963-01-01` as a year-level placeholder.
-- `L0155`: registry `full_date` is null, while `corpus_registry.date` and raw report identify **1968-09-23**; editorial metadata uses that explicit repository date without rewriting the registry.
+- `L0158`: registry `full_date` is **1959-12-01**; raw report uses `1959-01-01` as a year-level placeholder.
+- `L0159`: registry `full_date` is **1963-03-05**; raw report uses `1963-01-01` as a year-level placeholder.
+- `L0162`: physical report/canonical object and `corpus_registry.date` identify **1969-10-06**, while `corpus_registry.full_date` says **1968-01-22**. Editorial metadata follows the physical object.
+- `L0163`: physical report/canonical object and `corpus_registry.date` identify **1969-09-26**, while `corpus_registry.full_date` says **1968-04-12**. Editorial metadata follows the physical object.
+- `L0164`: registry `full_date` is null and report uses `1968-01-01`, but the canonical master itself begins **“Neville 10-3-69”**; editorial metadata uses **1969-10-03**.
+- `L0165`: registry target *The Great Secret* says `full_date=1969-09-29`, but the physical payload is *Brazen Impudence* dated **1968-09-27**, matching `L0029`.
+- `L0167`: registry target *The Heavenly Vision* says `full_date=1968-11-15`; the actual physical payload is *By Water And Blood* and has no reliable matching date established inside the repository.
 
-All ten works now have:
-- `curated_<slug>.jsonl`;
-- `editorial_decisions_<slug>.jsonl`;
-- `editorial_review_<slug>.md`;
-- corpus-ID-matching `editorial_complete.json`.
+Eight matched works now have a corpus-ID-matching four-file editorial package with `complete:true`. L0165 and L0167 also have four-file diagnostic packages, but their `editorial_complete.json` correctly records `complete:false`, `blocked:true`, and the identity failure.
 
-Raw candidate, rejected, master-text, manifest, variation, report and processing files were not modified.
+Raw candidate, rejected, master-text, manifest, variation, report, processing, and registry files were not modified. The two identity defects are recorded in `corpus_issues.md`.
 
 ## Current queue
 
 - `B008` remains blocked pending a distinct canonical book object.
-- Lecture queue is editorially complete through **L0157**.
-- Next lecture corpus item: **L0158 — The Foundation Stone – Imagination** (`1959-12-01`).
+- Lecture source review has been processed through **L0167**.
+- Outstanding lecture identity blockers: **L0165 The Great Secret**, **L0167 The Heavenly Vision**.
+- Next active lecture corpus item: **L0168 — The Hidden Cause** (`1969-03-28`).
 
 Never advance an item based only on a prior chat statement or stale title mapping; re-fetch the package from GitHub after writing.

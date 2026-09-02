@@ -1,0 +1,22 @@
+{
+  "work": "The Free Man",
+  "corpus_id": "L0160",
+  "canonical_date": "1969-10-13",
+  "date_provenance": "Registry full_date/date and raw report agree on 1969-10-13.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_free_man.txt",
+  "canonical_source_sha": "3f2795ade4078395243b9f2e374714f82062d12d",
+  "canonical_source_paragraphs": 46,
+  "source_paragraphs_reviewed": 46,
+  "raw_worker_windows_generated": 333,
+  "raw_worker_candidates": 327,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 35,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Free Man]/curated_the_free_man.jsonl",
+  "decisions_file": "[The Free Man]/editorial_decisions_the_free_man.jsonl",
+  "review_file": "[The Free Man]/editorial_review_the_free_man.md"
+}

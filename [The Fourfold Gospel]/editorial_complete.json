@@ -1,0 +1,22 @@
+{
+  "work": "The Fourfold Gospel",
+  "corpus_id": "L0159",
+  "canonical_date": "1963-03-05",
+  "date_provenance": "Registry full_date is 1963-03-05; raw report date 1963-01-01 is a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_fourfold_gospel.txt",
+  "canonical_source_sha": "dc3ca4db567123eaaa6d8dabaacd0e4fcbb88114",
+  "canonical_source_paragraphs": 35,
+  "source_paragraphs_reviewed": 35,
+  "raw_worker_windows_generated": 597,
+  "raw_worker_candidates": 575,
+  "worker_rejected": 22,
+  "raw_duplicate_groups": 35,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Fourfold Gospel]/curated_the_fourfold_gospel.jsonl",
+  "decisions_file": "[The Fourfold Gospel]/editorial_decisions_the_fourfold_gospel.jsonl",
+  "review_file": "[The Fourfold Gospel]/editorial_review_the_fourfold_gospel.md"
+}

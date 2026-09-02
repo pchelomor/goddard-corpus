@@ -1,0 +1,22 @@
+{
+  "work": "The Great Possession",
+  "corpus_id": "L0164",
+  "canonical_date": "1969-10-03",
+  "date_provenance": "Registry full_date/year are null and raw report uses 1968-01-01 as a placeholder; the canonical master itself begins “Neville 10-3-69”, identifying the physical payload as 1969-10-03.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_great_possession.txt",
+  "canonical_source_sha": "4cad5c32312602d97ecaa3858dd0ecf6b4609bff",
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "raw_worker_windows_generated": 293,
+  "raw_worker_candidates": 289,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 35,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Great Possession]/curated_the_great_possession.jsonl",
+  "decisions_file": "[The Great Possession]/editorial_decisions_the_great_possession.jsonl",
+  "review_file": "[The Great Possession]/editorial_review_the_great_possession.md"
+}

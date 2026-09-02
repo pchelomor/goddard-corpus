@@ -1,0 +1,3 @@
+{"decision_id":"L0167-ED-001","corpus_id":"L0167","decision":"DROP","text":"BY WATER AND BLOOD payload under The Heavenly Vision folder","reason":"Wrong corpus identity; cannot be attributed to L0167."}
+{"decision_id":"L0167-ED-002","corpus_id":"L0167","decision":"DROP","text":"all candidate quotations from the physical payload","reason":"Identity mismatch prevents curation under The Heavenly Vision."}
+{"decision_id":"L0167-ED-003","corpus_id":"L0167","decision":"HOLD","text":"L0167 intended The Heavenly Vision","reason":"Blocked pending restoration of a matching canonical master."}

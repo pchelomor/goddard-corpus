@@ -1,0 +1,22 @@
+{
+  "work": "The Heart Of The Dreamer",
+  "corpus_id": "L0166",
+  "canonical_date": "1969-12-01",
+  "date_provenance": "Registry full_date/date and raw report agree on 1969-12-01.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_heart_of_the_dreamer.txt",
+  "canonical_source_sha": "23d2bd31ebc74a97faf6163460a6d057f27eed02",
+  "canonical_source_paragraphs": 46,
+  "source_paragraphs_reviewed": 46,
+  "raw_worker_windows_generated": 349,
+  "raw_worker_candidates": 341,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 33,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Heart Of The Dreamer]/curated_the_heart_of_the_dreamer.jsonl",
+  "decisions_file": "[The Heart Of The Dreamer]/editorial_decisions_the_heart_of_the_dreamer.jsonl",
+  "review_file": "[The Heart Of The Dreamer]/editorial_review_the_heart_of_the_dreamer.md"
+}
