@@ -1,0 +1,22 @@
+{
+  "work": "The Art Of Dying",
+  "corpus_id": "L0141",
+  "canonical_date": "1959-03-23",
+  "date_provenance": "Registry full_date is 1959-03-23; raw report date 1959-01-01 is a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_art_of_dying.txt",
+  "canonical_source_sha": "97abed4e0634f676987f31759029fd479cc89009",
+  "canonical_source_paragraphs": 19,
+  "source_paragraphs_reviewed": 19,
+  "raw_worker_windows_generated": 379,
+  "raw_worker_candidates": 368,
+  "worker_rejected": 11,
+  "raw_duplicate_groups": 17,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Art Of Dying]/curated_the_art_of_dying.jsonl",
+  "decisions_file": "[The Art Of Dying]/editorial_decisions_the_art_of_dying.jsonl",
+  "review_file": "[The Art Of Dying]/editorial_review_the_art_of_dying.md"
+}

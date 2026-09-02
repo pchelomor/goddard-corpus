@@ -6,6 +6,7 @@ Historical snapshots are preserved verbatim:
 - `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0107.md`
 - `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0117.md`
 - `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0127.md`
+- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0137.md`
 
 The authoritative queue identity is always the **current** `corpus_registry.json` `corpus_id`. Every completed item requires full `SOURCE_FIRST_CANONICAL` reading, the four-file editorial package, journal entry, and post-write GitHub verification.
 
@@ -47,59 +48,59 @@ No quota is imposed.
 | L0107 | COMPLETE | 0 | Moses – Elijah – Jesus |
 | L0108–L0117 | COMPLETE | 5 | ten-lecture batch |
 | L0118–L0127 | COMPLETE | 4 | L0123 duplicate-suppressed against S002 |
-| L0128–L0137 | COMPLETE | 7 | current ten-lecture batch |
+| L0128–L0137 | COMPLETE | 7 | ten-lecture batch |
+| L0138–L0147 | COMPLETE | 4 | current ten-lecture batch |
 
-## 2026-09-02 — Lecture batch L0128–L0137
+## 2026-09-02 — Lecture batch L0138–L0147
 
 Completed ten corpus IDs under `SOURCE_FIRST_CANONICAL`.
 
-| Corpus ID | Work | Canonical paragraphs/source units | Retained worker windows | SELECT |
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
 |---|---|---:|---:|---:|
-| L0128 | Salvation History | 40 / 40 | 261 | 1 |
-| L0129 | Seedtime And Harvest – June 10 1956 | 1 / 1 long source paragraph | 369 | 0 |
-| L0130 | Seeing Christ Through The Eyes Of Paul | 33 / 33 | 390 | 0 |
-| L0131 | Seek The Kingdom | 25 / 25 | 312 | 0 |
-| L0132 | Self Abandonment | 89 / 89 | 589 | 0 |
-| L0133 | Sharing In Creativity | 27 / 27 | 325 | 0 |
-| L0134 | Signs From Above | 21 / 21 | 227 | 2 |
-| L0135 | Sons Of The Most High | 26 / 26 | 263 | 0 |
-| L0136 | Sound Investments | 26 / 26 | 336 | 3 |
-| L0137 | Spiritual Sensation | 37 / 37 | 427 | 1 |
+| L0138 | Summary | 27 / 27 | 415 | 1 |
+| L0139 | Test Yourselves | 30 / 30 | 321 | 0 |
+| L0140 | That Which Already Has Been | 23 / 23 | 386 | 1 |
+| L0141 | The Art Of Dying | 19 / 19 | 368 | 0 |
+| L0142 | The Artist Is God | 31 / 31 | 398 | 0 |
+| L0143 | The Awakening Of Faith | 27 / 27 | 390 | 1 |
+| L0144 | The Battle Of Armageddon | 29 / 29 | 427 | 1 |
+| L0145 | The Bible Your Biography | 27 / 27 | 409 | 0 |
+| L0146 | The Bibles Mystery | 29 / 29 | 363 | 0 |
+| L0147 | The Birth Of The Babe | 26 / 26 | 301 | 0 |
 
 Batch totals:
-- canonical paragraphs/source units reviewed: **325 / 325**;
-- worker windows generated: **3,581**;
-- retained worker windows: **3,499**;
-- worker rejected windows: **82**;
-- raw duplicate groups: **269**;
-- final new SELECT fragments: **7**.
+- canonical paragraphs reviewed: **268 / 268**;
+- worker windows generated: **3,875**;
+- retained worker windows: **3,778**;
+- worker rejected windows: **97**;
+- raw duplicate groups: **231**;
+- final new SELECT fragments: **4**.
 
 Selected boundaries:
-- `L0128`: freedom / noble imagination closing boundary, ending before the stronger unity/metaphysical clause;
-- `L0134`: fulfilled-identity diagnostic through how friends would see you;
-- `L0134`: fulfilled-feeling question plus sustaining the feeling, ending before guaranteed externalization;
-- `L0136`: the distinctive spending-versus-investing metaphor for present attention;
-- `L0136`: the distinction between thinking **from** an end and thinking **of** an end;
-- `L0136`: fulfilled-state self-inquiry — what it would be like and how it would feel to embody the desired state;
-- `L0137`: define the goal, imagine it reached, and persuade yourself it is true.
+- `L0138`: `Here we always bear in mind the distinction between states and the occupant of the state.`
+- `L0140`: `Imagination is the power to perceive what is absent from the senses.`
+- `L0143`: `In other words, your concept of yourself is either your honor or your dishonor.`
+- `L0144`: `If you find yourself moving from your fulfilled desire, go back to it, and once more assume the feeling of the wish fulfilled.`
 
 Notable filtering:
-- `L0128`: predominantly salvation-history/Christology, resurrection and postmortem cosmology; one clean noble-imagination boundary survives.
-- `L0129`: complete ~5,293-word single-paragraph lecture read end-to-end. Safe attitude/wish-fulfilled ideas substantially overlap the already curated `B010 Seedtime And Harvest`; distinctive surrounding material repeatedly assigns illness, disaster, misfortune, salary and other people's conduct to imaginal causation. Zero new SELECT prevents both duplicate inflation and unsafe causal framing.
-- `L0130`: intentionally 0 SELECT; Paul/Christ/I-AM theology plus employer/interpersonal/medical causal examples. Safer loving-use wording is already represented more strongly elsewhere.
-- `L0131`: intentionally 0 SELECT; kingdom theology and a wealth case built around a childhood bank-error misappropriation, followed by guaranteed-assumption framing.
-- `L0132`: intentionally 0 SELECT; the Neville portion is overwhelmingly incarnation/birth-from-above/Promise theology. The canonical master then appends the Los Angeles Times column **“Two Tombs in Russia: A Saddening Contrast” by William F. Buckley Jr.** The appendix was read for complete coverage but is entirely external wording and explicitly DROP for Neville attribution.
-- `L0133`: intentionally 0 SELECT; grace/election, mystical testimony, Davidic fatherhood and institutional/temple symbolism dominate.
-- `L0134`: two clean practice boundaries retained; court-martial/direct-other causation, sensory-evidence denial and categorical outcome guarantees excluded.
-- `L0135`: intentionally 0 SELECT; safe assumption language is a weaker duplicate of existing L0109/L0118 selections, while this source repeatedly adds direct-other and guaranteed-outcome mechanisms.
-- `L0136`: three distinctive practical boundaries retained. Racial self-blame framing, medical and financial causal proof, material-acquisition guarantees, other-person conformity and no-power-can-stop language were excluded.
-- `L0137`: one concise goal/imaginal-end/self-persuasion boundary retained; God-in-action literalism, direct role assignment to others and guaranteed externalization were excluded.
+- `L0138`: one technical states/occupant distinction retained; political/national event causation, health/wealth absolutes, interpersonal causation and Promise material excluded or held.
+- `L0139`: intentionally 0 SELECT; telephone revision is illustrated through exam, employment and weight/body outcomes for other people. Safer self-persuasion lines duplicate stronger existing selections.
+- `L0140`: one concise definition of imagination retained; medical revision, financial certainty, global influence and direct-other causation excluded.
+- `L0141`: intentionally 0 SELECT; the dying-to-states metaphor is valuable contextually, but unique examples include covert alteration of another person and a categorical burn-reversal story. Cleaner fulfilled-feeling language is already represented elsewhere.
+- `L0142`: intentionally 0 SELECT; movement/perspective language is mixed with self-blame and wealth-as-proof mechanics, while the clean thinking-from material duplicates stronger earlier selections.
+- `L0143`: one compact self-concept line retained; fulfilled-feeling instructions duplicate L0134/L0136 and strong I-AM/God identity claims are held.
+- `L0144`: one recovery-from-drift instruction retained; Armageddon/social-conflict symbolism and harden-into-fact certainty are excluded or held.
+- `L0145`: intentionally 0 SELECT; Bible-as-biography, mystical alternate-world claims and direct-other causation dominate; loving-imagination language has stronger prior equivalents.
+- `L0146`: intentionally 0 SELECT; calling/sending, third-heaven and Promise material dominate, and the law section repeats the categorical harden-into-fact formula.
+- `L0147`: intentionally 0 SELECT; the lecture is a birth-from-above mystical testimony and Promise work; generic love/example advice does not clear the author-specificity threshold.
 
 ### Date/provenance notes
 
-- `L0129`: registry `full_date` is null and raw metadata carries `1956-01-01` as a year-level placeholder; the canonical title and primary-source slug identify **June 10, 1956**. Raw metadata was not rewritten.
-- `L0132`: registry `full_date` is **1970-06-01**, while the raw report uses `1970-01-01` as a year-level placeholder. Editorial metadata uses the exact registry date.
-- `L0136`: registry `full_date` is null; `1953-01-01` remains only a year-level repository placeholder.
+- `L0140`: registry `full_date` is **1959-10-06**; raw report carries `1959-01-01` as a year-level placeholder.
+- `L0141`: registry `full_date` is **1959-03-23**; raw report carries `1959-01-01` as a year-level placeholder.
+- `L0142`: the physical source manifest/report and `corpus_registry.date` identify **1967-10-16**, while `corpus_registry.full_date` says **1969-05-19**. Editorial metadata follows the canonical physical object's date and records, but does not rewrite, the registry discrepancy.
+- `L0146`: registry `full_date` is **1969-03-14**; raw report carries `1969-01-01` as a year-level placeholder.
+- `L0147`: registry `full_date` is **1959-09-08**; raw report carries `1959-01-01` as a year-level placeholder.
 
 All ten works now have:
 - `curated_<slug>.jsonl`;
@@ -112,7 +113,7 @@ Raw candidate, rejected, master-text, manifest, variation, report and processing
 ## Current queue
 
 - `B008` remains blocked pending a distinct canonical book object.
-- Lecture queue is editorially complete through **L0137**.
-- Next lecture corpus item: **L0138 — summary** (`1963-01-29`).
+- Lecture queue is editorially complete through **L0147**.
+- Next lecture corpus item: **L0148 — The Book of Job** (`1963-02-01`).
 
 Never advance an item based only on a prior chat statement or stale title mapping; re-fetch the package from GitHub after writing.

@@ -1,0 +1,22 @@
+{
+  "work": "That Which Already Has Been",
+  "corpus_id": "L0140",
+  "canonical_date": "1959-10-06",
+  "date_provenance": "Registry full_date is 1959-10-06; raw report date 1959-01-01 is a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_that_which_already_has_been.txt",
+  "canonical_source_sha": "d70a29070c3a172685d68fe9d42fa2445af44f18",
+  "canonical_source_paragraphs": 23,
+  "source_paragraphs_reviewed": 23,
+  "raw_worker_windows_generated": 397,
+  "raw_worker_candidates": 386,
+  "worker_rejected": 11,
+  "raw_duplicate_groups": 20,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[That Which Already Has Been]/curated_that_which_already_has_been.jsonl",
+  "decisions_file": "[That Which Already Has Been]/editorial_decisions_that_which_already_has_been.jsonl",
+  "review_file": "[That Which Already Has Been]/editorial_review_that_which_already_has_been.md"
+}

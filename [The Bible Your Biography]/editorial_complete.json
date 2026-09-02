@@ -1,0 +1,22 @@
+{
+  "work": "The Bible Your Biography",
+  "corpus_id": "L0145",
+  "canonical_date": "1963-02-05",
+  "date_provenance": "Registry full_date/date and raw report agree on 1963-02-05.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_bible_your_biography.txt",
+  "canonical_source_sha": "09b3e7f82ca5fa49249faff114681e32c9b19e46",
+  "canonical_source_paragraphs": 27,
+  "source_paragraphs_reviewed": 27,
+  "raw_worker_windows_generated": 419,
+  "raw_worker_candidates": 409,
+  "worker_rejected": 10,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Bible Your Biography]/curated_the_bible_your_biography.jsonl",
+  "decisions_file": "[The Bible Your Biography]/editorial_decisions_the_bible_your_biography.jsonl",
+  "review_file": "[The Bible Your Biography]/editorial_review_the_bible_your_biography.md"
+}

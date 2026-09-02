@@ -1,0 +1,22 @@
+{
+  "work": "The Bibles Mystery",
+  "corpus_id": "L0146",
+  "canonical_date": "1969-03-14",
+  "date_provenance": "Registry full_date is 1969-03-14; raw report date 1969-01-01 is a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_bibles_mystery.txt",
+  "canonical_source_sha": "84ed1ab91c81e0095bd2f51d52fc103b36f13d52",
+  "canonical_source_paragraphs": 29,
+  "source_paragraphs_reviewed": 29,
+  "raw_worker_windows_generated": 371,
+  "raw_worker_candidates": 363,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 26,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Bibles Mystery]/curated_the_bibles_mystery.jsonl",
+  "decisions_file": "[The Bibles Mystery]/editorial_decisions_the_bibles_mystery.jsonl",
+  "review_file": "[The Bibles Mystery]/editorial_review_the_bibles_mystery.md"
+}

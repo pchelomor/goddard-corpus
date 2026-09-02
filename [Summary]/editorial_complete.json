@@ -1,0 +1,22 @@
+{
+  "work": "Summary",
+  "corpus_id": "L0138",
+  "canonical_date": "1963-01-29",
+  "date_provenance": "Registry full_date/date and raw report agree on 1963-01-29.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_summary.txt",
+  "canonical_source_sha": "ebd75d701ca8407e7052247c5e6e9c877a201e15",
+  "canonical_source_paragraphs": 27,
+  "source_paragraphs_reviewed": 27,
+  "raw_worker_windows_generated": 423,
+  "raw_worker_candidates": 415,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 21,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Summary]/curated_summary.jsonl",
+  "decisions_file": "[Summary]/editorial_decisions_summary.jsonl",
+  "review_file": "[Summary]/editorial_review_summary.md"
+}

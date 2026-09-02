@@ -1,0 +1,22 @@
+{
+  "work": "The Artist Is God",
+  "corpus_id": "L0142",
+  "canonical_date": "1967-10-16",
+  "date_provenance": "Physical source manifest/report and corpus_registry.date identify 1967-10-16; corpus_registry.full_date is 1969-05-19. Editorial metadata follows the canonical physical object and records the discrepancy without rewriting raw registry metadata.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_artist_is_god.txt",
+  "canonical_source_sha": "e16bbf3fcd785835b92f32777bf375bbf0082c2b",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 403,
+  "raw_worker_candidates": 398,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 28,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Artist Is God]/curated_the_artist_is_god.jsonl",
+  "decisions_file": "[The Artist Is God]/editorial_decisions_the_artist_is_god.jsonl",
+  "review_file": "[The Artist Is God]/editorial_review_the_artist_is_god.md"
+}

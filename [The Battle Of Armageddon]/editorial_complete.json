@@ -1,0 +1,22 @@
+{
+  "work": "The Battle Of Armageddon",
+  "corpus_id": "L0144",
+  "canonical_date": "1969-05-06",
+  "date_provenance": "Registry full_date/date and raw report agree on 1969-05-06.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_battle_of_armageddon.txt",
+  "canonical_source_sha": "351da47f100bced73d007d8a836f929dc8de9ec2",
+  "canonical_source_paragraphs": 29,
+  "source_paragraphs_reviewed": 29,
+  "raw_worker_windows_generated": 436,
+  "raw_worker_candidates": 427,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 28,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Battle Of Armageddon]/curated_the_battle_of_armageddon.jsonl",
+  "decisions_file": "[The Battle Of Armageddon]/editorial_decisions_the_battle_of_armageddon.jsonl",
+  "review_file": "[The Battle Of Armageddon]/editorial_review_the_battle_of_armageddon.md"
+}

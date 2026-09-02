@@ -1,0 +1,22 @@
+{
+  "work": "Test Yourselves",
+  "corpus_id": "L0139",
+  "canonical_date": "1967-09-25",
+  "date_provenance": "Registry full_date/date and raw report agree on 1967-09-25.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_test_yourselves.txt",
+  "canonical_source_sha": "228db20348e13721df89d79e38dbc3ab077a15da",
+  "canonical_source_paragraphs": 30,
+  "source_paragraphs_reviewed": 30,
+  "raw_worker_windows_generated": 332,
+  "raw_worker_candidates": 321,
+  "worker_rejected": 11,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Test Yourselves]/curated_test_yourselves.jsonl",
+  "decisions_file": "[Test Yourselves]/editorial_decisions_test_yourselves.jsonl",
+  "review_file": "[Test Yourselves]/editorial_review_test_yourselves.md"
+}

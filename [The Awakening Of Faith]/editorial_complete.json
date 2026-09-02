@@ -1,0 +1,22 @@
+{
+  "work": "The Awakening Of Faith",
+  "corpus_id": "L0143",
+  "canonical_date": "1969-11-28",
+  "date_provenance": "Registry full_date/date and raw report agree on 1969-11-28.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_awakening_of_faith.txt",
+  "canonical_source_sha": "240fb5c68af821c0e3e7b280ef27b14c4c49a172",
+  "canonical_source_paragraphs": 27,
+  "source_paragraphs_reviewed": 27,
+  "raw_worker_windows_generated": 406,
+  "raw_worker_candidates": 390,
+  "worker_rejected": 16,
+  "raw_duplicate_groups": 25,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Awakening Of Faith]/curated_the_awakening_of_faith.jsonl",
+  "decisions_file": "[The Awakening Of Faith]/editorial_decisions_the_awakening_of_faith.jsonl",
+  "review_file": "[The Awakening Of Faith]/editorial_review_the_awakening_of_faith.md"
+}

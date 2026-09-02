@@ -1,0 +1,22 @@
+{
+  "work": "The Birth Of The Babe",
+  "corpus_id": "L0147",
+  "canonical_date": "1959-09-08",
+  "date_provenance": "Registry full_date is 1959-09-08; raw report date 1959-01-01 is a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_birth_of_the_babe.txt",
+  "canonical_source_sha": "f49fbec5c0b775ef3624aff6713a06c3ad4124f4",
+  "canonical_source_paragraphs": 26,
+  "source_paragraphs_reviewed": 26,
+  "raw_worker_windows_generated": 309,
+  "raw_worker_candidates": 301,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 18,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Birth Of The Babe]/curated_the_birth_of_the_babe.jsonl",
+  "decisions_file": "[The Birth Of The Babe]/editorial_decisions_the_birth_of_the_babe.jsonl",
+  "review_file": "[The Birth Of The Babe]/editorial_review_the_birth_of_the_babe.md"
+}
