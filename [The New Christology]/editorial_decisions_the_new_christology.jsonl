@@ -1,0 +1,4 @@
+{"decision_id":"L0181-ED-001","corpus_id":"L0181","decision":"DROP","text":"anti-poverty/relief material framed as failure to know imagination","reason":"Classist/victim-blaming economic causation unsuitable for automatic pool."}
+{"decision_id":"L0181-ED-002","corpus_id":"L0181","decision":"DROP","text":"Barbados passage story as proof that imaginal action caused others' actions","reason":"Categorical causation/direct-other proof framing excluded."}
+{"decision_id":"L0181-ED-003","corpus_id":"L0181","decision":"DROP","text":"If you want to rise, you don’t have to put another down in order to feel you have risen.","reason":"Safe ethical sentence but too generic/low author-specificity for a new automatic-pool selection."}
+{"decision_id":"L0181-ED-004","corpus_id":"L0181","decision":"HOLD","text":"human imagination as the only Christ/new Christology","reason":"Strong theological/spiritual identity framing requires context."}

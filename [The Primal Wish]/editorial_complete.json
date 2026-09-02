@@ -1,0 +1,22 @@
+{
+  "work": "The Primal Wish",
+  "corpus_id": "L0186",
+  "canonical_date": "1966-10-24",
+  "date_provenance": "Registry full_date/date and physical report agree on 1966-10-24.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_primal_wish.txt",
+  "canonical_source_sha": "231221ddf13fddd3656b78d9bc50cacdf7a5fb38",
+  "canonical_source_paragraphs": 37,
+  "source_paragraphs_reviewed": 37,
+  "raw_worker_windows_generated": 355,
+  "raw_worker_candidates": 344,
+  "worker_rejected": 11,
+  "raw_duplicate_groups": 25,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Primal Wish]/curated_the_primal_wish.jsonl",
+  "decisions_file": "[The Primal Wish]/editorial_decisions_the_primal_wish.jsonl",
+  "review_file": "[The Primal Wish]/editorial_review_the_primal_wish.md"
+}

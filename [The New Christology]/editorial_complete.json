@@ -1,0 +1,22 @@
+{
+  "work": "The New Christology",
+  "corpus_id": "L0181",
+  "canonical_date": "1967-09-22",
+  "date_provenance": "Registry full_date is 1967-09-22; registry date and physical report use 1967-01-01 as a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_new_christology.txt",
+  "canonical_source_sha": "7b70b29663efe3c560f8e8f7465a29ae284b48d0",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": 435,
+  "raw_worker_candidates": 432,
+  "worker_rejected": 3,
+  "raw_duplicate_groups": 31,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The New Christology]/curated_the_new_christology.jsonl",
+  "decisions_file": "[The New Christology]/editorial_decisions_the_new_christology.jsonl",
+  "review_file": "[The New Christology]/editorial_review_the_new_christology.md"
+}

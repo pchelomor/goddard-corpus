@@ -1,0 +1,22 @@
+{
+  "work": "The Nature Of God",
+  "corpus_id": "L0180",
+  "canonical_date": "1969-09-22",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-09-22.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_nature_of_god.txt",
+  "canonical_source_sha": "c11adfa941eead11192d3a359ddf98740aea93f9",
+  "canonical_source_paragraphs": 51,
+  "source_paragraphs_reviewed": 51,
+  "raw_worker_windows_generated": 395,
+  "raw_worker_candidates": 384,
+  "worker_rejected": 11,
+  "raw_duplicate_groups": 42,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Nature Of God]/curated_the_nature_of_god.jsonl",
+  "decisions_file": "[The Nature Of God]/editorial_decisions_the_nature_of_god.jsonl",
+  "review_file": "[The Nature Of God]/editorial_review_the_nature_of_god.md"
+}

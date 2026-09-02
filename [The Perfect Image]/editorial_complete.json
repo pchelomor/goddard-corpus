@@ -1,0 +1,22 @@
+{
+  "work": "The Perfect Image",
+  "corpus_id": "L0184",
+  "canonical_date": "1969-04-11",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-04-11.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_perfect_image.txt",
+  "canonical_source_sha": "319b86d7dab0fbc8aa02ee081fc7b9ae76462a0b",
+  "canonical_source_paragraphs": 24,
+  "source_paragraphs_reviewed": 24,
+  "raw_worker_windows_generated": 364,
+  "raw_worker_candidates": 355,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 21,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Perfect Image]/curated_the_perfect_image.jsonl",
+  "decisions_file": "[The Perfect Image]/editorial_decisions_the_perfect_image.jsonl",
+  "review_file": "[The Perfect Image]/editorial_review_the_perfect_image.md"
+}

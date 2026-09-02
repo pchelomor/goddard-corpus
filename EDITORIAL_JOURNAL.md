@@ -10,8 +10,9 @@ Historical snapshots are preserved verbatim:
 - `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0147.md`
 - `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0157.md`
 - `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0167.md`
+- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0177.md`
 
-The authoritative queue identity is always the **current** `corpus_registry.json` `corpus_id`. Every completed item requires full `SOURCE_FIRST_CANONICAL` reading, the four-file editorial package, journal entry, and post-write GitHub verification. A corpus item whose physical master does not match its registry identity is **BLOCKED**, not editorially complete.
+The authoritative queue identity is always the **current** `corpus_registry.json` `corpus_id`. Every completed item requires full `SOURCE_FIRST_CANONICAL` reading, the four-file editorial package, journal entry, and post-write GitHub verification. A corpus item whose physical master does not match its registry identity is **BLOCKED**, not editorially complete. Previously completed editorial layers may be reduced when corpus-wide deduplication or the current strict automatic-pool policy shows that earlier SELECT decisions were too permissive.
 
 ## Decision vocabulary
 
@@ -23,7 +24,7 @@ No quota is imposed.
 
 ## Core/supplementary status
 
-`B001–B007`, `B009–B014`, and `S001–S003` are editorially complete. `B008 The Power Of Awareness` remains **BLOCKED / UNFINISHED** until a distinct canonical book master exists; same-title lecture `L0185` must remain separate.
+`B001–B007`, `B009–B014`, and `S001–S003` are editorially complete. `B008 The Power Of Awareness` remains **BLOCKED / UNFINISHED** until a distinct canonical book master exists. Same-title `L0185 The Power Of Awareness` is a separate 1953 lecture and is now strictly re-audited.
 
 ## Lecture editorial progress
 
@@ -55,68 +56,80 @@ No quota is imposed.
 | L0138–L0147 | COMPLETE | 4 | ten-lecture batch |
 | L0148–L0157 | COMPLETE | 4 | ten-lecture batch |
 | L0158–L0167 | PROCESSED: 8 COMPLETE / 2 BLOCKED | 1 | L0165 and L0167 identity-misfile blockers |
-| L0168–L0177 | COMPLETE | 2 | ten-lecture batch; no new identity misfiles |
+| L0168–L0177 | COMPLETE | 2 | ten-lecture batch |
+| L0178–L0187 | COMPLETE | **1 new** | L0185 strict re-audit reduced prior 12 SELECT to 3 |
 
-## 2026-09-02 — Lecture batch L0168–L0177
+## 2026-09-02 — Lecture batch L0178–L0187
 
-Completed all ten corpus IDs under `SOURCE_FIRST_CANONICAL` after full end-to-end reading of each authoritative master.
+All ten authoritative physical masters were read end-to-end under `SOURCE_FIRST_CANONICAL`. `L0183` and `L0185` were re-read in smaller overlapping line ranges after connector output truncation to ensure complete coverage. All ten corpus identities are complete; no new identity blocker was found.
 
-| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
-|---|---|---:|---:|---:|
-| L0168 | The Hidden Cause | 29 / 29 | 430 | 0 |
-| L0169 | The Incarnate Revelation | 52 / 52 | 363 | 0 |
-| L0170 | The Knowledge Of God | 40 / 40 | 349 | 0 |
-| L0171 | The Last Days | 38 / 38 | 368 | 0 |
-| L0172 | The Law | 25 / 25 | 378 | 0 |
-| L0173 | The Light Of The World | 44 / 44 | 300 | 0 |
-| L0174 | The Living Word | 27 / 27 | 437 | 1 |
-| L0175 | The Lord Our Potter | 40 / 40 | 347 | 1 |
-| L0176 | The Miraculous Child | 24 / 24 | 355 | 0 |
-| L0177 | The Mystery Of Baptism | 43 / 43 | 260 | 0 |
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | Final SELECT | Note |
+|---|---|---:|---:|---:|---|
+| L0178 | The Mystery Of Inspiration | 45 / 45 | 349 | 0 | intentional zero |
+| L0179 | The Mystery Of Life | 59 / 59 | 335 | 0 | intentional zero |
+| L0180 | The Nature Of God | 51 / 51 | 384 | 0 | duplicates + guarantees |
+| L0181 | The New Christology | 32 / 32 | 432 | 0 | class/direct-other filtering |
+| L0182 | The Only Christianity | 26 / 26 | 351 | 0 | direct-other + duplicate revision |
+| L0183 | The Pattern Man | 86 / 86 | 838 | 0 | long source; guarantees/Promise |
+| L0184 | The Perfect Image | 24 / 24 | 355 | **1 new** | `perpetual construction, deferred occupancy` |
+| L0185 | The Power Of Awareness (1953 lecture) | 32 / 32 | 375 | **3 retained** | strict re-audit: **12 → 3** |
+| L0186 | The Primal Wish | 37 / 37 | 344 | 0 | Promise + guaranteed state results |
+| L0187 | The Promise Explained | 44 / 44 | 360 | 0 | Promise/postmortem material |
 
 Batch totals:
-- canonical paragraphs reviewed: **362 / 362**;
-- worker windows generated: **3,664**;
-- retained worker windows: **3,587**;
-- worker rejected windows: **77**;
-- raw duplicate groups: **325**;
-- final new SELECT fragments: **2**;
-- editorially complete corpus IDs in this batch: **10 / 10**.
+- canonical paragraphs reviewed: **436 / 436**;
+- worker windows generated: **4,235**;
+- retained worker windows: **4,123**;
+- worker rejected windows: **112**;
+- raw duplicate groups: **357**;
+- genuinely new SELECT fragments: **1**;
+- pre-existing L0185 SELECT retained after strict re-audit: **3**;
+- pre-existing L0185 SELECT demoted: **9**;
+- final curated fragments across these ten works: **4**;
+- net change to the corpus automatic pool from this batch: **−8** (`+1` new, `−9` demoted).
 
-Selected boundaries:
-- `L0174`: `stop a negative, undesirable thought, and change the record by putting on a new one.`
-- `L0175`: `Choose your day-after, and then imagine the scene that would take place.`
+### New selected boundary
 
-Notable filtering:
-- `L0168`: intentionally 0 SELECT. Universal causation, war/nature causation, direct control of others and guaranteed friend-outcome material dominate; state language overlaps stronger existing selections.
-- `L0169`: intentionally 0 SELECT. The clean fulfilled-feeling/assumption instruction duplicates stronger L0134/L0154/L0120 material; unique passages add wealth/status guarantees, universal causation and I-AM/Promise theology.
-- `L0170`: intentionally 0 SELECT. Theology and mystical testimony dominate. The practical tail repeats the already curated thinking-of versus thinking-from distinction and turns it into categorical result claims. The Nixon anecdote is not used as automatic-pool proof.
-- `L0171`: intentionally 0 SELECT. Last-days/David/Fatherhood/birth-from-above, recurrence and postmortem material dominate; deterministic historical-role claims are excluded.
-- `L0172`: intentionally 0 SELECT. The lecture is strongly direct-other/universal-response oriented. The safe sentence about reacting from the past is too generic for a new author-specific selection; scene technique duplicates stronger existing material.
-- `L0173`: intentionally 0 SELECT. Christology/resurrection/spiritual-light and postmortem metaphysics dominate; deterministic suffering/atrocity framing is excluded.
-- `L0174`: one exact contiguous mental-diet clause retained. Boundary deliberately starts after the preceding conditional universal-causation premise. Direct-other response and victim-blame passages are excluded.
-- `L0175`: one distinctive day-after scene technique retained. Direct reshaping of other people, financial/circumstantial guarantees and assured-outcome language are excluded; a second end-state phrase is suppressed as redundant.
-- `L0176`: intentionally 0 SELECT. Miraculous-child/Promise, scriptural states, David/Fatherhood and mystical testimony dominate; categorical projection language is excluded.
-- `L0177`: intentionally 0 SELECT. Baptism/resurrection/Promise theology and mystical testimony dominate. The past-burden encouragement is safe but too generic/context-dependent for automatic attribution.
+- `L0184 / TPI-CUR-001`: `Now most of us, knowing what we want, construct it in our minds eye, but never occupy it. We never move into the state and remain there. I call this perpetual construction, deferred occupancy.`
+
+### L0185 strict re-audit
+
+The physical `[The Power Of Awareness]` object is `L0185`, the 1953 lecture, not book `B008`. Its pre-existing source-first editorial layer contained 12 SELECT fragments. Under the current corpus-wide dedup and automatic-pool standard only three remain:
+
+- `POA53-CUR-001`: `We say consciousness in action is imagination.`
+- `POA53-CUR-004`: `The state from which a man observes the world determines the world that man describes.`
+- `POA53-CUR-010`: `So I set myself to observe myself and to watch how my imagination works.`
+
+Nine prior SELECT IDs are explicitly demoted in `editorial_decisions_the_power_of_awareness.jsonl`; none is silently recycled. Reasons include duplication of stronger L0136/L0138 and fulfilled-feeling/scene selections, strong metaphysical identity, and proximity to universal/direct-other causation or categorical result claims.
+
+### Notable filtering
+
+- `L0178`: intentionally 0 SELECT. Inspiration/Christ identity, literal time arrest and postmortem cosmology dominate. The claim that not all scripture is inspired is contextual theology; the command to assume divine identity is not automatic-pool material.
+- `L0179`: intentionally 0 SELECT. Promise/Christmas/Fatherhood and resurrection dominate. Robert Graves wording is external quotation; pushed-out/universal causation is excluded.
+- `L0180`: intentionally 0 SELECT. State/occupant language duplicates L0114/L0138; fulfilled-feeling language duplicates earlier selections; health/fame/wealth and harden-into-fact clauses are categorical guarantees.
+- `L0181`: intentionally 0 SELECT. Poverty/relief discussion uses classist and self-causation framing; the Barbados story is used as direct-other causal proof. The safe “rise without putting another down” sentence is too generic for author-specific automatic delivery.
+- `L0182`: intentionally 0 SELECT. Revision and inner-conversation imagery is dominated by direct-other reshaping, financial/status causation and prophecy-as-proof. Blake passages are external wording.
+- `L0183`: intentionally 0 SELECT. Pattern/Promise material dominates. The law section contains financial certainty, universal self-causation and direct-other appropriation. Meditation-posture Q&A is safe but too generic.
+- `L0184`: one new SELECT retained. Closing health instruction is a categorical medical/mental-health claim; direct-other examples and duplicate state/occupant material are excluded.
+- `L0185`: strict re-audit, 12 → 3 SELECT. Universal self-causation (`architect of your sufferings`), direct-other imagining, duplicate thinking-from/fulfilled-feeling/scene material and metaphysical identity claims are removed from automatic delivery.
+- `L0186`: intentionally 0 SELECT. “Learn how to move” is promising but becomes categorical external fulfillment; Q&A explicitly guarantees health/wealth outcomes.
+- `L0187`: intentionally 0 SELECT. Birth from above, resurrection, postmortem restoration and Fatherhood dominate; scripture dialogue is external wording.
 
 ### Date/provenance notes
 
-- `L0170`: registry `full_date` and `year` are null; `corpus_registry.date=1968-01-01` and the physical report’s `1968-01-01` are treated as a **year-level placeholder**, not an exact lecture date. Editorial `canonical_date` remains null.
-- `L0173`: registry `full_date` is **1969-10-03**; `corpus_registry.date` and the physical report use `1969-01-01` as a year-level placeholder. No conflicting exact date appears in the canonical master, so editorial metadata uses **1969-10-03**.
+- `L0178`: registry `full_date=null`; `1969-01-01` in registry/report is a year-level placeholder. Editorial `canonical_date=null`.
+- `L0181`: registry `full_date=1967-09-22`; registry/report `1967-01-01` is a year-level placeholder. Editorial date uses **1967-09-22**.
+- `L0183`: registry `full_date/year=null`; repository `1968-01-01` is treated as a year-level placeholder. Editorial `canonical_date=null`.
+- `L0185`: registry `full_date=null`; repository `1953-01-01` is a year-level placeholder. The object is explicitly the **1953 lecture L0185**, not `B008` book.
+- `L0187`: registry `full_date=null`; repository `1970-01-01` is a year-level placeholder. Editorial `canonical_date=null`.
 
-All ten works have:
-- `curated_<slug>.jsonl`;
-- `editorial_decisions_<slug>.jsonl`;
-- `editorial_review_<slug>.md`;
-- corpus-ID-matching `editorial_complete.json` with `complete:true`.
-
-Raw candidate, rejected, master-text, manifest, variation, report, processing, registry and issue files were not modified.
+All ten works now have corpus-ID-matching editorial packages under the current strict standard. Raw candidate, rejected, master-text, manifest, variation, report, processing, registry and issue files were not modified.
 
 ## Current queue
 
-- `B008` remains blocked pending a distinct canonical book object.
-- Lecture source review has been processed through **L0177**.
-- Outstanding earlier lecture identity blockers remain **L0165 The Great Secret** and **L0167 The Heavenly Vision**; this batch introduced no new blockers.
-- Next active lecture corpus item: **L0178 — The Mystery of Inspiration** (`full_date: null`; repository `1969-01-01` treated as a year-level placeholder).
+- `B008` remains blocked pending a distinct canonical **book** object.
+- Lecture source review has been processed through **L0187**.
+- Outstanding earlier lecture identity blockers remain **L0165 The Great Secret** and **L0167 The Heavenly Vision**.
+- Next active lecture corpus item: **L0188 — The Pruning Shears Of Revision** (`full_date: null`; repository `1954-01-01` treated as a year-level placeholder).
 
 Never advance an item based only on a prior chat statement or stale title mapping; re-fetch the package from GitHub after writing.

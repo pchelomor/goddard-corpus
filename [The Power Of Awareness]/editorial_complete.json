@@ -1,1 +1,26 @@
-{"work":"The Power Of Awareness","corpus_id":"L0185","work_class":"LECTURE","date":"1953-01-01","review_mode":"SOURCE_FIRST_CANONICAL","raw_worker_candidates":375,"canonical_source_paragraphs":32,"source_paragraphs_reviewed":32,"select_fragments":12,"raw_duplicate_groups":28,"complete":true,"review_policy":"EDITORIAL_POLICY.md","curated_file":"[The Power Of Awareness]/curated_the_power_of_awareness.jsonl","decisions_file":"[The Power Of Awareness]/editorial_decisions_the_power_of_awareness.jsonl","review_file":"[The Power Of Awareness]/editorial_review_the_power_of_awareness.md","identity_note":"This folder is corpus L0185, a 1953 lecture, not the legacy book of the same title."}
+{
+  "work": "The Power Of Awareness",
+  "corpus_id": "L0185",
+  "work_class": "LECTURE",
+  "canonical_date": null,
+  "date_provenance": "Registry full_date is null; registry date and physical report use 1953-01-01 as a year-level placeholder. This object is the 1953 lecture, not B008 book.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_power_of_awareness.txt",
+  "canonical_source_sha": "971ba929068afa87122ee9f40b5a5b8bd069119e",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": 388,
+  "raw_worker_candidates": 375,
+  "worker_rejected": 13,
+  "raw_duplicate_groups": 28,
+  "previous_select_fragments": 12,
+  "select_fragments": 3,
+  "strict_reaudit_demoted_previous_selects": 9,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "identity_note": "This folder is corpus L0185, a 1953 lecture, not the legacy book B008 of the same title.",
+  "curated_file": "[The Power Of Awareness]/curated_the_power_of_awareness.jsonl",
+  "decisions_file": "[The Power Of Awareness]/editorial_decisions_the_power_of_awareness.jsonl",
+  "review_file": "[The Power Of Awareness]/editorial_review_the_power_of_awareness.md"
+}

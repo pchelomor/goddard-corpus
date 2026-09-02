@@ -1,0 +1,22 @@
+{
+  "work": "The Mystery Of Inspiration",
+  "corpus_id": "L0178",
+  "canonical_date": null,
+  "date_provenance": "Registry full_date is null. Registry date and physical report use 1969-01-01, treated as a year-level placeholder rather than an exact lecture date.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_mystery_of_inspiration.txt",
+  "canonical_source_sha": "741536fb98237fafedd7baab09b0bc48272ab4b7",
+  "canonical_source_paragraphs": 45,
+  "source_paragraphs_reviewed": 45,
+  "raw_worker_windows_generated": 357,
+  "raw_worker_candidates": 349,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 37,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Mystery Of Inspiration]/curated_the_mystery_of_inspiration.jsonl",
+  "decisions_file": "[The Mystery Of Inspiration]/editorial_decisions_the_mystery_of_inspiration.jsonl",
+  "review_file": "[The Mystery Of Inspiration]/editorial_review_the_mystery_of_inspiration.md"
+}

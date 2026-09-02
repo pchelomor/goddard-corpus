@@ -1,0 +1,22 @@
+{
+  "work": "The Pattern Man",
+  "corpus_id": "L0183",
+  "canonical_date": null,
+  "date_provenance": "Registry full_date/year are null. Registry date and physical report use 1968-01-01, treated as a year-level repository placeholder rather than an exact lecture date.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_pattern_man.txt",
+  "canonical_source_sha": "e67d043b23df66443c81d47b73f4a2456dc31fc1",
+  "canonical_source_paragraphs": 86,
+  "source_paragraphs_reviewed": 86,
+  "raw_worker_windows_generated": 864,
+  "raw_worker_candidates": 838,
+  "worker_rejected": 26,
+  "raw_duplicate_groups": 75,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Pattern Man]/curated_the_pattern_man.jsonl",
+  "decisions_file": "[The Pattern Man]/editorial_decisions_the_pattern_man.jsonl",
+  "review_file": "[The Pattern Man]/editorial_review_the_pattern_man.md"
+}

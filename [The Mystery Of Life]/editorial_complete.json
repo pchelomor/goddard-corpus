@@ -1,0 +1,22 @@
+{
+  "work": "The Mystery Of Life",
+  "corpus_id": "L0179",
+  "canonical_date": "1969-12-12",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-12-12.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_mystery_of_life.txt",
+  "canonical_source_sha": "e5d6c47d991327ce78d9a52f96c18cc6929ed0b1",
+  "canonical_source_paragraphs": 59,
+  "source_paragraphs_reviewed": 59,
+  "raw_worker_windows_generated": 340,
+  "raw_worker_candidates": 335,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 42,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Mystery Of Life]/curated_the_mystery_of_life.jsonl",
+  "decisions_file": "[The Mystery Of Life]/editorial_decisions_the_mystery_of_life.jsonl",
+  "review_file": "[The Mystery Of Life]/editorial_review_the_mystery_of_life.md"
+}

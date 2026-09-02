@@ -1,0 +1,22 @@
+{
+  "work": "The Promise Explained",
+  "corpus_id": "L0187",
+  "canonical_date": null,
+  "date_provenance": "Registry full_date is null. Registry date and physical report use 1970-01-01, treated as a year-level placeholder rather than an exact lecture date.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_promise_explained.txt",
+  "canonical_source_sha": "7b200908a24cddd582a0734efbdcbfd750551d5f",
+  "canonical_source_paragraphs": 44,
+  "source_paragraphs_reviewed": 44,
+  "raw_worker_windows_generated": 377,
+  "raw_worker_candidates": 360,
+  "worker_rejected": 17,
+  "raw_duplicate_groups": 36,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Promise Explained]/curated_the_promise_explained.jsonl",
+  "decisions_file": "[The Promise Explained]/editorial_decisions_the_promise_explained.jsonl",
+  "review_file": "[The Promise Explained]/editorial_review_the_promise_explained.md"
+}

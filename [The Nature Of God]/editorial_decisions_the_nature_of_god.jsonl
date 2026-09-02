@@ -1,0 +1,4 @@
+{"decision_id":"L0180-ED-001","corpus_id":"L0180","decision":"DROP","text":"You are not a success or a failure, but the occupant of a state.","reason":"Near-duplicate of already curated state/occupant material (L0114/L0138)."}
+{"decision_id":"L0180-ED-002","corpus_id":"L0180","decision":"DROP","text":"How would you act if God imagined you as you want to be? How would you feel? What would you do? Then do it.","reason":"Fulfilled-feeling/desired-end method is already represented more cleanly in earlier selections."}
+{"decision_id":"L0180-ED-003","corpus_id":"L0180","decision":"DROP","text":"health, fame and wealth states expressed as inevitable outcomes","reason":"Categorical health/financial/result guarantees excluded."}
+{"decision_id":"L0180-ED-004","corpus_id":"L0180","decision":"HOLD","text":"Paul/David/Fatherhood and Christ identity exposition","reason":"Strong Promise/theological material requires context."}
