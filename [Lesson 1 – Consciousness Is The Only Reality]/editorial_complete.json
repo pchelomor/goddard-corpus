@@ -1,0 +1,23 @@
+{
+  "work":"Lesson 1 – Consciousness Is The Only Reality",
+  "corpus_id":"L0099",
+  "canonical_date":"1968-01-01",
+  "date_provenance":"Repository year-level placeholder; canonical content is the 1948 Five Lessons Lesson 1 already reviewed under S001.",
+  "review_mode":"SOURCE_FIRST_CANONICAL",
+  "canonical_source_file":"master_text_lesson_1_consciousness_is_the_only_reality.txt",
+  "canonical_source_sha":"13992e9e5b1f46b0ae629e5de2a9d17c789f1e7e",
+  "canonical_source_paragraphs":148,
+  "source_paragraphs_reviewed":148,
+  "raw_worker_windows_generated":825,
+  "retained_worker_windows":802,
+  "worker_rejected":23,
+  "raw_duplicate_groups":107,
+  "select_fragments":0,
+  "intentional_empty_curated":true,
+  "complete":true,
+  "cross_work_reference":"S001 / Five Lessons / Lesson 1",
+  "review_policy":"EDITORIAL_POLICY.md",
+  "curated_file":"[Lesson 1 – Consciousness Is The Only Reality]/curated_lesson_1_consciousness_is_the_only_reality.jsonl",
+  "decisions_file":"[Lesson 1 – Consciousness Is The Only Reality]/editorial_decisions_lesson_1_consciousness_is_the_only_reality.jsonl",
+  "review_file":"[Lesson 1 – Consciousness Is The Only Reality]/editorial_review_lesson_1_consciousness_is_the_only_reality.md"
+}
