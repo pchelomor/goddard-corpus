@@ -1,0 +1,23 @@
+{
+  "work":"Lesson 2 – Assumptions Harden Into Fact",
+  "corpus_id":"L0100",
+  "canonical_date":"1968-01-01",
+  "date_provenance":"Repository year-level placeholder; canonical content is the 1948 Five Lessons Lesson 2 already reviewed under S001.",
+  "review_mode":"SOURCE_FIRST_CANONICAL",
+  "canonical_source_file":"master_text_lesson_2_assumptions_harden_into_fact.txt",
+  "canonical_source_sha":"86c471ad909b09e732d7b563658fb59604915334",
+  "canonical_source_paragraphs":135,
+  "source_paragraphs_reviewed":135,
+  "raw_worker_windows_generated":764,
+  "retained_worker_windows":752,
+  "worker_rejected":12,
+  "raw_duplicate_groups":107,
+  "select_fragments":0,
+  "intentional_empty_curated":true,
+  "complete":true,
+  "cross_work_reference":"S001 / Five Lessons / Lesson 2",
+  "review_policy":"EDITORIAL_POLICY.md",
+  "curated_file":"[Lesson 2 – Assumptions Harden Into Fact]/curated_lesson_2_assumptions_harden_into_fact.jsonl",
+  "decisions_file":"[Lesson 2 – Assumptions Harden Into Fact]/editorial_decisions_lesson_2_assumptions_harden_into_fact.jsonl",
+  "review_file":"[Lesson 2 – Assumptions Harden Into Fact]/editorial_review_lesson_2_assumptions_harden_into_fact.md"
+}
