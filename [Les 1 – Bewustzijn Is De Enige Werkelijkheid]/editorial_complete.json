@@ -1,0 +1,23 @@
+{
+  "work":"Les 1 – Bewustzijn Is De Enige Werkelijkheid",
+  "corpus_id":"L0098",
+  "canonical_date":"1948-01-01",
+  "date_provenance":"Repository year-level date; canonical text is a Dutch translation of the 1948 Five Lessons Lesson 1 already reviewed under S001.",
+  "review_mode":"SOURCE_FIRST_CANONICAL",
+  "canonical_source_file":"master_text_les_1_bewustzijn_is_de_enige_werkelijkheid.txt",
+  "canonical_source_sha":"4eb9b47c0a6cb7d3dd74093c064ec47d0b1156ec",
+  "canonical_source_paragraphs":140,
+  "source_paragraphs_reviewed":140,
+  "raw_worker_windows_generated":793,
+  "retained_worker_windows":783,
+  "worker_rejected":10,
+  "raw_duplicate_groups":105,
+  "select_fragments":0,
+  "intentional_empty_curated":true,
+  "complete":true,
+  "cross_work_reference":"S001 / Five Lessons / Lesson 1",
+  "review_policy":"EDITORIAL_POLICY.md",
+  "curated_file":"[Les 1 – Bewustzijn Is De Enige Werkelijkheid]/curated_les_1_bewustzijn_is_de_enige_werkelijkheid.jsonl",
+  "decisions_file":"[Les 1 – Bewustzijn Is De Enige Werkelijkheid]/editorial_decisions_les_1_bewustzijn_is_de_enige_werkelijkheid.jsonl",
+  "review_file":"[Les 1 – Bewustzijn Is De Enige Werkelijkheid]/editorial_review_les_1_bewustzijn_is_de_enige_werkelijkheid.md"
+}
