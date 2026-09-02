@@ -306,7 +306,7 @@ Batch result:
 
 Identity handling:
 - `[At Your Command]` raw metadata identifies `L0017`, while the editorial layer already occupying that folder identifies `B001`; registry independently marks L0017 as `BOOK_REPRINT` with `canonical_parent_id=B001`. The full 118-paragraph reprint was read and contributes **0 new SELECT**. Its derivative completion layer is stored in `[At Your Command – L0017 Reprint]` so B001 is not overwritten.
-- `[Awakened Imagination]` raw metadata identifies `L0019`, a distinct 33-paragraph 1954 lecture, while the editorial layer already occupying that folder identifies `B009`, the 504-paragraph book. L0019 was reviewed independently and its derivative completion layer is stored in `[Awakened Imagination – L0019 Lecture]`.
+- `[Awakened Imagination]` raw metadata identifies `L0019`, a distinct 33-paragraph 1954 lecture, while the editorial layer already occupying that folder identifies `B009`, the 504-paragraph book. L0019 was reviewed independently and its corpus-ID-qualified derivative layer is stored in `[Awakened Imagination – L0019 Lecture]`.
 - `corpus_issues.md` ISS-007 records these raw/editorial corpus-ID overlays and establishes that queue completion must match `editorial_complete.json.corpus_id`, not merely filename/folder presence.
 
 Notable filtering:
@@ -890,5 +890,41 @@ Files written:
 - `[Mental Diets]/editorial_decisions_mental_diets.jsonl`
 - `[Mental Diets]/editorial_review_mental_diets.md`
 - `[Mental Diets]/editorial_complete.json`
+
+Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report and processing files were not modified.
+
+## 2026-09-02 — L0107 Moses – Elijah – Jesus
+
+Completed the next accessible queue item under `SOURCE_FIRST_CANONICAL`.
+
+Identity and method:
+- `corpus_id`: `L0107`;
+- work: `Moses – Elijah – Jesus`;
+- registry `full_date`: **1963-02-15**;
+- raw source manifest/report date: `1963-01-01`, retained as a year-level placeholder;
+- authoritative source: `[Moses – Elijah – Jesus]/master_text_moses_elijah_jesus.txt`;
+- canonical source SHA: `a9f07cc019ae04e9faa865526c1a777da4eb9ffe`.
+
+Result:
+- canonical paragraphs reviewed: **40 / 40**;
+- worker windows generated: **549**;
+- retained worker windows: **531** (`393` candidate + `138` review-recommended);
+- worker rejected windows: **18**;
+- raw duplicate groups: **35**;
+- final main-pool SELECT fragments: **0** (intentional empty curated file).
+
+Notable filtering:
+- the lecture is overwhelmingly Moses/Elijah/Jesus state theology, divine-name/I-AM exegesis, Promise/Christology, mystical testimony and scripture interpretation;
+- serpent, transfiguration, divine-light and heavenly-state material remains contextual/opt-in rather than automatic-pool content;
+- violent Elijah power examples, guaranteed future supernatural events, sickness/poverty deliverance claims and strong imaginative-power guarantees were kept out of the automatic pool;
+- pure scripture/external wording and generic/context-dependent fragments were not selected;
+- the very short phrase `Man is the operant power` was reviewed but not selected because its technical meaning depends on Neville's state-metaphysics vocabulary and the surrounding paragraph is explicitly theological/scriptural;
+- no quota was imposed.
+
+Files written:
+- `[Moses – Elijah – Jesus]/curated_moses_elijah_jesus.jsonl` (intentionally empty)
+- `[Moses – Elijah – Jesus]/editorial_decisions_moses_elijah_jesus.jsonl`
+- `[Moses – Elijah – Jesus]/editorial_review_moses_elijah_jesus.md`
+- `[Moses – Elijah – Jesus]/editorial_complete.json`
 
 Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report and processing files were not modified.
