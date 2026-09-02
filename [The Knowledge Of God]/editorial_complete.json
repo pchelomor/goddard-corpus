@@ -1,0 +1,22 @@
+{
+  "work": "The Knowledge Of God",
+  "corpus_id": "L0170",
+  "canonical_date": null,
+  "date_provenance": "Registry full_date/year are null. corpus_registry.date and physical report use 1968-01-01, treated as a year-level repository placeholder rather than an exact lecture date.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_knowledge_of_god.txt",
+  "canonical_source_sha": "fd969da4295a89f957268d8008b0f8212737f3af",
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "raw_worker_windows_generated": 355,
+  "raw_worker_candidates": 349,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 36,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Knowledge Of God]/curated_the_knowledge_of_god.jsonl",
+  "decisions_file": "[The Knowledge Of God]/editorial_decisions_the_knowledge_of_god.jsonl",
+  "review_file": "[The Knowledge Of God]/editorial_review_the_knowledge_of_god.md"
+}

@@ -1,0 +1,22 @@
+{
+  "work": "The Law",
+  "corpus_id": "L0172",
+  "canonical_date": "1959-11-20",
+  "date_provenance": "Registry full_date/date and physical report agree on 1959-11-20.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_law.txt",
+  "canonical_source_sha": "9b6571a45b19cf87dfe5855540a0b764287353c3",
+  "canonical_source_paragraphs": 25,
+  "source_paragraphs_reviewed": 25,
+  "raw_worker_windows_generated": 389,
+  "raw_worker_candidates": 378,
+  "worker_rejected": 11,
+  "raw_duplicate_groups": 23,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Law]/curated_the_law.jsonl",
+  "decisions_file": "[The Law]/editorial_decisions_the_law.jsonl",
+  "review_file": "[The Law]/editorial_review_the_law.md"
+}

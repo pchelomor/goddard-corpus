@@ -1,0 +1,22 @@
+{
+  "work": "The Incarnate Revelation",
+  "corpus_id": "L0169",
+  "canonical_date": "1969-02-20",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-02-20.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_incarnate_revelation.txt",
+  "canonical_source_sha": "0e7ac00c218a7808da8289d0cf779b5e34e89476",
+  "canonical_source_paragraphs": 52,
+  "source_paragraphs_reviewed": 52,
+  "raw_worker_windows_generated": 375,
+  "raw_worker_candidates": 363,
+  "worker_rejected": 12,
+  "raw_duplicate_groups": 48,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Incarnate Revelation]/curated_the_incarnate_revelation.jsonl",
+  "decisions_file": "[The Incarnate Revelation]/editorial_decisions_the_incarnate_revelation.jsonl",
+  "review_file": "[The Incarnate Revelation]/editorial_review_the_incarnate_revelation.md"
+}

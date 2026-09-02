@@ -1,0 +1,22 @@
+{
+  "work": "The Last Days",
+  "corpus_id": "L0171",
+  "canonical_date": "1968-02-08",
+  "date_provenance": "Registry full_date/date and physical report agree on 1968-02-08.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_last_days.txt",
+  "canonical_source_sha": "3d901f56384d9628bf1d4c89737fcf7f63276245",
+  "canonical_source_paragraphs": 38,
+  "source_paragraphs_reviewed": 38,
+  "raw_worker_windows_generated": 374,
+  "raw_worker_candidates": 368,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 32,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Last Days]/curated_the_last_days.jsonl",
+  "decisions_file": "[The Last Days]/editorial_decisions_the_last_days.jsonl",
+  "review_file": "[The Last Days]/editorial_review_the_last_days.md"
+}

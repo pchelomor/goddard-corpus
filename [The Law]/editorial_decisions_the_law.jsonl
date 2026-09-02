@@ -1,0 +1,4 @@
+{"decision_id":"L0172-ED-001","corpus_id":"L0172","decision":"DROP","text":"If you react based on the past, you continue in the same pattern.","reason":"Safe but too generic/weakly author-specific for the curated automatic pool."}
+{"decision_id":"L0172-ED-002","corpus_id":"L0172","decision":"DROP","text":"Enact a scene that implies you have what you desire","reason":"Near-duplicate of stronger existing imaginal-scene selections and immediately followed by an absolute no-power-can-stop guarantee."}
+{"decision_id":"L0172-ED-003","corpus_id":"L0172","decision":"DROP","text":"Everyone is responding to what we are doing in our Imagination.","reason":"Direct-other/universal causation claim excluded."}
+{"decision_id":"L0172-ED-004","corpus_id":"L0172","decision":"DROP","text":"health, money and marriage examples presented as direct imaginal production","reason":"Medical/financial/direct-outcome causation excluded."}

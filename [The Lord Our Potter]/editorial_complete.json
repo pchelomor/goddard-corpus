@@ -1,0 +1,22 @@
+{
+  "work": "The Lord Our Potter",
+  "corpus_id": "L0175",
+  "canonical_date": "1969-11-07",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-11-07.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_lord_our_potter.txt",
+  "canonical_source_sha": "d1fd80cdfa695571cfefa70190e812ee502496a2",
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "raw_worker_windows_generated": 355,
+  "raw_worker_candidates": 347,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 36,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Lord Our Potter]/curated_the_lord_our_potter.jsonl",
+  "decisions_file": "[The Lord Our Potter]/editorial_decisions_the_lord_our_potter.jsonl",
+  "review_file": "[The Lord Our Potter]/editorial_review_the_lord_our_potter.md"
+}

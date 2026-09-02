@@ -1,0 +1,4 @@
+{"decision_id":"L0174-ED-001","corpus_id":"L0174","decision":"SELECT","quote_id":"LIVW-CUR-001","text":"stop a negative, undesirable thought, and change the record by putting on a new one.","reason":"Exact contiguous self-regulation instruction; clean clause boundary excludes the preceding universal-causation premise."}
+{"decision_id":"L0174-ED-002","corpus_id":"L0174","decision":"DROP","text":"mental conversations which no one hears, but everyone on the outside responds to","reason":"Direct-other/universal response claim excluded."}
+{"decision_id":"L0174-ED-003","corpus_id":"L0174","decision":"DROP","text":"if blows come ... you planted their seed","reason":"Victim-blame/universal self-causation framing excluded."}
+{"decision_id":"L0174-ED-004","corpus_id":"L0174","decision":"HOLD","text":"Living Word / Jesus / resurrection / Promise material","reason":"Strong theological and mystical context requires contextual delivery."}

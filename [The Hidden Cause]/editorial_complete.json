@@ -1,0 +1,22 @@
+{
+  "work": "The Hidden Cause",
+  "corpus_id": "L0168",
+  "canonical_date": "1969-03-28",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-03-28.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_hidden_cause.txt",
+  "canonical_source_sha": "7c106ec5691d0de3129fb861ec1b47314c3a1576",
+  "canonical_source_paragraphs": 29,
+  "source_paragraphs_reviewed": 29,
+  "raw_worker_windows_generated": 436,
+  "raw_worker_candidates": 430,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 28,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Hidden Cause]/curated_the_hidden_cause.jsonl",
+  "decisions_file": "[The Hidden Cause]/editorial_decisions_the_hidden_cause.jsonl",
+  "review_file": "[The Hidden Cause]/editorial_review_the_hidden_cause.md"
+}

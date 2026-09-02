@@ -1,0 +1,22 @@
+{
+  "work": "The Light Of The World",
+  "corpus_id": "L0173",
+  "canonical_date": "1969-10-03",
+  "date_provenance": "Registry full_date is 1969-10-03; corpus_registry.date and physical report use 1969-01-01 as a year-level placeholder. No conflicting exact date appears in the canonical master.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_light_of_the_world.txt",
+  "canonical_source_sha": "f284f956789585448e8134e1da9492d7f5dfdc62",
+  "canonical_source_paragraphs": 44,
+  "source_paragraphs_reviewed": 44,
+  "raw_worker_windows_generated": 304,
+  "raw_worker_candidates": 300,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 39,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Light Of The World]/curated_the_light_of_the_world.jsonl",
+  "decisions_file": "[The Light Of The World]/editorial_decisions_the_light_of_the_world.jsonl",
+  "review_file": "[The Light Of The World]/editorial_review_the_light_of_the_world.md"
+}

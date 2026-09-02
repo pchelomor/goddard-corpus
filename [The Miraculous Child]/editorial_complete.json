@@ -1,0 +1,22 @@
+{
+  "work": "The Miraculous Child",
+  "corpus_id": "L0176",
+  "canonical_date": "1966-10-28",
+  "date_provenance": "Registry full_date/date and physical report agree on 1966-10-28.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_miraculous_child.txt",
+  "canonical_source_sha": "c528da598f4f505e28c9ccf8a14c94154f9b2562",
+  "canonical_source_paragraphs": 24,
+  "source_paragraphs_reviewed": 24,
+  "raw_worker_windows_generated": 370,
+  "raw_worker_candidates": 355,
+  "worker_rejected": 15,
+  "raw_duplicate_groups": 22,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Miraculous Child]/curated_the_miraculous_child.jsonl",
+  "decisions_file": "[The Miraculous Child]/editorial_decisions_the_miraculous_child.jsonl",
+  "review_file": "[The Miraculous Child]/editorial_review_the_miraculous_child.md"
+}

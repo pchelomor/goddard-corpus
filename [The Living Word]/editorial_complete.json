@@ -1,0 +1,22 @@
+{
+  "work": "The Living Word",
+  "corpus_id": "L0174",
+  "canonical_date": "1969-05-23",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-05-23.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_living_word.txt",
+  "canonical_source_sha": "49a810fbce6f410aa5c767c271a342fbbc94f717",
+  "canonical_source_paragraphs": 27,
+  "source_paragraphs_reviewed": 27,
+  "raw_worker_windows_generated": 443,
+  "raw_worker_candidates": 437,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 25,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Living Word]/curated_the_living_word.jsonl",
+  "decisions_file": "[The Living Word]/editorial_decisions_the_living_word.jsonl",
+  "review_file": "[The Living Word]/editorial_review_the_living_word.md"
+}
