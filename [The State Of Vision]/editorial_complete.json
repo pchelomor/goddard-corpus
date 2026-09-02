@@ -1,0 +1,22 @@
+{
+  "work": "The State Of Vision",
+  "corpus_id": "L0204",
+  "canonical_date": "1968-02-26",
+  "date_provenance": "Registry full_date is 1968-02-26; registry date and physical report use 1968-01-01 as a year-level placeholder. No conflicting exact date appears in the canonical master.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_state_of_vision.txt",
+  "canonical_source_sha": "9f2e8f460e3b12277666103feb66c10fdca685b4",
+  "canonical_source_paragraphs": 28,
+  "source_paragraphs_reviewed": 28,
+  "raw_worker_windows_generated": 378,
+  "raw_worker_candidates": 371,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 25,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The State Of Vision]/curated_the_state_of_vision.jsonl",
+  "decisions_file": "[The State Of Vision]/editorial_decisions_the_state_of_vision.jsonl",
+  "review_file": "[The State Of Vision]/editorial_review_the_state_of_vision.md"
+}

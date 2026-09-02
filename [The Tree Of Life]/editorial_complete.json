@@ -1,0 +1,22 @@
+{
+  "work": "The Tree Of Life",
+  "corpus_id": "L0207",
+  "canonical_date": "1969-03-21",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-03-21.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_tree_of_life.txt",
+  "canonical_source_sha": "299bea1112f7bebd7301fb96d94dc35f9a87520a",
+  "canonical_source_paragraphs": 22,
+  "source_paragraphs_reviewed": 22,
+  "raw_worker_windows_generated": 391,
+  "raw_worker_candidates": 386,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 21,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Tree Of Life]/curated_the_tree_of_life.jsonl",
+  "decisions_file": "[The Tree Of Life]/editorial_decisions_the_tree_of_life.jsonl",
+  "review_file": "[The Tree Of Life]/editorial_review_the_tree_of_life.md"
+}

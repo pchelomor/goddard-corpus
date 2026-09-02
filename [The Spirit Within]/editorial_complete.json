@@ -1,0 +1,22 @@
+{
+  "work": "The Spirit Within",
+  "corpus_id": "L0202",
+  "canonical_date": "1969-04-25",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-04-25.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_spirit_within.txt",
+  "canonical_source_sha": "11717acefe7cd2c865d6adfaa404393bbcada19e",
+  "canonical_source_paragraphs": 28,
+  "source_paragraphs_reviewed": 28,
+  "raw_worker_windows_generated": 310,
+  "raw_worker_candidates": 305,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 23,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Spirit Within]/curated_the_spirit_within.jsonl",
+  "decisions_file": "[The Spirit Within]/editorial_decisions_the_spirit_within.jsonl",
+  "review_file": "[The Spirit Within]/editorial_review_the_spirit_within.md"
+}

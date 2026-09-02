@@ -1,0 +1,22 @@
+{
+  "work": "The Story Of Judas",
+  "corpus_id": "L0205",
+  "canonical_date": "1959-12-04",
+  "date_provenance": "Registry full_date is 1959-12-04; registry date and physical report use 1959-01-01 as a year-level placeholder. No conflicting exact date appears in the canonical master.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_story_of_judas.txt",
+  "canonical_source_sha": "7decbacc4c915207bde664c1b704f78611dbfa16",
+  "canonical_source_paragraphs": 22,
+  "source_paragraphs_reviewed": 22,
+  "raw_worker_windows_generated": 419,
+  "raw_worker_candidates": 413,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 20,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Story Of Judas]/curated_the_story_of_judas.jsonl",
+  "decisions_file": "[The Story Of Judas]/editorial_decisions_the_story_of_judas.jsonl",
+  "review_file": "[The Story Of Judas]/editorial_review_the_story_of_judas.md"
+}

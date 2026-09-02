@@ -2,18 +2,10 @@
 
 Current operational journal for the strict editorial layer defined in `EDITORIAL_POLICY.md`.
 
-Historical snapshots are preserved verbatim:
-- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0107.md`
-- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0117.md`
-- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0127.md`
-- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0137.md`
-- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0147.md`
-- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0157.md`
-- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0167.md`
-- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0177.md`
-- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0187.md`
+Historical snapshots are preserved verbatim through:
+- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0197.md`
 
-The authoritative queue identity is always the **current** `corpus_registry.json` `corpus_id`. Every completed item requires full `SOURCE_FIRST_CANONICAL` reading, the four-file editorial package, journal entry, and post-write GitHub verification. A corpus item whose physical master does not match its registry identity is **BLOCKED**, not editorially complete. No quota is imposed.
+The authoritative queue identity is always the **current** `corpus_registry.json` `corpus_id`. Every completed item requires full `SOURCE_FIRST_CANONICAL` reading, a four-file editorial package, journal entry, and post-write GitHub verification. Identity-mismatched masters are **BLOCKED**, never falsely marked complete. No quota is imposed.
 
 ## Decision vocabulary
 
@@ -23,100 +15,77 @@ The authoritative queue identity is always the **current** `corpus_registry.json
 
 ## Core/supplementary status
 
-`B001–B007`, `B009–B014`, and `S001–S003` are editorially complete. `B008 The Power Of Awareness` remains **BLOCKED / UNFINISHED** until a distinct canonical book master exists. Same-title `L0185 The Power Of Awareness` is a separate 1953 lecture and remains editorially complete after strict re-audit.
+`B001–B007`, `B009–B014`, and `S001–S003` are editorially complete. `B008 The Power Of Awareness` remains **BLOCKED / UNFINISHED** pending a distinct canonical book master. Same-title `L0185` is a separate 1953 lecture and is editorially complete after strict re-audit.
 
 ## Lecture editorial progress
 
 | Corpus range | Status | New SELECT | Note |
 |---|---:|---:|---|
-| L0001–L0005 | COMPLETE | 8 | historical batch |
-| L0006–L0010 | COMPLETE | 8 | historical batch |
-| L0011–L0015 | COMPLETE | 10 | includes restored L0011 identity |
-| L0016–L0020 | COMPLETE | 7 | reprint/lecture overlays handled |
-| L0021–L0025 | COMPLETE | 6 | historical batch |
-| L0026–L0030 | COMPLETE | 11 | historical batch |
-| L0031–L0035 | COMPLETE | 12 | historical batch |
-| L0036–L0040 | COMPLETE | 2 | historical batch |
-| L0041–L0045 | COMPLETE | 11 | historical batch |
-| L0046–L0050 | COMPLETE | 8 | historical batch |
-| L0051–L0055 | COMPLETE | 5 | historical batch |
-| L0056–L0060 | COMPLETE | 7 | historical batch |
-| L0061–L0065 | COMPLETE | 9 | historical batch |
-| L0066–L0070 | COMPLETE | 3 | historical batch |
-| L0071–L0075 | COMPLETE | 1 | historical batch |
-| L0076–L0085 | COMPLETE | 3 | historical batch |
-| L0086–L0095 | COMPLETE | 6 | historical batch |
-| L0096–L0105 | COMPLETE | 0 | L0105 identity repaired to `Love Endureth` |
-| L0106 | COMPLETE | 8 | Mental Diets |
-| L0107 | COMPLETE | 0 | Moses – Elijah – Jesus |
-| L0108–L0117 | COMPLETE | 5 | ten-lecture batch |
-| L0118–L0127 | COMPLETE | 4 | L0123 duplicate-suppressed against S002 |
-| L0128–L0137 | COMPLETE | 7 | ten-lecture batch |
-| L0138–L0147 | COMPLETE | 4 | ten-lecture batch |
-| L0148–L0157 | COMPLETE | 4 | ten-lecture batch |
-| L0158–L0167 | PROCESSED: 8 COMPLETE / 2 BLOCKED | 1 | L0165 and L0167 identity-misfile blockers |
+| L0001–L0157 | COMPLETE | historical | see preserved journal snapshots |
+| L0158–L0167 | PROCESSED: 8 COMPLETE / 2 BLOCKED | 1 | L0165/L0167 identity misfiles |
 | L0168–L0177 | COMPLETE | 2 | ten-lecture batch |
-| L0178–L0187 | COMPLETE | 1 new | L0185 re-audit reduced prior 12 SELECT to 3 |
-| L0188–L0197 | COMPLETE | **2** | ten-lecture batch; no new identity blockers |
+| L0178–L0187 | COMPLETE | 1 new | L0185 strict re-audit: prior 12 SELECT → 3 |
+| L0188–L0197 | COMPLETE | 2 | ten-lecture batch |
+| L0198–L0207 | COMPLETE | **1** | ten-lecture batch; no new identity blockers |
 
-## 2026-09-02 — Lecture batch L0188–L0197
+## 2026-09-02 — Lecture batch L0198–L0207
 
-All ten authoritative physical masters were read end-to-end under `SOURCE_FIRST_CANONICAL`. Truncated connector renders were re-read through smaller overlapping line ranges where needed. All ten corpus identities are complete and no new identity blocker was found.
+All ten authoritative physical masters were read end-to-end under `SOURCE_FIRST_CANONICAL`. Truncated connector renders were re-read in smaller overlapping ranges where needed. All ten corpus identities are complete; no new identity blocker was found.
 
 | Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
 |---|---|---:|---:|---:|
-| L0188 | The Pruning Shears Of Revision | 28 / 28 | 231 | **1** |
-| L0189 | The Pure In Heart | 38 / 38 | 628 | 0 |
-| L0190 | The Revealer | 22 / 22 | 334 | 0 |
-| L0191 | The Rock | 53 / 53 | 426 | 0 |
-| L0192 | The Roll Of The Book | 37 / 37 | 370 | 0 |
-| L0193 | The Second Vision | 40 / 40 | 345 | 0 |
-| L0194 | The Secret Of Causation | 36 / 36 | 310 | 0 |
-| L0195 | The Secret Of Prayer | 29 / 29 | 338 | **1** |
-| L0196 | The Seven Eyes Of God | 35 / 35 | 434 | 0 |
-| L0197 | The Shaping Of The Unbegotten | 11 / 11 | 198 | 0 |
+| L0198 | The Sin Against The Holy Spirit | 20 / 20 | 497 | 0 |
+| L0199 | The Source | 52 / 52 | 406 | 0 |
+| L0200 | The Sphere Within | 40 / 40 | 283 | 0 |
+| L0201 | The Spirit Of Truth | 22 / 22 | 284 | 0 |
+| L0202 | The Spirit Within | 28 / 28 | 305 | 0 |
+| L0203 | The Spiritual Cause | 25 / 25 | 327 | **1** |
+| L0204 | The State Of Vision | 28 / 28 | 371 | 0 |
+| L0205 | The Story Of Judas | 22 / 22 | 413 | 0 |
+| L0206 | The Talent | 34 / 34 | 388 | 0 |
+| L0207 | The Tree Of Life | 22 / 22 | 386 | 0 |
 
 Batch totals:
-- canonical paragraphs reviewed: **329 / 329**;
-- worker windows generated: **3,699**;
-- retained worker windows: **3,614**;
-- worker rejected windows: **85**;
-- raw duplicate groups: **270**;
-- final new SELECT fragments: **2**;
+- canonical paragraphs reviewed: **293 / 293**;
+- worker windows generated: **3,727**;
+- retained worker windows: **3,660**;
+- worker rejected windows: **67**;
+- raw duplicate groups: **263**;
+- final new SELECT fragments: **1**;
 - editorially complete corpus IDs: **10 / 10**.
 
-### Selected boundaries
+### Selected boundary
 
-- `L0188 / PSR-CUR-001`: `At the end of my day, I review the day; I don’t judge it, I simply review it. I look over the entire day, all the episodes, all the events, all the conversations, all the meetings, and then as I see it clearly in my mind’s eye, I rewrite it. I rewrite it and make it conform to the ideal day I wish I had experienced.`
-- `L0195 / SOP-CUR-001`: `Prayer is psychological movement. It is the art of moving from a problem to its solution.`
+- `L0203 / SPC-CUR-001`: `Use each and every moment to plant a seed of thought you want to experience.`
+
+The boundary ends before deterministic harvest/causation language. Corpus-wide exact/broad search found no existing curated duplicate.
 
 ### Notable filtering
 
-- `L0188`: one self-directed daily revision procedure retained. Direct-other revision, medical/employment outcomes, universal responsibility and guaranteed future-change language are excluded; forgiveness/Christ framing is held.
-- `L0189`: intentionally 0 SELECT. Beatitude/David/pure-gold/Ancient-of-Days theology dominates. Guilelessness is valuable but context-bound; moral comparisons of violent acts versus deceit are unsuitable for automatic delivery.
-- `L0190`: intentionally 0 SELECT. I-AM/awareness theology is paired with a back-injury recovery anecdote, wealth/fame/health claims and categorical externalization.
-- `L0191`: intentionally 0 SELECT. Rock/Christ/perfection theology dominates; the practical material uses success proof, guaranteed fulfillment and universal self-causation around hardship.
-- `L0192`: intentionally 0 SELECT. Scriptural self-interpretation and Promise dominate. Revision anecdotes include injury/healing claims; dream material is strongly metaphysical.
-- `L0193`: intentionally 0 SELECT. Sensory scene and fulfilled-feeling instructions duplicate stronger earlier selections and are coupled to guaranteed external change and financial/career proof.
-- `L0194`: intentionally 0 SELECT. Lost-luggage proof, covert alteration of others, violent dream material and universal imagination-as-cause claims dominate; thinking-from language is duplicate.
-- `L0195`: one compact definition of prayer as psychological movement retained. Direct-other prayer, financial examples, guaranteed answered-prayer claims and duplicate thinking-from/fulfilled-feeling instructions are excluded.
-- `L0196`: intentionally 0 SELECT. Seven/eight-eyes framework, direct-other alteration, literal alternate worlds and categorical result claims dominate.
-- `L0197`: intentionally 0 SELECT. Eternal-preexistence/unbegotten-God metaphysics and Promise dominate; the practical imaginal scene explicitly controls other people without their knowledge or consent.
+- `L0198`: intentionally 0 SELECT. Holy-Spirit/Jesus theology dominates; practical material explicitly recommends covertly changing other people without consent and includes blame-heavy mental-state framing.
+- `L0199`: intentionally 0 SELECT. Political and financial success stories are used as proof, while end-state language is paired with categorical obstacle-removal guarantees and duplicates stronger earlier selections.
+- `L0200`: intentionally 0 SELECT. Promise/predestination/postmortem material dominates. An anti-blame disability passage is contextually compassionate but inseparable from dated terminology and literal metaphysical explanation, so it remains HOLD.
+- `L0201`: intentionally 0 SELECT. Roses and poverty-to-success stories serve as causal proof, and the summary says the law will not fail. Generic application language is duplicate.
+- `L0202`: intentionally 0 SELECT. Universal self-causation, health/marriage outcome claims, sensory-denial framing and contextual ascetic testimony exclude the practical layer.
+- `L0203`: one self-directed attention sentence retained. Direct-other career/trophy outcomes, inevitable harvest, wealth examples and universal causation are excluded.
+- `L0204`: intentionally 0 SELECT. Sensory technique duplicates earlier material and is joined to a claimed cancer cure, direct control of another, and categorical guarantees.
+- `L0205`: intentionally 0 SELECT. The lecture explicitly treats harmful misuse of imagination as effective; Judas/state theology dominates and the state/occupant line is duplicate.
+- `L0206`: intentionally 0 SELECT. A clean feeling sentence is conceptually redundant; the lecture includes prison/earthquake certainty, direct alteration of another person, and harden-into-fact guarantees.
+- `L0207`: intentionally 0 SELECT. Promise/eschatology, exact mystical chronology, postmortem destiny and deterministic world-history framing dominate.
 
 ### Date/provenance notes
 
-- `L0188`: registry `full_date=null`; repository/report `1954-01-01` is treated as a year-level placeholder. Editorial `canonical_date=null`.
-- `L0191`: registry `full_date=1969-02-19`; registry `date` and physical report use `1969-01-01` as a year-level placeholder. Editorial metadata uses **1969-02-19**.
-- `L0193`: registry `full_date=1959-09-11`; registry `date` and physical report use `1959-01-01` as a year-level placeholder. Editorial metadata uses **1959-09-11**.
-- `L0196`: registry `full_date/year=null`; repository/report `1968-01-01` is treated as a year-level placeholder. Editorial `canonical_date=null`.
+- `L0204`: registry `full_date=1968-02-26`; registry `date` and physical report use `1968-01-01` as a year-level placeholder. Editorial metadata uses **1968-02-26**.
+- `L0205`: registry `full_date=1959-12-04`; registry `date` and physical report use `1959-01-01` as a year-level placeholder. Editorial metadata uses **1959-12-04**.
+- `L0206`: registry `full_date=1970-02-02`; registry `date` and physical report use `1970-01-01` as a year-level placeholder. Editorial metadata uses **1970-02-02**.
 
-All ten works now have corpus-ID-matching four-file editorial packages with `complete:true`. Raw candidate, rejected, master-text, manifest, variation, report, processing, registry and issue files were not modified.
+All ten works have corpus-ID-matching four-file editorial packages with `complete:true`. Raw candidate, rejected, master-text, manifest, variation, report, processing, registry and issue files were not modified.
 
 ## Current queue
 
 - `B008` remains blocked pending a distinct canonical **book** object.
-- Lecture source review has been processed through **L0197**.
+- Lecture source review has been processed through **L0207**.
 - Outstanding earlier lecture identity blockers remain **L0165 The Great Secret** and **L0167 The Heavenly Vision**.
-- Next active lecture corpus item: **L0198 — The Sin Against The Holy Spirit** (`1963-02-19`).
+- Next active lecture corpus item: **L0208 — The True Knowledge Of God** (`1969-11-14`).
 
 Never advance an item based only on a prior chat statement or stale title mapping; re-fetch the package from GitHub after writing.

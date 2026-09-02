@@ -1,0 +1,22 @@
+{
+  "work": "The Sphere Within",
+  "corpus_id": "L0200",
+  "canonical_date": "1969-06-02",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-06-02.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_sphere_within.txt",
+  "canonical_source_sha": "e4e231941b34ac959e8c481671795340c47f2f8b",
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "raw_worker_windows_generated": 287,
+  "raw_worker_candidates": 283,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 33,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Sphere Within]/curated_the_sphere_within.jsonl",
+  "decisions_file": "[The Sphere Within]/editorial_decisions_the_sphere_within.jsonl",
+  "review_file": "[The Sphere Within]/editorial_review_the_sphere_within.md"
+}

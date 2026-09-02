@@ -1,0 +1,22 @@
+{
+  "work": "The Source",
+  "corpus_id": "L0199",
+  "canonical_date": "1968-10-14",
+  "date_provenance": "Registry full_date/date and physical report agree on 1968-10-14.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_source.txt",
+  "canonical_source_sha": "4c99c11c68a075fc5ec9d959444d1018a248c03b",
+  "canonical_source_paragraphs": 52,
+  "source_paragraphs_reviewed": 52,
+  "raw_worker_windows_generated": 420,
+  "raw_worker_candidates": 406,
+  "worker_rejected": 14,
+  "raw_duplicate_groups": 47,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Source]/curated_the_source.jsonl",
+  "decisions_file": "[The Source]/editorial_decisions_the_source.jsonl",
+  "review_file": "[The Source]/editorial_review_the_source.md"
+}

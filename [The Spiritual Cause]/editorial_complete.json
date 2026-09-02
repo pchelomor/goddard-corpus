@@ -1,0 +1,22 @@
+{
+  "work": "The Spiritual Cause",
+  "corpus_id": "L0203",
+  "canonical_date": "1968-05-03",
+  "date_provenance": "Registry full_date/date and physical report agree on 1968-05-03.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_spiritual_cause.txt",
+  "canonical_source_sha": "3f8ba33b0287932f786e90ee84d2e244c6b168b9",
+  "canonical_source_paragraphs": 25,
+  "source_paragraphs_reviewed": 25,
+  "raw_worker_windows_generated": 329,
+  "raw_worker_candidates": 327,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 23,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Spiritual Cause]/curated_the_spiritual_cause.jsonl",
+  "decisions_file": "[The Spiritual Cause]/editorial_decisions_the_spiritual_cause.jsonl",
+  "review_file": "[The Spiritual Cause]/editorial_review_the_spiritual_cause.md"
+}

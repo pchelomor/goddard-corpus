@@ -1,0 +1,22 @@
+{
+  "work": "The Spirit Of Truth",
+  "corpus_id": "L0201",
+  "canonical_date": "1968-10-07",
+  "date_provenance": "Registry full_date/date and physical report agree on 1968-10-07.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_spirit_of_truth.txt",
+  "canonical_source_sha": "5e86ae8bd88cd44a4434b6990f2a6f925e30dbef",
+  "canonical_source_paragraphs": 22,
+  "source_paragraphs_reviewed": 22,
+  "raw_worker_windows_generated": 286,
+  "raw_worker_candidates": 284,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 21,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Spirit Of Truth]/curated_the_spirit_of_truth.jsonl",
+  "decisions_file": "[The Spirit Of Truth]/editorial_decisions_the_spirit_of_truth.jsonl",
+  "review_file": "[The Spirit Of Truth]/editorial_review_the_spirit_of_truth.md"
+}
