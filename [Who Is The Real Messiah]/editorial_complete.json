@@ -1,0 +1,22 @@
+{
+  "work": "Who Is The Real Messiah",
+  "corpus_id": "L0225",
+  "canonical_date": "1971-06-11",
+  "date_provenance": "Registry full_date is 1971-06-11; registry date and physical report use 1971-01-01 as a year-level placeholder. No conflicting exact date appears in the canonical master.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_who_is_the_real_messiah.txt",
+  "canonical_source_sha": "bb6aad13e1205f1cfc3700db8df2df8292bc83f4",
+  "canonical_source_paragraphs": 75,
+  "source_paragraphs_reviewed": 75,
+  "raw_worker_windows_generated": 724,
+  "raw_worker_candidates": 699,
+  "worker_rejected": 25,
+  "raw_duplicate_groups": 60,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Who Is The Real Messiah]/curated_who_is_the_real_messiah.jsonl",
+  "decisions_file": "[Who Is The Real Messiah]/editorial_decisions_who_is_the_real_messiah.jsonl",
+  "review_file": "[Who Is The Real Messiah]/editorial_review_who_is_the_real_messiah.md"
+}

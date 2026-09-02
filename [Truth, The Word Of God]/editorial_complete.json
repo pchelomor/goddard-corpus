@@ -1,0 +1,22 @@
+{
+  "work": "Truth, The Word Of God",
+  "corpus_id": "L0218",
+  "canonical_date": "1967-11-24",
+  "date_provenance": "Registry full_date is null, while registry date and physical report agree on the non-placeholder date 1967-11-24; no conflicting date appears in the canonical master.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_truth_the_word_of_god.txt",
+  "canonical_source_sha": "2c8635476ec3bcb4d9021df16177c19cd7bb983e",
+  "canonical_source_paragraphs": 36,
+  "source_paragraphs_reviewed": 36,
+  "raw_worker_windows_generated": 258,
+  "raw_worker_candidates": 250,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 29,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Truth, The Word Of God]/curated_truth_the_word_of_god.jsonl",
+  "decisions_file": "[Truth, The Word Of God]/editorial_decisions_truth_the_word_of_god.jsonl",
+  "review_file": "[Truth, The Word Of God]/editorial_review_truth_the_word_of_god.md"
+}

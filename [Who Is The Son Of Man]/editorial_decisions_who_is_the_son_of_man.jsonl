@@ -1,0 +1,3 @@
+{"corpus_id":"L0226","source_scope":"available paragraphs 1-62","decision":"HOLD","reason":"All physically available source material was read, but no fragment is eligible for curation because the canonical master explicitly ends incomplete."}
+{"corpus_id":"L0226","source_scope":"source end","decision":"BLOCKED","status":"BLOCKED_SOURCE_INCOMPLETE","reason":"The master literally ends with '(this document ends incomplete)', contradicting the source manifest's claim of a complete verbatim transcript."}
+{"corpus_id":"L0226","source_scope":"full intended work","decision":"BLOCKED","reason":"A full SOURCE_FIRST_CANONICAL review cannot be certified until a complete canonical master is restored and verified."}

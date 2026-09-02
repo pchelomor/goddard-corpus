@@ -1,0 +1,3 @@
+{"corpus_id":"L0219","source_scope":"paragraphs 1-17","decision":"DROP","reason":"Faith/end-state material is dominated by financial success proof and duplicates stronger existing assumption selections."}
+{"corpus_id":"L0219","source_scope":"paragraph 18","decision":"SELECT_FRAGMENT","quote_id":"WBF-CUR-001","quote":"As the operant power of your imagination, you can tell where you are going and what you are doing by watching your thoughts.","reason":"Clean self-directed diagnostic statement with no guarantee or direct-other instruction."}
+{"corpus_id":"L0219","source_scope":"paragraphs 19-34","decision":"DROP","reason":"Sensory examples, roses/money/hats and postmortem material are duplicate, guarantee-heavy or contextual."}

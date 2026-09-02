@@ -1,0 +1,22 @@
+{
+  "work": "Who Am I",
+  "corpus_id": "L0224",
+  "canonical_date": "1968-05-06",
+  "date_provenance": "Registry full_date/date and physical report agree on 1968-05-06.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_who_am_i.txt",
+  "canonical_source_sha": "fff557d48154e49399ba31928fa7510b7ad40211",
+  "canonical_source_paragraphs": 37,
+  "source_paragraphs_reviewed": 37,
+  "raw_worker_windows_generated": 434,
+  "raw_worker_candidates": 426,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 31,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Who Am I]/curated_who_am_i.jsonl",
+  "decisions_file": "[Who Am I]/editorial_decisions_who_am_i.jsonl",
+  "review_file": "[Who Am I]/editorial_review_who_am_i.md"
+}

@@ -1,0 +1,22 @@
+{
+  "work": "Walk By Faith",
+  "corpus_id": "L0219",
+  "canonical_date": "1967-11-06",
+  "date_provenance": "Registry full_date/date and physical report agree on 1967-11-06.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_walk_by_faith.txt",
+  "canonical_source_sha": "d2eb327c7c8827b6aeb48e46612c59da46edee00",
+  "canonical_source_paragraphs": 34,
+  "source_paragraphs_reviewed": 34,
+  "raw_worker_windows_generated": 352,
+  "raw_worker_candidates": 344,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 31,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Walk By Faith]/curated_walk_by_faith.jsonl",
+  "decisions_file": "[Walk By Faith]/editorial_decisions_walk_by_faith.jsonl",
+  "review_file": "[Walk By Faith]/editorial_review_walk_by_faith.md"
+}

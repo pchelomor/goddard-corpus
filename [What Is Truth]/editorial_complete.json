@@ -1,0 +1,22 @@
+{
+  "work": "What Is Truth",
+  "corpus_id": "L0222",
+  "canonical_date": "1968-03-31",
+  "date_provenance": "Registry full_date/date and physical report agree on 1968-03-31.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_what_is_truth.txt",
+  "canonical_source_sha": "e8e57647a2a57b9083a03ed35d1fc5ae3d9544f4",
+  "canonical_source_paragraphs": 43,
+  "source_paragraphs_reviewed": 43,
+  "raw_worker_windows_generated": 486,
+  "raw_worker_candidates": 476,
+  "worker_rejected": 10,
+  "raw_duplicate_groups": 37,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[What Is Truth]/curated_what_is_truth.jsonl",
+  "decisions_file": "[What Is Truth]/editorial_decisions_what_is_truth.jsonl",
+  "review_file": "[What Is Truth]/editorial_review_what_is_truth.md"
+}

@@ -1,0 +1,22 @@
+{
+  "work": "Walk On The Water",
+  "corpus_id": "L0220",
+  "canonical_date": "1968-06-20",
+  "date_provenance": "Registry full_date/date and physical report agree on 1968-06-20.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_walk_on_the_water.txt",
+  "canonical_source_sha": "13ed26657fdb6239a682d4a8e4b663c4147a7668",
+  "canonical_source_paragraphs": 26,
+  "source_paragraphs_reviewed": 26,
+  "raw_worker_windows_generated": 345,
+  "raw_worker_candidates": 338,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 25,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Walk On The Water]/curated_walk_on_the_water.jsonl",
+  "decisions_file": "[Walk On The Water]/editorial_decisions_walk_on_the_water.jsonl",
+  "review_file": "[Walk On The Water]/editorial_review_walk_on_the_water.md"
+}

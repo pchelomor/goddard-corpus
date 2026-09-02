@@ -1,0 +1,22 @@
+{
+  "work": "Whom Do You Seek",
+  "corpus_id": "L0227",
+  "canonical_date": "1968-04-02",
+  "date_provenance": "Registry full_date/date and physical report agree on 1968-04-02.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_whom_do_you_seek.txt",
+  "canonical_source_sha": "ce8bef01e51bfbfb92dbfb9fe87bb482fbc51abf",
+  "canonical_source_paragraphs": 27,
+  "source_paragraphs_reviewed": 27,
+  "raw_worker_windows_generated": 343,
+  "raw_worker_candidates": 334,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Whom Do You Seek]/curated_whom_do_you_seek.jsonl",
+  "decisions_file": "[Whom Do You Seek]/editorial_decisions_whom_do_you_seek.jsonl",
+  "review_file": "[Whom Do You Seek]/editorial_review_whom_do_you_seek.md"
+}

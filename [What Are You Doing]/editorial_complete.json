@@ -1,0 +1,22 @@
+{
+  "work": "What Are You Doing",
+  "corpus_id": "L0221",
+  "canonical_date": "1967-10-30",
+  "date_provenance": "Registry full_date/date and physical report agree on 1967-10-30.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_what_are_you_doing.txt",
+  "canonical_source_sha": "402799bf5bbfc501c7f62df8506994f417de4ee3",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": 272,
+  "raw_worker_candidates": 265,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 31,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[What Are You Doing]/curated_what_are_you_doing.jsonl",
+  "decisions_file": "[What Are You Doing]/editorial_decisions_what_are_you_doing.jsonl",
+  "review_file": "[What Are You Doing]/editorial_review_what_are_you_doing.md"
+}
