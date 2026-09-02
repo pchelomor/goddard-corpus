@@ -1,0 +1,22 @@
+{
+  "work": "Moses – Elijah – Jesus",
+  "corpus_id": "L0107",
+  "canonical_date": "1963-02-15",
+  "date_provenance": "Editorial metadata uses exact corpus_registry.full_date 1963-02-15; raw source_manifest/report retain 1963-01-01 as a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_moses_elijah_jesus.txt",
+  "canonical_source_sha": "a9f07cc019ae04e9faa865526c1a777da4eb9ffe",
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "raw_worker_windows_generated": 549,
+  "raw_worker_candidates": 531,
+  "worker_rejected": 18,
+  "raw_duplicate_groups": 35,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Moses – Elijah – Jesus]/curated_moses_elijah_jesus.jsonl",
+  "decisions_file": "[Moses – Elijah – Jesus]/editorial_decisions_moses_elijah_jesus.jsonl",
+  "review_file": "[Moses – Elijah – Jesus]/editorial_review_moses_elijah_jesus.md"
+}
