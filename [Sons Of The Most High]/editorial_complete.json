@@ -1,0 +1,22 @@
+{
+  "work": "Sons Of The Most High",
+  "corpus_id": "L0135",
+  "canonical_date": "1968-04-15",
+  "date_provenance": "Registry full_date/date agree on 1968-04-15.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_sons_of_the_most_high.txt",
+  "canonical_source_sha": "e9f6d4d9616bb6721f412acbf24d78109a988b75",
+  "canonical_source_paragraphs": 26,
+  "source_paragraphs_reviewed": 26,
+  "raw_worker_windows_generated": 270,
+  "raw_worker_candidates": 263,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 21,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Sons Of The Most High]/curated_sons_of_the_most_high.jsonl",
+  "decisions_file": "[Sons Of The Most High]/editorial_decisions_sons_of_the_most_high.jsonl",
+  "review_file": "[Sons Of The Most High]/editorial_review_sons_of_the_most_high.md"
+}

@@ -1,0 +1,22 @@
+{
+  "work": "Signs From Above",
+  "corpus_id": "L0134",
+  "canonical_date": "1968-06-24",
+  "date_provenance": "Registry full_date/date agree on 1968-06-24.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_signs_from_above.txt",
+  "canonical_source_sha": "b6b962a5274a4d589281fe024bb9b5be63abfcf0",
+  "canonical_source_paragraphs": 21,
+  "source_paragraphs_reviewed": 21,
+  "raw_worker_windows_generated": 231,
+  "raw_worker_candidates": 227,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 19,
+  "select_fragments": 2,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Signs From Above]/curated_signs_from_above.jsonl",
+  "decisions_file": "[Signs From Above]/editorial_decisions_signs_from_above.jsonl",
+  "review_file": "[Signs From Above]/editorial_review_signs_from_above.md"
+}

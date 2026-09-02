@@ -1,0 +1,23 @@
+{
+  "work": "Seedtime And Harvest – June 10 1956",
+  "corpus_id": "L0129",
+  "canonical_date": "1956-06-10",
+  "date_provenance": "Registry full_date is null and raw date is a year-level placeholder; exact date is embedded in canonical title and primary-source slug.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_seedtime_and_harvest_june_10_1956.txt",
+  "canonical_source_sha": "25d4d93361fb3c1fb746c44c1f00684cc6ddbdbe",
+  "canonical_source_paragraphs": 1,
+  "source_paragraphs_reviewed": 1,
+  "raw_worker_windows_generated": 376,
+  "raw_worker_candidates": 369,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 1,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "related_work": "B010 / Seedtime And Harvest",
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Seedtime And Harvest – June 10 1956]/curated_seedtime_and_harvest_june_10_1956.jsonl",
+  "decisions_file": "[Seedtime And Harvest – June 10 1956]/editorial_decisions_seedtime_and_harvest_june_10_1956.jsonl",
+  "review_file": "[Seedtime And Harvest – June 10 1956]/editorial_review_seedtime_and_harvest_june_10_1956.md"
+}

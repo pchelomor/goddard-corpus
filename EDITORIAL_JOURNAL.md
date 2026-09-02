@@ -5,6 +5,7 @@ Current operational journal for the strict editorial layer defined in `EDITORIAL
 Historical snapshots are preserved verbatim:
 - `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0107.md`
 - `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0117.md`
+- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0127.md`
 
 The authoritative queue identity is always the **current** `corpus_registry.json` `corpus_id`. Every completed item requires full `SOURCE_FIRST_CANONICAL` reading, the four-file editorial package, journal entry, and post-write GitHub verification.
 
@@ -44,55 +45,61 @@ No quota is imposed.
 | L0096–L0105 | COMPLETE | 0 | L0105 identity repaired to `Love Endureth` |
 | L0106 | COMPLETE | 8 | Mental Diets |
 | L0107 | COMPLETE | 0 | Moses – Elijah – Jesus |
-| L0108–L0117 | COMPLETE | 5 | previous ten-lecture batch |
-| L0118–L0127 | COMPLETE | 4 | current ten-lecture batch; L0123 duplicate-suppressed against S002 |
+| L0108–L0117 | COMPLETE | 5 | ten-lecture batch |
+| L0118–L0127 | COMPLETE | 4 | L0123 duplicate-suppressed against S002 |
+| L0128–L0137 | COMPLETE | 7 | current ten-lecture batch |
 
-## 2026-09-02 — Lecture batch L0118–L0127
+## 2026-09-02 — Lecture batch L0128–L0137
 
 Completed ten corpus IDs under `SOURCE_FIRST_CANONICAL`.
 
-| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+| Corpus ID | Work | Canonical paragraphs/source units | Retained worker windows | SELECT |
 |---|---|---:|---:|---:|
-| L0118 | Persistent Assumption | 28 / 28 | 309 | 1 |
-| L0119 | Power And Wisdom | 33 / 33 | 214 | 1 |
-| L0120 | Power Called “The Law” | 24 / 24 | 383 | 1 |
-| L0121 | Prophetic Blueprints | 23 / 23 | 544 | 0 |
-| L0122 | Prophetic Sketches | 32 / 32 | 305 | 0 |
-| L0123 | Radio Lectures | 132 / 132 | 1,650 | 0 new |
-| L0124 | Reconciliation | 31 / 31 | 328 | 0 |
-| L0125 | Redemption | 31 / 31 | 313 | 0 |
-| L0126 | Release Barabbas And Crucify Jesus | 29 / 29 | 469 | 1 |
-| L0127 | Revealed Truth | 28 / 28 | 325 | 0 |
+| L0128 | Salvation History | 40 / 40 | 261 | 1 |
+| L0129 | Seedtime And Harvest – June 10 1956 | 1 / 1 long source paragraph | 369 | 0 |
+| L0130 | Seeing Christ Through The Eyes Of Paul | 33 / 33 | 390 | 0 |
+| L0131 | Seek The Kingdom | 25 / 25 | 312 | 0 |
+| L0132 | Self Abandonment | 89 / 89 | 589 | 0 |
+| L0133 | Sharing In Creativity | 27 / 27 | 325 | 0 |
+| L0134 | Signs From Above | 21 / 21 | 227 | 2 |
+| L0135 | Sons Of The Most High | 26 / 26 | 263 | 0 |
+| L0136 | Sound Investments | 26 / 26 | 336 | 3 |
+| L0137 | Spiritual Sensation | 37 / 37 | 427 | 1 |
 
 Batch totals:
-- canonical paragraphs reviewed: **391 / 391**;
-- worker windows generated: **4,935**;
-- retained worker windows: **4,840**;
-- worker rejected windows: **95**;
-- raw duplicate groups: **304**;
-- final new SELECT fragments: **4**.
+- canonical paragraphs/source units reviewed: **325 / 325**;
+- worker windows generated: **3,581**;
+- retained worker windows: **3,499**;
+- worker rejected windows: **82**;
+- raw duplicate groups: **269**;
+- final new SELECT fragments: **7**.
 
 Selected boundaries:
-- `L0118`: `Claim you are what you want to be. Persist in that assumption.`
-- `L0119`: scene construction plus sensory vividness, ending before the stronger causal assurance;
-- `L0120`: determine the desire and imagine a scene implying realization;
-- `L0126`: living in the end / feeling of the wish fulfilled as Neville's stated art-of-living principle.
+- `L0128`: freedom / noble imagination closing boundary, ending before the stronger unity/metaphysical clause;
+- `L0134`: fulfilled-identity diagnostic through how friends would see you;
+- `L0134`: fulfilled-feeling question plus sustaining the feeling, ending before guaranteed externalization;
+- `L0136`: the distinctive spending-versus-investing metaphor for present attention;
+- `L0136`: the distinction between thinking **from** an end and thinking **of** an end;
+- `L0136`: fulfilled-state self-inquiry — what it would be like and how it would feel to embody the desired state;
+- `L0137`: define the goal, imagine it reached, and persuade yourself it is true.
 
 Notable filtering:
-- `L0118`: wealth guarantees, direct-other influence, universal self-causation and blame-heavy closing claims excluded; one concise persistence boundary retained.
-- `L0119`: literal freezing/control of people, military-control hypotheticals and supernatural power claims excluded; one clean sensory scene instruction retained.
-- `L0120`: medical causation, salary-as-proof, universal imaginal causation and guaranteed results excluded; one scene-design sentence retained.
-- `L0121`: intentionally 0 SELECT; overwhelmingly prophetic blueprint, New-Age power, Promise and mystical testimony; opening practical language carries an absolute no-power-can-stop guarantee.
-- `L0122`: intentionally 0 SELECT; prophetic/resurrection/David material dominates, and the closing law section assigns harmful outcomes to the individual's imagination.
-- `L0123`: intentionally 0 **new** SELECT. The complete 132-paragraph master was read. It is another textual presentation of the same 1951 KECA radio-talk series already fully reviewed under `S002 The KECA Radio Talks`; the existing **22 S002 SELECT fragments remain canonical** and are not duplicated under L0123.
-- `L0124`: intentionally 0 SELECT; reconciliation, body-of-love, mystical witness and fixed redemption sequence are contextual/Promise material.
-- `L0125`: intentionally 0 SELECT; redemption/salvation-history, Lazarus, Paul/Christ identity and spiritual-body claims dominate.
-- `L0126`: one distinctive living-in-the-end boundary retained; relationship manipulation, health revision, direct-other causation and alternate-world claims excluded.
-- `L0127`: intentionally 0 SELECT; extended Immanuel/David/Fatherhood riddle with instantaneous-result and problems-solve-themselves assurances in the practical-looking tail.
+- `L0128`: predominantly salvation-history/Christology, resurrection and postmortem cosmology; one clean noble-imagination boundary survives.
+- `L0129`: complete ~5,293-word single-paragraph lecture read end-to-end. Safe attitude/wish-fulfilled ideas substantially overlap the already curated `B010 Seedtime And Harvest`; distinctive surrounding material repeatedly assigns illness, disaster, misfortune, salary and other people's conduct to imaginal causation. Zero new SELECT prevents both duplicate inflation and unsafe causal framing.
+- `L0130`: intentionally 0 SELECT; Paul/Christ/I-AM theology plus employer/interpersonal/medical causal examples. Safer loving-use wording is already represented more strongly elsewhere.
+- `L0131`: intentionally 0 SELECT; kingdom theology and a wealth case built around a childhood bank-error misappropriation, followed by guaranteed-assumption framing.
+- `L0132`: intentionally 0 SELECT; the Neville portion is overwhelmingly incarnation/birth-from-above/Promise theology. The canonical master then appends the Los Angeles Times column **“Two Tombs in Russia: A Saddening Contrast” by William F. Buckley Jr.** The appendix was read for complete coverage but is entirely external wording and explicitly DROP for Neville attribution.
+- `L0133`: intentionally 0 SELECT; grace/election, mystical testimony, Davidic fatherhood and institutional/temple symbolism dominate.
+- `L0134`: two clean practice boundaries retained; court-martial/direct-other causation, sensory-evidence denial and categorical outcome guarantees excluded.
+- `L0135`: intentionally 0 SELECT; safe assumption language is a weaker duplicate of existing L0109/L0118 selections, while this source repeatedly adds direct-other and guaranteed-outcome mechanisms.
+- `L0136`: three distinctive practical boundaries retained. Racial self-blame framing, medical and financial causal proof, material-acquisition guarantees, other-person conformity and no-power-can-stop language were excluded.
+- `L0137`: one concise goal/imaginal-end/self-persuasion boundary retained; God-in-action literalism, direct role assignment to others and guaranteed externalization were excluded.
 
-### L0123 cross-work identity
+### Date/provenance notes
 
-`L0123 Radio Lectures` and `S002 The KECA Radio Talks` belong to the same 1951 KECA source tradition. The L0123 registry cross-check points to the same RealNeville `radio_lectures.htm` source used canonically for S002. L0123 was still read end-to-end and receives its own corpus-ID-matching editorial package, but its curated file is intentionally empty to prevent duplicate inflation.
+- `L0129`: registry `full_date` is null and raw metadata carries `1956-01-01` as a year-level placeholder; the canonical title and primary-source slug identify **June 10, 1956**. Raw metadata was not rewritten.
+- `L0132`: registry `full_date` is **1970-06-01**, while the raw report uses `1970-01-01` as a year-level placeholder. Editorial metadata uses the exact registry date.
+- `L0136`: registry `full_date` is null; `1953-01-01` remains only a year-level repository placeholder.
 
 All ten works now have:
 - `curated_<slug>.jsonl`;
@@ -105,7 +112,7 @@ Raw candidate, rejected, master-text, manifest, variation, report and processing
 ## Current queue
 
 - `B008` remains blocked pending a distinct canonical book object.
-- Lecture queue is editorially complete through **L0127**.
-- Next lecture corpus item: **L0128 — Salvation History**.
+- Lecture queue is editorially complete through **L0137**.
+- Next lecture corpus item: **L0138 — summary** (`1963-01-29`).
 
 Never advance an item based only on a prior chat statement or stale title mapping; re-fetch the package from GitHub after writing.

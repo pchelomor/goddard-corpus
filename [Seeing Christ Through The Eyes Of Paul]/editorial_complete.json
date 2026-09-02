@@ -1,0 +1,22 @@
+{
+  "work": "Seeing Christ Through The Eyes Of Paul",
+  "corpus_id": "L0130",
+  "canonical_date": "1967-03-31",
+  "date_provenance": "Registry full_date/date agree on 1967-03-31.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_seeing_christ_through_the_eyes_of_paul.txt",
+  "canonical_source_sha": "e538f2d55093fed1e1d932fd745120e3b6b48c7d",
+  "canonical_source_paragraphs": 33,
+  "source_paragraphs_reviewed": 33,
+  "raw_worker_windows_generated": 397,
+  "raw_worker_candidates": 390,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 29,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Seeing Christ Through The Eyes Of Paul]/curated_seeing_christ_through_the_eyes_of_paul.jsonl",
+  "decisions_file": "[Seeing Christ Through The Eyes Of Paul]/editorial_decisions_seeing_christ_through_the_eyes_of_paul.jsonl",
+  "review_file": "[Seeing Christ Through The Eyes Of Paul]/editorial_review_seeing_christ_through_the_eyes_of_paul.md"
+}

@@ -1,0 +1,22 @@
+{
+  "work": "Sharing In Creativity",
+  "corpus_id": "L0133",
+  "canonical_date": "1968-06-10",
+  "date_provenance": "Registry full_date/date agree on 1968-06-10.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_sharing_in_creativity.txt",
+  "canonical_source_sha": "d5859fe58c8e6e6b3094fbc8b81889305b647c14",
+  "canonical_source_paragraphs": 27,
+  "source_paragraphs_reviewed": 27,
+  "raw_worker_windows_generated": 330,
+  "raw_worker_candidates": 325,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 22,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Sharing In Creativity]/curated_sharing_in_creativity.jsonl",
+  "decisions_file": "[Sharing In Creativity]/editorial_decisions_sharing_in_creativity.jsonl",
+  "review_file": "[Sharing In Creativity]/editorial_review_sharing_in_creativity.md"
+}

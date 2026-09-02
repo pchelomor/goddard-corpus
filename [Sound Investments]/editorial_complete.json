@@ -1,0 +1,22 @@
+{
+  "work": "Sound Investments",
+  "corpus_id": "L0136",
+  "canonical_date": "1953-01-01",
+  "date_provenance": "Registry full_date is null; repository/report date 1953-01-01 is a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_sound_investments.txt",
+  "canonical_source_sha": "d09543266f9cb0825d7fc1b7e0ca1a43c592ba08",
+  "canonical_source_paragraphs": 26,
+  "source_paragraphs_reviewed": 26,
+  "raw_worker_windows_generated": 343,
+  "raw_worker_candidates": 336,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 20,
+  "select_fragments": 3,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Sound Investments]/curated_sound_investments.jsonl",
+  "decisions_file": "[Sound Investments]/editorial_decisions_sound_investments.jsonl",
+  "review_file": "[Sound Investments]/editorial_review_sound_investments.md"
+}

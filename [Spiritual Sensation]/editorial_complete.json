@@ -1,0 +1,22 @@
+{
+  "work": "Spiritual Sensation",
+  "corpus_id": "L0137",
+  "canonical_date": "1969-05-16",
+  "date_provenance": "Registry full_date/date agree on 1969-05-16.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_spiritual_sensation.txt",
+  "canonical_source_sha": "ace5df84be0eebb4cbf7098bf5e11c798830f80b",
+  "canonical_source_paragraphs": 37,
+  "source_paragraphs_reviewed": 37,
+  "raw_worker_windows_generated": 434,
+  "raw_worker_candidates": 427,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 35,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Spiritual Sensation]/curated_spiritual_sensation.jsonl",
+  "decisions_file": "[Spiritual Sensation]/editorial_decisions_spiritual_sensation.jsonl",
+  "review_file": "[Spiritual Sensation]/editorial_review_spiritual_sensation.md"
+}

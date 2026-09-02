@@ -1,0 +1,22 @@
+{
+  "work": "Seek The Kingdom",
+  "corpus_id": "L0131",
+  "canonical_date": "1968-03-29",
+  "date_provenance": "Registry full_date/date agree on 1968-03-29.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_seek_the_kingdom.txt",
+  "canonical_source_sha": "ad70df67ac1782dc215ac2facb6e656a2cb928f7",
+  "canonical_source_paragraphs": 25,
+  "source_paragraphs_reviewed": 25,
+  "raw_worker_windows_generated": 317,
+  "raw_worker_candidates": 312,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Seek The Kingdom]/curated_seek_the_kingdom.jsonl",
+  "decisions_file": "[Seek The Kingdom]/editorial_decisions_seek_the_kingdom.jsonl",
+  "review_file": "[Seek The Kingdom]/editorial_review_seek_the_kingdom.md"
+}

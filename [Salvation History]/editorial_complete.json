@@ -1,0 +1,22 @@
+{
+  "work": "Salvation History",
+  "corpus_id": "L0128",
+  "canonical_date": "1968-02-12",
+  "date_provenance": "Registry full_date/date agree on 1968-02-12.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_salvation_history.txt",
+  "canonical_source_sha": "e88fb4b38d036e218ff2459a4d9c3846aaf5745c",
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "raw_worker_windows_generated": 262,
+  "raw_worker_candidates": 261,
+  "worker_rejected": 1,
+  "raw_duplicate_groups": 35,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Salvation History]/curated_salvation_history.jsonl",
+  "decisions_file": "[Salvation History]/editorial_decisions_salvation_history.jsonl",
+  "review_file": "[Salvation History]/editorial_review_salvation_history.md"
+}
