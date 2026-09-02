@@ -1,0 +1,23 @@
+{
+  "work":"Lesson 5 – Remain Faithful To Your Idea",
+  "corpus_id":"L0103",
+  "canonical_date":"1968-01-01",
+  "date_provenance":"Repository year-level placeholder; canonical content is the 1948 Five Lessons Lesson 5 already reviewed under S001.",
+  "review_mode":"SOURCE_FIRST_CANONICAL",
+  "canonical_source_file":"master_text_lesson_5_remain_faithful_to_your_idea.txt",
+  "canonical_source_sha":"8f22caae019b69327de8280e12d19959e55242dd",
+  "canonical_source_paragraphs":134,
+  "source_paragraphs_reviewed":134,
+  "raw_worker_windows_generated":573,
+  "retained_worker_windows":559,
+  "worker_rejected":14,
+  "raw_duplicate_groups":86,
+  "select_fragments":0,
+  "intentional_empty_curated":true,
+  "complete":true,
+  "cross_work_reference":"S001 / Five Lessons / Lesson 5",
+  "review_policy":"EDITORIAL_POLICY.md",
+  "curated_file":"[Lesson 5 – Remain Faithful To Your Idea]/curated_lesson_5_remain_faithful_to_your_idea.jsonl",
+  "decisions_file":"[Lesson 5 – Remain Faithful To Your Idea]/editorial_decisions_lesson_5_remain_faithful_to_your_idea.jsonl",
+  "review_file":"[Lesson 5 – Remain Faithful To Your Idea]/editorial_review_lesson_5_remain_faithful_to_your_idea.md"
+}
