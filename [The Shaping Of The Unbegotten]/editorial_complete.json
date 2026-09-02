@@ -1,0 +1,22 @@
+{
+  "work": "The Shaping Of The Unbegotten",
+  "corpus_id": "L0197",
+  "canonical_date": "1963-05-03",
+  "date_provenance": "Registry full_date/date and physical report agree on 1963-05-03.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_shaping_of_the_unbegotten.txt",
+  "canonical_source_sha": "7b3b6fb9d477c731016fe5820bf6fafaf74bb41d",
+  "canonical_source_paragraphs": 11,
+  "source_paragraphs_reviewed": 11,
+  "raw_worker_windows_generated": 207,
+  "raw_worker_candidates": 198,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 10,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Shaping Of The Unbegotten]/curated_the_shaping_of_the_unbegotten.jsonl",
+  "decisions_file": "[The Shaping Of The Unbegotten]/editorial_decisions_the_shaping_of_the_unbegotten.jsonl",
+  "review_file": "[The Shaping Of The Unbegotten]/editorial_review_the_shaping_of_the_unbegotten.md"
+}

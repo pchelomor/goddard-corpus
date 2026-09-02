@@ -1,0 +1,22 @@
+{
+  "work": "The Seven Eyes Of God",
+  "corpus_id": "L0196",
+  "canonical_date": null,
+  "date_provenance": "Registry full_date/year are null. Registry date and physical report use 1968-01-01, treated as a year-level repository placeholder rather than an exact lecture date.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_seven_eyes_of_god.txt",
+  "canonical_source_sha": "a74b75cabf811ff7869ce53a90b95d07b8201aa4",
+  "canonical_source_paragraphs": 35,
+  "source_paragraphs_reviewed": 35,
+  "raw_worker_windows_generated": 451,
+  "raw_worker_candidates": 434,
+  "worker_rejected": 17,
+  "raw_duplicate_groups": 28,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Seven Eyes Of God]/curated_the_seven_eyes_of_god.jsonl",
+  "decisions_file": "[The Seven Eyes Of God]/editorial_decisions_the_seven_eyes_of_god.jsonl",
+  "review_file": "[The Seven Eyes Of God]/editorial_review_the_seven_eyes_of_god.md"
+}

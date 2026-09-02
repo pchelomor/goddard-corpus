@@ -1,0 +1,22 @@
+{
+  "work": "The Second Vision",
+  "corpus_id": "L0193",
+  "canonical_date": "1959-09-11",
+  "date_provenance": "Registry full_date is 1959-09-11; registry date and physical report use 1959-01-01 as a year-level placeholder. No conflicting exact date appears in the canonical master.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_second_vision.txt",
+  "canonical_source_sha": "e3c5dae5d77f46c1f2976abebab5ec565812fa53",
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "raw_worker_windows_generated": 358,
+  "raw_worker_candidates": 345,
+  "worker_rejected": 13,
+  "raw_duplicate_groups": 19,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Second Vision]/curated_the_second_vision.jsonl",
+  "decisions_file": "[The Second Vision]/editorial_decisions_the_second_vision.jsonl",
+  "review_file": "[The Second Vision]/editorial_review_the_second_vision.md"
+}

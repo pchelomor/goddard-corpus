@@ -1,0 +1,22 @@
+{
+  "work": "The Rock",
+  "corpus_id": "L0191",
+  "canonical_date": "1969-02-19",
+  "date_provenance": "Registry full_date is 1969-02-19; registry date and physical report use 1969-01-01 as a year-level placeholder. No conflicting exact date appears in the canonical master.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_rock.txt",
+  "canonical_source_sha": "efbf026f34b2e9df56d049bae15f940b9dd46c7a",
+  "canonical_source_paragraphs": 53,
+  "source_paragraphs_reviewed": 53,
+  "raw_worker_windows_generated": 431,
+  "raw_worker_candidates": 426,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 49,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Rock]/curated_the_rock.jsonl",
+  "decisions_file": "[The Rock]/editorial_decisions_the_rock.jsonl",
+  "review_file": "[The Rock]/editorial_review_the_rock.md"
+}

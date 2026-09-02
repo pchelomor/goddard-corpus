@@ -1,0 +1,22 @@
+{
+  "work": "The Roll Of The Book",
+  "corpus_id": "L0192",
+  "canonical_date": "1968-11-01",
+  "date_provenance": "Registry full_date/date and physical report agree on 1968-11-01.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_roll_of_the_book.txt",
+  "canonical_source_sha": "04dbb93699c146d8bdda5b04e33086580cc631cb",
+  "canonical_source_paragraphs": 37,
+  "source_paragraphs_reviewed": 37,
+  "raw_worker_windows_generated": 376,
+  "raw_worker_candidates": 370,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 34,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Roll Of The Book]/curated_the_roll_of_the_book.jsonl",
+  "decisions_file": "[The Roll Of The Book]/editorial_decisions_the_roll_of_the_book.jsonl",
+  "review_file": "[The Roll Of The Book]/editorial_review_the_roll_of_the_book.md"
+}

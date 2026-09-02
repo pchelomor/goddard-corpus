@@ -1,0 +1,22 @@
+{
+  "work": "The Secret Of Prayer",
+  "corpus_id": "L0195",
+  "canonical_date": "1967-10-06",
+  "date_provenance": "Registry full_date/date and physical report agree on 1967-10-06.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_secret_of_prayer.txt",
+  "canonical_source_sha": "9e40b886269f2530682ed833ed2817bf88417674",
+  "canonical_source_paragraphs": 29,
+  "source_paragraphs_reviewed": 29,
+  "raw_worker_windows_generated": 340,
+  "raw_worker_candidates": 338,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 26,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Secret Of Prayer]/curated_the_secret_of_prayer.jsonl",
+  "decisions_file": "[The Secret Of Prayer]/editorial_decisions_the_secret_of_prayer.jsonl",
+  "review_file": "[The Secret Of Prayer]/editorial_review_the_secret_of_prayer.md"
+}

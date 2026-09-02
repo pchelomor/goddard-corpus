@@ -1,0 +1,22 @@
+{
+  "work": "The Pruning Shears Of Revision",
+  "corpus_id": "L0188",
+  "canonical_date": null,
+  "date_provenance": "Registry full_date is null. Registry date and physical report use 1954-01-01, treated as a year-level placeholder rather than an exact lecture date.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_pruning_shears_of_revision.txt",
+  "canonical_source_sha": "0363bcdcc13b847e93399739e573fe4d5127643f",
+  "canonical_source_paragraphs": 28,
+  "source_paragraphs_reviewed": 28,
+  "raw_worker_windows_generated": 235,
+  "raw_worker_candidates": 231,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 22,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Pruning Shears Of Revision]/curated_the_pruning_shears_of_revision.jsonl",
+  "decisions_file": "[The Pruning Shears Of Revision]/editorial_decisions_the_pruning_shears_of_revision.jsonl",
+  "review_file": "[The Pruning Shears Of Revision]/editorial_review_the_pruning_shears_of_revision.md"
+}

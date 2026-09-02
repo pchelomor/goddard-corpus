@@ -1,0 +1,22 @@
+{
+  "work": "The Revealer",
+  "corpus_id": "L0190",
+  "canonical_date": "1968-11-22",
+  "date_provenance": "Registry full_date/date and physical report agree on 1968-11-22.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_revealer.txt",
+  "canonical_source_sha": "fd67940ccec9effd44c3821dd3fb884d6d4940e5",
+  "canonical_source_paragraphs": 22,
+  "source_paragraphs_reviewed": 22,
+  "raw_worker_windows_generated": 341,
+  "raw_worker_candidates": 334,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 21,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Revealer]/curated_the_revealer.jsonl",
+  "decisions_file": "[The Revealer]/editorial_decisions_the_revealer.jsonl",
+  "review_file": "[The Revealer]/editorial_review_the_revealer.md"
+}

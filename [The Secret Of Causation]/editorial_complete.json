@@ -1,0 +1,22 @@
+{
+  "work": "The Secret Of Causation",
+  "corpus_id": "L0194",
+  "canonical_date": "1969-12-05",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-12-05.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_secret_of_causation.txt",
+  "canonical_source_sha": "0b066fbc80fac6c0718c7f6f5e9a6499b048dea8",
+  "canonical_source_paragraphs": 36,
+  "source_paragraphs_reviewed": 36,
+  "raw_worker_windows_generated": 315,
+  "raw_worker_candidates": 310,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 30,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Secret Of Causation]/curated_the_secret_of_causation.jsonl",
+  "decisions_file": "[The Secret Of Causation]/editorial_decisions_the_secret_of_causation.jsonl",
+  "review_file": "[The Secret Of Causation]/editorial_review_the_secret_of_causation.md"
+}
