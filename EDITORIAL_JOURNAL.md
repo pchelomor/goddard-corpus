@@ -856,3 +856,39 @@ Date/provenance notes:
 - `L0105` registry metadata gives `full_date` **1968-07-19**, but no canonical physical object exists in the current repository.
 
 `corpus_issues.md` now records `ISS-008` for the L0105 registry/progress versus physical-tree mismatch. No L0105 editorial files were fabricated. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, registry and processing files for the nine accessible works were not modified.
+
+## 2026-09-02 — L0106 Mental Diets
+
+Completed the next accessible queue item after blocked `L0105` under `SOURCE_FIRST_CANONICAL`.
+
+Identity and method:
+- `corpus_id`: `L0106`;
+- work: `Mental Diets`;
+- registry `full_date`: null;
+- repository date: `1955-01-01`, retained as a year-level placeholder;
+- authoritative source: `[Mental Diets]/master_text_mental_diets.txt`;
+- canonical source SHA: `1bbc8017fdeeb4967ae214a9ef19180035ab1168`.
+
+Result:
+- canonical paragraphs reviewed: **50 / 50**;
+- worker windows generated: **342**;
+- retained worker windows: **331** (`268` candidate + `63` review-recommended);
+- worker rejected windows: **11**;
+- raw duplicate groups: **39**;
+- final main-pool SELECT fragments: **8**.
+
+Notable filtering:
+- retained only clean Neville-only formulations on directing inner conversation, observing attitudes as mental conversation, fulfilled-desire inner speech, assumption, self-concept, and active imaginal participation;
+- direct causation/control of another person's behavior, including the employer example, was excluded from the automatic pool;
+- victim-blaming/universal event-causation, categorical externalization guarantees, health/wealth-at-distance claims, pseudo-scientific certainty and sensory-evidence-denial tied to guaranteed outcomes were kept out;
+- scripture, Hermetica, *The Light of Asia*, and other external wording were not attributed to Neville;
+- strong theological/literal metaphysical material was held for contextual use where appropriate;
+- one selected self-concept fragment intentionally ends before the source sentence's stronger outcome-assurance clause.
+
+Files written:
+- `[Mental Diets]/curated_mental_diets.jsonl`
+- `[Mental Diets]/editorial_decisions_mental_diets.jsonl`
+- `[Mental Diets]/editorial_review_mental_diets.md`
+- `[Mental Diets]/editorial_complete.json`
+
+Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report and processing files were not modified.
