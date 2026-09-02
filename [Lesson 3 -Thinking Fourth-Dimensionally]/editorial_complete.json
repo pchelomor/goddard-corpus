@@ -1,0 +1,23 @@
+{
+  "work":"Lesson 3 -Thinking Fourth-Dimensionally",
+  "corpus_id":"L0101",
+  "canonical_date":"1968-01-01",
+  "date_provenance":"Repository year-level placeholder; canonical content is the 1948 Five Lessons Lesson 3 already reviewed under S001.",
+  "review_mode":"SOURCE_FIRST_CANONICAL",
+  "canonical_source_file":"master_text_lesson_3_thinking_fourth_dimensionally.txt",
+  "canonical_source_sha":"e8f0c82531d4339c456f6652a91b5939e3f97869",
+  "canonical_source_paragraphs":167,
+  "source_paragraphs_reviewed":167,
+  "raw_worker_windows_generated":912,
+  "retained_worker_windows":895,
+  "worker_rejected":17,
+  "raw_duplicate_groups":114,
+  "select_fragments":0,
+  "intentional_empty_curated":true,
+  "complete":true,
+  "cross_work_reference":"S001 / Five Lessons / Lesson 3",
+  "review_policy":"EDITORIAL_POLICY.md",
+  "curated_file":"[Lesson 3 -Thinking Fourth-Dimensionally]/curated_lesson_3_thinking_fourth_dimensionally.jsonl",
+  "decisions_file":"[Lesson 3 -Thinking Fourth-Dimensionally]/editorial_decisions_lesson_3_thinking_fourth_dimensionally.jsonl",
+  "review_file":"[Lesson 3 -Thinking Fourth-Dimensionally]/editorial_review_lesson_3_thinking_fourth_dimensionally.md"
+}
