@@ -1,0 +1,22 @@
+{
+  "work": "One Thousand Two Hundred Sixty Days",
+  "corpus_id": "L0115",
+  "canonical_date": "1968-09-13",
+  "date_provenance": "Registry is internally inconsistent: year/date and source manifest identify 1968-09-13, while corpus_registry.full_date is 1963-01-01. Editorial metadata follows the canonical source manifest/repository date and records, but does not rewrite, the registry discrepancy.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_one_thousand_two_hundred_sixty_days.txt",
+  "canonical_source_sha": "8256e06c630b1d94ffc725278c21cb9d64abfe87",
+  "canonical_source_paragraphs": 35,
+  "source_paragraphs_reviewed": 35,
+  "raw_worker_windows_generated": 361,
+  "raw_worker_candidates": 359,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 30,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[One Thousand Two Hundred Sixty Days]/curated_one_thousand_two_hundred_sixty_days.jsonl",
+  "decisions_file": "[One Thousand Two Hundred Sixty Days]/editorial_decisions_one_thousand_two_hundred_sixty_days.jsonl",
+  "review_file": "[One Thousand Two Hundred Sixty Days]/editorial_review_one_thousand_two_hundred_sixty_days.md"
+}

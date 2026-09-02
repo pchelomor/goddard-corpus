@@ -1,0 +1,22 @@
+{
+  "work": "My Word",
+  "corpus_id": "L0108",
+  "canonical_date": "1968-04-22",
+  "date_provenance": "Registry full_date/date agree on 1968-04-22.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_my_word.txt",
+  "canonical_source_sha": "b5d47d38644a1fbd62358afa1df73c891b6a9979",
+  "canonical_source_paragraphs": 19,
+  "source_paragraphs_reviewed": 19,
+  "raw_worker_windows_generated": 296,
+  "raw_worker_candidates": 291,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 17,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[My Word]/curated_my_word.jsonl",
+  "decisions_file": "[My Word]/editorial_decisions_my_word.jsonl",
+  "review_file": "[My Word]/editorial_review_my_word.md"
+}

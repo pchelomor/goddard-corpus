@@ -1,0 +1,22 @@
+{
+  "work": "Occupant Or Inmate",
+  "corpus_id": "L0114",
+  "canonical_date": "1966-11-22",
+  "date_provenance": "Editorial metadata uses registry full_date 1966-11-22; raw repository/report date 1966-01-01 is a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_occupant_or_inmate.txt",
+  "canonical_source_sha": "60dd53f2ef3c19fbf9cbb8d535a24b99e014514a",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": 439,
+  "raw_worker_candidates": 428,
+  "worker_rejected": 11,
+  "raw_duplicate_groups": 29,
+  "select_fragments": 2,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Occupant Or Inmate]/curated_occupant_or_inmate.jsonl",
+  "decisions_file": "[Occupant Or Inmate]/editorial_decisions_occupant_or_inmate.jsonl",
+  "review_file": "[Occupant Or Inmate]/editorial_review_occupant_or_inmate.md"
+}

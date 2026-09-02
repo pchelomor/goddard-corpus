@@ -1,0 +1,22 @@
+{
+  "work": "Perception",
+  "corpus_id": "L0117",
+  "canonical_date": "1968-04-26",
+  "date_provenance": "Editorial metadata uses registry full_date 1968-04-26; raw repository/report date 1968-01-01 is a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_perception.txt",
+  "canonical_source_sha": "062fee7609f7a0d59fa77a3ad6d177053e2831a6",
+  "canonical_source_paragraphs": 26,
+  "source_paragraphs_reviewed": 26,
+  "raw_worker_windows_generated": 224,
+  "raw_worker_candidates": 218,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 25,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Perception]/curated_perception.jsonl",
+  "decisions_file": "[Perception]/editorial_decisions_perception.jsonl",
+  "review_file": "[Perception]/editorial_review_perception.md"
+}

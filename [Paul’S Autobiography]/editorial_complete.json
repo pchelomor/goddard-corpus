@@ -1,0 +1,22 @@
+{
+  "work": "Paul’s Autobiography",
+  "corpus_id": "L0116",
+  "canonical_date": "1963-02-22",
+  "date_provenance": "Registry full_date/date agree on 1963-02-22.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_paul_s_autobiography.txt",
+  "canonical_source_sha": "079fc16ef99bfe036cfc1b1f3529162de17a34be",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 449,
+  "raw_worker_candidates": 433,
+  "worker_rejected": 16,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Paul’S Autobiography]/curated_paul_s_autobiography.jsonl",
+  "decisions_file": "[Paul’S Autobiography]/editorial_decisions_paul_s_autobiography.jsonl",
+  "review_file": "[Paul’S Autobiography]/editorial_review_paul_s_autobiography.md"
+}

@@ -1,0 +1,22 @@
+{
+  "work": "No Other Foundation 10-10-1969",
+  "corpus_id": "L0110",
+  "canonical_date": "1969-10-10",
+  "date_provenance": "Registry full_date/date agree on 1969-10-10.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_no_other_foundation_10_10_1969.txt",
+  "canonical_source_sha": "b6b4ff8eafaa0b39384012ddbf75a8986c43d3a2",
+  "canonical_source_paragraphs": 46,
+  "source_paragraphs_reviewed": 46,
+  "raw_worker_windows_generated": 356,
+  "raw_worker_candidates": 347,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 39,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[No Other Foundation 10-10-1969]/curated_no_other_foundation_10_10_1969.jsonl",
+  "decisions_file": "[No Other Foundation 10-10-1969]/editorial_decisions_no_other_foundation_10_10_1969.jsonl",
+  "review_file": "[No Other Foundation 10-10-1969]/editorial_review_no_other_foundation_10_10_1969.md"
+}

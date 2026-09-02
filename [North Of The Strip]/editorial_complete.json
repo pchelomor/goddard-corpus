@@ -1,0 +1,22 @@
+{
+  "work": "North Of The Strip",
+  "corpus_id": "L0113",
+  "canonical_date": "1959-11-24",
+  "date_provenance": "Registry full_date/date agree on 1959-11-24.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_north_of_the_strip.txt",
+  "canonical_source_sha": "d590489646f5e68c5dca4eb1bacf05e5841e2c82",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": 476,
+  "raw_worker_candidates": 462,
+  "worker_rejected": 14,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[North Of The Strip]/curated_north_of_the_strip.jsonl",
+  "decisions_file": "[North Of The Strip]/editorial_decisions_north_of_the_strip.jsonl",
+  "review_file": "[North Of The Strip]/editorial_review_north_of_the_strip.md"
+}

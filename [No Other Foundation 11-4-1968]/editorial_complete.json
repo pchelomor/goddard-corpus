@@ -1,0 +1,22 @@
+{
+  "work": "No Other Foundation 11-4-1968",
+  "corpus_id": "L0111",
+  "canonical_date": "1968-11-04",
+  "date_provenance": "Registry full_date is null; title and repository date identify 1968-11-04.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_no_other_foundation_11_4_1968.txt",
+  "canonical_source_sha": "d5fcbdaeacf4ed5ed31f2aa1516f3b78fd64aa01",
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "raw_worker_windows_generated": 391,
+  "raw_worker_candidates": 385,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 37,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[No Other Foundation 11-4-1968]/curated_no_other_foundation_11_4_1968.jsonl",
+  "decisions_file": "[No Other Foundation 11-4-1968]/editorial_decisions_no_other_foundation_11_4_1968.jsonl",
+  "review_file": "[No Other Foundation 11-4-1968]/editorial_review_no_other_foundation_11_4_1968.md"
+}

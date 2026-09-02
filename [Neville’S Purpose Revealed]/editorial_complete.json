@@ -1,0 +1,22 @@
+{
+  "work": "Neville’s Purpose Revealed",
+  "corpus_id": "L0109",
+  "canonical_date": "1971-01-01",
+  "date_provenance": "Registry full_date is null; repository date 1971-01-01 is retained as a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_neville_s_purpose_revealed.txt",
+  "canonical_source_sha": "8c8a8de5843981e86e863c7d0797d6622a620c2b",
+  "canonical_source_paragraphs": 131,
+  "source_paragraphs_reviewed": 131,
+  "raw_worker_windows_generated": 695,
+  "raw_worker_candidates": 668,
+  "worker_rejected": 27,
+  "raw_duplicate_groups": 68,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Neville’S Purpose Revealed]/curated_neville_s_purpose_revealed.jsonl",
+  "decisions_file": "[Neville’S Purpose Revealed]/editorial_decisions_neville_s_purpose_revealed.jsonl",
+  "review_file": "[Neville’S Purpose Revealed]/editorial_review_neville_s_purpose_revealed.md"
+}
