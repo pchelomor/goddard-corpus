@@ -1,0 +1,22 @@
+{
+  "work": "Prophetic Blueprints",
+  "corpus_id": "L0121",
+  "canonical_date": "1963-01-08",
+  "date_provenance": "Registry full_date/date agree on 1963-01-08.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_prophetic_blueprints.txt",
+  "canonical_source_sha": "b3f669d8c393ef504255ce34e41fb3b3ab9b4714",
+  "canonical_source_paragraphs": 23,
+  "source_paragraphs_reviewed": 23,
+  "raw_worker_windows_generated": 552,
+  "raw_worker_candidates": 544,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 22,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Prophetic Blueprints]/curated_prophetic_blueprints.jsonl",
+  "decisions_file": "[Prophetic Blueprints]/editorial_decisions_prophetic_blueprints.jsonl",
+  "review_file": "[Prophetic Blueprints]/editorial_review_prophetic_blueprints.md"
+}

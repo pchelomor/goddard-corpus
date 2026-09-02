@@ -1,0 +1,22 @@
+{
+  "work": "Reconciliation",
+  "corpus_id": "L0124",
+  "canonical_date": "1969-10-12",
+  "date_provenance": "Registry full_date/date agree on 1969-10-12.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_reconciliation.txt",
+  "canonical_source_sha": "03dc2a718c981383287171629e56358cdd808b2e",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 333,
+  "raw_worker_candidates": 328,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 28,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Reconciliation]/curated_reconciliation.jsonl",
+  "decisions_file": "[Reconciliation]/editorial_decisions_reconciliation.jsonl",
+  "review_file": "[Reconciliation]/editorial_review_reconciliation.md"
+}

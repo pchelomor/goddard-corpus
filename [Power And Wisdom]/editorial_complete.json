@@ -1,0 +1,22 @@
+{
+  "work": "Power And Wisdom",
+  "corpus_id": "L0119",
+  "canonical_date": "1968-10-04",
+  "date_provenance": "Registry full_date/date agree on 1968-10-04.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_power_and_wisdom.txt",
+  "canonical_source_sha": "ea607b199f2cf0bb78907aea9e15d3d3a8115d3d",
+  "canonical_source_paragraphs": 33,
+  "source_paragraphs_reviewed": 33,
+  "raw_worker_windows_generated": 216,
+  "raw_worker_candidates": 214,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 26,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Power And Wisdom]/curated_power_and_wisdom.jsonl",
+  "decisions_file": "[Power And Wisdom]/editorial_decisions_power_and_wisdom.jsonl",
+  "review_file": "[Power And Wisdom]/editorial_review_power_and_wisdom.md"
+}

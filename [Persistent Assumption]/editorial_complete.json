@@ -1,0 +1,22 @@
+{
+  "work": "Persistent Assumption",
+  "corpus_id": "L0118",
+  "canonical_date": "1968-03-18",
+  "date_provenance": "Registry full_date/date agree on 1968-03-18.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_persistent_assumption.txt",
+  "canonical_source_sha": "795660f9599a5429a07c702a54e6f97d0a413f3a",
+  "canonical_source_paragraphs": 28,
+  "source_paragraphs_reviewed": 28,
+  "raw_worker_windows_generated": 319,
+  "raw_worker_candidates": 309,
+  "worker_rejected": 10,
+  "raw_duplicate_groups": 27,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Persistent Assumption]/curated_persistent_assumption.jsonl",
+  "decisions_file": "[Persistent Assumption]/editorial_decisions_persistent_assumption.jsonl",
+  "review_file": "[Persistent Assumption]/editorial_review_persistent_assumption.md"
+}

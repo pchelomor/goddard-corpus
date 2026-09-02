@@ -1,0 +1,22 @@
+{
+  "work": "Redemption",
+  "corpus_id": "L0125",
+  "canonical_date": "1969-10-21",
+  "date_provenance": "Registry full_date/date agree on 1969-10-21.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_redemption.txt",
+  "canonical_source_sha": "dfe9a4200f982f027389e37c00eb5c5d66b023e3",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 318,
+  "raw_worker_candidates": 313,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 29,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Redemption]/curated_redemption.jsonl",
+  "decisions_file": "[Redemption]/editorial_decisions_redemption.jsonl",
+  "review_file": "[Redemption]/editorial_review_redemption.md"
+}

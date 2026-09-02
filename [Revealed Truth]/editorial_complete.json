@@ -1,0 +1,22 @@
+{
+  "work": "Revealed Truth",
+  "corpus_id": "L0127",
+  "canonical_date": "1969-11-03",
+  "date_provenance": "Registry full_date/date agree on 1969-11-03.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_revealed_truth.txt",
+  "canonical_source_sha": "dbb2ca3c618efb57d5aec90a0861aea942e8722c",
+  "canonical_source_paragraphs": 28,
+  "source_paragraphs_reviewed": 28,
+  "raw_worker_windows_generated": 331,
+  "raw_worker_candidates": 325,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 25,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Revealed Truth]/curated_revealed_truth.jsonl",
+  "decisions_file": "[Revealed Truth]/editorial_decisions_revealed_truth.jsonl",
+  "review_file": "[Revealed Truth]/editorial_review_revealed_truth.md"
+}

@@ -1,0 +1,22 @@
+{
+  "work": "Release Barabbas And Crucify Jesus",
+  "corpus_id": "L0126",
+  "canonical_date": "1957-10-17",
+  "date_provenance": "Registry full_date/date agree on 1957-10-17.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_release_barabbas_and_crucify_jesus.txt",
+  "canonical_source_sha": "118dcd37006d86db439ffc8dc409ddc72d6086d3",
+  "canonical_source_paragraphs": 29,
+  "source_paragraphs_reviewed": 29,
+  "raw_worker_windows_generated": 485,
+  "raw_worker_candidates": 469,
+  "worker_rejected": 16,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Release Barabbas And Crucify Jesus]/curated_release_barabbas_and_crucify_jesus.jsonl",
+  "decisions_file": "[Release Barabbas And Crucify Jesus]/editorial_decisions_release_barabbas_and_crucify_jesus.jsonl",
+  "review_file": "[Release Barabbas And Crucify Jesus]/editorial_review_release_barabbas_and_crucify_jesus.md"
+}

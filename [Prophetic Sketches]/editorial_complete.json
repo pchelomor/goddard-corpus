@@ -1,0 +1,22 @@
+{
+  "work": "Prophetic Sketches",
+  "corpus_id": "L0122",
+  "canonical_date": "1967-09-22",
+  "date_provenance": "Registry full_date/date agree on 1967-09-22.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_prophetic_sketches.txt",
+  "canonical_source_sha": "ecef9476b9fa3e0d29e662ceddaab3eeee8f0770",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": 309,
+  "raw_worker_candidates": 305,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 26,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Prophetic Sketches]/curated_prophetic_sketches.jsonl",
+  "decisions_file": "[Prophetic Sketches]/editorial_decisions_prophetic_sketches.jsonl",
+  "review_file": "[Prophetic Sketches]/editorial_review_prophetic_sketches.md"
+}

@@ -1,0 +1,22 @@
+{
+  "work": "Power Called “The Law”",
+  "corpus_id": "L0120",
+  "canonical_date": "1969-04-21",
+  "date_provenance": "Registry full_date/date agree on 1969-04-21.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_power_called_the_law.txt",
+  "canonical_source_sha": "66f8bb0ff0a6e9f95e476958fa2e517f5e29df46",
+  "canonical_source_paragraphs": 24,
+  "source_paragraphs_reviewed": 24,
+  "raw_worker_windows_generated": 392,
+  "raw_worker_candidates": 383,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 23,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Power Called “The Law”]/curated_power_called_the_law.jsonl",
+  "decisions_file": "[Power Called “The Law”]/editorial_decisions_power_called_the_law.jsonl",
+  "review_file": "[Power Called “The Law”]/editorial_review_power_called_the_law.md"
+}

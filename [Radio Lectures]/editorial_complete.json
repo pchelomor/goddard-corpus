@@ -1,0 +1,23 @@
+{
+  "work": "Radio Lectures",
+  "corpus_id": "L0123",
+  "canonical_date": "1951-01-01",
+  "date_provenance": "Registry full_date is null; repository date 1951-01-01 is a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_radio_lectures.txt",
+  "canonical_source_sha": "e96a9fc52a7f65622661cb2d188e4a7d485a332c",
+  "canonical_source_paragraphs": 132,
+  "source_paragraphs_reviewed": 132,
+  "raw_worker_windows_generated": 1680,
+  "raw_worker_candidates": 1650,
+  "worker_rejected": 30,
+  "raw_duplicate_groups": 74,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "cross_work_reference": "S002 / The KECA Radio Talks",
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Radio Lectures]/curated_radio_lectures.jsonl",
+  "decisions_file": "[Radio Lectures]/editorial_decisions_radio_lectures.jsonl",
+  "review_file": "[Radio Lectures]/editorial_review_radio_lectures.md"
+}
