@@ -1,0 +1,22 @@
+{
+  "work": "There Is No Fiction",
+  "corpus_id": "L0214",
+  "canonical_date": "1968-06-07",
+  "date_provenance": "Registry full_date/date and physical report agree on 1968-06-07.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_there_is_no_fiction.txt",
+  "canonical_source_sha": "21267c858053e318d41cafb13427acfe4a4ce6c1",
+  "canonical_source_paragraphs": 54,
+  "source_paragraphs_reviewed": 54,
+  "raw_worker_windows_generated": 391,
+  "raw_worker_candidates": 379,
+  "worker_rejected": 12,
+  "raw_duplicate_groups": 48,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[There Is No Fiction]/curated_there_is_no_fiction.jsonl",
+  "decisions_file": "[There Is No Fiction]/editorial_decisions_there_is_no_fiction.jsonl",
+  "review_file": "[There Is No Fiction]/editorial_review_there_is_no_fiction.md"
+}

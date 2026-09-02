@@ -1,0 +1,22 @@
+{
+  "work": "The Truth Of Christ Is Here",
+  "corpus_id": "L0210",
+  "canonical_date": "1970-06-22",
+  "date_provenance": "Registry full_date is 1970-06-22; registry date and physical report use 1970-01-01 as a year-level placeholder. No conflicting exact date appears in the canonical master.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_truth_of_christ_is_here.txt",
+  "canonical_source_sha": "070b5c5551ed7a8689f2922b0f581b16ed1236be",
+  "canonical_source_paragraphs": 81,
+  "source_paragraphs_reviewed": 81,
+  "raw_worker_windows_generated": 676,
+  "raw_worker_candidates": 639,
+  "worker_rejected": 37,
+  "raw_duplicate_groups": 55,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Truth Of Christ Is Here]/curated_the_truth_of_christ_is_here.jsonl",
+  "decisions_file": "[The Truth Of Christ Is Here]/editorial_decisions_the_truth_of_christ_is_here.jsonl",
+  "review_file": "[The Truth Of Christ Is Here]/editorial_review_the_truth_of_christ_is_here.md"
+}

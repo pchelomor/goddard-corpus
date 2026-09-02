@@ -1,0 +1,22 @@
+{
+  "work": "Trust In God",
+  "corpus_id": "L0217",
+  "canonical_date": "1967-10-13",
+  "date_provenance": "Registry full_date/date and physical report agree on 1967-10-13.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_trust_in_god.txt",
+  "canonical_source_sha": "2ff83df6f6abf8f04abe2ca71e43bd252a629818",
+  "canonical_source_paragraphs": 30,
+  "source_paragraphs_reviewed": 30,
+  "raw_worker_windows_generated": 206,
+  "raw_worker_candidates": 203,
+  "worker_rejected": 3,
+  "raw_duplicate_groups": 27,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Trust In God]/curated_trust_in_god.jsonl",
+  "decisions_file": "[Trust In God]/editorial_decisions_trust_in_god.jsonl",
+  "review_file": "[Trust In God]/editorial_review_trust_in_god.md"
+}

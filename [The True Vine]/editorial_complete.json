@@ -1,0 +1,22 @@
+{
+  "work": "The True Vine",
+  "corpus_id": "L0209",
+  "canonical_date": "1969-04-04",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-04-04.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_true_vine.txt",
+  "canonical_source_sha": "93e2a9e7b03270250895393124796d19e186a0b0",
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "raw_worker_windows_generated": 432,
+  "raw_worker_candidates": 425,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 36,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The True Vine]/curated_the_true_vine.jsonl",
+  "decisions_file": "[The True Vine]/editorial_decisions_the_true_vine.jsonl",
+  "review_file": "[The True Vine]/editorial_review_the_true_vine.md"
+}

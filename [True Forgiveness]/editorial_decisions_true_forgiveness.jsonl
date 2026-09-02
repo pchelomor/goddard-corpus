@@ -1,0 +1,3 @@
+{"audit_unit":"Paragraphs 1-8","coverage":"COMPLETE","decision":"HOLD","selected_quote_ids":[],"principal_hold_reasons":["FORGIVENESS_THEOLOGY","STATE_OCCUPANT_DISTINCTION"],"principal_drop_reasons":["DIRECT_OTHER_RESHAPING","DUPLICATE_STATE_OCCUPANT"]}
+{"audit_unit":"Paragraphs 9-16","coverage":"COMPLETE","decision":"HOLD","selected_quote_ids":[],"principal_hold_reasons":["RESURRECTION","MYSTICAL_TESTIMONY"],"principal_drop_reasons":["DETERMINISTIC_ROLE_FRAMING"]}
+{"audit_unit":"Paragraphs 17-22","coverage":"COMPLETE","decision":"DROP","selected_quote_ids":[],"principal_hold_reasons":["REPENTANCE_CONTEXT"],"principal_drop_reasons":["DIRECT_OTHER_CAUSATION","VIOLENCE_RESHAPING","MEDICAL_STATE_FRAMING"]}

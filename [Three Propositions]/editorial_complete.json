@@ -1,0 +1,22 @@
+{
+  "work": "Three Propositions",
+  "corpus_id": "L0215",
+  "canonical_date": null,
+  "date_provenance": "Registry full_date is null. Registry date and physical report use 1954-01-01, treated as a year-level placeholder rather than an exact lecture date.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_three_propositions.txt",
+  "canonical_source_sha": "9c80430957167d1becaa610554bc7315ff5d9d85",
+  "canonical_source_paragraphs": 34,
+  "source_paragraphs_reviewed": 34,
+  "raw_worker_windows_generated": 238,
+  "raw_worker_candidates": 234,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 24,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Three Propositions]/curated_three_propositions.jsonl",
+  "decisions_file": "[Three Propositions]/editorial_decisions_three_propositions.jsonl",
+  "review_file": "[Three Propositions]/editorial_review_three_propositions.md"
+}

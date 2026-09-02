@@ -1,0 +1,22 @@
+{
+  "work": "The Ultimate Sense",
+  "corpus_id": "L0212",
+  "canonical_date": "1969-06-20",
+  "date_provenance": "Registry full_date is null, while registry date and physical report agree on the non-placeholder date 1969-06-20; no conflicting date appears in the canonical master.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_ultimate_sense.txt",
+  "canonical_source_sha": "861803701b82e23ed1782606ee067fa33c5d57ab",
+  "canonical_source_paragraphs": 37,
+  "source_paragraphs_reviewed": 37,
+  "raw_worker_windows_generated": 405,
+  "raw_worker_candidates": 401,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 30,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Ultimate Sense]/curated_the_ultimate_sense.jsonl",
+  "decisions_file": "[The Ultimate Sense]/editorial_decisions_the_ultimate_sense.jsonl",
+  "review_file": "[The Ultimate Sense]/editorial_review_the_ultimate_sense.md"
+}

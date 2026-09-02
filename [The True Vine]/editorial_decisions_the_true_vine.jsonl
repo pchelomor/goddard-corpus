@@ -1,0 +1,3 @@
+{"audit_unit":"Paragraphs 1-13","coverage":"COMPLETE","decision":"DROP","selected_quote_ids":[],"principal_hold_reasons":["CHRISTOLOGY","REVISION_CONTEXT"],"principal_drop_reasons":["UNIVERSAL_SELF_CAUSATION","DIRECT_OTHER_CAUSATION","VICTIM_BLAME_RISK"]}
+{"audit_unit":"Paragraphs 14-28","coverage":"COMPLETE","decision":"HOLD","selected_quote_ids":[],"principal_hold_reasons":["PROMISE","MYSTICAL_TESTIMONY"],"principal_drop_reasons":["MEDICAL_PHYSICAL_GUARANTEE","MURDER_SELF_CAUSATION","DUPLICATE_REVISION"]}
+{"audit_unit":"Paragraphs 29-40","coverage":"COMPLETE","decision":"DROP","selected_quote_ids":[],"principal_hold_reasons":["DREAM_INTERPRETATION"],"principal_drop_reasons":["CATEGORICAL_CAUSATION","DUPLICATE_MENTAL_DIET","DIRECT_OTHER_CAUSATION"]}

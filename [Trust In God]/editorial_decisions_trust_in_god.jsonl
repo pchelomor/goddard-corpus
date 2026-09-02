@@ -1,0 +1,3 @@
+{"audit_unit":"Paragraphs 1-10","coverage":"COMPLETE","decision":"DROP","selected_quote_ids":[],"principal_hold_reasons":["I_AM_THEOLOGY"],"principal_drop_reasons":["DIRECT_OTHER_CAUSATION","HEALTH_WEALTH_MARRIAGE_OUTCOMES"]}
+{"audit_unit":"Paragraphs 11-20","coverage":"COMPLETE","decision":"HOLD","selected_quote_ids":[],"principal_hold_reasons":["DREAM_SYMBOLISM","PROMISE"],"principal_drop_reasons":["HARDEN_INTO_FACT_GUARANTEE"]}
+{"audit_unit":"Paragraphs 21-30","coverage":"COMPLETE","decision":"DROP","selected_quote_ids":[],"principal_hold_reasons":["SPIRITUAL_IDENTITY"],"principal_drop_reasons":["FINANCIAL_GUARANTEE","DETERMINISTIC_SUFFERING","UNIVERSAL_CAUSATION"]}

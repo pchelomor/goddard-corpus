@@ -1,0 +1,22 @@
+{
+  "work": "True Forgiveness",
+  "corpus_id": "L0216",
+  "canonical_date": "1969-04-01",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-04-01.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_true_forgiveness.txt",
+  "canonical_source_sha": "b8313dbf55d1f31e900c784004e6c234f09e3750",
+  "canonical_source_paragraphs": 22,
+  "source_paragraphs_reviewed": 22,
+  "raw_worker_windows_generated": 336,
+  "raw_worker_candidates": 330,
+  "worker_rejected": 6,
+  "raw_duplicate_groups": 19,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[True Forgiveness]/curated_true_forgiveness.jsonl",
+  "decisions_file": "[True Forgiveness]/editorial_decisions_true_forgiveness.jsonl",
+  "review_file": "[True Forgiveness]/editorial_review_true_forgiveness.md"
+}

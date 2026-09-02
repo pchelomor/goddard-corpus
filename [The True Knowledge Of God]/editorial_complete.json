@@ -1,0 +1,22 @@
+{
+  "work": "The True Knowledge Of God",
+  "corpus_id": "L0208",
+  "canonical_date": "1969-11-14",
+  "date_provenance": "Registry full_date/date and physical report agree on 1969-11-14.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_true_knowledge_of_god.txt",
+  "canonical_source_sha": "bd94ea90fd976d13d46ea99e39f837c052544cda",
+  "canonical_source_paragraphs": 34,
+  "source_paragraphs_reviewed": 34,
+  "raw_worker_windows_generated": 388,
+  "raw_worker_candidates": 381,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 31,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The True Knowledge Of God]/curated_the_true_knowledge_of_god.jsonl",
+  "decisions_file": "[The True Knowledge Of God]/editorial_decisions_the_true_knowledge_of_god.jsonl",
+  "review_file": "[The True Knowledge Of God]/editorial_review_the_true_knowledge_of_god.md"
+}

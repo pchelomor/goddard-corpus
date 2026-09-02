@@ -1,0 +1,22 @@
+{
+  "work": "The Twelve Disciples",
+  "corpus_id": "L0211",
+  "canonical_date": null,
+  "date_provenance": "Registry full_date/year are null. Registry date and physical report use 1968-01-01, treated as a year-level repository placeholder rather than an exact lecture date.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_twelve_disciples.txt",
+  "canonical_source_sha": "2735b5c84e24100be0a623064189ab0cfe1f9545",
+  "canonical_source_paragraphs": 32,
+  "source_paragraphs_reviewed": 32,
+  "raw_worker_windows_generated": 196,
+  "raw_worker_candidates": 194,
+  "worker_rejected": 2,
+  "raw_duplicate_groups": 26,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Twelve Disciples]/curated_the_twelve_disciples.jsonl",
+  "decisions_file": "[The Twelve Disciples]/editorial_decisions_the_twelve_disciples.jsonl",
+  "review_file": "[The Twelve Disciples]/editorial_review_the_twelve_disciples.md"
+}

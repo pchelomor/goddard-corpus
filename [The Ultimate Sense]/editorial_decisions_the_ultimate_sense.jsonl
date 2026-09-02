@@ -1,0 +1,3 @@
+{"audit_unit":"Paragraphs 1-13","coverage":"COMPLETE","decision":"HOLD","selected_quote_ids":[],"principal_hold_reasons":["SCRIPTURE_INTERPRETATION","PROMISE","MYSTICAL_TESTIMONY"],"principal_drop_reasons":["EXTERNAL_QUOTATION"]}
+{"audit_unit":"Paragraphs 14-24","coverage":"COMPLETE","decision":"DROP","selected_quote_ids":[],"principal_hold_reasons":["FEELING_TECHNIQUE"],"principal_drop_reasons":["DUPLICATE_FULFILLED_FEELING","POSTMORTEM_METAPHYSICS","DETERMINISTIC_SUFFERING"]}
+{"audit_unit":"Paragraphs 25-37","coverage":"COMPLETE","decision":"DROP","selected_quote_ids":[],"principal_hold_reasons":["SENSORY_SCENE_TECHNIQUE"],"principal_drop_reasons":["GUARANTEED_OUTCOME","DUPLICATE_SENSORY_TECHNIQUE","UNIVERSAL_CAUSATION"]}
