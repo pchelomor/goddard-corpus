@@ -1,0 +1,21 @@
+{
+  "work": "Jesus Christ",
+  "corpus_id": "L0096",
+  "canonical_date": "1968-02-23",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_jesus_christ.txt",
+  "canonical_source_sha": "1c308005ffbe2a97883d61d93dc564a345de820b",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 326,
+  "retained_worker_windows": 321,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 25,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Jesus Christ]/curated_jesus_christ.jsonl",
+  "decisions_file": "[Jesus Christ]/editorial_decisions_jesus_christ.jsonl",
+  "review_file": "[Jesus Christ]/editorial_review_jesus_christ.md"
+}
