@@ -1,0 +1,23 @@
+{
+  "work":"Lessons Q & A",
+  "corpus_id":"L0104",
+  "canonical_date":"1948-01-01",
+  "date_provenance":"Registry/source date is 1948-01-01; canonical content is the Q&A section of the 1948 Five Lessons course already reviewed under S001.",
+  "review_mode":"SOURCE_FIRST_CANONICAL",
+  "canonical_source_file":"master_text_lessons_q_a.txt",
+  "canonical_source_sha":"33a917f111cc8f9dd14866336e7eb3ca3f8e7f0c",
+  "canonical_source_paragraphs":147,
+  "source_paragraphs_reviewed":147,
+  "raw_worker_windows_generated":738,
+  "retained_worker_windows":715,
+  "worker_rejected":23,
+  "raw_duplicate_groups":90,
+  "select_fragments":0,
+  "intentional_empty_curated":true,
+  "complete":true,
+  "cross_work_reference":"S001 / Five Lessons / Questions and Answers",
+  "review_policy":"EDITORIAL_POLICY.md",
+  "curated_file":"[Lessons Q & A]/curated_lessons_q_a.jsonl",
+  "decisions_file":"[Lessons Q & A]/editorial_decisions_lessons_q_a.jsonl",
+  "review_file":"[Lessons Q & A]/editorial_review_lessons_q_a.md"
+}
