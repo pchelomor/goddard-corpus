@@ -1,0 +1,22 @@
+{
+  "work": "The Crucifixion",
+  "corpus_id": "L0153",
+  "canonical_date": "1963-04-09",
+  "date_provenance": "Registry full_date is 1963-04-09; raw report date 1963-01-01 is a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_crucifixion.txt",
+  "canonical_source_sha": "4c646d41fe4162b50e8aef54c2671fe71c2f6f12",
+  "canonical_source_paragraphs": 60,
+  "source_paragraphs_reviewed": 60,
+  "raw_worker_windows_generated": 564,
+  "raw_worker_candidates": 543,
+  "worker_rejected": 21,
+  "raw_duplicate_groups": 35,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Crucifixion]/curated_the_crucifixion.jsonl",
+  "decisions_file": "[The Crucifixion]/editorial_decisions_the_crucifixion.jsonl",
+  "review_file": "[The Crucifixion]/editorial_review_the_crucifixion.md"
+}

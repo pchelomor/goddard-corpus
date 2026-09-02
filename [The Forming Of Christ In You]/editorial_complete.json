@@ -1,0 +1,22 @@
+{
+  "work": "The Forming Of Christ In You",
+  "corpus_id": "L0157",
+  "canonical_date": "1969-06-23",
+  "date_provenance": "Registry full_date/date and raw report agree on 1969-06-23.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_forming_of_christ_in_you.txt",
+  "canonical_source_sha": "e4a195190d913ba166a29c61eea503786a650642",
+  "canonical_source_paragraphs": 48,
+  "source_paragraphs_reviewed": 48,
+  "raw_worker_windows_generated": 405,
+  "raw_worker_candidates": 395,
+  "worker_rejected": 10,
+  "raw_duplicate_groups": 43,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Forming Of Christ In You]/curated_the_forming_of_christ_in_you.jsonl",
+  "decisions_file": "[The Forming Of Christ In You]/editorial_decisions_the_forming_of_christ_in_you.jsonl",
+  "review_file": "[The Forming Of Christ In You]/editorial_review_the_forming_of_christ_in_you.md"
+}

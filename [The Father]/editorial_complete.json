@@ -1,0 +1,22 @@
+{
+  "work": "The Father",
+  "corpus_id": "L0155",
+  "canonical_date": "1968-09-23",
+  "date_provenance": "Registry full_date is null, but corpus_registry.date and raw report identify 1968-09-23; editorial metadata uses that explicit repository date and records the null full_date.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_father.txt",
+  "canonical_source_sha": "5e722c53edbe246aeb664cbdc788009d5ddfbd93",
+  "canonical_source_paragraphs": 26,
+  "source_paragraphs_reviewed": 26,
+  "raw_worker_windows_generated": 353,
+  "raw_worker_candidates": 348,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 23,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Father]/curated_the_father.jsonl",
+  "decisions_file": "[The Father]/editorial_decisions_the_father.jsonl",
+  "review_file": "[The Father]/editorial_review_the_father.md"
+}

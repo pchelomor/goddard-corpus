@@ -1,0 +1,5 @@
+{"decision_id":"TFP-ED-001","corpus_id":"L0156","decision":"SELECT","quote_id":"TFP-CUR-001","text":"What I tell you I know from experience, but I ask you not to accept my words without questioning them within yourself.","reason":"Distinctive epistemic humility/self-inquiry statement, exact Neville wording, safe standalone boundary."}
+{"decision_id":"TFP-ED-002","corpus_id":"L0156","decision":"DROP","text":"Simply catch the feeling that you have it and sustain that feeling.","reason":"Near-duplicate of the existing L0134 fulfilled-feeling selection."}
+{"decision_id":"TFP-ED-003","corpus_id":"L0156","decision":"DROP","text":"if I had a million dollars I would not have hesitated to bet it all on the one I knew to be the winner","reason":"Gambling-success/prediction material excluded from automatic pool."}
+{"decision_id":"TFP-ED-004","corpus_id":"L0156","decision":"DROP","text":"all things are possible to you","reason":"Categorical guarantee when isolated."}
+{"decision_id":"TFP-ED-005","corpus_id":"L0156","decision":"HOLD","text":"Be still and know that I am God.","reason":"Scripture/spiritual-identity wording, not Neville-attributable automatic-pool prose."}

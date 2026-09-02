@@ -1,0 +1,22 @@
+{
+  "work": "The Cup Of Experience",
+  "corpus_id": "L0154",
+  "canonical_date": "1967-10-27",
+  "date_provenance": "Registry full_date/date and raw report agree on 1967-10-27.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_cup_of_experience.txt",
+  "canonical_source_sha": "44cff78c1e182a88876aa4b40d7021cb4d5bbb16",
+  "canonical_source_paragraphs": 28,
+  "source_paragraphs_reviewed": 28,
+  "raw_worker_windows_generated": 356,
+  "raw_worker_candidates": 349,
+  "worker_rejected": 7,
+  "raw_duplicate_groups": 26,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Cup Of Experience]/curated_the_cup_of_experience.jsonl",
+  "decisions_file": "[The Cup Of Experience]/editorial_decisions_the_cup_of_experience.jsonl",
+  "review_file": "[The Cup Of Experience]/editorial_review_the_cup_of_experience.md"
+}

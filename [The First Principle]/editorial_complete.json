@@ -1,0 +1,22 @@
+{
+  "work": "The First Principle",
+  "corpus_id": "L0156",
+  "canonical_date": "1969-06-09",
+  "date_provenance": "Registry full_date/date and raw report agree on 1969-06-09.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_first_principle.txt",
+  "canonical_source_sha": "d4e86ae9918e5dc9a6cff81f1eda715552738617",
+  "canonical_source_paragraphs": 40,
+  "source_paragraphs_reviewed": 40,
+  "raw_worker_windows_generated": 396,
+  "raw_worker_candidates": 388,
+  "worker_rejected": 8,
+  "raw_duplicate_groups": 38,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The First Principle]/curated_the_first_principle.jsonl",
+  "decisions_file": "[The First Principle]/editorial_decisions_the_first_principle.jsonl",
+  "review_file": "[The First Principle]/editorial_review_the_first_principle.md"
+}

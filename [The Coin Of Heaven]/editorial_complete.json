@@ -1,0 +1,22 @@
+{
+  "work": "The Coin Of Heaven",
+  "corpus_id": "L0150",
+  "canonical_date": "1954-01-01",
+  "date_provenance": "Registry full_date is null; repository/report date 1954-01-01 is a year-level placeholder only.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_coin_of_heaven.txt",
+  "canonical_source_sha": "c8582d8c476c4f886e092f42e60bb32128ca8807",
+  "canonical_source_paragraphs": 28,
+  "source_paragraphs_reviewed": 28,
+  "raw_worker_windows_generated": 237,
+  "raw_worker_candidates": 232,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 21,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Coin Of Heaven]/curated_the_coin_of_heaven.jsonl",
+  "decisions_file": "[The Coin Of Heaven]/editorial_decisions_the_coin_of_heaven.jsonl",
+  "review_file": "[The Coin Of Heaven]/editorial_review_the_coin_of_heaven.md"
+}

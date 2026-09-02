@@ -1,0 +1,22 @@
+{
+  "work": "The Creator",
+  "corpus_id": "L0152",
+  "canonical_date": "1969-10-27",
+  "date_provenance": "Registry full_date/date and raw report agree on 1969-10-27.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_creator.txt",
+  "canonical_source_sha": "192ecf155919713198b9d1c29466b8c8098f3edc",
+  "canonical_source_paragraphs": 44,
+  "source_paragraphs_reviewed": 44,
+  "raw_worker_windows_generated": 416,
+  "raw_worker_candidates": 404,
+  "worker_rejected": 12,
+  "raw_duplicate_groups": 39,
+  "select_fragments": 1,
+  "intentional_empty_curated": false,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Creator]/curated_the_creator.jsonl",
+  "decisions_file": "[The Creator]/editorial_decisions_the_creator.jsonl",
+  "review_file": "[The Creator]/editorial_review_the_creator.md"
+}

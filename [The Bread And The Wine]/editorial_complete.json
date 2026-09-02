@@ -1,0 +1,22 @@
+{
+  "work": "The Bread And The Wine",
+  "corpus_id": "L0149",
+  "canonical_date": "1959-09-25",
+  "date_provenance": "Registry full_date is 1959-09-25; raw report date 1959-01-01 is a year-level placeholder.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_bread_and_the_wine.txt",
+  "canonical_source_sha": "6e019070b5f86de94d77616fae7a1456a0c3e7a6",
+  "canonical_source_paragraphs": 16,
+  "source_paragraphs_reviewed": 16,
+  "raw_worker_windows_generated": 398,
+  "raw_worker_candidates": 383,
+  "worker_rejected": 15,
+  "raw_duplicate_groups": 15,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Bread And The Wine]/curated_the_bread_and_the_wine.jsonl",
+  "decisions_file": "[The Bread And The Wine]/editorial_decisions_the_bread_and_the_wine.jsonl",
+  "review_file": "[The Bread And The Wine]/editorial_review_the_bread_and_the_wine.md"
+}

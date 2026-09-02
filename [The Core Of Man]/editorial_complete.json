@@ -1,0 +1,22 @@
+{
+  "work": "The Core Of Man",
+  "corpus_id": "L0151",
+  "canonical_date": "1967-11-17",
+  "date_provenance": "Registry full_date/date and raw report agree on 1967-11-17.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_the_core_of_man.txt",
+  "canonical_source_sha": "a546faf8668e89643439f1c076217c668aceeced",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 335,
+  "raw_worker_candidates": 331,
+  "worker_rejected": 4,
+  "raw_duplicate_groups": 29,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[The Core Of Man]/curated_the_core_of_man.jsonl",
+  "decisions_file": "[The Core Of Man]/editorial_decisions_the_core_of_man.jsonl",
+  "review_file": "[The Core Of Man]/editorial_review_the_core_of_man.md"
+}

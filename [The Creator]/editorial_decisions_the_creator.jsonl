@@ -1,0 +1,5 @@
+{"decision_id":"TC-ED-001","corpus_id":"L0152","decision":"SELECT","quote_id":"TC-CUR-001","text":"The power of any imaginal act is in its implication.","reason":"Distinctive, concise Neville technique principle with clean standalone boundary."}
+{"decision_id":"TC-ED-002","corpus_id":"L0152","decision":"DROP","text":"Nothing has ever happened to you that you did not set in motion in your imagination.","reason":"Universal causation/victim-blaming claim."}
+{"decision_id":"TC-ED-003","corpus_id":"L0152","decision":"DROP","text":"If you want to be successful in business, you can ... if you assume success and persist in that assumption you cannot fail.","reason":"Financial guarantee."}
+{"decision_id":"TC-ED-004","corpus_id":"L0152","decision":"DROP","text":"Everything she had imagined came to pass.","reason":"Used to assign causation for a violent assault to the victim’s prior thoughts."}
+{"decision_id":"TC-ED-005","corpus_id":"L0152","decision":"HOLD","text":"Take time to sort out your desire, and when it is clearly defined move in your imagination.","reason":"Usable technique but less distinctive than existing thinking-from/scene-construction selections."}

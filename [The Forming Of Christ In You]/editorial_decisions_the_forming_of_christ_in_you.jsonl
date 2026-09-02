@@ -1,0 +1,5 @@
+{"decision_id":"FOC-ED-001","corpus_id":"L0157","decision":"DROP","text":"conceiving a scene which would imply the fulfillment of your dream","reason":"Scene-construction method is already represented more strongly in B010, L0119 and L0120; no need for duplicate inflation."}
+{"decision_id":"FOC-ED-002","corpus_id":"L0157","decision":"DROP","text":"The following week the vet treated the rabbit and it is now home and well.","reason":"Used as a health/prayer proof story; unsuitable as causal evidence."}
+{"decision_id":"FOC-ED-003","corpus_id":"L0157","decision":"DROP","text":"I imagined hearing her tell me the house was sold. That’s all I did.","reason":"Material/property result story proceeds to categorical law-proof framing and overlaps prior techniques."}
+{"decision_id":"FOC-ED-004","corpus_id":"L0157","decision":"HOLD","text":"Your awareness is the bride of the Lord.","reason":"Strong spiritual/sexualized covenant metaphor requiring theological context."}
+{"decision_id":"FOC-ED-005","corpus_id":"L0157","decision":"HOLD","text":"There is no other way for you to know that you are God.","reason":"Literal spiritual-identity claim and Promise context."}
