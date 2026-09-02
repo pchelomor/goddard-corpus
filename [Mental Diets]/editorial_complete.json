@@ -1,0 +1,18 @@
+{
+  "work": "Mental Diets",
+  "corpus_id": "L0106",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_mental_diets.txt",
+  "canonical_source_paragraphs": 50,
+  "source_paragraphs_reviewed": 50,
+  "raw_worker_windows_generated": 342,
+  "raw_worker_candidates": 331,
+  "worker_rejected": 11,
+  "raw_duplicate_groups": 39,
+  "select_fragments": 8,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Mental Diets]/curated_mental_diets.jsonl",
+  "decisions_file": "[Mental Diets]/editorial_decisions_mental_diets.jsonl",
+  "review_file": "[Mental Diets]/editorial_review_mental_diets.md"
+}
