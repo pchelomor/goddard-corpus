@@ -810,3 +810,49 @@ Date/provenance notes:
 - `L0095` uses exact registry `full_date` **1969-11-17**.
 
 All ten works now contain `curated_*`, `editorial_decisions_*`, `editorial_review_*`, and corpus-ID-matching `editorial_complete.json` files. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, and processing files were not modified.
+## 2026-09-02 — Lecture batch L0096–L0105
+
+Processed the next ten queue IDs under `SOURCE_FIRST_CANONICAL`, using two internal five-work checkpoints without relaxing the editorial threshold.
+
+Nine accessible corpus objects (`L0096`–`L0104`) were fully reviewed and completed. `L0105` remains **BLOCKED / MISSING_CANONICAL_OBJECT** because the registry/progress entry has no physical canonical folder or `master_text_*` in the current repository.
+
+| Corpus ID | Work | Canonical paragraphs | Retained worker windows | SELECT |
+|---|---|---:|---:|---:|
+| L0096 | Jesus Christ | 31 / 31 | 321 | 0 |
+| L0097 | Judas The Revealer | 35 / 35 | 431 | 0 |
+| L0098 | Les 1 – Bewustzijn Is De Enige Werkelijkheid | 140 / 140 | 783 | 0 |
+| L0099 | Lesson 1 – Consciousness Is The Only Reality | 148 / 148 | 802 | 0 |
+| L0100 | Lesson 2 – Assumptions Harden Into Fact | 135 / 135 | 752 | 0 |
+| L0101 | Lesson 3 -Thinking Fourth-Dimensionally | 167 / 167 | 895 | 0 |
+| L0102 | Lesson 4 – No One To Change But Self | 166 / 166 | 781 | 0 |
+| L0103 | Lesson 5 – Remain Faithful To Your Idea | 134 / 134 | 559 | 0 |
+| L0104 | Lessons Q & A | 147 / 147 | 715 | 0 |
+| L0105 | Live In The End | **BLOCKED** | — | — |
+
+Accessible-source result:
+- canonical paragraphs reviewed: **1,103 / 1,103**;
+- worker windows generated: **6,169**;
+- retained worker windows: **6,039**;
+- worker rejected windows: **130**;
+- raw duplicate groups: **788**;
+- final **new** main-pool SELECT fragments: **0**.
+
+Cross-work duplicate handling:
+- `L0098` is a Dutch translation of the 1948 Lesson 1. The complete 140-paragraph translation was read, but exact-English Neville attribution belongs to the already completed `S001 Five Lessons`; therefore L0098 adds no translated/duplicate SELECT;
+- `L0099`–`L0104` are individual physical copies of the five lessons and Q&A already fully reviewed as the six sections of `S001 Five Lessons`. Each individual master was read end-to-end and closed with a corpus-ID-matching editorial package, but the existing **19 S001 SELECT fragments remain the canonical unique course selections** and are not duplicated under the L-IDs;
+- this is duplicate suppression, not loss of selected material.
+
+Notable filtering:
+- `L0096` intentionally produces **0 SELECT**. It is overwhelmingly Christology/salvation theology, Promise, mystical testimony and scripture interpretation; practical-looking material remains context-dependent, strongly metaphysical, categorical, or weaker than existing selections;
+- `L0097` intentionally produces **0 SELECT**. It is dominated by revealer theology, Promise/spiritual identity, mystical testimony, alternate-time/world claims and sensitive theological material; practical-looking material is coupled to categorical outcome language or stronger cross-work duplicates;
+- no quota was imposed and the ten-work operational batch did not lower the source-first threshold.
+
+Date/provenance notes:
+- `L0096` uses exact registry `full_date` **1968-02-23**;
+- `L0097` editorial metadata uses exact registry `full_date` **1967-10-02**, while raw repository dating retains a 1967 year-level placeholder;
+- `L0098` carries a 1948 year-level repository date and is explicitly marked as a Dutch translation duplicate of S001 Lesson 1;
+- `L0099`–`L0103` retain repository `1968-01-01` year-level placeholders, while their canonical content is the 1948 Five Lessons course already represented by S001;
+- `L0104` is the 1948 Q&A component already represented by S001;
+- `L0105` registry metadata gives `full_date` **1968-07-19**, but no canonical physical object exists in the current repository.
+
+`corpus_issues.md` now records `ISS-008` for the L0105 registry/progress versus physical-tree mismatch. No L0105 editorial files were fabricated. Raw candidate, rejected, master-text, source-manifest, source-variation, worker-report, registry and processing files for the nine accessible works were not modified.
