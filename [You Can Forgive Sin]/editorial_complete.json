@@ -1,0 +1,22 @@
+{
+  "work": "You Can Forgive Sin",
+  "corpus_id": "L0230",
+  "canonical_date": "1963-03-29",
+  "date_provenance": "Registry date and physical report agree on 1963-03-29.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_you_can_forgive_sin.txt",
+  "canonical_source_sha": "d4d3094a3d49482a2f8709bd74a37fe18d2ff6fe",
+  "canonical_source_paragraphs": 31,
+  "source_paragraphs_reviewed": 31,
+  "raw_worker_windows_generated": 665,
+  "raw_worker_candidates": 643,
+  "worker_rejected": 22,
+  "raw_duplicate_groups": 27,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[You Can Forgive Sin]/curated_you_can_forgive_sin.jsonl",
+  "decisions_file": "[You Can Forgive Sin]/editorial_decisions_you_can_forgive_sin.jsonl",
+  "review_file": "[You Can Forgive Sin]/editorial_review_you_can_forgive_sin.md"
+}

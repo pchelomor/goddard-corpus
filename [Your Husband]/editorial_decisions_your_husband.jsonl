@@ -1,0 +1,2 @@
+{"corpus_id":"L0232","source_scope":"physical paragraphs 1-35","decision":"HOLD","reason":"The full physical transcript was read for diagnosis; curation is suspended because exact registry and physical source dates conflict."}
+{"corpus_id":"L0232","source_scope":"identity/date provenance","decision":"BLOCKED","status":"BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT","reason":"Registry exact date is 1968-10-18; physical report/source_manifest identify 1968-02-02."}

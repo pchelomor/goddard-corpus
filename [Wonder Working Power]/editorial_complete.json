@@ -1,0 +1,22 @@
+{
+  "work": "Wonder Working Power",
+  "corpus_id": "L0228",
+  "canonical_date": "1969-02-03",
+  "date_provenance": "Registry date and physical report agree on 1969-02-03.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_wonder_working_power.txt",
+  "canonical_source_sha": "8ef0b930c5c799535d96350d327408ef0e0a961e",
+  "canonical_source_paragraphs": 38,
+  "source_paragraphs_reviewed": 38,
+  "raw_worker_windows_generated": 357,
+  "raw_worker_candidates": 348,
+  "worker_rejected": 9,
+  "raw_duplicate_groups": 35,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[Wonder Working Power]/curated_wonder_working_power.jsonl",
+  "decisions_file": "[Wonder Working Power]/editorial_decisions_wonder_working_power.jsonl",
+  "review_file": "[Wonder Working Power]/editorial_review_wonder_working_power.md"
+}

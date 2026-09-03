@@ -3,13 +3,13 @@
 Current operational journal for the strict editorial layer defined in `EDITORIAL_POLICY.md`.
 
 Historical snapshots are preserved verbatim through:
-- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0217.md`
+- `EDITORIAL_JOURNAL_HISTORY_THROUGH_L0227.md`
 
-The authoritative queue identity is always the **current** `corpus_registry.json` `corpus_id`. Every completed item requires full `SOURCE_FIRST_CANONICAL` reading, a four-file editorial package, journal entry, and post-write GitHub verification. Identity-mismatched or source-incomplete canonical masters are **BLOCKED**, never falsely marked complete. No quota is imposed.
+The authoritative queue identity is always the **current** `corpus_registry.json` `corpus_id`. Every completed item requires full `SOURCE_FIRST_CANONICAL` reading, a four-file editorial package, journal entry, and post-write GitHub verification. Identity/date-conflicted or source-incomplete canonical objects are **BLOCKED**, never falsely marked complete. No quota is imposed.
 
 ## Core/supplementary status
 
-`B001–B007`, `B009–B014`, and `S001–S003` are editorially complete. `B008 The Power Of Awareness` remains **BLOCKED / UNFINISHED** pending a distinct canonical book master. Same-title `L0185` is a separate 1953 lecture and remains editorially complete after strict re-audit.
+`B001–B007`, `B009–B014`, and `S001–S003` are editorially complete. `B008 The Power Of Awareness` remains **BLOCKED / UNFINISHED** pending a distinct canonical book master. Same-title `L0185` is a separate lecture.
 
 ## Lecture editorial progress
 
@@ -22,72 +22,67 @@ The authoritative queue identity is always the **current** `corpus_registry.json
 | L0188–L0197 | COMPLETE | 2 | ten-lecture batch |
 | L0198–L0207 | COMPLETE | 1 | ten-lecture batch |
 | L0208–L0217 | COMPLETE | 2 | ten-lecture batch |
-| L0218–L0227 | **PROCESSED: 9 COMPLETE / 1 BLOCKED** | **2** | L0226 canonical master explicitly ends incomplete |
+| L0218–L0227 | PROCESSED: 9 COMPLETE / 1 BLOCKED | 2 | L0226 source incomplete |
+| L0228–L0235 | **PROCESSED: 3 COMPLETE / 5 BLOCKED** | **0** | terminal registered lecture batch; L0231–L0235 registry/source exact-date conflicts |
 
-## 2026-09-02 — Lecture batch L0218–L0227
+## 2026-09-03 — Terminal lecture batch L0228–L0235
 
-All physically available master text in the ten queue objects was read end-to-end under `SOURCE_FIRST_CANONICAL`. Long single-unit sources were read via full Git blobs where connector line rendering truncated. Nine works have complete canonical source objects. `L0226 Who Is The Son Of Man` matches its registry identity, but its physical master literally ends with `(this document ends incomplete)`, so it is **BLOCKED_SOURCE_INCOMPLETE**, not editorially complete.
+`corpus_registry.json` ends at **L0235**; there are no registered `L0236` or `L0237` items. All physically available masters for the remaining eight registered lectures were read end-to-end under `SOURCE_FIRST_CANONICAL`. The first three objects have internally consistent registry/source identity. The final five have exact registry dates that materially conflict with the exact dates in both their physical reports and source manifests, so those five are diagnostic blockers rather than false completions.
 
-| Corpus ID | Work | Available source units read | Retained worker windows | SELECT | Status |
+| Corpus ID | Work | Physical paragraphs read | Worker retained | SELECT | Status |
 |---|---|---:|---:|---:|---|
-| L0218 | Truth, The Word Of God | 36 / 36 | 250 | 0 | COMPLETE |
-| L0219 | Walk By Faith | 34 / 34 | 344 | **1** | COMPLETE |
-| L0220 | Walk On The Water | 26 / 26 | 338 | 0 | COMPLETE |
-| L0221 | What Are You Doing | 32 / 32 | 265 | **1** | COMPLETE |
-| L0222 | What Is Truth | 43 / 43 | 476 | 0 | COMPLETE |
-| L0223 | Where Are You From | 1 / 1 | 941 | 0 | COMPLETE |
-| L0224 | Who Am I | 37 / 37 | 426 | 0 | COMPLETE |
-| L0225 | Who Is The Real Messiah | 75 / 75 | 699 | 0 | COMPLETE |
-| L0226 | Who Is The Son Of Man | 62 / 62 available | 834 | 0 | **BLOCKED_SOURCE_INCOMPLETE** |
-| L0227 | Whom Do You Seek | 27 / 27 | 334 | 0 | COMPLETE |
+| L0228 | Wonder Working Power | 38 / 38 | 348 | 0 | COMPLETE |
+| L0229 | You Are A Cosmic Being | 39 / 39 | 358 | 0 | COMPLETE |
+| L0230 | You Can Forgive Sin | 31 / 31 | 643 | 0 | COMPLETE |
+| L0231 | You Can Never Outgrow I AM | 33 / 33 | 470 | 0 | **BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT** |
+| L0232 | Your Husband | 35 / 35 | 328 | 0 | **BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT** |
+| L0233 | Your Maker | 31 / 31 | 514 | 0 | **BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT** |
+| L0234 | Your Supreme Dominion | 26 / 26 | 361 | 0 | **BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT** |
+| L0235 | Yours For The Taking | 24 / 24 | 331 | 0 | **BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT** |
 
 Batch totals:
-- physically available source units reviewed: **373 / 373**;
-- worker windows generated: **5,069**;
-- retained worker windows: **4,907**;
-- worker rejected windows: **162**;
-- raw duplicate groups: **322**;
-- final new SELECT fragments: **2**;
-- editorially complete corpus IDs: **9 / 10**;
-- blocked corpus IDs: **1 / 10**.
+- physically available source paragraphs reviewed: **257 / 257**;
+- worker windows generated: **3,427**;
+- retained worker windows: **3,353**;
+- worker rejected windows: **74**;
+- raw duplicate groups: **225**;
+- final new SELECT fragments: **0**;
+- editorially complete corpus IDs: **3 / 8**;
+- blocked corpus IDs: **5 / 8**.
 
-### Selected boundaries
+### Filtering outcome
 
-- `L0219 / WBF-CUR-001`: `As the operant power of your imagination, you can tell where you are going and what you are doing by watching your thoughts.`
-- `L0221 / WAYD-CUR-001`: `Knowing what you want, place your attention on its clarity of form, and then watch what you are imagining.`
+- `L0228`: intentional zero. Sensory fulfilled-state material duplicates earlier selections and is joined to categorical fulfillment, universal-causation, direct-other-without-consent, and science-overriding claims.
+- `L0229`: intentional zero. Promise, mystical identity, supernatural chronology, and postmortem continuation dominate.
+- `L0230`: intentional zero. Health, money, incarceration and interpersonal outcomes are framed with categorical imaginal causation and repeated guarantees; cleaner state language is already represented elsewhere.
+- `L0231–L0235`: no wording admitted. Full physical reading was diagnostic only because exact registry/source dates conflict.
 
-Both are exact, self-directed Neville wording. Corpus-wide exact/broad search found no existing curated duplicate. Boundaries stop before financial proof, compulsory-response, direct-other or categorical fulfillment language.
+### ISS-012 — terminal registry/source date drift
 
-### Notable filtering
+Current registry targets versus physical report/manifest dates:
+- `L0231`: **1968-09-23** vs **1969-03-10**;
+- `L0232`: **1968-10-18** vs **1968-02-02**;
+- `L0233`: **1967-09-16** vs **1969-01-07**;
+- `L0234`: **1964-12-15** vs **1953-01-01**;
+- `L0235`: **1970-04-23** vs **1967-09-18**.
 
-- `L0218`: intentional zero. Repentance/application is tied to deterministic outer-result proof and direct-other affluence; baptism, resurrection and postmortem restoration dominate the rest.
-- `L0219`: one self-observation sentence retained. Financial success stories, sensory manifestation examples, guarantee language and postmortem claims are excluded.
-- `L0220`: intentional zero. Victim-blame framing, direct-other revision, curse/violence causation and categorical `nothing impossible`/fulfillment claims dominate; cleaner sensory technique is duplicate.
-- `L0221`: one self-directed clarity/attention instruction retained. The lecture later states that imaginal acts influence others and uses wealth/compulsory-response proof, which is excluded.
-- `L0222`: intentional zero. Promise/resurrection/postmortem theology dominates; the practical Caesar passage guarantees fulfillment and duplicates earlier assumption material.
-- `L0223`: intentional zero. The entire 7,513-word physical source unit was read via blob. It treats the Kennedy assassination and participants as predetermined recurring parts of a finished divine play; revision is embedded in that violent/deterministic recurrence framework.
-- `L0224`: intentional zero. Father/David/identity and mystical chronology dominate; opening application is direct-other reshaping.
-- `L0225`: intentional zero. Father/David/Messiah/Promise and mystical commissioning dominate. Generic ethical phrases are too low-specificity for automatic delivery.
-- `L0226`: **BLOCKED_SOURCE_INCOMPLETE**. All 62 available paragraphs were read, but the master itself ends with `(this document ends incomplete)`. No SELECT is admitted until a complete canonical source is restored and verified.
-- `L0227`: intentional zero. Fulfilled-feeling instruction duplicates stronger earlier selections and immediately carries a `you will not fail` guarantee; financial proof, universal self-causation and direct-other family framing are excluded.
+These are exact-date conflicts, not harmless year placeholders. `corpus_issues.md` records them collectively as `ISS-012`. Reconcile/rekey the registry/source layer and rerun the affected IDs before marking them editorially complete.
 
-### Source/date provenance notes
-
-- `L0218`: registry `full_date=null`, but registry date/report agree on specific non-placeholder **1967-11-24** with no conflict in the master; editorial metadata uses **1967-11-24**.
-- `L0225`: registry `full_date=1971-06-11`; registry/report `1971-01-01` is a year-level placeholder. Editorial metadata uses **1971-06-11**.
-- `L0226`: registry `year/full_date=null`; repository/report/manifest use `1968-01-01`, but the master is explicitly incomplete and date precision is not verified. Editorial `canonical_date=null`.
-
-### L0226 blocker
-
-The `L0226` physical object is correctly identified as *Who Is The Son Of Man*, so this is not an identity misfile. The master SHA `16172d072692843857d30a2220f863f882353883` ends with the literal marker `(this document ends incomplete)`, while `source_manifest.md` calls it an `Authoritative Full Spoken Lecture Transcript` selected as a `Complete verbatim transcription`. This contradiction is recorded as `ISS-011`. Repair/verify the canonical source and rerun the editorial review before marking L0226 complete.
-
-Raw candidate, rejected, master-text, manifest, variation, report, processing and registry files were not modified by this editorial batch.
+Raw candidate, rejected, master-text, report, manifest, processing, variation and registry files were not modified by this editorial batch.
 
 ## Current queue
 
-- `B008` remains blocked pending a distinct canonical **book** object.
-- Lecture queue processing has reached **L0227**, but outstanding lecture blockers remain **L0165 The Great Secret**, **L0167 The Heavenly Vision**, and **L0226 Who Is The Son Of Man**.
-- `L0226` remains editorially unfinished pending complete-source repair.
-- Next active lecture corpus item: **L0228 — Wonder Working Power** (`1969-02-03`).
+The registered lecture ID queue is **exhausted at L0235**, but the corpus is **not fully editorially complete**.
 
-Never advance an item based only on a prior chat statement or stale title mapping; re-fetch the package from GitHub after writing.
+Outstanding blockers:
+- `B008 The Power Of Awareness` — distinct canonical book master absent;
+- `L0165 The Great Secret` — `BLOCKED_IDENTITY_MISFILE`;
+- `L0167 The Heavenly Vision` — `BLOCKED_IDENTITY_MISFILE`;
+- `L0226 Who Is The Son Of Man` — `BLOCKED_SOURCE_INCOMPLETE`;
+- `L0231 You Can Never Outgrow I AM` — `BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT`;
+- `L0232 Your Husband` — `BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT`;
+- `L0233 Your Maker` — `BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT`;
+- `L0234 Your Supreme Dominion` — `BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT`;
+- `L0235 Yours For The Taking` — `BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT`.
+
+Next active registered lecture item: **none**. The next editorial work is blocker/source repair and re-review, not advancement to a nonexistent lecture ID.

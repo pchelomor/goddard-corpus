@@ -1,0 +1,22 @@
+{
+  "work": "You Are A Cosmic Being",
+  "corpus_id": "L0229",
+  "canonical_date": "1969-05-02",
+  "date_provenance": "Registry date and physical report agree on 1969-05-02.",
+  "review_mode": "SOURCE_FIRST_CANONICAL",
+  "canonical_source_file": "master_text_you_are_a_cosmic_being.txt",
+  "canonical_source_sha": "834183f70e5682b4256bb77076a07fa56275a7c1",
+  "canonical_source_paragraphs": 39,
+  "source_paragraphs_reviewed": 39,
+  "raw_worker_windows_generated": 363,
+  "raw_worker_candidates": 358,
+  "worker_rejected": 5,
+  "raw_duplicate_groups": 32,
+  "select_fragments": 0,
+  "intentional_empty_curated": true,
+  "complete": true,
+  "review_policy": "EDITORIAL_POLICY.md",
+  "curated_file": "[You Are A Cosmic Being]/curated_you_are_a_cosmic_being.jsonl",
+  "decisions_file": "[You Are A Cosmic Being]/editorial_decisions_you_are_a_cosmic_being.jsonl",
+  "review_file": "[You Are A Cosmic Being]/editorial_review_you_are_a_cosmic_being.md"
+}

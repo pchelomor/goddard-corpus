@@ -1,0 +1,2 @@
+{"corpus_id":"L0231","source_scope":"physical paragraphs 1-33","decision":"HOLD","reason":"The full physical transcript was read for diagnosis, but no wording can be attributed to the current registry identity while its exact date conflicts with the physical report and manifest."}
+{"corpus_id":"L0231","source_scope":"identity/date provenance","decision":"BLOCKED","status":"BLOCKED_REGISTRY_SOURCE_DATE_CONFLICT","reason":"Registry exact date is 1968-09-23; physical report/source_manifest identify this same corpus_id/title transcript as 1969-03-10."}
